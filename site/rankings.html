@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>排行榜 — AI Hao123</title>
+  <meta name="description" content="AI 排行榜：GitHub AI 开源热力榜、Hugging Face 爆款模型与 Space、Hacker News 热帖。算法可复算。">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container bar">
+      <a class="logo" href="./"><span class="mark">AI</span>AI Hao123</a>
+      <nav class="nav">
+        <a href="./">首页</a>
+        <a href="news.html">资讯</a>
+        <a href="rankings.html" class="active">排行榜</a>
+        <a href="mcp.html">MCP</a>
+        <a href="skills.html">SKILL</a>
+        <a href="about.html"><span>关于</span></a>
+      </nav>
+      <div class="header-search">
+        <span class="icon">🔍</span>
+        <input type="search" placeholder="搜索站点 / 按 Ctrl+K" aria-label="搜索">
+        <div class="search-pop"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <div class="section-head">
+        <h2>🔥 AI 排行榜</h2>
+        <span class="more">数据每天由 GitHub Actions 自动更新</span>
+      </div>
+      <div class="card" style="margin-bottom:14px">
+        <strong>榜单公式（可复算）</strong>
+        <div style="color:var(--ink-soft);font-size:13.5px;margin-top:6px">
+          GitHub 热力 = ⭐ stars ÷ (1 + 距最近提交天数) —— 兼顾存量与活跃度，防止老项目吃老本。
+          HF 榜单直接采用官方 trendingScore。HN 榜单按一周内点赞排序。
+        </div>
+      </div>
+      <div class="tabs" id="rank-tabs"></div>
+      <div class="card" id="rank-pane"><div class="empty"><span class="spinner"></span></div></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="links">
+        <a href="about.html">关于本站</a>
+        <a href="https://github.com/zhang027cn/aihao123" target="_blank" rel="noopener">GitHub 仓库</a>
+      </div>
+      <div>数据来自 GitHub / Hugging Face / Hacker News 公开 API · 仅统计开源与公开项目</div>
+    </div>
+  </footer>
+
+  <script src="assets/js/directory-data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/rankings.js"></script>
+</body>
+</html>

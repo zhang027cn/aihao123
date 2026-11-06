@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 资讯 — AI Hao123</title>
+  <meta name="description" content="AI 资讯聚合：OpenAI、Hugging Face、TechCrunch、量子位等 15+ 公开源的每日 AI 新闻。">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container bar">
+      <a class="logo" href="./"><span class="mark">AI</span>AI Hao123</a>
+      <nav class="nav">
+        <a href="./">首页</a>
+        <a href="news.html" class="active">资讯</a>
+        <a href="rankings.html">排行榜</a>
+        <a href="mcp.html">MCP</a>
+        <a href="skills.html">SKILL</a>
+        <a href="about.html"><span>关于</span></a>
+      </nav>
+      <div class="header-search">
+        <span class="icon">🔍</span>
+        <input type="search" placeholder="搜索站点 / 按 Ctrl+K" aria-label="搜索">
+        <div class="search-pop"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <div class="section-head">
+        <h2>📰 AI 资讯</h2>
+        <span class="more" id="news-count">加载中…</span>
+      </div>
+      <div class="toolbar">
+        <div class="tabs" id="lang-filter" role="tablist">
+          <button class="tab active" data-lang="all">全部</button>
+          <button class="tab" data-lang="zh">中文</button>
+          <button class="tab" data-lang="en">English</button>
+        </div>
+        <input id="news-search" type="search" placeholder="搜索资讯关键词…" aria-label="搜索资讯">
+        <select id="src-filter" aria-label="按来源过滤"></select>
+      </div>
+      <div class="card">
+        <ul class="news-list" id="news-list"><li><div class="empty"><span class="spinner"></span></div></li></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="links">
+        <a href="about.html">关于本站</a>
+        <a href="https://github.com/zhang027cn/aihao123" target="_blank" rel="noopener">GitHub 仓库</a>
+      </div>
+      <div>数据来自各公开 RSS / API，仅摘要与链接 · 版权归原媒体所有</div>
+    </div>
+  </footer>
+
+  <script src="assets/js/directory-data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/news.js"></script>
+</body>
+</html>

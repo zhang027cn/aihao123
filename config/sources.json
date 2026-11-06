@@ -1,0 +1,61 @@
+{
+  "news": {
+    "maxItems": 120,
+    "maxAgeDays": 10,
+    "feeds": [
+      { "id": "openai", "name": "OpenAI News", "lang": "en", "url": "https://openai.com/news/rss.xml" },
+      { "id": "hf-blog", "name": "Hugging Face Blog", "lang": "en", "url": "https://huggingface.co/blog/feed.xml" },
+      { "id": "google-ai", "name": "Google AI Blog", "lang": "en", "url": "https://blog.google/technology/ai/rss/" },
+      { "id": "techcrunch-ai", "name": "TechCrunch AI", "lang": "en", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+      { "id": "verge-ai", "name": "The Verge AI", "lang": "en", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+      { "id": "ars-ai", "name": "Ars Technica AI", "lang": "en", "url": "https://arstechnica.com/ai/feed/" },
+      { "id": "techreview", "name": "MIT Tech Review", "lang": "en", "url": "https://www.technologyreview.com/feed/", "filter": "ai|artificial intelligence|llm|machine learning|model|agent" },
+      { "id": "simonwillison", "name": "Simon Willison", "lang": "en", "url": "https://simonwillison.net/atom/everything/" },
+      { "id": "the-decoder", "name": "The Decoder", "lang": "en", "url": "https://the-decoder.com/feed/" },
+      { "id": "importai", "name": "Import AI", "lang": "en", "url": "https://importai.substack.com/feed" },
+      { "id": "lastweekinai", "name": "Last Week in AI", "lang": "en", "url": "https://lastweekin.ai/feed" },
+      { "id": "interconnects", "name": "Interconnects", "lang": "en", "url": "https://www.interconnects.ai/feed" },
+      { "id": "qbitai", "name": "量子位", "lang": "zh", "url": "https://www.qbitai.com/feed" },
+      { "id": "36kr", "name": "36Kr", "lang": "zh", "url": "https://36kr.com/feed", "filter": "ai|人工智能|大模型|智能体|机器|模型|算法|算力|芯片|gpt|llm|deepseek|kimi|agent" },
+      { "id": "sspai", "name": "少数派", "lang": "zh", "url": "https://sspai.com/feed", "filter": "ai|人工智能|大模型|智能|gpt|llm|agent|模型" }
+    ],
+    "hn": {
+      "enabled": true,
+      "maxItems": 30,
+      "minPoints": 150,
+      "maxAgeDays": 7,
+      "queries": ["AI", "LLM", "GPT", "Claude", "Gemini", "DeepSeek", "open source model"]
+    }
+  },
+  "rankings": {
+    "github": [
+      { "id": "llm", "label": "LLM / 大模型仓库", "query": "topic:llm stars:>500", "sort": "stars", "limit": 15 },
+      { "id": "mcp", "label": "MCP 服务器仓库", "query": "topic:mcp stars:>100", "sort": "stars", "limit": 15 },
+      { "id": "skills", "label": "Claude Skills 仓库", "query": "topic:claude-skills stars:>50", "sort": "stars", "limit": 15 },
+      { "id": "agents", "label": "智能体框架", "query": "topic:ai-agents stars:>500", "sort": "stars", "limit": 15 },
+      { "id": "rag", "label": "RAG 框架", "query": "topic:rag stars:>300", "sort": "stars", "limit": 15 }
+    ],
+    "hfModels": { "limit": 20 },
+    "hfSpaces": { "limit": 20 },
+    "hn": { "limit": 20, "minPoints": 100, "queries": ["AI", "LLM", "model", "agent"] }
+  },
+  "mcp": {
+    "registry": {
+      "enabled": true,
+      "baseUrl": "https://registry.modelcontextprotocol.io/v0/servers",
+      "pageSize": 50,
+      "maxPages": 4
+    },
+    "github": [
+      { "id": "mcp-repos", "label": "MCP 服务器仓库", "query": "topic:mcp stars:>80", "sort": "stars", "limit": 25 }
+    ],
+    "maxItems": 60
+  },
+  "skills": {
+    "github": [
+      { "id": "skills-repos", "label": "Claude Skills 仓库", "query": "topic:claude-skills stars:>30", "sort": "stars", "limit": 30 },
+      { "id": "agent-skills-repos", "label": "Agent Skills 仓库", "query": "topic:agent-skills stars:>100", "sort": "stars", "limit": 15 }
+    ],
+    "maxItems": 60
+  }
+}

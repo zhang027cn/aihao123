@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCP 目录 — AI Hao123</title>
+  <meta name="description" content="免费开源的 MCP 服务器目录：官方 Registry 与 GitHub 开源仓库，含许可证与部署方式。">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body data-kind="mcp">
+  <header class="site-header">
+    <div class="container bar">
+      <a class="logo" href="./"><span class="mark">AI</span>AI Hao123</a>
+      <nav class="nav">
+        <a href="./">首页</a>
+        <a href="news.html">资讯</a>
+        <a href="rankings.html">排行榜</a>
+        <a href="mcp.html" class="active">MCP</a>
+        <a href="skills.html">SKILL</a>
+        <a href="about.html"><span>关于</span></a>
+      </nav>
+      <div class="header-search">
+        <span class="icon">🔍</span>
+        <input type="search" placeholder="搜索站点 / 按 Ctrl+K" aria-label="搜索">
+        <div class="search-pop"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <div class="section-head">
+        <h2>🧩 MCP 目录</h2>
+        <span class="more" id="tool-count">加载中…</span>
+      </div>
+      <div class="card" style="margin-bottom:14px">
+        <strong>收录规则</strong>
+        <div style="color:var(--ink-soft);font-size:13.5px;margin-top:6px">
+          只收录<b>公开免费、开源</b>的 MCP 服务器（Model Context Protocol）。来源：MCP 官方 Registry + GitHub 开源仓库；
+          开源条目需为 OSI 认可许可证，未归档。点击名称直达仓库/端点。
+        </div>
+      </div>
+      <div class="toolbar">
+        <div class="tabs" id="official-filter" role="tablist">
+          <button class="tab active" data-v="all">全部</button>
+          <button class="tab" data-v="official">官方 Registry</button>
+          <button class="tab" data-v="oss">GitHub 开源</button>
+        </div>
+        <input id="tool-search" type="search" placeholder="搜索 MCP…" aria-label="搜索MCP">
+      </div>
+      <div class="grid3" id="tool-grid"><div class="empty"><span class="spinner"></span></div></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="links">
+        <a href="about.html">关于本站</a>
+        <a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener">MCP 官方文档</a>
+        <a href="https://github.com/zhang027cn/aihao123" target="_blank" rel="noopener">GitHub 仓库</a>
+      </div>
+      <div>数据来自 registry.modelcontextprotocol.io 与 GitHub 公开 API</div>
+    </div>
+  </footer>
+
+  <script src="assets/js/directory-data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/tools.js"></script>
+</body>
+</html>

@@ -1,0 +1,163 @@
+{
+  "generatedAt": "2026-11-06T16:35:01.063Z",
+  "datasets": {
+    "news": {
+      "openai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:01.345Z",
+        "items": 34
+      },
+      "hf-blog": {
+        "ok": true,
+        "at": "2026-11-06T16:35:01.488Z",
+        "items": 13
+      },
+      "google-ai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:01.806Z",
+        "items": 2
+      },
+      "techcrunch-ai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:01.924Z",
+        "items": 20
+      },
+      "verge-ai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:02.004Z",
+        "items": 10
+      },
+      "ars-ai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:02.385Z",
+        "items": 20
+      },
+      "techreview": {
+        "ok": true,
+        "at": "2026-11-06T16:35:02.451Z",
+        "items": 6
+      },
+      "simonwillison": {
+        "ok": true,
+        "at": "2026-11-06T16:35:02.546Z",
+        "items": 23
+      },
+      "the-decoder": {
+        "ok": true,
+        "at": "2026-11-06T16:35:04.038Z",
+        "items": 10
+      },
+      "importai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:04.122Z",
+        "items": 1
+      },
+      "lastweekinai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:04.282Z",
+        "items": 0
+      },
+      "interconnects": {
+        "ok": true,
+        "at": "2026-11-06T16:35:04.465Z",
+        "items": 3
+      },
+      "qbitai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:05.901Z",
+        "items": 10
+      },
+      "36kr": {
+        "ok": true,
+        "at": "2026-11-06T16:35:07.348Z",
+        "items": 0
+      },
+      "sspai": {
+        "ok": true,
+        "at": "2026-11-06T16:35:08.701Z",
+        "items": 2
+      },
+      "hn": {
+        "ok": true,
+        "at": "2026-11-06T16:35:11.399Z",
+        "items": 30
+      },
+      "_total": 120
+    },
+    "rankings": {
+      "gh:llm": {
+        "ok": true,
+        "at": "2026-11-06T16:35:11.999Z",
+        "items": 15
+      },
+      "gh:mcp": {
+        "ok": true,
+        "at": "2026-11-06T16:35:12.477Z",
+        "items": 15
+      },
+      "gh:skills": {
+        "ok": true,
+        "at": "2026-11-06T16:35:12.967Z",
+        "items": 15
+      },
+      "gh:agents": {
+        "ok": true,
+        "at": "2026-11-06T16:35:13.479Z",
+        "items": 15
+      },
+      "gh:rag": {
+        "ok": true,
+        "at": "2026-11-06T16:35:14.015Z",
+        "items": 15
+      },
+      "hf-models": {
+        "ok": true,
+        "at": "2026-11-06T16:35:14.095Z",
+        "items": 20
+      },
+      "hf-spaces": {
+        "ok": true,
+        "at": "2026-11-06T16:35:14.171Z",
+        "items": 20
+      },
+      "hn": {
+        "ok": true,
+        "at": "2026-11-06T16:35:15.381Z",
+        "items": 20
+      },
+      "_total": 65
+    },
+    "mcp": {
+      "gh:mcp-repos": {
+        "ok": true,
+        "at": "2026-11-06T16:35:16.087Z",
+        "items": 20
+      },
+      "official-registry": {
+        "ok": true,
+        "at": "2026-11-06T16:35:16.412Z",
+        "items": 200
+      },
+      "_total": 60
+    },
+    "skills": {
+      "anthropics-official": {
+        "ok": true,
+        "at": "2026-11-06T16:35:16.810Z",
+        "items": 20
+      },
+      "gh:skills-repos": {
+        "ok": true,
+        "at": "2026-11-06T16:35:17.692Z",
+        "items": 26
+      },
+      "gh:agent-skills-repos": {
+        "ok": true,
+        "at": "2026-11-06T16:35:18.201Z",
+        "items": 12
+      },
+      "_total": 54
+    }
+  },
+  "failures": 0
+}

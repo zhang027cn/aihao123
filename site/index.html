@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Hao123 — 只做 AI 的中文导航站</title>
+  <meta name="description" content="AI 导航站：精选 AI 工具、AI 资讯聚合、开源项目排行榜、免费开源的 MCP 与 SKILL 目录。">
+  <meta name="keywords" content="AI导航,AI工具,AI资讯,大模型,MCP,SKILL,排行榜,开源AI">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container bar">
+      <a class="logo" href="./"><span class="mark">AI</span>AI Hao123</a>
+      <nav class="nav">
+        <a href="./" class="active">首页</a>
+        <a href="news.html">资讯</a>
+        <a href="rankings.html">排行榜</a>
+        <a href="mcp.html">MCP</a>
+        <a href="skills.html">SKILL</a>
+        <a href="about.html"><span>关于</span></a>
+      </nav>
+      <div class="header-search">
+        <span class="icon">🔍</span>
+        <input type="search" placeholder="搜索站点 / 按 Ctrl+K" aria-label="搜索">
+        <div class="search-pop"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>只做 AI 的导航站</h1>
+      <p class="sub">精选国内外 AI 工具与开源生态 · 每日 AI 资讯聚合 · 可复算的排行榜 · 免费开源的 MCP / SKILL 目录</p>
+      <div class="hero-search">
+        <input id="hero-search" type="search" placeholder="搜索 AI 站点，如: cursor / dify / huggingface" aria-label="搜索AI站点">
+        <button id="hero-go">搜索</button>
+      </div>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <h2>🗂 AI 导航目录</h2>
+        <span class="more">人工精选 · 仅收录 AI 相关内容</span>
+      </div>
+      <div class="cat-grid" id="category-grid">
+        <div class="empty"><span class="spinner"></span></div>
+      </div>
+    </section>
+
+    <div class="grid2">
+      <section class="section">
+        <div class="section-head">
+          <h2>📰 最新 AI 资讯</h2>
+          <a class="more" href="news.html">查看全部 →</a>
+        </div>
+        <div class="card">
+          <ul class="news-list" id="home-news"><li><div class="empty"><span class="spinner"></span></div></li></ul>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-head">
+          <h2>🔥 热门排行榜</h2>
+          <a class="more" href="rankings.html">查看全部 →</a>
+        </div>
+        <div id="home-rank"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="links">
+        <a href="about.html">关于本站</a>
+        <a href="mcp.html">MCP 目录</a>
+        <a href="skills.html">SKILL 目录</a>
+        <a href="https://github.com/zhang027cn/aihao123" target="_blank" rel="noopener">GitHub 仓库</a>
+      </div>
+      <div>AI Hao123 · 数据来自公开源，仅收录公开免费 / 开源的 AI 项目 · 内容仅供参考</div>
+    </div>
+  </footer>
+
+  <script src="assets/js/directory-data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/home.js"></script>
+</body>
+</html>

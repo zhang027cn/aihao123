@@ -1,0 +1,16 @@
+{
+  "name": "aihao123",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Hao123 — 只做 AI 的中文导航站：导航 + 资讯 + 排行榜 + 开源 MCP/SKILL 目录",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "fetch:news": "node scripts/fetch.mjs news",
+    "fetch:rankings": "node scripts/fetch.mjs rankings",
+    "fetch:tools": "node scripts/fetch.mjs mcp skills",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
