@@ -10,8 +10,8 @@
           "fullName": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 298626,
-          "forks": 44131,
+          "stars": 298690,
+          "forks": 44143,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T21:21:50Z",
@@ -26,7 +26,7 @@
             "mcp",
             "productivity"
           ],
-          "heat": 244839
+          "heat": 219976
         },
         {
           "id": "NousResearch/hermes-agent",
@@ -34,11 +34,11 @@
           "fullName": "NousResearch/hermes-agent",
           "url": "https://github.com/NousResearch/hermes-agent",
           "description": "The agent that grows with you",
-          "stars": 261227,
-          "forks": 57832,
+          "stars": 261265,
+          "forks": 57854,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:28:22Z",
+          "pushedAt": "2026-11-07T05:48:53Z",
           "archived": false,
           "topics": [
             "ai",
@@ -50,7 +50,7 @@
             "claude-code",
             "codex"
           ],
-          "heat": 259460
+          "heat": 259782
         },
         {
           "id": "firecrawl/firecrawl",
@@ -58,8 +58,8 @@
           "fullName": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
           "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-          "stars": 199282,
-          "forks": 10498,
+          "stars": 199321,
+          "forks": 10499,
           "license": "AGPL-3.0",
           "openSource": true,
           "pushedAt": "2026-11-07T01:42:31Z",
@@ -74,7 +74,7 @@
             "data-extraction",
             "html-to-markdown"
           ],
-          "heat": 191866
+          "heat": 169376
         },
         {
           "id": "Significant-Gravitas/AutoGPT",
@@ -82,7 +82,7 @@
           "fullName": "Significant-Gravitas/AutoGPT",
           "url": "https://github.com/Significant-Gravitas/AutoGPT",
           "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-          "stars": 187929,
+          "stars": 187930,
           "forks": 45903,
           "license": "NOASSERTION",
           "openSource": false,
@@ -98,7 +98,7 @@
             "gpt",
             "llama-api"
           ],
-          "heat": 170901
+          "heat": 151828
         },
         {
           "id": "ollama/ollama",
@@ -106,11 +106,11 @@
           "fullName": "ollama/ollama",
           "url": "https://github.com/ollama/ollama",
           "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-          "stars": 186154,
-          "forks": 18938,
+          "stars": 186173,
+          "forks": 18943,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:31:59Z",
+          "pushedAt": "2026-11-07T02:44:07Z",
           "archived": false,
           "topics": [
             "deepseek",
@@ -122,7 +122,7 @@
             "llama",
             "llm"
           ],
-          "heat": 185357
+          "heat": 164171
         },
         {
           "id": "DietrichGebert/ponytail",
@@ -130,8 +130,8 @@
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 185888,
-          "forks": 10285,
+          "stars": 185958,
+          "forks": 10290,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-10-29T11:59:31Z",
@@ -146,7 +146,7 @@
             "developer-tools",
             "llm"
           ],
-          "heat": 19343
+          "heat": 19076
         },
         {
           "id": "f/prompts.chat",
@@ -154,11 +154,11 @@
           "fullName": "f/prompts.chat",
           "url": "https://github.com/f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "stars": 176083,
-          "forks": 22451,
+          "stars": 176094,
+          "forks": 22453,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-06T23:25:51Z",
+          "pushedAt": "2026-11-07T03:11:37Z",
           "archived": false,
           "topics": [
             "ai",
@@ -170,7 +170,7 @@
             "gemini",
             "gpt"
           ],
-          "heat": 155336
+          "heat": 157943
         },
         {
           "id": "huggingface/transformers",
@@ -178,8 +178,8 @@
           "fullName": "huggingface/transformers",
           "url": "https://github.com/huggingface/transformers",
           "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-          "stars": 168607,
-          "forks": 35123,
+          "stars": 168612,
+          "forks": 35126,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-07T00:48:00Z",
@@ -194,7 +194,7 @@
             "llm",
             "machine-learning"
           ],
-          "heat": 156624
+          "heat": 138815
         },
         {
           "id": "langgenius/dify",
@@ -202,11 +202,11 @@
           "fullName": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
           "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "stars": 160581,
-          "forks": 25408,
+          "stars": 160587,
+          "forks": 25411,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:22:27Z",
+          "pushedAt": "2026-11-07T05:38:24Z",
           "archived": false,
           "topics": [
             "agent",
@@ -218,7 +218,7 @@
             "claude",
             "deepseek"
           ],
-          "heat": 158846
+          "heat": 158528
         },
         {
           "id": "open-webui/open-webui",
@@ -226,11 +226,11 @@
           "fullName": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 157956,
-          "forks": 22959,
+          "stars": 157967,
+          "forks": 22961,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:32:47Z",
+          "pushedAt": "2026-11-07T04:16:18Z",
           "archived": false,
           "topics": [
             "ai",
@@ -242,7 +242,7 @@
             "ollama",
             "ollama-webui"
           ],
-          "heat": 157367
+          "heat": 147632
         },
         {
           "id": "langchain-ai/langchain",
@@ -250,11 +250,11 @@
           "fullName": "langchain-ai/langchain",
           "url": "https://github.com/langchain-ai/langchain",
           "description": "The agent engineering platform.",
-          "stars": 149139,
-          "forks": 25084,
+          "stars": 149142,
+          "forks": 25088,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T22:32:37Z",
+          "pushedAt": "2026-11-07T05:36:53Z",
           "archived": false,
           "topics": [
             "agents",
@@ -266,7 +266,7 @@
             "enterprise",
             "framework"
           ],
-          "heat": 127412
+          "heat": 147077
         },
         {
           "id": "Graphify-Labs/graphify",
@@ -274,8 +274,8 @@
           "fullName": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 143593,
-          "forks": 13735,
+          "stars": 143633,
+          "forks": 13738,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T17:11:19Z",
@@ -290,7 +290,7 @@
             "codex",
             "cursor"
           ],
-          "heat": 103034
+          "heat": 93768
         },
         {
           "id": "harry0703/MoneyPrinterTurbo",
@@ -298,8 +298,8 @@
           "fullName": "harry0703/MoneyPrinterTurbo",
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "stars": 140285,
-          "forks": 22376,
+          "stars": 140331,
+          "forks": 22385,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-07T00:43:54Z",
@@ -314,7 +314,7 @@
             "short-video",
             "subtitles"
           ],
-          "heat": 129971
+          "heat": 115261
         },
         {
           "id": "TauricResearch/TradingAgents",
@@ -322,8 +322,8 @@
           "fullName": "TauricResearch/TradingAgents",
           "url": "https://github.com/TauricResearch/TradingAgents",
           "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-          "stars": 121031,
-          "forks": 23141,
+          "stars": 121055,
+          "forks": 23147,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-04T10:13:58Z",
@@ -335,7 +335,7 @@
             "multiagent",
             "trading"
           ],
-          "heat": 32858
+          "heat": 31676
         },
         {
           "id": "browser-use/browser-use",
@@ -343,11 +343,11 @@
           "fullName": "browser-use/browser-use",
           "url": "https://github.com/browser-use/browser-use",
           "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-          "stars": 120219,
+          "stars": 120229,
           "forks": 13414,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T00:37:55Z",
+          "pushedAt": "2026-11-07T05:45:18Z",
           "archived": false,
           "topics": [
             "ai-agents",
@@ -359,7 +359,7 @@
             "cloud-browser",
             "computer-use"
           ],
-          "heat": 110953
+          "heat": 119251
         }
       ]
     },
@@ -373,11 +373,11 @@
           "fullName": "morluto/rea",
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 438237,
-          "forks": 108580,
+          "stars": 438637,
+          "forks": 108677,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T23:15:17Z",
+          "pushedAt": "2026-11-07T05:53:13Z",
           "archived": false,
           "topics": [
             "agent-skills",
@@ -389,7 +389,7 @@
             "dsh-plugin",
             "html"
           ],
-          "heat": 384114
+          "heat": 437453
         },
         {
           "id": "affaan-m/ECC",
@@ -397,8 +397,8 @@
           "fullName": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 298626,
-          "forks": 44131,
+          "stars": 298690,
+          "forks": 44143,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T21:21:50Z",
@@ -413,7 +413,7 @@
             "mcp",
             "productivity"
           ],
-          "heat": 244838
+          "heat": 219975
         },
         {
           "id": "n8n-io/n8n",
@@ -421,8 +421,8 @@
           "fullName": "n8n-io/n8n",
           "url": "https://github.com/n8n-io/n8n",
           "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-          "stars": 209719,
-          "forks": 61387,
+          "stars": 209725,
+          "forks": 61388,
           "license": "NOASSERTION",
           "openSource": false,
           "pushedAt": "2026-11-07T02:34:42Z",
@@ -437,7 +437,7 @@
             "integration-framework",
             "integrations"
           ],
-          "heat": 209213
+          "heat": 183878
         },
         {
           "id": "langgenius/dify",
@@ -445,11 +445,11 @@
           "fullName": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
           "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "stars": 160581,
-          "forks": 25408,
+          "stars": 160587,
+          "forks": 25411,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:22:27Z",
+          "pushedAt": "2026-11-07T05:38:24Z",
           "archived": false,
           "topics": [
             "agent",
@@ -461,7 +461,7 @@
             "claude",
             "deepseek"
           ],
-          "heat": 158846
+          "heat": 158527
         },
         {
           "id": "Snailclimb/JavaGuide",
@@ -485,7 +485,7 @@
             "mcp",
             "mysql"
           ],
-          "heat": 11708
+          "heat": 11591
         },
         {
           "id": "open-webui/open-webui",
@@ -493,11 +493,11 @@
           "fullName": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 157956,
-          "forks": 22959,
+          "stars": 157967,
+          "forks": 22961,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:32:47Z",
+          "pushedAt": "2026-11-07T04:16:18Z",
           "archived": false,
           "topics": [
             "ai",
@@ -509,7 +509,7 @@
             "ollama",
             "ollama-webui"
           ],
-          "heat": 157366
+          "heat": 147631
         },
         {
           "id": "farion1231/cc-switch",
@@ -517,11 +517,11 @@
           "fullName": "farion1231/cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-          "stars": 152382,
-          "forks": 10019,
+          "stars": 152427,
+          "forks": 10021,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T16:07:51Z",
+          "pushedAt": "2026-11-07T03:36:01Z",
           "archived": false,
           "topics": [
             "ai-tools",
@@ -533,7 +533,7 @@
             "grokbuild",
             "hermes"
           ],
-          "heat": 105988
+          "heat": 138824
         },
         {
           "id": "Graphify-Labs/graphify",
@@ -541,8 +541,8 @@
           "fullName": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 143593,
-          "forks": 13735,
+          "stars": 143633,
+          "forks": 13738,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T17:11:19Z",
@@ -557,7 +557,7 @@
             "codex",
             "cursor"
           ],
-          "heat": 103033
+          "heat": 93767
         },
         {
           "id": "browser-use/browser-use",
@@ -565,11 +565,11 @@
           "fullName": "browser-use/browser-use",
           "url": "https://github.com/browser-use/browser-use",
           "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-          "stars": 120219,
+          "stars": 120229,
           "forks": 13414,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T00:37:55Z",
+          "pushedAt": "2026-11-07T05:45:18Z",
           "archived": false,
           "topics": [
             "ai-agents",
@@ -581,7 +581,7 @@
             "cloud-browser",
             "computer-use"
           ],
-          "heat": 110952
+          "heat": 119251
         },
         {
           "id": "paperclipai/paperclip",
@@ -589,11 +589,11 @@
           "fullName": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 111764,
-          "forks": 18510,
+          "stars": 111806,
+          "forks": 18513,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:37:43Z",
+          "pushedAt": "2026-11-07T05:55:05Z",
           "archived": false,
           "topics": [
             "acpx",
@@ -605,7 +605,7 @@
             "ai-governance",
             "ai-tools"
           ],
-          "heat": 111728
+          "heat": 111648
         },
         {
           "id": "Panniantong/Agent-Reach",
@@ -613,8 +613,8 @@
           "fullName": "Panniantong/Agent-Reach",
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "stars": 109714,
-          "forks": 9809,
+          "stars": 109753,
+          "forks": 9815,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T12:57:05Z",
@@ -629,7 +629,7 @@
             "cli",
             "cursor"
           ],
-          "heat": 69872
+          "heat": 64245
         },
         {
           "id": "D4Vinci/Scrapling",
@@ -637,8 +637,8 @@
           "fullName": "D4Vinci/Scrapling",
           "url": "https://github.com/D4Vinci/Scrapling",
           "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-          "stars": 98877,
-          "forks": 10353,
+          "stars": 98934,
+          "forks": 10366,
           "license": "BSD-3-Clause",
           "openSource": true,
           "pushedAt": "2026-11-05T18:01:47Z",
@@ -653,7 +653,7 @@
             "data",
             "data-extraction"
           ],
-          "heat": 41922
+          "heat": 39625
         },
         {
           "id": "punkpeye/awesome-mcp-servers",
@@ -661,8 +661,8 @@
           "fullName": "punkpeye/awesome-mcp-servers",
           "url": "https://github.com/punkpeye/awesome-mcp-servers",
           "description": "A collection of MCP servers.",
-          "stars": 97394,
-          "forks": 19376,
+          "stars": 97400,
+          "forks": 19385,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T17:59:03Z",
@@ -671,7 +671,7 @@
             "ai",
             "mcp"
           ],
-          "heat": 71586
+          "heat": 64992
         },
         {
           "id": "koala73/worldmonitor",
@@ -679,11 +679,11 @@
           "fullName": "koala73/worldmonitor",
           "url": "https://github.com/koala73/worldmonitor",
           "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-          "stars": 90279,
-          "forks": 13966,
+          "stars": 90285,
+          "forks": 13971,
           "license": "AGPL-3.0",
           "openSource": true,
-          "pushedAt": "2026-11-06T21:50:45Z",
+          "pushedAt": "2026-11-07T04:43:21Z",
           "archived": false,
           "topics": [
             "agent",
@@ -695,7 +695,7 @@
             "monitoring",
             "news"
           ],
-          "heat": 75257
+          "heat": 85885
         },
         {
           "id": "unclecode/crawl4ai",
@@ -703,8 +703,8 @@
           "fullName": "unclecode/crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai",
           "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
-          "stars": 87019,
-          "forks": 9060,
+          "stars": 87028,
+          "forks": 9062,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-04T12:20:01Z",
@@ -719,7 +719,7 @@
             "markdown",
             "mcp"
           ],
-          "heat": 24199
+          "heat": 23306
         }
       ]
     },
@@ -733,11 +733,11 @@
           "fullName": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
-          "stars": 114056,
-          "forks": 9892,
+          "stars": 114108,
+          "forks": 9900,
           "license": "Apache-2.0",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:05:42Z",
+          "pushedAt": "2026-11-07T05:36:39Z",
           "archived": false,
           "topics": [
             "ai",
@@ -749,7 +749,7 @@
             "claude",
             "claude-agent-sdk"
           ],
-          "heat": 111539
+          "heat": 112508
         },
         {
           "id": "paperclipai/paperclip",
@@ -757,11 +757,11 @@
           "fullName": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 111764,
-          "forks": 18510,
+          "stars": 111806,
+          "forks": 18513,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:37:43Z",
+          "pushedAt": "2026-11-07T05:55:05Z",
           "archived": false,
           "topics": [
             "acpx",
@@ -773,7 +773,7 @@
             "ai-governance",
             "ai-tools"
           ],
-          "heat": 111727
+          "heat": 111648
         },
         {
           "id": "tt-a1i/archify",
@@ -781,8 +781,8 @@
           "fullName": "tt-a1i/archify",
           "url": "https://github.com/tt-a1i/archify",
           "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-          "stars": 94218,
-          "forks": 6417,
+          "stars": 94259,
+          "forks": 6419,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-07T00:34:42Z",
@@ -797,7 +797,7 @@
             "coding-agents",
             "deepseek-harness"
           ],
-          "heat": 86776
+          "heat": 77015
         },
         {
           "id": "Egonex-AI/Understand-Anything",
@@ -805,11 +805,11 @@
           "fullName": "Egonex-AI/Understand-Anything",
           "url": "https://github.com/Egonex-AI/Understand-Anything",
           "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-          "stars": 91124,
-          "forks": 7782,
+          "stars": 91143,
+          "forks": 7784,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T06:40:28Z",
+          "pushedAt": "2026-11-07T05:37:08Z",
           "archived": false,
           "topics": [
             "antigravity-skills",
@@ -821,7 +821,7 @@
             "codex-skills",
             "developer-tools-ai-agent"
           ],
-          "heat": 49747
+          "heat": 89895
         },
         {
           "id": "code-yeongyu/oh-my-openagent",
@@ -829,11 +829,11 @@
           "fullName": "code-yeongyu/oh-my-openagent",
           "url": "https://github.com/code-yeongyu/oh-my-openagent",
           "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-          "stars": 70750,
-          "forks": 5837,
+          "stars": 70754,
+          "forks": 5841,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:18:49Z",
+          "pushedAt": "2026-11-07T05:54:20Z",
           "archived": false,
           "topics": [
             "ai",
@@ -845,7 +845,7 @@
             "codex",
             "cursor"
           ],
-          "heat": 69811
+          "heat": 70617
         },
         {
           "id": "ayghri/i-have-adhd",
@@ -853,8 +853,8 @@
           "fullName": "ayghri/i-have-adhd",
           "url": "https://github.com/ayghri/i-have-adhd",
           "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-          "stars": 60360,
-          "forks": 3519,
+          "stars": 60374,
+          "forks": 3520,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-10-19T19:46:23Z",
@@ -867,7 +867,7 @@
             "developer-tools",
             "productivity"
           ],
-          "heat": 3130
+          "heat": 3108
         },
         {
           "id": "coreyhaines31/marketingskills",
@@ -875,8 +875,8 @@
           "fullName": "coreyhaines31/marketingskills",
           "url": "https://github.com/coreyhaines31/marketingskills",
           "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-          "stars": 58940,
-          "forks": 8616,
+          "stars": 58957,
+          "forks": 8618,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T17:53:06Z",
@@ -891,7 +891,7 @@
             "claude-skills",
             "codex"
           ],
-          "heat": 43191
+          "heat": 39232
         },
         {
           "id": "K-Dense-AI/scientific-agent-skills",
@@ -899,7 +899,7 @@
           "fullName": "K-Dense-AI/scientific-agent-skills",
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
           "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
-          "stars": 56331,
+          "stars": 56340,
           "forks": 4957,
           "license": "MIT",
           "openSource": true,
@@ -915,7 +915,7 @@
             "claudecode",
             "clinical-research"
           ],
-          "heat": 9851
+          "heat": 9620
         },
         {
           "id": "wshobson/agents",
@@ -923,7 +923,7 @@
           "fullName": "wshobson/agents",
           "url": "https://github.com/wshobson/agents",
           "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
-          "stars": 42266,
+          "stars": 42269,
           "forks": 4466,
           "license": "MIT",
           "openSource": true,
@@ -939,7 +939,7 @@
             "claude-code",
             "claude-code-marketplace"
           ],
-          "heat": 17287
+          "heat": 16364
         },
         {
           "id": "VoltAgent/awesome-agent-skills",
@@ -947,8 +947,8 @@
           "fullName": "VoltAgent/awesome-agent-skills",
           "url": "https://github.com/VoltAgent/awesome-agent-skills",
           "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-          "stars": 36934,
-          "forks": 4083,
+          "stars": 36938,
+          "forks": 4084,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-05T10:43:36Z",
@@ -963,7 +963,7 @@
             "codex",
             "codex-skills"
           ],
-          "heat": 13870
+          "heat": 13187
         },
         {
           "id": "nanocoai/nanoclaw",
@@ -971,8 +971,8 @@
           "fullName": "nanocoai/nanoclaw",
           "url": "https://github.com/nanocoai/nanoclaw",
           "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-          "stars": 31089,
-          "forks": 12670,
+          "stars": 31091,
+          "forks": 12669,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-07T00:45:32Z",
@@ -984,7 +984,7 @@
             "claude-skills",
             "openclaw"
           ],
-          "heat": 28833
+          "heat": 25560
         },
         {
           "id": "alirezarezvani/claude-skills",
@@ -992,8 +992,8 @@
           "fullName": "alirezarezvani/claude-skills",
           "url": "https://github.com/alirezarezvani/claude-skills",
           "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance,",
-          "stars": 29424,
-          "forks": 4079,
+          "stars": 29430,
+          "forks": 4081,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-05T06:58:08Z",
@@ -1008,7 +1008,7 @@
             "claude-code",
             "claude-code-plugins"
           ],
-          "heat": 10436
+          "heat": 9951
         },
         {
           "id": "alchaincyf/huashu-design",
@@ -1016,8 +1016,8 @@
           "fullName": "alchaincyf/huashu-design",
           "url": "https://github.com/alchaincyf/huashu-design",
           "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-          "stars": 28896,
-          "forks": 3113,
+          "stars": 28905,
+          "forks": 3114,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-04T03:28:47Z",
@@ -1032,7 +1032,7 @@
             "deepseek-harness",
             "design"
           ],
-          "heat": 7288
+          "heat": 7045
         },
         {
           "id": "OthmanAdi/planning-with-files",
@@ -1040,7 +1040,7 @@
           "fullName": "OthmanAdi/planning-with-files",
           "url": "https://github.com/OthmanAdi/planning-with-files",
           "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Ins",
-          "stars": 27928,
+          "stars": 27929,
           "forks": 2313,
           "license": "MIT",
           "openSource": true,
@@ -1056,7 +1056,7 @@
             "codex",
             "coding-agent"
           ],
-          "heat": 8336
+          "heat": 8006
         },
         {
           "id": "JimLiu/baoyu-skills",
@@ -1064,7 +1064,7 @@
           "fullName": "JimLiu/baoyu-skills",
           "url": "https://github.com/JimLiu/baoyu-skills",
           "description": "",
-          "stars": 27361,
+          "stars": 27364,
           "forks": 2984,
           "license": "MIT",
           "openSource": true,
@@ -1076,7 +1076,7 @@
             "codex-skills",
             "openclaw-skills"
           ],
-          "heat": 19723
+          "heat": 17939
         }
       ]
     },
@@ -1090,8 +1090,8 @@
           "fullName": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 298626,
-          "forks": 44131,
+          "stars": 298690,
+          "forks": 44143,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-06T21:21:50Z",
@@ -1106,7 +1106,7 @@
             "mcp",
             "productivity"
           ],
-          "heat": 244836
+          "heat": 219973
         },
         {
           "id": "deepseek-ai/deepseek-harness",
@@ -1114,8 +1114,8 @@
           "fullName": "deepseek-ai/deepseek-harness",
           "url": "https://github.com/deepseek-ai/deepseek-harness",
           "description": "DeepSeek Harness: Everything is a Plugin.",
-          "stars": 274991,
-          "forks": 33611,
+          "stars": 275125,
+          "forks": 33635,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-04T13:06:39Z",
@@ -1126,7 +1126,7 @@
             "dsh",
             "dsh-plugin"
           ],
-          "heat": 77167
+          "heat": 74323
         },
         {
           "id": "NousResearch/hermes-agent",
@@ -1134,11 +1134,11 @@
           "fullName": "NousResearch/hermes-agent",
           "url": "https://github.com/NousResearch/hermes-agent",
           "description": "The agent that grows with you",
-          "stars": 261227,
-          "forks": 57832,
+          "stars": 261265,
+          "forks": 57854,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:28:22Z",
+          "pushedAt": "2026-11-07T05:48:53Z",
           "archived": false,
           "topics": [
             "ai",
@@ -1150,7 +1150,7 @@
             "claude-code",
             "codex"
           ],
-          "heat": 259456
+          "heat": 259777
         },
         {
           "id": "firecrawl/firecrawl",
@@ -1158,8 +1158,8 @@
           "fullName": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
           "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-          "stars": 199282,
-          "forks": 10498,
+          "stars": 199321,
+          "forks": 10499,
           "license": "AGPL-3.0",
           "openSource": true,
           "pushedAt": "2026-11-07T01:42:31Z",
@@ -1174,7 +1174,7 @@
             "data-extraction",
             "html-to-markdown"
           ],
-          "heat": 191863
+          "heat": 169373
         },
         {
           "id": "DietrichGebert/ponytail",
@@ -1182,8 +1182,8 @@
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 185888,
-          "forks": 10285,
+          "stars": 185958,
+          "forks": 10290,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-10-29T11:59:31Z",
@@ -1198,7 +1198,7 @@
             "developer-tools",
             "llm"
           ],
-          "heat": 19343
+          "heat": 19076
         },
         {
           "id": "langchain-ai/langchain",
@@ -1206,11 +1206,11 @@
           "fullName": "langchain-ai/langchain",
           "url": "https://github.com/langchain-ai/langchain",
           "description": "The agent engineering platform.",
-          "stars": 149139,
-          "forks": 25084,
+          "stars": 149142,
+          "forks": 25088,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T22:32:37Z",
+          "pushedAt": "2026-11-07T05:36:53Z",
           "archived": false,
           "topics": [
             "agents",
@@ -1222,7 +1222,7 @@
             "enterprise",
             "framework"
           ],
-          "heat": 127410
+          "heat": 147074
         },
         {
           "id": "Graphify-Labs/graphify",
@@ -1230,8 +1230,8 @@
           "fullName": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 143593,
-          "forks": 13735,
+          "stars": 143633,
+          "forks": 13738,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T17:11:19Z",
@@ -1246,7 +1246,7 @@
             "codex",
             "cursor"
           ],
-          "heat": 103033
+          "heat": 93766
         },
         {
           "id": "browser-use/browser-use",
@@ -1254,11 +1254,11 @@
           "fullName": "browser-use/browser-use",
           "url": "https://github.com/browser-use/browser-use",
           "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-          "stars": 120219,
+          "stars": 120229,
           "forks": 13414,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T00:37:55Z",
+          "pushedAt": "2026-11-07T05:45:18Z",
           "archived": false,
           "topics": [
             "ai-agents",
@@ -1270,7 +1270,7 @@
             "cloud-browser",
             "computer-use"
           ],
-          "heat": 110951
+          "heat": 119249
         },
         {
           "id": "stablyai/orca",
@@ -1278,11 +1278,11 @@
           "fullName": "stablyai/orca",
           "url": "https://github.com/stablyai/orca",
           "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-          "stars": 117895,
-          "forks": 7477,
+          "stars": 117978,
+          "forks": 7485,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:35:11Z",
+          "pushedAt": "2026-11-07T05:46:15Z",
           "archived": false,
           "topics": [
             "agent-ide",
@@ -1294,7 +1294,7 @@
             "ghostty",
             "grok-bot"
           ],
-          "heat": 117649
+          "heat": 117093
         },
         {
           "id": "thedotmack/claude-mem",
@@ -1302,11 +1302,11 @@
           "fullName": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
-          "stars": 114056,
-          "forks": 9892,
+          "stars": 114108,
+          "forks": 9900,
           "license": "Apache-2.0",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:05:42Z",
+          "pushedAt": "2026-11-07T05:36:39Z",
           "archived": false,
           "topics": [
             "ai",
@@ -1318,7 +1318,7 @@
             "claude",
             "claude-agent-sdk"
           ],
-          "heat": 111539
+          "heat": 112508
         },
         {
           "id": "paperclipai/paperclip",
@@ -1326,11 +1326,11 @@
           "fullName": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 111764,
-          "forks": 18510,
+          "stars": 111806,
+          "forks": 18513,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:37:43Z",
+          "pushedAt": "2026-11-07T05:55:05Z",
           "archived": false,
           "topics": [
             "acpx",
@@ -1342,7 +1342,7 @@
             "ai-governance",
             "ai-tools"
           ],
-          "heat": 111727
+          "heat": 111647
         },
         {
           "id": "Leonxlnx/taste-skill",
@@ -1350,8 +1350,8 @@
           "fullName": "Leonxlnx/taste-skill",
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-          "stars": 111252,
-          "forks": 7476,
+          "stars": 111297,
+          "forks": 7479,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-05T01:12:12Z",
@@ -1366,7 +1366,7 @@
             "design-system",
             "frontend"
           ],
-          "heat": 36360
+          "heat": 34803
         },
         {
           "id": "google-gemini/gemini-cli",
@@ -1375,7 +1375,7 @@
           "url": "https://github.com/google-gemini/gemini-cli",
           "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
           "stars": 108756,
-          "forks": 14926,
+          "forks": 14928,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-07T01:10:13Z",
@@ -1389,7 +1389,7 @@
             "mcp-client",
             "mcp-server"
           ],
-          "heat": 102494
+          "heat": 90687
         },
         {
           "id": "tt-a1i/archify",
@@ -1397,8 +1397,8 @@
           "fullName": "tt-a1i/archify",
           "url": "https://github.com/tt-a1i/archify",
           "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-          "stars": 94218,
-          "forks": 6417,
+          "stars": 94259,
+          "forks": 6419,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-07T00:34:42Z",
@@ -1413,7 +1413,7 @@
             "coding-agents",
             "deepseek-harness"
           ],
-          "heat": 86776
+          "heat": 77015
         },
         {
           "id": "infiniflow/ragflow",
@@ -1421,8 +1421,8 @@
           "fullName": "infiniflow/ragflow",
           "url": "https://github.com/infiniflow/ragflow",
           "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-          "stars": 93700,
-          "forks": 11252,
+          "stars": 93705,
+          "forks": 11250,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T13:09:08Z",
@@ -1437,7 +1437,7 @@
             "ai-agents",
             "context-engine"
           ],
-          "heat": 59993
+          "heat": 55121
         }
       ]
     },
@@ -1451,11 +1451,11 @@
           "fullName": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 157956,
-          "forks": 22959,
+          "stars": 157967,
+          "forks": 22961,
           "license": "NOASSERTION",
           "openSource": false,
-          "pushedAt": "2026-11-07T02:32:47Z",
+          "pushedAt": "2026-11-07T04:16:18Z",
           "archived": false,
           "topics": [
             "ai",
@@ -1467,7 +1467,7 @@
             "ollama",
             "ollama-webui"
           ],
-          "heat": 157364
+          "heat": 147629
         },
         {
           "id": "langchain-ai/langchain",
@@ -1475,11 +1475,11 @@
           "fullName": "langchain-ai/langchain",
           "url": "https://github.com/langchain-ai/langchain",
           "description": "The agent engineering platform.",
-          "stars": 149139,
-          "forks": 25084,
+          "stars": 149142,
+          "forks": 25088,
           "license": "MIT",
           "openSource": true,
-          "pushedAt": "2026-11-06T22:32:37Z",
+          "pushedAt": "2026-11-07T05:36:53Z",
           "archived": false,
           "topics": [
             "agents",
@@ -1491,7 +1491,7 @@
             "enterprise",
             "framework"
           ],
-          "heat": 127410
+          "heat": 147073
         },
         {
           "id": "Shubhamsaboo/awesome-llm-apps",
@@ -1499,8 +1499,8 @@
           "fullName": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-          "stars": 144048,
-          "forks": 21198,
+          "stars": 144063,
+          "forks": 21199,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T05:53:36Z",
@@ -1511,7 +1511,7 @@
             "python",
             "rag"
           ],
-          "heat": 77266
+          "heat": 71943
         },
         {
           "id": "Graphify-Labs/graphify",
@@ -1519,8 +1519,8 @@
           "fullName": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 143593,
-          "forks": 13735,
+          "stars": 143633,
+          "forks": 13738,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T17:11:19Z",
@@ -1535,7 +1535,7 @@
             "codex",
             "cursor"
           ],
-          "heat": 103032
+          "heat": 93766
         },
         {
           "id": "thedotmack/claude-mem",
@@ -1543,11 +1543,11 @@
           "fullName": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
-          "stars": 114056,
-          "forks": 9892,
+          "stars": 114108,
+          "forks": 9900,
           "license": "Apache-2.0",
           "openSource": true,
-          "pushedAt": "2026-11-07T02:05:42Z",
+          "pushedAt": "2026-11-07T05:36:39Z",
           "archived": false,
           "topics": [
             "ai",
@@ -1559,7 +1559,7 @@
             "claude",
             "claude-agent-sdk"
           ],
-          "heat": 111538
+          "heat": 112507
         },
         {
           "id": "infiniflow/ragflow",
@@ -1567,8 +1567,8 @@
           "fullName": "infiniflow/ragflow",
           "url": "https://github.com/infiniflow/ragflow",
           "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-          "stars": 93700,
-          "forks": 11252,
+          "stars": 93705,
+          "forks": 11250,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T13:09:08Z",
@@ -1583,7 +1583,7 @@
             "ai-agents",
             "context-engine"
           ],
-          "heat": 59993
+          "heat": 55120
         },
         {
           "id": "PaddlePaddle/PaddleOCR",
@@ -1591,7 +1591,7 @@
           "fullName": "PaddlePaddle/PaddleOCR",
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
           "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "stars": 92380,
+          "stars": 92386,
           "forks": 11627,
           "license": "Apache-2.0",
           "openSource": true,
@@ -1607,7 +1607,7 @@
             "paddleocr-vl",
             "pdf-extractor-rag"
           ],
-          "heat": 1744
+          "heat": 1740
         },
         {
           "id": "unclecode/crawl4ai",
@@ -1615,8 +1615,8 @@
           "fullName": "unclecode/crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai",
           "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
-          "stars": 87019,
-          "forks": 9060,
+          "stars": 87028,
+          "forks": 9062,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-04T12:20:01Z",
@@ -1631,7 +1631,7 @@
             "markdown",
             "mcp"
           ],
-          "heat": 24199
+          "heat": 23306
         },
         {
           "id": "datawhalechina/hello-agents",
@@ -1639,8 +1639,8 @@
           "fullName": "datawhalechina/hello-agents",
           "url": "https://github.com/datawhalechina/hello-agents",
           "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-          "stars": 86281,
-          "forks": 10746,
+          "stars": 86300,
+          "forks": 10747,
           "license": "NOASSERTION",
           "openSource": false,
           "pushedAt": "2026-10-13T22:28:54Z",
@@ -1651,7 +1651,7 @@
             "rag",
             "tutorial"
           ],
-          "heat": 3428
+          "heat": 3410
         },
         {
           "id": "dair-ai/Prompt-Engineering-Guide",
@@ -1659,7 +1659,7 @@
           "fullName": "dair-ai/Prompt-Engineering-Guide",
           "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
           "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-          "stars": 79875,
+          "stars": 79876,
           "forks": 8768,
           "license": "MIT",
           "openSource": true,
@@ -1683,11 +1683,11 @@
           "fullName": "headroomlabs-ai/headroom",
           "url": "https://github.com/headroomlabs-ai/headroom",
           "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "stars": 79033,
-          "forks": 6174,
+          "stars": 79041,
+          "forks": 6175,
           "license": "Apache-2.0",
           "openSource": true,
-          "pushedAt": "2026-11-06T18:57:32Z",
+          "pushedAt": "2026-11-07T04:34:40Z",
           "archived": false,
           "topics": [
             "agent",
@@ -1699,7 +1699,7 @@
             "context-window",
             "cursor"
           ],
-          "heat": 59878
+          "heat": 74759
         },
         {
           "id": "mem0ai/mem0",
@@ -1707,8 +1707,8 @@
           "fullName": "mem0ai/mem0",
           "url": "https://github.com/mem0ai/mem0",
           "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-          "stars": 68532,
-          "forks": 8146,
+          "stars": 68542,
+          "forks": 8148,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-11-06T16:53:07Z",
@@ -1723,7 +1723,7 @@
             "genai",
             "llm"
           ],
-          "heat": 48732
+          "heat": 44379
         },
         {
           "id": "Mintplex-Labs/anything-llm",
@@ -1731,8 +1731,8 @@
           "fullName": "Mintplex-Labs/anything-llm",
           "url": "https://github.com/Mintplex-Labs/anything-llm",
           "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-          "stars": 68015,
-          "forks": 7674,
+          "stars": 68020,
+          "forks": 7676,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-07T02:20:14Z",
@@ -1747,7 +1747,7 @@
             "computer-use",
             "hermes-agent"
           ],
-          "heat": 67177
+          "heat": 59115
         },
         {
           "id": "pathwaycom/serviette",
@@ -1756,7 +1756,7 @@
           "url": "https://github.com/pathwaycom/serviette",
           "description": "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.",
           "stars": 58725,
-          "forks": 1544,
+          "forks": 1545,
           "license": "MIT",
           "openSource": true,
           "pushedAt": "2026-11-02T15:57:46Z",
@@ -1771,7 +1771,7 @@
             "milvus",
             "mongodb"
           ],
-          "heat": 10786
+          "heat": 10519
         },
         {
           "id": "bojieli/ai-agent-book",
@@ -1779,8 +1779,8 @@
           "fullName": "bojieli/ai-agent-book",
           "url": "https://github.com/bojieli/ai-agent-book",
           "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-          "stars": 57343,
-          "forks": 6622,
+          "stars": 57353,
+          "forks": 6625,
           "license": "Apache-2.0",
           "openSource": true,
           "pushedAt": "2026-10-08T15:06:27Z",
@@ -1795,7 +1795,7 @@
             "large-language-models",
             "llm"
           ],
-          "heat": 1881
+          "heat": 1873
         }
       ]
     }
@@ -1806,8 +1806,8 @@
       "name": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "downloads": 18432,
-      "likes": 1513,
-      "trendingScore": 1008,
+      "likes": 1541,
+      "trendingScore": 1015,
       "pipelineTag": "image-text-to-text",
       "tags": [
         "license:other"
@@ -1818,8 +1818,8 @@
       "name": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol",
       "downloads": 19139,
-      "likes": 951,
-      "trendingScore": 702,
+      "likes": 967,
+      "trendingScore": 700,
       "pipelineTag": "image-to-3d",
       "tags": [
         "license:apache-2.0"
@@ -1830,8 +1830,8 @@
       "name": "ccore/Qwen3.5-4B-3D-Coder",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
       "downloads": 190243,
-      "likes": 793,
-      "trendingScore": 420,
+      "likes": 801,
+      "trendingScore": 416,
       "pipelineTag": "",
       "tags": [
         "base_model:Qwen/Qwen3.5-4B",
@@ -1844,8 +1844,8 @@
       "name": "Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
       "downloads": 2607491,
-      "likes": 10876,
-      "trendingScore": 385,
+      "likes": 10888,
+      "trendingScore": 382,
       "pipelineTag": "image-to-video",
       "tags": [
         "license:other"
@@ -1856,8 +1856,8 @@
       "name": "burner22/numbat",
       "url": "https://huggingface.co/burner22/numbat",
       "downloads": 9066,
-      "likes": 372,
-      "trendingScore": 336,
+      "likes": 373,
+      "trendingScore": 337,
       "pipelineTag": "",
       "tags": []
     },
@@ -1866,7 +1866,7 @@
       "name": "FusionCow/Sulphur-3",
       "url": "https://huggingface.co/FusionCow/Sulphur-3",
       "downloads": 950,
-      "likes": 397,
+      "likes": 398,
       "trendingScore": 333,
       "pipelineTag": "",
       "tags": [
@@ -1879,8 +1879,8 @@
       "name": "ricursiveAI/Ripple-65B-Preview",
       "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
       "downloads": 2013,
-      "likes": 334,
-      "trendingScore": 326,
+      "likes": 339,
+      "trendingScore": 331,
       "pipelineTag": "",
       "tags": [
         "license:apache-2.0"
@@ -1891,8 +1891,8 @@
       "name": "Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "downloads": 7845288,
-      "likes": 19281,
-      "trendingScore": 305,
+      "likes": 19287,
+      "trendingScore": 308,
       "pipelineTag": "image-text-to-text",
       "tags": [
         "license:apache-2.0"
@@ -1903,8 +1903,8 @@
       "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "downloads": 61049,
-      "likes": 3073,
-      "trendingScore": 302,
+      "likes": 3078,
+      "trendingScore": 303,
       "pipelineTag": "automatic-speech-recognition",
       "tags": [
         "base_model:nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
@@ -1917,8 +1917,8 @@
       "name": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "downloads": 108162,
-      "likes": 348,
-      "trendingScore": 279,
+      "likes": 355,
+      "trendingScore": 272,
       "pipelineTag": "text-generation",
       "tags": [
         "base_model:ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
@@ -1931,8 +1931,8 @@
       "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "downloads": 1518569,
-      "likes": 2599,
-      "trendingScore": 266,
+      "likes": 2604,
+      "trendingScore": 268,
       "pipelineTag": "image-text-to-text",
       "tags": [
         "base_model:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU",
@@ -1945,8 +1945,8 @@
       "name": "Pika-Labs/Pika-H3-Flex",
       "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
       "downloads": 986,
-      "likes": 494,
-      "trendingScore": 263,
+      "likes": 497,
+      "trendingScore": 258,
       "pipelineTag": "image-to-video",
       "tags": [
         "base_model:MiniMaxAI/MiniMax-H3",
@@ -1959,8 +1959,8 @@
       "name": "black-forest-labs/flux-3-image-klein-comfy",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
       "downloads": 1109078,
-      "likes": 2627,
-      "trendingScore": 251,
+      "likes": 2632,
+      "trendingScore": 250,
       "pipelineTag": "image-to-image",
       "tags": [
         "base_model:black-forest-labs/flux-3-image-klein",
@@ -1969,35 +1969,11 @@
       ]
     },
     {
-      "id": "mistralai/Mistral-Large-4-1T-A52B",
-      "name": "mistralai/Mistral-Large-4-1T-A52B",
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
-      "downloads": 10530,
-      "likes": 1625,
-      "trendingScore": 232,
-      "pipelineTag": "image-text-to-text",
-      "tags": [
-        "license:other"
-      ]
-    },
-    {
-      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "downloads": 259511,
-      "likes": 5364,
-      "trendingScore": 229.5,
-      "pipelineTag": "image-text-to-text",
-      "tags": [
-        "license:mit"
-      ]
-    },
-    {
       "id": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
       "name": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
       "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
       "downloads": 2640,
-      "likes": 268,
+      "likes": 269,
       "trendingScore": 228,
       "pipelineTag": "text-generation",
       "tags": [
@@ -2007,12 +1983,36 @@
       ]
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "downloads": 259511,
+      "likes": 5368,
+      "trendingScore": 227.5,
+      "pipelineTag": "image-text-to-text",
+      "tags": [
+        "license:mit"
+      ]
+    },
+    {
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "name": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "downloads": 10530,
+      "likes": 1626,
+      "trendingScore": 226,
+      "pipelineTag": "image-text-to-text",
+      "tags": [
+        "license:other"
+      ]
+    },
+    {
       "id": "LiquidAI/LFM3-1.7B",
       "name": "LiquidAI/LFM3-1.7B",
       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
       "downloads": 66003,
-      "likes": 1527,
-      "trendingScore": 225,
+      "likes": 1530,
+      "trendingScore": 222.5,
       "pipelineTag": "text-generation",
       "tags": [
         "base_model:LiquidAI/LFM3-1.7B-Base",
@@ -2025,8 +2025,8 @@
       "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "downloads": 135850,
-      "likes": 5686,
-      "trendingScore": 218,
+      "likes": 5691,
+      "trendingScore": 219,
       "pipelineTag": "text-to-image",
       "tags": [
         "base_model:Qwen/Qwen-Image-2.1-Turbo",
@@ -2035,29 +2035,29 @@
       ]
     },
     {
-      "id": "facebook/sam3",
-      "name": "facebook/sam3",
-      "url": "https://huggingface.co/facebook/sam3",
-      "downloads": 1920315,
-      "likes": 6008,
-      "trendingScore": 201,
-      "pipelineTag": "mask-generation",
-      "tags": [
-        "license:other"
-      ]
-    },
-    {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "name": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
       "downloads": 20256,
-      "likes": 223,
-      "trendingScore": 201,
+      "likes": 227,
+      "trendingScore": 205,
       "pipelineTag": "text-generation",
       "tags": [
         "base_model:Qwen/Qwen3.5-4B",
         "base_model:finetune:Qwen/Qwen3.5-4B",
         "license:apache-2.0"
+      ]
+    },
+    {
+      "id": "facebook/sam3",
+      "name": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "downloads": 1920315,
+      "likes": 6014,
+      "trendingScore": 199,
+      "pipelineTag": "mask-generation",
+      "tags": [
+        "license:other"
       ]
     }
   ],
@@ -2066,8 +2066,8 @@
       "id": "huggingface/moe-blogpost",
       "name": "huggingface/moe-blogpost",
       "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "likes": 278,
-      "trendingScore": 273,
+      "likes": 287,
+      "trendingScore": 282,
       "sdk": "docker"
     },
     {
@@ -2082,7 +2082,7 @@
       "id": "kulkas2pintu/wan777",
       "name": "kulkas2pintu/wan777",
       "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
-      "likes": 1361,
+      "likes": 1364,
       "trendingScore": 146,
       "sdk": "gradio"
     },
@@ -2090,16 +2090,24 @@
       "id": "speridlabs/idol",
       "name": "speridlabs/idol",
       "url": "https://huggingface.co/spaces/speridlabs/idol",
-      "likes": 179,
-      "trendingScore": 132,
+      "likes": 180,
+      "trendingScore": 131,
       "sdk": "gradio"
     },
     {
       "id": "hugging-apps/bfs-best-face-swap",
       "name": "hugging-apps/bfs-best-face-swap",
       "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "likes": 802,
-      "trendingScore": 105,
+      "likes": 809,
+      "trendingScore": 107,
+      "sdk": "gradio"
+    },
+    {
+      "id": "JCisHERE/wan2-2-i2v-v3",
+      "name": "JCisHERE/wan2-2-i2v-v3",
+      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "likes": 245,
+      "trendingScore": 94,
       "sdk": "gradio"
     },
     {
@@ -2107,38 +2115,30 @@
       "name": "LiquidAI/LFM3-Omni-2B-WebGPU",
       "url": "https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU",
       "likes": 126,
-      "trendingScore": 97,
+      "trendingScore": 94,
       "sdk": "static"
-    },
-    {
-      "id": "JCisHERE/wan2-2-i2v-v3",
-      "name": "JCisHERE/wan2-2-i2v-v3",
-      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "likes": 244,
-      "trendingScore": 95,
-      "sdk": "gradio"
     },
     {
       "id": "joelniklaus/harness-leaderboard",
       "name": "joelniklaus/harness-leaderboard",
       "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "likes": 86,
-      "trendingScore": 82,
+      "likes": 92,
+      "trendingScore": 88,
       "sdk": "docker"
     },
     {
       "id": "linoyts/qwen-image-2-1-realtime",
       "name": "linoyts/qwen-image-2-1-realtime",
       "url": "https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
-      "likes": 189,
-      "trendingScore": 82,
+      "likes": 191,
+      "trendingScore": 81,
       "sdk": "gradio"
     },
     {
       "id": "YuyaoTechnology/MatterSeek",
       "name": "YuyaoTechnology/MatterSeek",
       "url": "https://huggingface.co/spaces/YuyaoTechnology/MatterSeek",
-      "likes": 2470,
+      "likes": 2528,
       "trendingScore": 73,
       "sdk": "static"
     },
@@ -2154,8 +2154,8 @@
       "id": "nvidia/simready-central",
       "name": "nvidia/simready-central",
       "url": "https://huggingface.co/spaces/nvidia/simready-central",
-      "likes": 383,
-      "trendingScore": 62,
+      "likes": 384,
+      "trendingScore": 61,
       "sdk": "docker"
     },
     {
@@ -2179,14 +2179,14 @@
       "name": "wank3r/minimax-h3",
       "url": "https://huggingface.co/spaces/wank3r/minimax-h3",
       "likes": 305,
-      "trendingScore": 56,
+      "trendingScore": 55,
       "sdk": "gradio"
     },
     {
       "id": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
       "name": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
       "url": "https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
-      "likes": 107,
+      "likes": 108,
       "trendingScore": 55,
       "sdk": "gradio"
     },
@@ -2202,7 +2202,7 @@
       "id": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
       "name": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
       "url": "https://huggingface.co/spaces/aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
-      "likes": 84,
+      "likes": 88,
       "trendingScore": 47,
       "sdk": "gradio"
     },
@@ -2210,7 +2210,7 @@
       "id": "Pika-Labs/pika-h3-flex",
       "name": "Pika-Labs/pika-h3-flex",
       "url": "https://huggingface.co/spaces/Pika-Labs/pika-h3-flex",
-      "likes": 78,
+      "likes": 80,
       "trendingScore": 46,
       "sdk": "gradio"
     },
@@ -2218,8 +2218,8 @@
       "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
       "name": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
       "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "likes": 344,
-      "trendingScore": 45,
+      "likes": 345,
+      "trendingScore": 44,
       "sdk": "gradio"
     }
   ],
@@ -2309,8 +2309,8 @@
       "id": "50366117",
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
-      "points": 541,
-      "comments": 675,
+      "points": 544,
+      "comments": 676,
       "published": "2026-11-04T14:37:22Z",
       "source": "Hacker News"
     },
@@ -2345,8 +2345,8 @@
       "id": "50385870",
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "points": 496,
-      "comments": 223,
+      "points": 502,
+      "comments": 224,
       "published": "2026-11-05T23:09:57Z",
       "source": "Hacker News"
     },
