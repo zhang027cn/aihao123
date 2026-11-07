@@ -198,6 +198,14 @@ GitHub Pages 国内访问不稳定，镜像方案见 `deploy/README.md`。要点
 - 服务器需装 nginx（`deploy/nginx-aihao123.conf`），域名须 ICP 备案，HTTPS 用 certbot。
 - 已提供 `deploy/` 下全部脚本与配置，含 Dockerfile。
 
+### 实际部署记录（2026-11-07，已上线）
+
+- **服务器**：阿里云 ECS `120.55.186.51`（Ubuntu 26.04，2C2G），访问密钥 `/home/ubuntu/aliyun-pc.pem`（root）。
+- **方案**：方式 A —— 服务器 crontab 每 10 分钟 `/usr/local/bin/aihao-sync`（git pull → build → rsync 到 `/var/www/aihao123`）。
+- **nginx**：新增 `sites-available/aihao123`，与既有 `family.zgc.pub` 共存，复用 acme.sh 通配符证书 `*.zgc.pub`（无需重新签发），HTTP→HTTPS 301。
+- **域名**：`aihao123.zgc.pub`（阿里云 DNS A 记录 → `120.55.186.51`）。
+- **状态**：✅ 全页面 200，data 端点 200，证书 SAN 覆盖，cron 自动同步已验证。
+
 ---
 
 ## 附：常用命令
