@@ -1,0 +1,58 @@
+name: 同步镜像到阿里云
+
+# 方案 B：GitHub 主动推送到阿里云服务器。
+# 需要先在仓库 Settings → Secrets and variables → Actions 添加：
+#   ALIYUN_HOST      服务器公网 IP 或域名
+#   ALIYUN_USER      SSH 用户（如 root 或 deploy）
+#   ALIYUN_SSH_KEY   服务器 SSH 私钥（完整内容）
+#   ALIYUN_PATH      站点根目录（如 /var/www/aihao123）
+#   ALIYUN_PORT      可选，默认 22
+# 触发：手动（workflow_dispatch），或去掉注释可设为数据更新后自动跑。
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+  #   paths: ["data/**", "site/**", "config/**"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: aliyun-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 内联导航目录
+        run: node scripts/build.mjs
+
+      - name: 同步到阿里云服务器
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avzr --delete
+          path: site/
+          remote_path: ${{ secrets.ALIYUN_PATH }}
+          remote_host: ${{ secrets.ALIYUN_HOST }}
+          remote_user: ${{ secrets.ALIYUN_USER }}
+          remote_key: ${{ secrets.ALIYUN_SSH_KEY }}
+          remote_port: ${{ secrets.ALIYUN_PORT || 22 }}
+
+      - name: 同步数据文件
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avzr --delete
+          path: data/
+          remote_path: ${{ secrets.ALIYUN_PATH }}/data
+          remote_host: ${{ secrets.ALIYUN_HOST }}
+          remote_user: ${{ secrets.ALIYUN_USER }}
+          remote_key: ${{ secrets.ALIYUN_SSH_KEY }}
+          remote_port: ${{ secrets.ALIYUN_PORT || 22 }}

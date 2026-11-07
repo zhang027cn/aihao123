@@ -188,6 +188,16 @@ aihao123/
 - 多语言（中/英）
 - Chrome 新标签页扩展，把导航做进浏览器
 
+## 11. 国内镜像部署（阿里云）
+
+GitHub Pages 国内访问不稳定，镜像方案见 `deploy/README.md`。要点：
+
+- **抓数据必须在 GitHub Actions**（国内直连 HF/Google/Reddit 受限），服务器只做静态托管。
+- 推荐**方式 A：服务器定时 `git pull` + 组装**（`deploy/sync-from-github.sh`，crontab 每 10 分钟）。
+- 备选方式 B：Actions 用 SSH 密钥 rsync 推送（`deploy-aliyun.yml`）；方式 C：OSS+CDN；方式 D：Docker。
+- 服务器需装 nginx（`deploy/nginx-aihao123.conf`），域名须 ICP 备案，HTTPS 用 certbot。
+- 已提供 `deploy/` 下全部脚本与配置，含 Dockerfile。
+
 ---
 
 ## 附：常用命令
