@@ -138,6 +138,9 @@ h2 { font-size: 22px; }
 .badge.off { background: #f3eefc; color: var(--accent-2); }
 .badge.oss { background: #e8f7ee; color: var(--good); }
 .badge.cat { background: #f3eefc; color: var(--accent-2); flex: none; }
+.load-more { text-align: center; padding: 14px 0 4px; color: var(--ink-soft); font-size: 13px; cursor: pointer; }
+.hidden { display: none !important; }
+.sum-placeholder { color: var(--ink-soft); opacity: 0.6; }
 
 /* 榜单 */
 .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }

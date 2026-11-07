@@ -10,3 +10,7 @@ node_modules/
 *.pem
 *.key
 sk-*.txt
+
+# 运行时产物：摘要缓存（含生成内容，不入库）
+.summary-cache/
+
