@@ -125,8 +125,10 @@ h2 { font-size: 22px; }
 .news-list { list-style: none; margin: 0; padding: 0; }
 .news-list li { padding: 10px 2px; border-bottom: 1px solid var(--line); }
 .news-list li:last-child { border-bottom: 0; }
+.news-head { display: flex; align-items: flex-start; gap: 8px; }
 .news-list a.t { font-weight: 600; color: var(--ink); }
 .news-list a.t:hover { color: var(--accent); }
+.ai-summary { margin: 5px 0 2px; font-size: 13px; color: var(--ink-soft); line-height: 1.55; }
 .news-meta { font-size: 12.5px; color: var(--ink-soft); margin-top: 2px; display: flex; gap: 10px; flex-wrap: wrap; }
 .badge { display: inline-block; padding: 1px 8px; border-radius: 6px; font-size: 11.5px; font-weight: 600; }
 .badge.src { background: var(--accent-soft); color: var(--accent); }
@@ -135,6 +137,7 @@ h2 { font-size: 22px; }
 .badge.hot { background: #fdeef0; color: var(--bad); }
 .badge.off { background: #f3eefc; color: var(--accent-2); }
 .badge.oss { background: #e8f7ee; color: var(--good); }
+.badge.cat { background: #f3eefc; color: var(--accent-2); flex: none; }
 
 /* 榜单 */
 .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }

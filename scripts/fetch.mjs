@@ -325,10 +325,33 @@ if (all || datasets.includes('rankings')) jobs.push(['rankings', fetchRankings])
 if (all || datasets.includes('mcp')) jobs.push(['mcp', fetchMcp]);
 if (all || datasets.includes('skills')) jobs.push(['skills', fetchSkills]);
 
+// 合并回上次生成的 AI 摘要/分类（按 id 匹配），避免 fetch 重建后丢失 LLM 结果。
+async function mergeNewsEnrichment(prev, next) {
+  const map = new Map((prev || []).map((n) => [n.id, n]));
+  let restored = 0;
+  for (const n of next) {
+    const p = map.get(n.id);
+    if (p?.aiSummary) {
+      n.aiSummary = p.aiSummary;
+      n.category = p.category;
+      n.summaryStatus = p.summaryStatus || 'ai';
+      restored++;
+    }
+  }
+  return restored;
+}
+
 await mkdir(DATA, { recursive: true });
 for (const [name, fn] of jobs) {
   try {
     const data = await fn();
+    if (name === 'news') {
+      const prev = await readJson(join(DATA, 'news.json'), []);
+      const restored = await mergeNewsEnrichment(prev, data);
+      meta.datasets.news = meta.datasets.news || {};
+      meta.datasets.news._aiRestored = restored;
+      console.log(`   ↺ 复用既有 AI 摘要 ${restored} 条`);
+    }
     await writeJson(join(DATA, `${name}.json`), data);
     meta.datasets[name] ??= {};
     meta.datasets[name]._total = Array.isArray(data) ? data.length : Object.values(data).reduce((n, v) => n + (Array.isArray(v) ? v.length : 0), 0);

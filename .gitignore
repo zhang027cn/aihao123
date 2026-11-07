@@ -3,3 +3,10 @@ node_modules/
 *.log
 .tmp/
 .cache/
+
+# 敏感信息：禁止提交任何密钥/环境文件
+.env
+.env.*
+*.pem
+*.key
+sk-*.txt

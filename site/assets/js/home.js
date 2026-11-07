@@ -21,6 +21,7 @@
     root.innerHTML = items.slice(0, 8).map((n) => `
       <li>
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
+        ${n.aiSummary ? `<p class="ai-summary">🤖 ${esc(n.aiSummary)}</p>` : ''}
         <div class="news-meta">
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
