@@ -26,9 +26,9 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020  # v4
         with:
           node-version: "22"
 
@@ -36,7 +36,7 @@ jobs:
         run: node scripts/build.mjs
 
       - name: 同步到阿里云服务器
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@796cf0d5e4b535745ce49d7429f77cf39e25ef39  # 7.0.1
         with:
           switches: -avzr --delete
           path: site/
@@ -47,7 +47,7 @@ jobs:
           remote_port: ${{ secrets.ALIYUN_PORT || 22 }}
 
       - name: 同步数据文件
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@796cf0d5e4b535745ce49d7429f77cf39e25ef39  # 7.0.1
         with:
           switches: -avzr --delete
           path: data/

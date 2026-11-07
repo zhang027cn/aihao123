@@ -1,6 +1,6 @@
 // MCP / SKILL 目录页共用：网格渲染 + 关键词搜索 + 官方/开源过滤
 (function () {
-  const { $, getData, esc, fmt } = window.AIH;
+  const { $, getData, esc, safeUrl, fmt } = window.AIH;
   const kind = document.body.dataset.kind || 'mcp';
   const state = { items: [], q: '', official: 'all' };
 
@@ -12,20 +12,26 @@
       if (state.q && !(x.name + ' ' + (x.description || '')).toLowerCase().includes(state.q)) return false;
       return true;
     });
-    grid.innerHTML = items.length ? items.map((x) => `
+    grid.innerHTML = items.length ? items.map((x) => {
+      const u = safeUrl(x.url);
+      const nameHtml = u
+        ? `<a class="name" href="${esc(u)}" target="_blank" rel="noopener">${esc(x.name)}</a>`
+        : `<span class="name">${esc(x.name)}</span>`;
+      return `
       <article class="card tool-card">
         <div class="head">
-          <a class="name" href="${esc(x.url || '#')}" target="_blank" rel="noopener">${esc(x.name)}</a>
+          ${nameHtml}
           ${x.official ? '<span class="badge off">官方</span>' : '<span class="badge oss">开源</span>'}
           ${x.license ? `<span class="badge src">${esc(x.license)}</span>` : ''}
         </div>
         <div class="desc">${esc(x.description || '暂无描述')}</div>
         <div class="foot">
-          ${x.stars ? `<span class="star">★ ${fmt(x.stars)}</span>` : ''}
+          ${x.stars ? `<span class="star">★ ${esc(fmt(x.stars))}</span>` : ''}
           ${x.deploy ? `<span>部署: ${esc(x.deploy)}</span>` : ''}
-          ${x.pushedAt ? `<span>更新: ${new Date(x.pushedAt).toLocaleDateString('zh-CN')}</span>` : ''}
+          ${x.pushedAt ? `<span>更新: ${esc(new Date(x.pushedAt).toLocaleDateString('zh-CN'))}</span>` : ''}
         </div>
-      </article>`).join('') : '<div class="empty">没有匹配的条目</div>';
+      </article>`;
+    }).join('') : '<div class="empty">没有匹配的条目</div>';
     $('#tool-count').textContent = `${items.length} 个`;
   }
 

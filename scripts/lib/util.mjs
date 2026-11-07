@@ -43,6 +43,14 @@ export function normText(s = '') {
     .trim();
 }
 
+// 只保留 http/https 绝对 URL；其余（javascript:、data:、相对路径、畸形）返回 ''。
+// 用于数据抓取阶段净化外部来源的链接，防御 href 协议注入。
+export function sanitizeUrl(u) {
+  if (typeof u !== 'string') return '';
+  const s = u.trim();
+  return /^https?:\/\/[^\s]+$/i.test(s) ? s : '';
+}
+
 // OSI 认可的宽松许可证（含常见宽松 + GPL 家族）
 const OSI = new Set([
   'MIT', 'Apache-2.0', 'BSD-2-Clause', 'BSD-3-Clause', 'ISC', 'MPL-2.0',

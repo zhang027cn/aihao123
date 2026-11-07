@@ -17,6 +17,11 @@
   function esc(s) {
     return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
+  // 只允许 http/https 绝对 URL，阻止 javascript:/data:/vbscript: 等协议注入
+  function safeUrl(u) {
+    const s = String(u ?? '').trim();
+    return /^https?:\/\//i.test(s) ? s : '#';
+  }
   function timeAgo(iso) {
     if (!iso) return '';
     const s = (Date.now() - Date.parse(iso)) / 1000;
@@ -52,8 +57,8 @@
         const q = input.value.trim();
         if (!q) return;
         const hit = pop.querySelector('a');
-        if (hit) { location.href = hit.getAttribute('href'); }
-        else if (/^https?:\/\//.test(q)) location.href = q;
+        if (hit) { location.href = safeUrl(hit.getAttribute('href')); }
+        else if (/^https?:\/\//i.test(q)) location.href = q;
         else location.href = 'https://www.bing.com/search?q=' + encodeURIComponent(q + ' AI');
       }
       if (e.key === 'Escape') pop.classList.remove('show');
@@ -65,7 +70,7 @@
       if (!q) { pop.classList.remove('show'); return; }
       const hits = all.filter((a) => a.name.toLowerCase().includes(q)).slice(0, 12);
       if (!hits.length) { pop.classList.remove('show'); return; }
-      pop.innerHTML = hits.map((h) => `<a href="${esc(h.url)}">${esc(h.name)}<span style="color:var(--ink-soft);font-size:12px"> · ${esc(h.cat)}</span></a>`).join('');
+      pop.innerHTML = hits.map((h) => `<a href="${esc(safeUrl(h.url))}">${esc(h.name)}<span class="pop-cat"> · ${esc(h.cat)}</span></a>`).join('');
       pop.classList.add('show');
     }
     document.addEventListener('keydown', (e) => {
@@ -89,5 +94,5 @@
     initBackTop();
   });
 
-  window.AIH = { $, $$, getData, esc, timeAgo, fmt };
+  window.AIH = { $, $$, getData, esc, safeUrl, timeAgo, fmt };
 })();

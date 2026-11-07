@@ -1,5 +1,165 @@
 [
   {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "published": "2026-11-07T01:40:28.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:crusoe sells troubled wyoming data center project to google"
+  },
+  {
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall",
+    "published": "2026-11-06T23:46:18.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:openai valued at 1 25 trillion as rival anthropic nears its ipo"
+  },
+  {
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advance",
+    "published": "2026-11-06T23:00:44.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:china reportedly recruited ai exec to spy on jensen huang"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "published": "2026-11-06T22:53:46.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:openai reportedly raises an additional 11 billion at a 1 25 trillion valuation"
+  },
+  {
+    "title": "All the latest updates on AI data centers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data ",
+    "published": "2026-11-06T20:02:22.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:all the latest updates on ai data centers"
+  },
+  {
+    "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+    "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+    "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple fall",
+    "published": "2026-11-06T19:47:04.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:ripple 65b preview delivers strong agentic coding results as a fully apache 2 0 "
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "published": "2026-11-06T18:44:38.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:hundreds of artex ai hacking tools found publicly exposed to the web"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "published": "2026-11-06T18:44:20.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:meta introduces spaces a new way to collaborate with your muse agent"
+  },
+  {
+    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you ca",
+    "published": "2026-11-06T18:10:10.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:meta s muse ai can create custom spaces for the version of the app you need righ"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+    "published": "2026-11-06T18:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:how a blue wave midterm might reshape the ai industry"
+  },
+  {
+    "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+    "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+    "published": "2026-11-06T17:43:02.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:does meta think we can t read meta abandons sketchy commercial terms update"
+  },
+  {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+    "published": "2026-11-06T17:23:52.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:after the midterms is the ai industry in for a rough two years"
+  },
+  {
+    "title": "Quoting Nilay Patel",
+    "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+    "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren'",
+    "published": "2026-11-06T17:13:12.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:quoting nilay patel"
+  },
+  {
+    "title": "AI is the new dating dealbreaker",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt w",
+    "published": "2026-11-06T17:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:ai is the new dating dealbreaker"
+  },
+  {
+    "title": "Perplexity now has its own always-on AI agent",
+    "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+    "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexi",
+    "published": "2026-11-06T16:47:28.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:perplexity now has its own always on ai agent"
+  },
+  {
+    "title": "Big Tech lost big in the 2026 election",
+    "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+    "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nila",
+    "published": "2026-11-06T16:38:02.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:big tech lost big in the 2026 election"
+  },
+  {
     "title": "How Akai and Moog are embracing vibe-coded mods",
     "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
     "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sam",
@@ -153,19 +313,29 @@
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
-    "points": 495,
-    "comments": 301,
+    "points": 622,
+    "comments": 407,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50390124"
   },
   {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "published": "2026-11-06T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:partnering with hacktron to find vulnerabilities in openai s systems"
+  },
+  {
     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
     "link": "https://github.com/ppmpreetham/BUI",
     "published": "2026-11-06T07:40:35Z",
-    "points": 497,
-    "comments": 201,
+    "points": 686,
+    "comments": 278,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -262,14 +432,14 @@
     "id": "verge-ai:openai is stepping back from ndas for data center projects"
   },
   {
-    "title": "Airbnb is working on an AI travel agent",
-    "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointmen",
-    "published": "2026-11-06T00:06:12.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "published": "2026-11-06T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
     "lang": "en",
-    "id": "verge-ai:airbnb is working on an ai travel agent"
+    "id": "openai:measuring how ai agents handle everyday wet lab science"
   },
   {
     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -285,8 +455,8 @@
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "published": "2026-11-05T23:09:57Z",
-    "points": 463,
-    "comments": 213,
+    "points": 496,
+    "comments": 223,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -303,21 +473,11 @@
     "id": "techcrunch-ai:airbnb says it s launching an ai travel agent in the first half of 2027"
   },
   {
-    "title": "Perplexity launches its own take on AI agents for work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-    "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity ",
-    "published": "2026-11-05T22:26:50.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:perplexity launches its own take on ai agents for work"
-  },
-  {
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1447,
-    "comments": 452,
+    "points": 1554,
+    "comments": 493,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -414,16 +574,6 @@
     "id": "the-decoder:google s gemini omni 1 2 flash stretches ai video clips to 15 seconds and cuts p"
   },
   {
-    "title": "Muse has a voice mode now",
-    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]",
-    "published": "2026-11-05T19:03:04.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:muse has a voice mode now"
-  },
-  {
     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
     "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
     "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
@@ -444,16 +594,6 @@
     "id": "techcrunch-ai:claude can now analyze your spending with its new personal finance tool"
   },
   {
-    "title": "Claude AI can plug directly into your bank account",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create",
-    "published": "2026-11-05T18:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:claude ai can plug directly into your bank account"
-  },
-  {
     "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
     "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
     "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation",
@@ -462,16 +602,6 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:baidu releases ernie 5 5 flash base with 280 billion parameters as an open sourc"
-  },
-  {
-    "title": "‘Total repudiation’: The blue wave is about to hit AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and",
-    "published": "2026-11-05T17:51:52.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:total repudiation the blue wave is about to hit ai"
   },
   {
     "title": "Quoting Paul Ford",
@@ -504,35 +634,15 @@
     "id": "google-ai:gemini omni 1 2 flash fast and cost effective with longer clips"
   },
   {
-    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-    "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-    "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on […]",
-    "published": "2026-11-05T17:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:grimes is going to star in an ai movie that s coming to theaters"
-  },
-  {
     "title": "Window Sweaters",
     "link": "https://github.com/saragordic/window-sweaters",
     "published": "2026-11-05T16:50:14Z",
-    "points": 423,
-    "comments": 124,
+    "points": 449,
+    "comments": 132,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50381383"
-  },
-  {
-    "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
-    "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
-    "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testi",
-    "published": "2026-11-05T16:46:24.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:no ai agent scores above 12 percent on semianalysis new real world work benchmar"
   },
   {
     "title": "Axiom Math wants to keep AI slop out of mathematics",
@@ -543,16 +653,6 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:axiom math wants to keep ai slop out of mathematics"
-  },
-  {
-    "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-    "link": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
-    "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard math and complex image analysis, Hy4 still trails the best commercial",
-    "published": "2026-11-05T16:06:31.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:tencent releases hy4 with vision and computer use claims second place among chin"
   },
   {
     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
@@ -575,16 +675,6 @@
     "id": "techcrunch-ai:aina s smart ring has a screen a joystick and a mic so you can talk to ai agents"
   },
   {
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "published": "2026-11-05T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:box taps nvidia s nemotron for new agent first content retrieval system"
-  },
-  {
     "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
     "link": "https://www.qbitai.com/2026/11/507919.html",
     "summary": "基础规划免费！",
@@ -605,16 +695,6 @@
     "id": "techreview:the download texas s fragile ai boom and energy policy shifts"
   },
   {
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "published": "2026-11-05T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:a yc startup is putting 1m behind 5 unsolved materials science problems for ai"
-  },
-  {
     "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
     "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
     "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
@@ -623,16 +703,6 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:agility robotics nasdaq debut invites scrutiny of humanoid robot market"
-  },
-  {
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-    "published": "2026-11-05T12:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:agility is the first pure humanoid robot company on the stock market are you buy"
   },
   {
     "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
@@ -675,6 +745,17 @@
     "id": "openai:merge builds product and business tools with openai technology"
   },
   {
+    "title": "Lemmings CSS Animation",
+    "link": "https://markblah.github.io/lemmings/",
+    "published": "2026-11-05T04:54:10Z",
+    "points": 412,
+    "comments": 78,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50375354"
+  },
+  {
     "title": "Setting a new standard for responsible AI infrastructure",
     "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
@@ -683,26 +764,6 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:setting a new standard for responsible ai infrastructure"
-  },
-  {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-    "published": "2026-11-05T01:26:22.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:apple is reportedly cutting budgets for its internal ai usage"
-  },
-  {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "published": "2026-11-05T01:02:14.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:after the midterms a bigger clash over data centers could be coming"
   },
   {
     "title": "Flipsnack grows product signups with conversion optimization",
@@ -743,16 +804,6 @@
     "sourceId": "hf-blog",
     "lang": "en",
     "id": "hf-blog:a closer look at phonon tts launching high quality on device speech that tops th"
-  },
-  {
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-    "published": "2026-11-04T22:45:09.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:ai pacs spent millions trying to shape congress here s how they fared"
   },
   {
     "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
@@ -808,8 +859,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 535,
-    "comments": 665,
+    "points": 541,
+    "comments": 675,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -859,8 +910,8 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1284,
-    "comments": 746,
+    "points": 1292,
+    "comments": 748,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -870,7 +921,7 @@
     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
     "link": "https://news.ycombinator.com/item?id=50363461",
     "published": "2026-11-04T10:10:27Z",
-    "points": 722,
+    "points": 724,
     "comments": 197,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -993,8 +1044,8 @@
     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
     "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
     "published": "2026-11-03T17:22:37Z",
-    "points": 1520,
-    "comments": 492,
+    "points": 1522,
+    "comments": 494,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1025,7 +1076,7 @@
     "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
     "published": "2026-11-03T15:25:47Z",
     "points": 672,
-    "comments": 467,
+    "comments": 468,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1035,7 +1086,7 @@
     "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
     "link": "https://news.ycombinator.com/item?id=50352757",
     "published": "2026-11-03T14:53:41Z",
-    "points": 527,
+    "points": 529,
     "comments": 163,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1106,7 +1157,7 @@
     "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
     "link": "https://hackertv.org",
     "published": "2026-11-03T01:18:09Z",
-    "points": 482,
+    "points": 485,
     "comments": 82,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1163,56 +1214,5 @@
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50341462"
-  },
-  {
-    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-    "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-    "published": "2026-11-02T18:32:21.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:coming in 2027 apple s 1 000 home robot for facetime and switching on lights"
-  },
-  {
-    "title": "Astra can read and write weights to improve Qwen",
-    "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-    "published": "2026-11-02T18:21:28Z",
-    "points": 2955,
-    "comments": 897,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50341174"
-  },
-  {
-    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-    "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-    "published": "2026-11-02T18:05:31.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:claude s new rules against game cloning won t stop the ai copying boom"
-  },
-  {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "published": "2026-11-02T18:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:rewarding defenders with bigger bug bounties"
-  },
-  {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "published": "2026-11-02T18:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:preparing our next security sprint to harden openai"
   }
 ]

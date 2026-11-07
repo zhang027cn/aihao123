@@ -1,6 +1,6 @@
 // 首页：目录 + 资讯 + 榜单 + MCP/SKILL 精选
 (function () {
-  const { $, getData, esc, timeAgo, fmt } = window.AIH;
+  const { $, getData, esc, safeUrl, timeAgo, fmt } = window.AIH;
 
   function renderDir() {
     const dir = window.__DIRECTORY__;
@@ -10,7 +10,7 @@
       <section class="cat-card ${c.id === 'mcp' ? 'wide' : ''}" id="cat-${esc(c.id)}">
         <h3 class="cat-title"><span class="icon">${esc(c.icon)}</span>${esc(c.title)}</h3>
         <div class="cat-links">
-          ${c.links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener"><span class="dot"></span>${esc(l.name)}</a>`).join('')}
+          ${c.links.map((l) => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener"><span class="dot"></span>${esc(l.name)}</a>`).join('')}
         </div>
       </section>`).join('');
   }
@@ -20,11 +20,11 @@
     if (!root || !items?.length) return;
     root.innerHTML = items.slice(0, 8).map((n) => `
       <li>
-        <a class="t" href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+        <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
         <div class="news-meta">
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
-          ${n.points ? `<span class="badge hot">▲ ${n.points}</span>` : ''}
+          ${n.points ? `<span class="badge hot">▲ ${esc(n.points)}</span>` : ''}
           <span>${timeAgo(n.published)}</span>
         </div>
       </li>`).join('');
@@ -43,11 +43,11 @@
       let html = '';
       if (t === 'gh') {
         const g = groups[0];
-        html = (g?.items || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${r.license || '开源'}`, r.url)).join('');
+        html = (g?.items || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${esc(r.license || '开源')}`, r.url)).join('');
       } else if (t === 'models') {
-        html = (rank.hfModels || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${r.trendingScore}`, r.url)).join('');
+        html = (rank.hfModels || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${esc(r.trendingScore)}`, r.url)).join('');
       } else {
-        html = (rank.hn || []).slice(0, 8).map((r, i) => rankRow(i, r.title, '', `${r.points} ▲`, r.url)).join('');
+        html = (rank.hn || []).slice(0, 8).map((r, i) => rankRow(i, r.title, '', `${esc(r.points)} ▲`, r.url)).join('');
       }
       pane.innerHTML = html || emptyBox('暂无数据');
     }
@@ -65,7 +65,7 @@
     return `<div class="rank-row">
       <span class="rank-no ${cls}">${no}</span>
       <div class="rank-main">
-        <a class="t" href="${esc(url)}" target="_blank" rel="noopener">${esc(t)}</a>
+        <a class="t" href="${esc(safeUrl(url))}" target="_blank" rel="noopener">${esc(t)}</a>
         ${sub ? `<span class="d">${esc(sub)}</span>` : ''}
       </div>
       <div class="rank-val"><span class="n">${esc(val)}</span></div>

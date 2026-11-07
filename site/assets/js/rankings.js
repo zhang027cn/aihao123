@@ -1,6 +1,6 @@
 // 排行榜页：GitHub 榜单分组 + HF 模型/Space + HN
 (function () {
-  const { $, getData, esc, fmt } = window.AIH;
+  const { $, getData, esc, safeUrl, fmt } = window.AIH;
 
   function render() {
     const tabs = $('#rank-tabs');
@@ -17,14 +17,14 @@
       { id: 'hn', label: 'HN 本周热帖', type: 'hn' },
     ];
 
-    tabs.innerHTML = tabDefs.map((t, i) => `<button class="tab ${i === 0 ? 'active' : ''}" data-id="${t.id}">${esc(t.label)}</button>`).join('');
+    tabs.innerHTML = tabDefs.map((t, i) => `<button class="tab ${i === 0 ? 'active' : ''}" data-id="${esc(t.id)}">${esc(t.label)}</button>`).join('');
 
     function row(i, title, sub, val, url, extra) {
       const no = i + 1;
       return `<div class="rank-row">
         <span class="rank-no ${no <= 3 ? 'top' + no : ''}">${no}</span>
         <div class="rank-main">
-          <a class="t" href="${esc(url)}" target="_blank" rel="noopener">${esc(title)}</a>
+          <a class="t" href="${esc(safeUrl(url))}" target="_blank" rel="noopener">${esc(title)}</a>
           ${sub ? `<span class="d">${esc(sub)}</span>` : ''}
         </div>
         <div class="rank-val">
@@ -42,13 +42,13 @@
           row(i, r.name, r.description || r.fullName, fmt(r.stars) + ' ★', r.url, (r.license || '开源') + (r.archived ? ' · 已归档' : ''))).join('');
       } else if (def.type === 'models') {
         html = (data.hfModels || []).map((r, i) =>
-          row(i, r.name, r.pipelineTag || 'model', fmt(r.downloads) + ' 下载', r.url, '热力 ' + (r.trendingScore ?? '-')));
+          row(i, r.name, r.pipelineTag || 'model', fmt(r.downloads) + ' 下载', r.url, '热力 ' + esc(r.trendingScore ?? '-')));
       } else if (def.type === 'spaces') {
         html = (data.hfSpaces || []).map((r, i) =>
-          row(i, r.name, 'Space · ' + (r.sdk || '') , fmt(r.likes) + ' ♥', r.url, '热力 ' + (r.trendingScore ?? '-')));
+          row(i, r.name, 'Space · ' + esc(r.sdk || ''), fmt(r.likes) + ' ♥', r.url, '热力 ' + esc(r.trendingScore ?? '-')));
       } else {
         html = (data.hn || []).map((r, i) =>
-          row(i, r.title, 'Hacker News', (r.points || 0) + ' ▲', r.url, (r.comments || 0) + ' 评论'));
+          row(i, r.title, 'Hacker News', esc(r.points || 0) + ' ▲', r.url, esc(r.comments || 0) + ' 评论'));
       }
       pane.innerHTML = html || '<div class="empty">暂无数据</div>';
     }

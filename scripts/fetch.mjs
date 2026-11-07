@@ -15,7 +15,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getJson, getText } from './lib/http.mjs';
 import { fetchFeed } from './lib/rss.mjs';
-import { writeJson, readJson, dedupeBy, normText, isOsiLicense, daysSince } from './lib/util.mjs';
+import { writeJson, readJson, dedupeBy, normText, isOsiLicense, daysSince, sanitizeUrl } from './lib/util.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
@@ -47,11 +47,13 @@ async function fetchNews() {
       const items = await fetchFeed(feed.url);
       let n = 0;
       for (const it of items) {
+        const link = sanitizeUrl(it.link);
+        if (!link) continue; // 丢弃非 http/https 链接
         if (!it.published || Date.parse(it.published) < cutoff) continue;
         if (feed.filter && !new RegExp(feed.filter, 'i').test(it.title)) continue;
         out.push({
           title: it.title,
-          link: it.link,
+          link,
           summary: it.summary,
           published: it.published,
           source: feed.name,
@@ -77,9 +79,10 @@ async function fetchNews() {
         const url = `https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(q)}&tags=story&hitsPerPage=30&numericFilters=points>${hn.minPoints},created_at_i>${since}`;
         const d = await getJson(url, { timeoutMs: 12000 });
         for (const h of d.hits || []) {
+          const link = sanitizeUrl(h.url) || `https://news.ycombinator.com/item?id=${h.objectID}`;
           hnItems.push({
             title: h.title,
-            link: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+            link,
             published: h.created_at,
             points: h.points,
             comments: h.num_comments,
@@ -111,7 +114,7 @@ async function ghSearch(query, sort, limit) {
     id: i.full_name,
     name: i.name,
     fullName: i.full_name,
-    url: i.html_url,
+    url: sanitizeUrl(i.html_url) || `https://github.com/${i.full_name}`,
     description: (i.description || '').slice(0, 240),
     stars: i.stargazers_count,
     forks: i.forks_count,
@@ -182,7 +185,7 @@ async function fetchRankings() {
     out.hn = dedupeBy(all, (h) => h.objectID).slice(0, cfg.hn?.limit || 20).map((h) => ({
       id: h.objectID,
       title: h.title,
-      url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+      url: sanitizeUrl(h.url) || `https://news.ycombinator.com/item?id=${h.objectID}`,
       points: h.points,
       comments: h.num_comments,
       published: h.created_at,
@@ -230,12 +233,13 @@ async function fetchMcp() {
           const server = s.server || s;
           const first = server.remotes?.[0];
           const remote = first?.url || '';
+          const registryUrl = sanitizeUrl(server.repository) || sanitizeUrl(server.homepage) || sanitizeUrl(remote);
           registry.push({
             id: server.name,
             name: server.title || server.name,
             slug: server.name,
             description: (server.description || '').slice(0, 240),
-            url: server.repository || server.homepage || remote || '',
+            url: registryUrl,
             deploy: (first?.type || '').includes('streamable-http') ? 'streamable-http' : (first?.type || '').includes('sse') ? 'sse' : 'stdio',
             source: 'official-registry',
             official: true,

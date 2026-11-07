@@ -174,6 +174,12 @@ h2 { font-size: 22px; }
 .spinner { display: inline-block; width: 26px; height: 26px; border: 3px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
+/* 布局工具类（替代内联 style，兼容严格 CSP） */
+.mb { margin-bottom: 14px; }
+.mt { margin-top: 14px; }
+.mt0 { margin-top: 0; }
+.lh2 { line-height: 2; }
+
 /* 页脚 */
 .site-footer { border-top: 1px solid var(--line); margin-top: 50px; padding: 26px 0 40px; color: var(--ink-soft); font-size: 13px; }
 .site-footer a { color: var(--ink-soft); }
@@ -193,4 +199,5 @@ h2 { font-size: 22px; }
 .search-pop.show { display: block; }
 .search-pop a { display: block; padding: 7px 12px; color: var(--ink); font-size: 14px; }
 .search-pop a:hover { background: var(--accent-soft); text-decoration: none; }
+.search-pop .pop-cat { color: var(--ink-soft); font-size: 12px; }
 .search-pop .cat { font-size: 11px; color: var(--ink-soft); padding: 6px 12px 2px; }

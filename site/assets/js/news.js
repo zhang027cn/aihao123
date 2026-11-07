@@ -1,6 +1,6 @@
 // 资讯页：全量列表 + 来源/语言/搜索过滤
 (function () {
-  const { $, getData, esc, timeAgo } = window.AIH;
+  const { $, getData, esc, safeUrl, timeAgo } = window.AIH;
   const state = { items: [], lang: 'all', src: 'all', q: '' };
 
   function render() {
@@ -14,11 +14,11 @@
     });
     root.innerHTML = items.length ? items.map((n) => `
       <li>
-        <a class="t" href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+        <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
         <div class="news-meta">
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
-          ${n.points ? `<span class="badge hot">▲ ${n.points}</span>` : ''}
+          ${n.points ? `<span class="badge hot">▲ ${esc(n.points)}</span>` : ''}
           <span>${timeAgo(n.published)}</span>
         </div>
       </li>`).join('') : `<div class="empty">没有匹配的资讯</div>`;
