@@ -142,6 +142,10 @@ aihao123/
 | **M4 社区化** | `config/directory.json` 收 PR，提交模板 + CI 自动校验死链 | 接受第一个外部 PR | ⬜ |
 | **M5 进阶** | 中文资讯源补全（机器之心/量子位稳定化）、RSS 全文抓取、月度榜单快照归档 | 中文源 ≥ 5 个稳定 | ⬜ |
 
+**已实现（2026-11-07）**：
+- **资讯 AI 摘要**：`scripts/summarize.mjs` 调用商汤 SenseNova（`sensenova-6.8-flash-lite`）为每条资讯生成一句话中文摘要（`aiSummary`）+ 规则分类（`category`）。增量按 id 缓存，未变化不重复扣费；低并发+重试，429/空响应自动降级保留原摘要。管线闭环：`fetch.mjs` 重建后按 id 复用已有 `aiSummary`。前端展示 🤖 摘要 + 分类徽章 + 分类过滤下拉。
+- **数据安全**：`.gitignore` 忽略 `.env/*.pem/*.key`；key 只用 GitHub Secrets（`SENSENOVA_KEY`）注入，绝不入库。
+
 ---
 
 ## 7. 质量保障
