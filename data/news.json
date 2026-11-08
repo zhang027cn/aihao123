@@ -1,5 +1,33 @@
 [
   {
+    "title": "资本正在撤离“世界模型”",
+    "link": "https://www.qbitai.com/2026/11/508466.html",
+    "summary": "没有永远的夏天",
+    "published": "2026-11-08T04:09:55.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:资本正在撤离 世界模型",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+    "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+    "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pag",
+    "published": "2026-11-07T23:57:46.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:datasette 3046 don t serve link rel next http headers to firefox for html pages",
+    "category": "研究论文",
+    "tags": [
+      "数据集"
+    ]
+  },
+  {
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
     "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
@@ -26,6 +54,21 @@
     "tags": [
       "英伟达",
       "安全"
+    ]
+  },
+  {
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "link": "https://hunch.net/?p=13764006",
+    "published": "2026-11-07T18:02:17Z",
+    "points": 430,
+    "comments": 255,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50406563",
+    "category": "研究论文",
+    "tags": [
+      "研究"
     ]
   },
   {
@@ -214,6 +257,49 @@
     ]
   },
   {
+    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+    "link": "https://www.qbitai.com/2026/11/508449.html",
+    "summary": "AI写代码太快，基础设施跟不上了",
+    "published": "2026-11-07T09:38:56.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:github不堪重负 openai收购替代品 a社原地自研 马斯克也要搞",
+    "category": "开源",
+    "tags": [
+      "OpenAI",
+      "GitHub"
+    ]
+  },
+  {
+    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+    "link": "https://www.qbitai.com/2026/11/508344.html",
+    "summary": "融资缩水，硅谷投资人也谨慎了",
+    "published": "2026-11-07T08:11:25.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:openai新融资到账110亿美元 不及原计划一半",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "为了去AI味，人类开始主动写烂文章了……",
+    "link": "https://www.qbitai.com/2026/11/508330.html",
+    "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+    "published": "2026-11-07T07:59:28.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:为了去ai味 人类开始主动写烂文章了",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
     "link": "https://www.qbitai.com/2026/11/508264.html",
     "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
@@ -240,6 +326,20 @@
     "category": "智能体",
     "tags": [
       "Agent"
+    ]
+  },
+  {
+    "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+    "link": "https://www.qbitai.com/2026/11/508236.html",
+    "summary": "中国版cosmos再交卷",
+    "published": "2026-11-07T03:31:44.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:浙大00后博士生再交卷 把十几种物理要素装进一个世界模型 华为昇腾原生",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ]
   },
   {
@@ -347,8 +447,8 @@
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
-    "points": 570,
-    "comments": 145,
+    "points": 573,
+    "comments": 146,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -672,8 +772,8 @@
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
-    "points": 646,
-    "comments": 423,
+    "points": 648,
+    "comments": 424,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -700,34 +800,6 @@
     ]
   },
   {
-    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-    "link": "https://www.qbitai.com/2026/11/508170.html",
-    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-    "published": "2026-11-06T09:21:51.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:阶跃终端 stepx neo 智能体手机亮相进博会高通展台 软硬模一体打造智能体新体验",
-    "category": "智能体",
-    "tags": [
-      "智能体"
-    ]
-  },
-  {
-    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-    "link": "https://www.qbitai.com/2026/11/508165.html",
-    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
-    "published": "2026-11-06T09:19:00.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:阿里巴巴发布 2026 ai向善行动报告 ai数据中心可持续发展成年度亮点",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "link": "https://openai.com/index/partnering-with-hacktron",
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -747,7 +819,7 @@
     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
     "link": "https://github.com/ppmpreetham/BUI",
     "published": "2026-11-06T07:40:35Z",
-    "points": 715,
+    "points": 724,
     "comments": 289,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -758,39 +830,6 @@
     "summaryStatus": "ai",
     "tags": [
       "GPU"
-    ]
-  },
-  {
-    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-    "link": "https://www.qbitai.com/2026/11/508155.html",
-    "summary": "Q3营收实现数倍增长",
-    "published": "2026-11-06T07:00:29.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:deepseek带火稀疏计算 国产芯片公司加速突围 这家公司又融近10亿",
-    "aiSummary": "DeepSeek带火稀疏计算，国产芯片公司加速突围，某公司融资近10亿，Q3营收数倍增长。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "DeepSeek",
-      "芯片"
-    ]
-  },
-  {
-    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-    "link": "https://www.qbitai.com/2026/11/508118.html",
-    "summary": "挑战商业视频的高难度场景",
-    "published": "2026-11-06T06:54:17.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:一边赛博修仙 一边卖家电 ai短剧开始冲双11业绩了",
-    "aiSummary": "AI短剧借双11冲业绩，挑战商业视频高难度场景。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -808,21 +847,6 @@
     "tags": [
       "安全",
       "Agent"
-    ]
-  },
-  {
-    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-    "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "published": "2026-11-06T04:00:28Z",
-    "points": 402,
-    "comments": 324,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50388001",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -863,8 +887,8 @@
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "published": "2026-11-05T23:09:57Z",
-    "points": 512,
-    "comments": 228,
+    "points": 515,
+    "comments": 229,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -895,8 +919,8 @@
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1590,
-    "comments": 514,
+    "points": 1593,
+    "comments": 519,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1113,8 +1137,8 @@
     "title": "Window Sweaters",
     "link": "https://github.com/saragordic/window-sweaters",
     "published": "2026-11-05T16:50:14Z",
-    "points": 458,
-    "comments": 135,
+    "points": 459,
+    "comments": 136,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1261,22 +1285,6 @@
     ]
   },
   {
-    "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-    "link": "https://sspai.com/post/118498",
-    "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ... 查看全文",
-    "published": "2026-11-05T00:16:27.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:派早报 腾讯发布混元 hy4 正式版 google 调整 k 12 教育 ai 政策等",
-    "aiSummary": "腾讯发布混元Hy4正式版，Google调整K-12教育AI政策。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Franklin Templeton uses OpenAI to support investment research",
     "link": "https://openai.com/index/franklin-templeton",
     "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
@@ -1396,8 +1404,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 553,
-    "comments": 682,
+    "points": 555,
+    "comments": 685,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1465,7 +1473,7 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1295,
+    "points": 1296,
     "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1482,7 +1490,7 @@
     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
     "link": "https://news.ycombinator.com/item?id=50363461",
     "published": "2026-11-04T10:10:27Z",
-    "points": 729,
+    "points": 730,
     "comments": 200,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1948,23 +1956,6 @@
       "LLM",
       "OpenAI",
       "GPT"
-    ]
-  },
-  {
-    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-    "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-    "published": "2026-11-02T18:39:38Z",
-    "points": 626,
-    "comments": 221,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50341462",
-    "aiSummary": "Ubuntu近三周仍未修复Linux 0day远程代码执行漏洞。",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "开源"
     ]
   }
 ]
