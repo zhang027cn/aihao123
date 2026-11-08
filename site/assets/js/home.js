@@ -18,10 +18,11 @@
   function renderNews(items) {
     const root = $('#home-news');
     if (!root || !items?.length) return;
-    root.innerHTML = items.slice(0, 8).map((n) => `
+    const top = items.slice(0, 8);
+    root.innerHTML = top.map((n) => `
       <li>
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
-        ${n.aiSummary ? `<p class="ai-summary">🤖 ${esc(n.aiSummary)}</p>` : ''}
+        <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}</p>
         <div class="news-meta">
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
@@ -29,6 +30,27 @@
           <span>${timeAgo(n.published)}</span>
         </div>
       </li>`).join('');
+    // 懒加载摘要：无 aiSummary 的条目调 /api/summary 按需生成
+    requestSummary(top);
+  }
+
+  const summaryQueue = new Set();
+  async function requestSummary(items) {
+    for (const n of items) {
+      if (!n.aiSummary && n.id && !summaryQueue.has(n.id)) {
+        summaryQueue.add(n.id);
+        fetch(`/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`)
+          .then((r) => (r.ok ? r.json() : { ok: false }))
+          .catch(() => ({ ok: false }))
+          .then((d) => {
+            summaryQueue.delete(n.id);
+            const el = document.querySelector(`[data-summary-for="${CSS.escape(n.id)}"]`);
+            if (el) {
+              el.textContent = d.ok && d.aiSummary ? '🤖 ' + d.aiSummary : '';
+            }
+          });
+      }
+    }
   }
 
   function renderRankings(rank) {
