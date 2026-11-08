@@ -1,5 +1,83 @@
 [
   {
+    "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+    "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+    "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appe",
+    "published": "2026-11-08T14:23:00.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:andrej karpathy built a curated video platform in a weekend using claude and 20 ",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "视频",
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+    "link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+    "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against granting rig",
+    "published": "2026-11-08T13:49:21.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:the brain as computer metaphor shaped modern ai but may be misleading the consci",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ]
+  },
+  {
+    "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+    "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+    "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wav",
+    "published": "2026-11-08T11:44:41.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:the inventor of the bitter lesson has a bitter lesson for llm scaling enthusiast",
+    "category": "大模型",
+    "tags": [
+      "LLM",
+      "研究",
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "终端侧AI：从单点应用走向智能体体验",
+    "link": "https://www.qbitai.com/2026/11/508478.html",
+    "summary": "高通在第九届进博会展出端侧MoE智能体",
+    "published": "2026-11-08T11:05:23.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:终端侧ai 从单点应用走向智能体体验",
+    "category": "智能体",
+    "tags": [
+      "智能体",
+      "应用"
+    ]
+  },
+  {
+    "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+    "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+    "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agen",
+    "published": "2026-11-08T09:50:59.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:ai coding agents still need human cleanup on nearly three out of four tasks in a",
+    "category": "大模型",
+    "tags": [
+      "编程",
+      "Agent",
+      "基准",
+      "GPT"
+    ]
+  },
+  {
     "title": "资本正在撤离“世界模型”",
     "link": "https://www.qbitai.com/2026/11/508466.html",
     "summary": "没有永远的夏天",
@@ -11,6 +89,21 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ]
+  },
+  {
+    "title": "Goodbye Claude, Hello Pi",
+    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "published": "2026-11-08T03:11:48Z",
+    "points": 480,
+    "comments": 315,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50410107",
+    "category": "大模型",
+    "tags": [
+      "Claude"
     ]
   },
   {
@@ -57,11 +150,27 @@
     ]
   },
   {
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "published": "2026-11-07T20:45:32Z",
+    "points": 474,
+    "comments": 336,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50407882",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "GitHub"
+    ]
+  },
+  {
     "title": "The end of Microsoft Research's AI Frontiers group",
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
-    "points": 430,
-    "comments": 255,
+    "points": 477,
+    "comments": 290,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -225,35 +334,6 @@
       "Agent",
       "自主",
       "基准"
-    ]
-  },
-  {
-    "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
-    "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
-    "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app",
-    "published": "2026-11-07T09:54:09.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:google s ai detects high blood pressure from a regular smartwatch without a cuff",
-    "category": "研究论文",
-    "tags": [
-      "研究"
-    ]
-  },
-  {
-    "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-    "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-    "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The ar",
-    "published": "2026-11-07T09:45:23.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai lands an 11 billion funding round but has to court dentists for more capi",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI",
-      "融资"
     ]
   },
   {
@@ -447,8 +527,8 @@
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
-    "points": 573,
-    "comments": 146,
+    "points": 585,
+    "comments": 152,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -456,25 +536,6 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-    "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-    "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple fall",
-    "published": "2026-11-06T19:47:04.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:ripple 65b preview delivers strong agentic coding results as a fully apache 2 0 ",
-    "aiSummary": "Ricursive发布65B开源模型Ripple-65B，登顶美开源编码榜，成本3200万美元。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "编程",
-      "Agentic",
-      "Agent",
-      "开源"
     ]
   },
   {
@@ -604,24 +665,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Perplexity now has its own always-on AI agent",
-    "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
-    "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexi",
-    "published": "2026-11-06T16:47:28.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:perplexity now has its own always on ai agent",
-    "aiSummary": "Perplexity推常驻AI代理Teammates，月费200美元，高于OpenAI等竞品。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "Anthropic",
-      "OpenAI"
     ]
   },
   {
@@ -772,7 +815,7 @@
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
-    "points": 648,
+    "points": 649,
     "comments": 424,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -783,20 +826,6 @@
     "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ]
-  },
-  {
-    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-    "link": "https://www.qbitai.com/2026/11/508174.html",
-    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-    "published": "2026-11-06T09:25:59.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:为什么每个 personal agent 背后 都必须配备一台 云电脑",
-    "category": "智能体",
-    "tags": [
-      "Agent"
     ]
   },
   {
@@ -819,8 +848,8 @@
     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
     "link": "https://github.com/ppmpreetham/BUI",
     "published": "2026-11-06T07:40:35Z",
-    "points": 724,
-    "comments": 289,
+    "points": 731,
+    "comments": 290,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -919,8 +948,8 @@
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1593,
-    "comments": 519,
+    "points": 1596,
+    "comments": 528,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1134,21 +1163,6 @@
     ]
   },
   {
-    "title": "Window Sweaters",
-    "link": "https://github.com/saragordic/window-sweaters",
-    "published": "2026-11-05T16:50:14Z",
-    "points": 459,
-    "comments": 136,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50381383",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Axiom Math wants to keep AI slop out of mathematics",
     "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
@@ -1232,23 +1246,6 @@
       "商业",
       "OpenAI",
       "GPT"
-    ]
-  },
-  {
-    "title": "Lemmings CSS Animation",
-    "link": "https://markblah.github.io/lemmings/",
-    "published": "2026-11-05T04:54:10Z",
-    "points": 413,
-    "comments": 78,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50375354",
-    "aiSummary": "用CSS动画重现经典游戏《Lemmings》的趣味场景。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -1404,8 +1401,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 555,
-    "comments": 685,
+    "points": 559,
+    "comments": 691,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1473,7 +1470,7 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1296,
+    "points": 1299,
     "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1491,7 +1488,7 @@
     "link": "https://news.ycombinator.com/item?id=50363461",
     "published": "2026-11-04T10:10:27Z",
     "points": 730,
-    "comments": 200,
+    "comments": 201,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1536,23 +1533,6 @@
       "安全",
       "GPT-5",
       "GPT"
-    ]
-  },
-  {
-    "title": "Jelly Sheet",
-    "link": "https://mrdoob.github.io/codevember-2026/01/",
-    "published": "2026-11-04T03:40:50Z",
-    "points": 466,
-    "comments": 119,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50361268",
-    "aiSummary": "谷歌发布可弯曲果冻片状柔性AI设备，可贴附皮肤监测健康。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -1641,23 +1621,6 @@
     ]
   },
   {
-    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-    "published": "2026-11-03T21:26:44Z",
-    "points": 421,
-    "comments": 170,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50358422",
-    "aiSummary": "美国科技巨头隐性AI债务半年激增90%，达3.2万亿美元。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
     "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
     "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
@@ -1694,7 +1657,7 @@
     "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
     "published": "2026-11-03T17:22:37Z",
     "points": 1525,
-    "comments": 495,
+    "comments": 496,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1745,7 +1708,7 @@
     "title": "Google will turn off search for schools that reject AI",
     "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
     "published": "2026-11-03T15:25:47Z",
-    "points": 672,
+    "points": 673,
     "comments": 470,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1956,6 +1919,35 @@
       "LLM",
       "OpenAI",
       "GPT"
+    ]
+  },
+  {
+    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+    "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+    "published": "2026-11-02T18:39:38Z",
+    "points": 626,
+    "comments": 221,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50341462",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ]
+  },
+  {
+    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+    "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+    "published": "2026-11-02T18:32:21.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:coming in 2027 apple s 1 000 home robot for facetime and switching on lights",
+    "category": "行业动态",
+    "tags": [
+      "机器人"
     ]
   }
 ]
