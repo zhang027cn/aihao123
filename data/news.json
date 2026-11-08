@@ -1,5 +1,51 @@
 [
   {
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
+    "published": "2026-11-08T20:22:39.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:nvidia is investigating jensen huang s relationship with a chinese spy",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "安全"
+    ]
+  },
+  {
+    "title": "Apple is racing to make Siri more agentic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
+    "published": "2026-11-08T19:18:19.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:apple is racing to make siri more agentic",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "Agentic",
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
+    "published": "2026-11-08T17:23:19.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:elvis and eminem rights holders are suing suno",
+    "category": "政策监管",
+    "tags": [
+      "诉讼",
+      "法律"
+    ]
+  },
+  {
     "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
     "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
     "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appe",
@@ -46,21 +92,6 @@
     ]
   },
   {
-    "title": "终端侧AI：从单点应用走向智能体体验",
-    "link": "https://www.qbitai.com/2026/11/508478.html",
-    "summary": "高通在第九届进博会展出端侧MoE智能体",
-    "published": "2026-11-08T11:05:23.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:终端侧ai 从单点应用走向智能体体验",
-    "category": "智能体",
-    "tags": [
-      "智能体",
-      "应用"
-    ]
-  },
-  {
     "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
     "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
     "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agen",
@@ -92,11 +123,11 @@
     ]
   },
   {
-    "title": "Goodbye Claude, Hello Pi",
+    "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 480,
-    "comments": 315,
+    "points": 620,
+    "comments": 399,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -153,8 +184,8 @@
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
-    "points": 474,
-    "comments": 336,
+    "points": 538,
+    "comments": 382,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -169,8 +200,8 @@
     "title": "The end of Microsoft Research's AI Frontiers group",
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
-    "points": 477,
-    "comments": 290,
+    "points": 485,
+    "comments": 302,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -527,8 +558,8 @@
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
-    "points": 585,
-    "comments": 152,
+    "points": 594,
+    "comments": 153,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -569,22 +600,6 @@
     "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ]
-  },
-  {
-    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you ca",
-    "published": "2026-11-06T18:10:10.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:meta s muse ai can create custom spaces for the version of the app you need righ",
-    "aiSummary": "Meta的Muse AI推出spaces功能，可定制购物、学习等应用式体验。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -645,38 +660,6 @@
     "lang": "en",
     "id": "simonwillison:quoting nilay patel",
     "aiSummary": "产品不够好，无法让用户为AI忍受数据中心噪音和深度伪造垃圾，不值得。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
-    "title": "AI is the new dating dealbreaker",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt w",
-    "published": "2026-11-06T17:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:ai is the new dating dealbreaker",
-    "aiSummary": "AI成为约会新障碍，影响人们择偶决策。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Big Tech lost big in the 2026 election",
-    "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nila",
-    "published": "2026-11-06T16:38:02.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:big tech lost big in the 2026 election",
-    "aiSummary": "美国选民投票反对AI，大科技公司受挫，数据中心建设更难。",
     "category": "芯片算力",
     "summaryStatus": "ai",
     "tags": [
@@ -815,8 +798,8 @@
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
-    "points": 649,
-    "comments": 424,
+    "points": 651,
+    "comments": 425,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -826,6 +809,20 @@
     "summaryStatus": "ai",
     "tags": [
       "禁令"
+    ]
+  },
+  {
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "link": "https://www.qbitai.com/2026/11/508174.html",
+    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "published": "2026-11-06T09:25:59.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:为什么每个 personal agent 背后 都必须配备一台 云电脑",
+    "category": "智能体",
+    "tags": [
+      "Agent"
     ]
   },
   {
@@ -848,7 +845,7 @@
     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
     "link": "https://github.com/ppmpreetham/BUI",
     "published": "2026-11-06T07:40:35Z",
-    "points": 731,
+    "points": 735,
     "comments": 290,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -916,8 +913,8 @@
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "published": "2026-11-05T23:09:57Z",
-    "points": 515,
-    "comments": 229,
+    "points": 517,
+    "comments": 231,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -948,8 +945,8 @@
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1596,
-    "comments": 528,
+    "points": 1599,
+    "comments": 530,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1163,6 +1160,21 @@
     ]
   },
   {
+    "title": "Window Sweaters",
+    "link": "https://github.com/saragordic/window-sweaters",
+    "published": "2026-11-05T16:50:14Z",
+    "points": 462,
+    "comments": 136,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50381383",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "Axiom Math wants to keep AI slop out of mathematics",
     "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
@@ -1246,6 +1258,21 @@
       "商业",
       "OpenAI",
       "GPT"
+    ]
+  },
+  {
+    "title": "Lemmings CSS Animation",
+    "link": "https://markblah.github.io/lemmings/",
+    "published": "2026-11-05T04:54:10Z",
+    "points": 413,
+    "comments": 78,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50375354",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ]
   },
   {
@@ -1401,8 +1428,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 559,
-    "comments": 691,
+    "points": 561,
+    "comments": 693,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1470,7 +1497,7 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1299,
+    "points": 1302,
     "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1487,7 +1514,7 @@
     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
     "link": "https://news.ycombinator.com/item?id=50363461",
     "published": "2026-11-04T10:10:27Z",
-    "points": 730,
+    "points": 734,
     "comments": 201,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1621,6 +1648,21 @@
     ]
   },
   {
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "published": "2026-11-03T21:26:44Z",
+    "points": 421,
+    "comments": 170,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50358422",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
     "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
     "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
@@ -1709,7 +1751,7 @@
     "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
     "published": "2026-11-03T15:25:47Z",
     "points": 673,
-    "comments": 470,
+    "comments": 472,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1725,7 +1767,7 @@
     "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
     "link": "https://news.ycombinator.com/item?id=50352757",
     "published": "2026-11-03T14:53:41Z",
-    "points": 531,
+    "points": 533,
     "comments": 163,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1901,53 +1943,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "llm 0.37",
-    "link": "https://simonwillison.net/2026/Nov/2/llm/",
-    "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models th",
-    "published": "2026-11-02T23:49:30.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:llm 0 37",
-    "aiSummary": "llm 0.37发布，新增GPT-6.1系列模型及OpenAI端点添加命令。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "LLM",
-      "OpenAI",
-      "GPT"
-    ]
-  },
-  {
-    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-    "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-    "published": "2026-11-02T18:39:38Z",
-    "points": 626,
-    "comments": 221,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50341462",
-    "category": "开源",
-    "tags": [
-      "开源"
-    ]
-  },
-  {
-    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-    "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-    "published": "2026-11-02T18:32:21.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:coming in 2027 apple s 1 000 home robot for facetime and switching on lights",
-    "category": "行业动态",
-    "tags": [
-      "机器人"
     ]
   }
 ]
