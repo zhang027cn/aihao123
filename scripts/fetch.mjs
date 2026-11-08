@@ -129,7 +129,7 @@ async function ghSearch(query, sort, limit) {
 
 async function fetchRankings() {
   const cfg = sources.rankings || {};
-  const out = { github: [], hfModels: [], hfSpaces: [], hn: [] };
+  const out = { github: [], hfModels: [], hfSpaces: [], hn: [], cnModels: [], hotTopics: [], newRising: [], agents: [] };
 
   for (const q of cfg.github || []) {
     try {
@@ -194,6 +194,125 @@ async function fetchRankings() {
     record('rankings', 'hn', true, { items: out.hn.length });
   } catch (e) {
     record('rankings', 'hn', false, { error: String(e.message || e).slice(0, 120) });
+  }
+
+  // ---------- 特色榜单（本站原创） ----------
+  const feat = cfg.featured || {};
+  const news = await readJson(join(DATA, 'news.json'), []);
+
+  // 方案1 国产大模型热度榜：聚合各 org 星标 + 资讯提及
+  if (feat.cnModels) {
+    try {
+      const orgs = feat.cnModels.orgs || [];
+      // GitHub org -> 中文品牌名/关键词（用于展示 + 资讯提及匹配）
+      const brand = {
+        'deepseek-ai': 'DeepSeek', 'QwenLM': 'Qwen', 'THUDM': '智谱', 'zhipuai': '智谱', 'MoonshotAI': 'Kimi',
+        'MiniMax-AI': 'MiniMax', '01-ai': '零一万物', 'stepfun-ai': '阶跃星辰', 'internlm': 'InternLM',
+        'Tencent': '腾讯', 'baidu': '百度', 'aliyun': '阿里',
+      };
+      const rows = [];
+      for (const org of orgs) {
+        try {
+          const d = await getJson(`https://api.github.com/orgs/${org}/repos?sort=stars&per_page=20`, { headers: ghHeaders, timeoutMs: 12000 });
+          const totalStars = (d || []).reduce((n, r) => n + (r.stargazers_count || 0), 0);
+          const top = (d || []).sort((a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0))[0];
+          if (!top) continue;
+          const name = brand[org] || top.name || org;
+          const keywords = [name.toLowerCase(), org.toLowerCase(), brand[org]?.toLowerCase()].filter(Boolean);
+          const mention = news.filter((n) => {
+            const text = (n.title + ' ' + (n.aiSummary || n.summary || '')).toLowerCase();
+            return keywords.some((k) => text.includes(k));
+          }).length;
+          const heat = Math.round(Math.log(1 + totalStars) * 10 + mention * 4);
+          rows.push({
+            id: `cn:${org}`,
+            name,
+            org,
+            url: sanitizeUrl(top.html_url) || `https://github.com/${org}`,
+            description: (top.description || '').slice(0, 180),
+            stars: totalStars,
+            mentions: mention,
+            heat,
+            cn: true,
+          });
+        } catch { /* 单个 org 失败跳过 */ }
+      }
+      rows.sort((a, b) => b.heat - a.heat);
+      out.cnModels = rows.slice(0, feat.cnModels.limit || 15);
+      record('rankings', 'featured:cn-models', true, { items: out.cnModels.length });
+    } catch (e) {
+      record('rankings', 'featured:cn-models', false, { error: String(e.message || e).slice(0, 120) });
+    }
+  }
+
+  // 方案4 AI 话题热议榜：聚合资讯 tags 为话题
+  if (feat.hotTopics) {
+    try {
+      const topic = new Map();
+      for (const n of news) {
+        const tags = Array.isArray(n.tags) ? n.tags : [n.category || 'AI'].filter(Boolean);
+        for (const t of tags) {
+          const cur = topic.get(t) || { tag: t, count: 0, sources: new Set() };
+          cur.count++;
+          cur.sources.add(n.source);
+          topic.set(t, cur);
+        }
+      }
+      out.hotTopics = [...topic.values()]
+        .map((t) => ({ tag: t.tag, count: t.count, sourceCount: t.sources.size }))
+        .sort((a, b) => b.count - a.count || b.sourceCount - a.sourceCount)
+        .slice(0, feat.hotTopics.maxItems || 15);
+      record('rankings', 'featured:hot-topics', true, { items: out.hotTopics.length });
+    } catch (e) {
+      record('rankings', 'featured:hot-topics', false, { error: String(e.message || e).slice(0, 120) });
+    }
+  }
+
+  // 方案6 AI 开源新锐榜：近期新项目 + star 增速
+  if (feat.newRising) {
+    try {
+      const items = await ghSearch(feat.newRising.query, 'stars', feat.newRising.limit);
+      out.newRising = items.map((r) => ({
+        ...r,
+        heat: Math.round(r.stars / Math.max(1, Math.pow(daysSince(r.pushedAt) + 1, 1.2))),
+      })).sort((a, b) => b.heat - a.heat);
+      record('rankings', 'featured:new-rising', true, { items: out.newRising.length });
+    } catch (e) {
+      record('rankings', 'featured:new-rising', false, { error: String(e.message || e).slice(0, 120) });
+    }
+  }
+
+  // 方案7 AI 智能体赛道榜：固定知名框架仓库（星标）+ 资讯提及
+  if (feat.agents) {
+    try {
+      const repos = feat.agents.repos || [];
+      const rows = [];
+      for (const full of repos) {
+        try {
+          const r = await getJson(`https://api.github.com/repos/${full}`, { headers: ghHeaders, timeoutMs: 12000 });
+          if (!r?.full_name) continue;
+          const name = r.name || full;
+          const mention = news.filter((n) => (n.title + ' ' + (n.aiSummary || n.summary || '')).toLowerCase().includes(name.toLowerCase())).length;
+          rows.push({
+            id: r.full_name,
+            name: r.full_name,
+            url: sanitizeUrl(r.html_url) || `https://github.com/${r.full_name}`,
+            description: (r.description || '').slice(0, 180),
+            stars: r.stargazers_count,
+            forks: r.forks_count,
+            license: (r.license || {}).spdx_id || '',
+            pushedAt: r.pushed_at,
+            mentions: mention,
+            heat: Math.round(r.stargazers_count / (1 + daysSince(r.pushed_at)) + mention * 5),
+          });
+        } catch { /* 单个仓库失败跳过 */ }
+      }
+      rows.sort((a, b) => b.heat - a.heat);
+      out.agents = rows.slice(0, feat.agents.limit || 15);
+      record('rankings', 'featured:agents', true, { items: out.agents.length });
+    } catch (e) {
+      record('rankings', 'featured:agents', false, { error: String(e.message || e).slice(0, 120) });
+    }
   }
 
   return out;

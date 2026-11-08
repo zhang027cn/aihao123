@@ -1,163 +1,68 @@
 {
-  "generatedAt": "2026-11-07T23:38:31.953Z",
+  "generatedAt": "2026-11-08T05:24:30.336Z",
   "datasets": {
-    "news": {
-      "openai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:32.169Z",
-        "items": 32
-      },
-      "hf-blog": {
-        "ok": true,
-        "at": "2026-11-07T23:38:32.335Z",
-        "items": 12
-      },
-      "google-ai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:32.762Z",
-        "items": 2
-      },
-      "techcrunch-ai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:32.825Z",
-        "items": 20
-      },
-      "verge-ai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:32.933Z",
-        "items": 10
-      },
-      "ars-ai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:33.189Z",
-        "items": 18
-      },
-      "techreview": {
-        "ok": true,
-        "at": "2026-11-07T23:38:33.295Z",
-        "items": 6
-      },
-      "simonwillison": {
-        "ok": true,
-        "at": "2026-11-07T23:38:33.437Z",
-        "items": 19
-      },
-      "the-decoder": {
-        "ok": true,
-        "at": "2026-11-07T23:38:34.831Z",
-        "items": 10
-      },
-      "importai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:34.891Z",
-        "items": 0
-      },
-      "lastweekinai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:35.005Z",
-        "items": 0
-      },
-      "interconnects": {
-        "ok": true,
-        "at": "2026-11-07T23:38:35.295Z",
-        "items": 2
-      },
-      "qbitai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:36.595Z",
-        "items": 9
-      },
-      "36kr": {
-        "ok": true,
-        "at": "2026-11-07T23:38:37.344Z",
-        "items": 0
-      },
-      "sspai": {
-        "ok": true,
-        "at": "2026-11-07T23:38:38.382Z",
-        "items": 1
-      },
-      "hn": {
-        "ok": true,
-        "at": "2026-11-07T23:38:40.386Z",
-        "items": 30
-      },
-      "_aiRestored": 94,
-      "_total": 120
-    },
     "rankings": {
       "gh:llm": {
         "ok": true,
-        "at": "2026-11-07T23:38:40.936Z",
+        "at": "2026-11-08T05:24:30.930Z",
         "items": 15
       },
       "gh:mcp": {
         "ok": true,
-        "at": "2026-11-07T23:38:41.402Z",
+        "at": "2026-11-08T05:24:31.360Z",
         "items": 15
       },
       "gh:skills": {
         "ok": true,
-        "at": "2026-11-07T23:38:41.896Z",
+        "at": "2026-11-08T05:24:31.720Z",
         "items": 15
       },
       "gh:agents": {
         "ok": true,
-        "at": "2026-11-07T23:38:42.402Z",
+        "at": "2026-11-08T05:24:32.139Z",
         "items": 15
       },
       "gh:rag": {
         "ok": true,
-        "at": "2026-11-07T23:38:42.900Z",
+        "at": "2026-11-08T05:24:32.610Z",
         "items": 15
       },
       "hf-models": {
         "ok": true,
-        "at": "2026-11-07T23:38:42.982Z",
+        "at": "2026-11-08T05:24:33.391Z",
         "items": 20
       },
       "hf-spaces": {
         "ok": true,
-        "at": "2026-11-07T23:38:43.024Z",
+        "at": "2026-11-08T05:24:33.801Z",
         "items": 20
       },
       "hn": {
         "ok": true,
-        "at": "2026-11-07T23:38:43.978Z",
+        "at": "2026-11-08T05:24:35.361Z",
         "items": 20
       },
-      "_total": 65
-    },
-    "mcp": {
-      "gh:mcp-repos": {
+      "featured:cn-models": {
         "ok": true,
-        "at": "2026-11-07T23:38:44.598Z",
-        "items": 20
+        "at": "2026-11-08T05:24:35.662Z",
+        "items": 0
       },
-      "official-registry": {
+      "featured:hot-topics": {
         "ok": true,
-        "at": "2026-11-07T23:38:44.910Z",
-        "items": 200
+        "at": "2026-11-08T05:24:35.663Z",
+        "items": 15
       },
-      "_total": 60
-    },
-    "skills": {
-      "anthropics-official": {
+      "featured:new-rising": {
         "ok": true,
-        "at": "2026-11-07T23:38:45.379Z",
-        "items": 20
+        "at": "2026-11-08T05:24:36.099Z",
+        "items": 15
       },
-      "gh:skills-repos": {
+      "featured:agents": {
         "ok": true,
-        "at": "2026-11-07T23:38:46.064Z",
-        "items": 27
+        "at": "2026-11-08T05:24:36.412Z",
+        "items": 0
       },
-      "gh:agent-skills-repos": {
-        "ok": true,
-        "at": "2026-11-07T23:38:46.535Z",
-        "items": 12
-      },
-      "_total": 55
+      "_total": 95
     }
   },
   "failures": 0

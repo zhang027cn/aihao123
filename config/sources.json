@@ -37,7 +37,31 @@
     ],
     "hfModels": { "limit": 20 },
     "hfSpaces": { "limit": 20 },
-    "hn": { "limit": 20, "minPoints": 100, "queries": ["AI", "LLM", "model", "agent"] }
+    "hn": { "limit": 20, "minPoints": 100, "queries": ["AI", "LLM", "model", "agent"] },
+    "featured": {
+      "cnModels": {
+        "label": "国产大模型热度榜",
+        "orgs": ["deepseek-ai", "QwenLM", "THUDM", "zhipuai", "MoonshotAI", "MiniMax-AI", "01-ai", "stepfun-ai", "internlm", "Tencent", "baidu", "aliyun"],
+        "limit": 15
+      },
+      "hotTopics": { "label": "AI 话题热议榜", "maxItems": 15 },
+      "newRising": {
+        "label": "AI 开源新锐榜",
+        "query": "topic:ai created:>2026-08-01 stars:>50",
+        "limit": 15
+      },
+      "agents": {
+        "label": "AI 智能体赛道榜",
+        "repos": [
+          "langchain-ai/langchain", "run-llama/llama_index", "crewAIInc/crewAI",
+          "microsoft/autogen", "openai/openai-agents-python", "camel-ai/camel",
+          "geekan/MetaGPT", "microsoft/agent-framework", "langgenius/dify",
+          "All-Hands-AI/OpenHands", "langchain-ai/langgraph", "huggingface/smolagents",
+          "google/adk-python", "microsoft/ai-agents-for-rust", "openai/openai-agents-js"
+        ],
+        "limit": 15
+      }
+    }
   },
   "mcp": {
     "registry": {
