@@ -245,13 +245,15 @@ async function fetchRankings() {
     }
   }
 
-  // 方案4 AI 话题热议榜：聚合资讯 tags 为话题
+  // 方案4 AI 话题热议榜：聚合资讯 tags 为话题（排除分类兜底标签）
   if (feat.hotTopics) {
     try {
+      const CAT = new Set(['大模型', '智能体', '开源', '芯片算力', '政策监管', '应用落地', '研究论文', '行业动态']);
       const topic = new Map();
       for (const n of news) {
         const tags = Array.isArray(n.tags) ? n.tags : [n.category || 'AI'].filter(Boolean);
         for (const t of tags) {
+          if (CAT.has(t)) continue; // 分类兜底不算话题
           const cur = topic.get(t) || { tag: t, count: 0, sources: new Set() };
           cur.count++;
           cur.sources.add(n.source);

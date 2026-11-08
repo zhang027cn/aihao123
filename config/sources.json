@@ -41,7 +41,7 @@
     "featured": {
       "cnModels": {
         "label": "国产大模型热度榜",
-        "orgs": ["deepseek-ai", "QwenLM", "THUDM", "zhipuai", "MoonshotAI", "MiniMax-AI", "01-ai", "stepfun-ai", "internlm", "Tencent", "baidu", "aliyun"],
+        "orgs": ["deepseek-ai", "QwenLM", "THUDM", "MoonshotAI", "MiniMax-AI", "01-ai", "stepfun-ai", "internlm", "Tencent", "baidu", "aliyun"],
         "limit": 15
       },
       "hotTopics": { "label": "AI 话题热议榜", "maxItems": 15 },
