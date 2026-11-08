@@ -1,0 +1,152 @@
+{
+  "updated": "2026-11-08",
+  "description": "人工精选的特色 MCP 服务器与 Agent Skills，含中文简介/使用场景/使用方法。此文件是核心资产，只由人工维护；机器只读取不写入。",
+  "mcp": [
+    {
+      "name": "browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "official": false,
+      "intro": "AI 操控浏览器的自动化框架。给 Agent 一双眼睛和手：导航、点击、填表、截图、抽取页面数据，全程由 LLM 决策。",
+      "useCases": ["网页自动化测试", "数据采集", "表单自动填写", "AI 上网代理"],
+      "howTo": "安装后通过 Playwright 驱动 Chromium，Agent 用自然语言指令（如“打开知乎搜 AI 并提取前 10 条标题”）即可操控浏览器。",
+      "install": "pip install browser-use && playwright install chromium"
+    },
+    {
+      "name": "context7",
+      "url": "https://github.com/upstash/context7",
+      "official": false,
+      "intro": "把任意库的最新文档实时注入 Agent 上下文。按库名/版本拉取官方文档，让 Agent 不用猜 API，直接用对的方法。",
+      "useCases": ["代码库文档问答", "库 API 用法查询", "依赖升级提示", "生成最新示例"],
+      "howTo": "配置为 MCP 服务器后，用 get-library-docs 工具传入库名与版本，即可获得文档片段。",
+      "install": "npx -y @upstash/context7-mcp"
+    },
+    {
+      "name": "crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "official": false,
+      "intro": "LLM 友好的网页爬虫框架。抓取网页并转为结构化 Markdown，自动处理 JS 渲染、反爬、批量抓取，输出 AI 可直接用的内容。",
+      "useCases": ["网页转 Markdown", "批量爬取", "动态页面抓取", "构建 RAG 语料"],
+      "howTo": "Python 里用 AsyncWebCrawler 抓取 URL 得到 markdown；也提供 REST API 与 MCP 接入。",
+      "install": "pip install crawl4ai && crawl4ai-setup"
+    },
+    {
+      "name": "mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "official": false,
+      "intro": "开源 AI 记忆系统。为 Agent 提供跨会话的长期记忆：记住事实、偏好、历史，按需检索，让每次对话都有上下文。",
+      "useCases": ["个人知识库", "Agent 长期记忆", "偏好与历史追溯", "多轮对话一致性"],
+      "howTo": "通过 MCP 协议暴露记忆读写工具，Agent 自动存取记忆条目，支持向量检索与时间衰减。",
+      "install": "docker run -p 8000:8000 mempalace/mempalace"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+      "official": true,
+      "intro": "GitHub 官方 MCP 服务器。让 Agent 直接操作 GitHub：读仓库、查 Issue/PR、看 CI、管理 Release，无需离开对话。",
+      "useCases": ["Issue 管理与回复", "PR 审查与合并", "代码搜索", "仓库洞察"],
+      "howTo": "配置个人访问令牌(PAT)，Agent 即可调用 GitHub 的 issue/pr/repo 工具。",
+      "install": "npx -y @modelcontextprotocol/server-github"
+    },
+    {
+      "name": "filesystem",
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+      "official": true,
+      "intro": "MCP 官方文件系统服务器。受控访问本地目录：读写、搜索、移动文件，是 Agent 操作本地代码/文档的基础能力。",
+      "useCases": ["本地文件读写", "目录浏览", "文件搜索", "代码库操作"],
+      "howTo": "启动时用 --allowed-dir 指定可访问目录，Agent 即可在授权范围内读写。",
+      "install": "npx -y @modelcontextprotocol/server-filesystem /allowed/dir"
+    },
+    {
+      "name": "fetch",
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+      "official": true,
+      "intro": "MCP 官方网页抓取服务器。把 URL 拉取为 Markdown 文本交给 LLM，是最常用的网页内容读取工具。",
+      "useCases": ["网页内容阅读", "在线文档抓取", "正文提取", "链接内容分析"],
+      "howTo": "用 fetch 工具传入 URL，返回正文 Markdown，可限制最大字符数。",
+      "install": "npx -y @modelcontextprotocol/server-fetch"
+    },
+    {
+      "name": "docs",
+      "url": "https://github.com/anthropics/skills/tree/main/docx",
+      "official": true,
+      "intro": "文档生成套件：创建/编辑 Word(docx)、PDF、PowerPoint(pptx) 文件。把 Markdown 一键转成专业文档给 Agent 使用。",
+      "useCases": ["生成 Word 报告", "导出 PDF", "制作演示文稿", "批量文档处理"],
+      "howTo": "通过 Claude Skills 的 docx/pptx 技能，Agent 用 Markdown 生成结构化文档，支持样式与表格。",
+      "install": "npm i -g docx pptxgenjs"
+    }
+  ],
+  "skills": [
+    {
+      "name": "pdf",
+      "url": "https://github.com/anthropics/skills/tree/main/pdf",
+      "official": true,
+      "intro": "Anthropic 官方 PDF 技能。创建、合并、拆分、加水印 PDF，或从 PDF 提取文本与表格，让 Agent 处理文档无障碍。",
+      "useCases": ["PDF 生成与编辑", "文本提取", "表格识别", "批量处理"],
+      "howTo": "把技能放入 ~/.claude/skills/pdf/，Agent 即可用 create/edit 工具处理 PDF。",
+      "install": "克隆 anthropics/skills，拷贝 pdf 到 ~/.claude/skills/"
+    },
+    {
+      "name": "docx",
+      "url": "https://github.com/anthropics/skills/tree/main/docx",
+      "official": true,
+      "intro": "Anthropic 官方 Word 技能。从 Markdown 生成排版精美的 .docx，支持标题、列表、表格、图片，适合报告与文档产出。",
+      "useCases": ["生成 Word 报告", "排版文档", "批量文档", "论文草稿"],
+      "howTo": "用 docx 技能把 Markdown 渲染为 Word，样式与结构自动映射。",
+      "install": "克隆 anthropics/skills，拷贝 docx 到 ~/.claude/skills/"
+    },
+    {
+      "name": "pptx",
+      "url": "https://github.com/anthropics/skills/tree/main/pptx",
+      "official": true,
+      "intro": "Anthropic 官方 PowerPoint 技能。把 Markdown 大纲转成结构清晰的演示文稿，一键生成 PPT 给汇报/教学用。",
+      "useCases": ["制作幻灯片", "汇报材料", "教学课件", "产品介绍"],
+      "howTo": "用 pptx 技能把 Markdown 大纲渲染为 .pptx，自动分配布局与主题。",
+      "install": "克隆 anthropics/skills，拷贝 pptx 到 ~/.claude/skills/"
+    },
+    {
+      "name": "skill-creator",
+      "url": "https://github.com/anthropics/skills/tree/main/skill-creator",
+      "official": true,
+      "intro": "Anthropic 官方技能制作器。用对话方式创建你自己的 Agent Skill：定义触发、示例、工作流，生成规范 SKILL.md。",
+      "useCases": ["创建自定义技能", "技能模板化", "团队技能标准化"],
+      "howTo": "调用 skill-creator 交互式填写技能名、描述、步骤，自动生成标准 SKILL.md。",
+      "install": "克隆 anthropics/skills，拷贝 skill-creator 到 ~/.claude/skills/"
+    },
+    {
+      "name": "mcp-builder",
+      "url": "https://github.com/anthropics/skills/tree/main/mcp-builder",
+      "official": true,
+      "intro": "Anthropic 官方 MCP 构建器。引导你创建、测试、发布 Model Context Protocol 服务器，从零到一做出自己的 MCP。",
+      "useCases": ["开发 MCP 服务器", "接入外部数据", "自定义工具", "MCP 发布"],
+      "howTo": "用 mcp-builder 按向导定义工具与资源，自动生成可运行并测试的 MCP 服务。",
+      "install": "克隆 anthropics/skills，拷贝 mcp-builder 到 ~/.claude/skills/"
+    },
+    {
+      "name": "canvas-design",
+      "url": "https://github.com/anthropics/skills/tree/main/canvas-design",
+      "official": true,
+      "intro": "Anthropic 官方画布设计技能。用代码生成网页/海报视觉稿，遵循设计规范，产出可直接预览的设计作品。",
+      "useCases": ["网页视觉稿", "海报设计", "UI 概念图", "品牌视觉"],
+      "howTo": "用 canvas-design 技能生成规范化的 HTML/CSS 视觉作品并预览。",
+      "install": "克隆 anthropics/skills，拷贝 canvas-design 到 ~/.claude/skills/"
+    },
+    {
+      "name": "frontend-design",
+      "url": "https://github.com/anthropics/skills/tree/main/frontend-design",
+      "official": true,
+      "intro": "Anthropic 官方前端设计技能。产出符合现代设计系统与可访问性标准的网页，含布局、配色、交互细节。",
+      "useCases": ["落地页", "组件设计", "响应式页面", "可访问性优化"],
+      "howTo": "用 frontend-design 技能生成符合规范的前端代码，注重对比度与语义化。",
+      "install": "克隆 anthropics/skills，拷贝 frontend-design 到 ~/.claude/skills/"
+    },
+    {
+      "name": "doc-coauthoring",
+      "url": "https://github.com/anthropics/skills/tree/main/doc-coauthoring",
+      "official": true,
+      "intro": "Anthropic 官方文档协作技能。与 Agent 一起撰写/编辑长文档，维护结构与风格一致，适合方案、规范、报告。",
+      "useCases": ["方案撰写", "文档修订", "协作编辑", "规范沉淀"],
+      "howTo": "用 doc-coauthoring 技能让 Agent 按大纲协作生成文档，保持语气与结构统一。",
+      "install": "克隆 anthropics/skills，拷贝 doc-coauthoring 到 ~/.claude/skills/"
+    }
+  ]
+}

@@ -20,6 +20,7 @@ import { writeJson, readJson, dedupeBy, normText, isOsiLicense, daysSince, sanit
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
 const sources = await readJson(join(ROOT, 'config/sources.json'), {});
+const featuredTools = await readJson(join(ROOT, 'config/featured-tools.json'), { mcp: [], skills: [] });
 
 const token = process.env.GITHUB_TOKEN || '';
 const ghHeaders = token ? { Authorization: `Bearer ${token}` } : {};
@@ -34,6 +35,47 @@ function record(dataset, source, ok, detail = {}) {
   meta.datasets[dataset] ??= {};
   meta.datasets[dataset][source] = { ok, at: new Date().toISOString(), ...detail };
   if (!ok) failures++;
+}
+
+// 把人工精选的特色条目（config/featured-tools.json）合并进抓取结果。
+// 已收录的按 name 匹配并增强 intro/useCases/howTo/install；未收录的作为新条目追加。
+function mergeFeatured(kind, items, limit) {
+  const feats = (featuredTools[kind] || []).slice(0, limit || 60);
+  const map = new Map(items.map((x) => [String(x.name).toLowerCase(), x]));
+  const featsToAdd = [];
+  for (const f of feats) {
+    const key = String(f.name).toLowerCase();
+    const exist = map.get(key);
+    if (exist) {
+      exist.intro = f.intro;
+      exist.useCases = f.useCases;
+      exist.howTo = f.howTo;
+      exist.install = f.install;
+      exist.featured = true;
+      exist.official = f.official ?? exist.official;
+    } else {
+      featsToAdd.push({
+        id: `featured:${key}`,
+        name: f.name,
+        url: sanitizeUrl(f.url) || '#',
+        description: f.intro,
+        intro: f.intro,
+        useCases: f.useCases,
+        howTo: f.howTo,
+        install: f.install,
+        featured: true,
+        official: !!f.official,
+        openSource: true,
+        stars: 0,
+        license: '',
+        source: 'featured',
+      });
+    }
+  }
+  // 特色条目置顶：已收录的排前，新追加的紧随其后
+  const featuredExist = items.filter((x) => x.featured);
+  const normal = items.filter((x) => !x.featured);
+  return [...featuredExist, ...featsToAdd, ...normal].slice(0, limit || 60);
 }
 
 // ---------- 资讯 ----------
@@ -385,7 +427,8 @@ async function fetchMcp() {
   // GitHub 条目保持 stars 排序优先占位；Registry 补足
   const ghPart = deduped.filter((x) => x.source === 'github').slice(0, limit);
   const regPart = deduped.filter((x) => x.source !== 'github').slice(0, Math.max(0, limit - ghPart.length));
-  return [...ghPart, ...regPart];
+  // 合并人工精选特色 MCP（简介/场景/方法），已收录增强、未收录追加，特色置顶
+  return mergeFeatured('mcp', [...ghPart, ...regPart], limit);
 }
 
 // ---------- SKILL 目录 ----------
@@ -434,7 +477,9 @@ async function fetchSkills() {
     }
   }
 
-  return dedupeBy(out, (x) => normText(x.name)).slice(0, cfg.maxItems || 60);
+  const merged = dedupeBy(out, (x) => normText(x.name)).slice(0, cfg.maxItems || 60);
+  // 合并人工精选特色 SKILL（简介/场景/方法），特色置顶
+  return mergeFeatured('skills', merged, cfg.maxItems || 60);
 }
 
 // ---------- 主流程 ----------

@@ -139,6 +139,14 @@ h2 { font-size: 22px; }
 .badge.oss { background: #e8f7ee; color: var(--good); }
 .badge.cat { background: #f3eefc; color: var(--accent-2); flex: none; }
 .badge.tag { background: #eef4fb; color: #3b6ea5; font-weight: 500; }
+.badge.feat { background: #fff3e0; color: #b06a00; font-weight: 600; }
+.scenes { display: flex; flex-wrap: wrap; gap: 5px; margin: 8px 0; }
+.scene { background: #f5f6f8; color: var(--ink-soft); font-size: 12px; padding: 2px 9px; border-radius: 999px; }
+.howto { margin: 6px 0 4px; }
+.howto summary { cursor: pointer; font-size: 12.5px; color: var(--accent-2); font-weight: 600; user-select: none; }
+.howto-body { margin-top: 6px; padding: 8px 10px; background: var(--card-2, #fafbfc); border: 1px solid var(--line); border-radius: 8px; }
+.howto-body p { margin: 0 0 6px; font-size: 12.5px; color: var(--ink); line-height: 1.6; }
+.howto-body .code { margin: 0; padding: 8px 10px; background: #0f172a; color: #e2e8f0; font-size: 12px; border-radius: 6px; overflow-x: auto; white-space: pre-wrap; word-break: break-all; }
 .load-more { text-align: center; padding: 14px 0 4px; color: var(--ink-soft); font-size: 13px; cursor: pointer; }
 .hidden { display: none !important; }
 .sum-placeholder { color: var(--ink-soft); opacity: 0.6; }
