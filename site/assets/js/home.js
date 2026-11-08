@@ -15,6 +15,10 @@
       </section>`).join('');
   }
 
+  const tagBadges = (tags) => Array.isArray(tags)
+    ? tags.slice(0, 3).map((t) => `<span class="badge tag">#${esc(t)}</span>`).join('')
+    : '';
+
   function renderNews(items) {
     const root = $('#home-news');
     if (!root || !items?.length) return;
@@ -24,6 +28,7 @@
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
         <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}</p>
         <div class="news-meta">
+          ${tagBadges(n.tags)}
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
           ${n.points ? `<span class="badge hot">▲ ${esc(n.points)}</span>` : ''}

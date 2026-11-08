@@ -44,6 +44,52 @@ const CATEGORY_RULES = [
 ];
 const DEFAULT_CAT = '行业动态';
 
+// 关键词标签词典：关键词 → 显示标签。命中标题加权、摘要轻权，取前 N 个。
+const TAG_DICT = [
+  ['gpt-5', 'GPT-5'], ['gpt-4', 'GPT-4'], ['gpt', 'GPT'], ['openai', 'OpenAI'],
+  ['claude', 'Claude'], ['anthropic', 'Anthropic'], ['gemini', 'Gemini'], ['deepseek', 'DeepSeek'],
+  ['qwen', 'Qwen'], ['通义', '通义'], ['llama', 'Llama'], ['mistral', 'Mistral'], ['grok', 'Grok'],
+  ['llm', 'LLM'], ['大模型', '大模型'], ['多模态', '多模态'], ['foundation model', '基础模型'],
+  ['agent', 'Agent'], ['智能体', '智能体'], ['agentic', 'Agentic'], ['multi-agent', '多智能体'],
+  ['mcp', 'MCP'], ['tool use', '工具调用'], ['autonomous', '自主'],
+  ['open source', '开源'], ['open-source', '开源'], ['开源', '开源'], ['weights', '开源权重'], ['github', 'GitHub'],
+  ['nvidia', '英伟达'], ['gpu', 'GPU'], ['chip', '芯片'], ['芯片', '芯片'], ['semiconductor', '半导体'],
+  ['算力', '算力'], ['datacenter', '数据中心'], ['data center', '数据中心'], ['inference', '推理'],
+  ['regulation', '监管'], ['regulatory', '监管'], ['监管', '监管'], ['ai act', 'AI法案'], ['copyright', '版权'],
+  ['lawsuit', '诉讼'], ['ban', '禁令'], ['policy', '政策'],
+  ['enterprise', '企业'], ['business', '商业'], ['saas', 'SaaS'], ['copilot', 'Copilot'],
+  ['coding', '编程'], ['developer', '开发者'], ['应用', '应用'], ['落地', '落地'], ['revenue', '营收'],
+  ['paper', '论文'], ['research', '研究'], ['arxiv', 'arXiv'], ['benchmark', '基准'], ['dataset', '数据集'],
+  ['机器人', '机器人'], ['robot', '机器人'], ['video', '视频'], ['image', '图像'], ['voice', '语音'],
+  ['security', '安全'], ['safety', '安全对齐'], ['alignment', '安全对齐'], ['reasoning', '推理模型'],
+  ['funding', '融资'], ['valuation', '估值'], ['ipo', 'IPO'], ['acquisition', '收购'], ['merger', '并购'],
+  ['quantum', '量子'], ['edge', '端侧'], ['on-device', '端侧'], ['health', '医疗'], ['medical', '医疗'],
+  ['finance', '金融'], ['legal', '法律'], ['education', '教育'], ['gaming', '游戏'],
+];
+
+function extractTags(title, summary) {
+  const t = String(title || '').toLowerCase();
+  const s = String(summary || '').toLowerCase();
+  const scored = [];
+  for (const [kw, tag] of TAG_DICT) {
+    let score = 0;
+    if (t.includes(kw)) score += 3;      // 标题命中权重高
+    if (s.includes(kw)) score += 1;      // 摘要命中轻权
+    if (score > 0) scored.push([tag, score, kw]);
+  }
+  // 按分排序，同分按关键词长度（更长更具体），去重标签
+  scored.sort((a, b) => b[1] - a[1] || b[2].length - a[2].length);
+  const seen = new Set();
+  const out = [];
+  for (const [tag] of scored) {
+    if (seen.has(tag)) continue;
+    seen.add(tag);
+    out.push(tag);
+    if (out.length >= 4) break;
+  }
+  return out;
+}
+
 function classify(text) {
   const s = String(text || '').toLowerCase();
   for (const [cat, words] of CATEGORY_RULES) {
@@ -122,13 +168,20 @@ const SYSTEM = `你是中文科技资讯编辑，擅长把英文/中文 AI 新�
 2. 保留关键信息：谁、做了什么、有何意义/影响。
 3. 不臆造原文没有的事实。`;
 
-async function summarizeItem(item) {
+async function summarizeItem(item, { forceAi = false } = {}) {
   const title = String(item.title || '').trim();
   const summary = cleanSummary(item.summary);
-  const prompt = `标题：${title}\n摘要：${summary || '（无摘要）'}\n\n请用一句中文总结这条 AI 资讯。`;
 
-  // 分类用规则生成（零成本、稳定），避免让 LLM 承担分类不确定性
+  // 分类 + 关键词标签：零成本规则生成，所有条目都刷新
   item.category = classify(title + ' ' + summary);
+  const tags = extractTags(title, summary);
+  // 无关键词命中时用分类作为兜底标签，保证每条都有标签
+  item.tags = tags.length ? tags : [item.category];
+
+  // 已有 aiSummary 且非强制重写 → 只补标签，不调 LLM
+  if (item.aiSummary && !forceAi) return item;
+
+  const prompt = `标题：${title}\n摘要：${summary || '（无摘要）'}\n\n请用一句中文总结这条 AI 资讯。`;
   try {
     const ai = await chat(SYSTEM, prompt);
     const cleaned = ai.replace(/["'`]/g, '').trim();
@@ -147,10 +200,6 @@ async function summarizeItem(item) {
 }
 
 async function main() {
-  if (!KEY) {
-    console.log('⚠ 未设置 SENSENOVA_KEY，跳过 AI 摘要（纯静态降级）');
-    return;
-  }
   let news = [];
   try {
     news = JSON.parse(await readFile(NEWS, 'utf8'));
@@ -158,6 +207,25 @@ async function main() {
     console.log('⚠ data/news.json 不存在，请先运行 node scripts/fetch.mjs');
     return;
   }
+  // 第一遍：所有条目都补分类 + 关键词标签（零成本，不调 LLM）
+  let tagged = 0;
+  for (const n of news) {
+    const title = String(n.title || '');
+    const summary = cleanSummary(n.summary);
+    n.category = classify(title + ' ' + summary);
+    const tags = extractTags(title, summary);
+    n.tags = tags.length ? tags : [n.category];  // 无关键词命中用分类兜底
+    tagged++;
+  }
+  console.log(`🏷 补全分类/关键词标签：${tagged}/${news.length} 条`);
+
+  if (!KEY) {
+    await writeFile(NEWS, JSON.stringify(news, null, 2), 'utf8');
+    console.log(`⚠ 未设置 SENSENOVA_KEY，仅补全标签（跳过 AI 摘要生成）`);
+    return;
+  }
+
+  // 第二遍：只为缺 aiSummary 的条目调 LLM 生成摘要（增量，省 token）
   const todo = news.filter((n) => FORCE || !n.aiSummary);
   console.log(`📰 共 ${news.length} 条，需生成摘要 ${todo.length} 条${FORCE ? '（--all 强制重写）' : ''}`);
 
@@ -171,7 +239,7 @@ async function main() {
     while (queue.length) {
       const item = queue.shift();
       try {
-        await summarizeItem(item);
+        await summarizeItem(item, { forceAi: FORCE });
         ok++;
       } catch (e) {
         fail++;
@@ -185,7 +253,8 @@ async function main() {
 
   await writeFile(NEWS, JSON.stringify(news, null, 2), 'utf8');
   const withAi = news.filter((n) => n.aiSummary).length;
-  console.log(`✔ 完成：新增/更新摘要 ${ok} 条，失败 ${fail} 条，当前含 aiSummary ${withAi}/${news.length} 条`);
+  const withTags = news.filter((n) => Array.isArray(n.tags) && n.tags.length).length;
+  console.log(`✔ 完成：摘要 ${ok} 条，失败 ${fail} 条，含 aiSummary ${withAi}/${news.length} 条，含标签 ${withTags}/${news.length} 条`);
 }
 
 main().catch((e) => {

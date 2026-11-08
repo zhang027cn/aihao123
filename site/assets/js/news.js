@@ -4,6 +4,9 @@
   const state = { items: [], lang: 'all', src: 'all', cat: 'all', q: '', visible: 0 };
   const PAGE = 30;          // 每次渲染条数（懒加载）
   const catBadge = (cat) => cat ? `<span class="badge cat">${esc(cat)}</span>` : '';
+  const tagBadges = (tags) => Array.isArray(tags)
+    ? tags.slice(0, 3).map((t) => `<span class="badge tag">#${esc(t)}</span>`).join('')
+    : '';
 
   function filtered() {
     return state.items.filter((n) => {
@@ -24,6 +27,7 @@
         </div>
         <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}</p>
         <div class="news-meta">
+          ${tagBadges(n.tags)}
           <span class="badge src">${esc(n.source)}</span>
           <span class="badge ${n.lang === 'zh' ? 'zh' : 'en'}">${n.lang === 'zh' ? '中文' : 'EN'}</span>
           ${n.points ? `<span class="badge hot">▲ ${esc(n.points)}</span>` : ''}

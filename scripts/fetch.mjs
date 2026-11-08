@@ -337,6 +337,9 @@ async function mergeNewsEnrichment(prev, next) {
       n.summaryStatus = p.summaryStatus || 'ai';
       restored++;
     }
+    // 分类/关键词标签是零成本规则产物，只要有就复用（即使无 aiSummary）
+    if (p?.category && !n.category) n.category = p.category;
+    if (Array.isArray(p?.tags) && p.tags.length) n.tags = p.tags;
   }
   return restored;
 }
