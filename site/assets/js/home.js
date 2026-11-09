@@ -129,11 +129,17 @@
     const stats = $('#stats');
     if (stats) {
       const dirCount = (window.__DIRECTORY__?.categories || []).reduce((a, c) => a + c.links.length, 0);
-      stats.innerHTML = `
-        <span class="stat-pill">📁 导航 <b>${dirCount}</b> 个站点</span>
-        <span class="stat-pill">📰 资讯 <b>${news?.length || 0}</b> 条</span>
-        <span class="stat-pill">🧩 MCP <b>${mcp?.length || 0}</b> 个</span>
-        <span class="stat-pill">🛠 SKILL <b>${skills?.length || 0}</b> 个</span>`;
+      const cards = [
+        { num: dirCount, label: '📁 导航站点', href: '#dir-section' },
+        { num: news?.length || 0, label: '📰 每日资讯', href: 'news.html' },
+        { num: mcp?.length || 0, label: '🧩 MCP 服务器', href: 'mcp.html' },
+        { num: skills?.length || 0, label: '🛠 SKILL 技能', href: 'skills.html' },
+      ];
+      stats.innerHTML = cards.map((c) => `
+        <a class="stat-pill" href="${c.href}">
+          <span class="stat-num">${fmt(c.num)}</span>
+          <span class="stat-label">${c.label}</span>
+        </a>`).join('');
     }
   }
   document.addEventListener('DOMContentLoaded', init);
