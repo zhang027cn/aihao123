@@ -133,6 +133,12 @@
   async function init() {
     state.items = await getData('news', []);
     initFilters();
+    // 支持 ?q= 从 SEO SearchAction / 外部链接直达筛选（news.html?q=大模型）
+    const pre = new URLSearchParams(location.search).get('q');
+    if (pre) {
+      const q = $('#news-search');
+      if (q) { q.value = pre; state.q = pre.toLowerCase(); }
+    }
     render();
   }
   document.addEventListener('DOMContentLoaded', init);
