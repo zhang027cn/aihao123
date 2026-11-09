@@ -48,6 +48,7 @@
     if (more) more.classList.toggle('hidden', !(items.length > state.visible));
     requestSummary(slice);
     observeSentinel();
+    bindLoadMore();
   }
 
   function appendMore() {
@@ -63,6 +64,7 @@
     const more = $('#news-load-more');
     if (more) more.classList.toggle('hidden', !(items.length > state.visible));
     requestSummary(next);
+    bindLoadMore();
   }
 
   // 按需摘要：可见条目若无 aiSummary，调后端生成（懒加载）
@@ -87,6 +89,14 @@
           });
         if (!fetching) { fetching = true; p.finally(() => { fetching = false; }); }
       }
+    }
+  }
+
+  function bindLoadMore() {
+    const btn = $('#news-load-more');
+    if (btn && !btn._bound) {
+      btn._bound = true;
+      btn.addEventListener('click', appendMore);
     }
   }
 
