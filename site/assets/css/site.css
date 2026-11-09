@@ -93,7 +93,7 @@ h2 { font-size: 22px; }
 /* 板块 */
 .section { margin: 30px 0; }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
-.section-head h2 { margin: 0; }
+.section-head h1, .section-head h2 { margin: 0; font-size: 22px; font-weight: 700; }
 .section-head .more { font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
 
 /* 目录卡片网格 */
