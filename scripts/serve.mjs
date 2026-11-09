@@ -59,8 +59,10 @@ createServer(async (req, res) => {
     res.writeHead(200, { 'Content-Type': MIME[extname(target)] || 'application/octet-stream', 'Cache-Control': 'no-cache' });
     res.end(body);
   } catch (e) {
+    // 不把异常详情回显给客户端，避免泄露文件系统路径/内部状态
+    console.error('serve.mjs 处理请求失败:', e && e.message);
     res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
-    res.end('500 ' + e.message);
+    res.end('500 Internal Server Error');
   }
 }).listen(PORT, HOST, () => {
   console.log(`AI Hao123 预览: http://${HOST}:${PORT}`);

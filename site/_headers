@@ -1,3 +1,11 @@
+# ---------------------------------------------------------------------------
+# 说明（重要）：GitHub Pages 不支持这个 _headers 文件，它不会被 Pages 读取。
+#   GitHub Pages 无法自定义响应头（CSP/HSTS/X-Frame-Options 等一律不生效）。
+#   真正的安全头只在阿里云镜像（nginx）上生效，见 deploy/nginx-aihao123.conf。
+#   本文件保留仅用于：托管在其他支持 _headers 的平台（如 Cloudflare Pages /
+#   Netlify）时作为声明。若你只用 GitHub Pages，请勿误以为这些头已生效。
+# ---------------------------------------------------------------------------
+
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
