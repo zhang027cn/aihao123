@@ -113,6 +113,10 @@
       };
       hero.addEventListener('keydown', (e) => { if (e.key === 'Enter') jump(); });
       if (go) go.addEventListener('click', jump);
+      // 首页隐藏了 header 搜索，Ctrl+K 快捷键改绑 hero 搜索框
+      document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') { e.preventDefault(); hero.focus(); hero.select(); }
+      });
     }
     const [news, rank, mcp, skills] = await Promise.all([
       getData('news', []),

@@ -216,3 +216,6 @@ h2 { font-size: 22px; }
 .search-pop a:hover { background: var(--accent-soft); text-decoration: none; }
 .search-pop .pop-cat { color: var(--ink-soft); font-size: 12px; }
 .search-pop .cat { font-size: 11px; color: var(--ink-soft); padding: 6px 12px 2px; }
+
+/* 首页去重：首页已有 hero 大搜索框，隐藏 header 小搜索，避免一屏两框重复 */
+body.home .header-search { display: none; }
