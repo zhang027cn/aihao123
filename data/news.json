@@ -1,5 +1,90 @@
 [
   {
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "published": "2026-11-09T05:26:29.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:is jensen huang s job on the line yale s jeffrey sonnenfeld estimates it s about",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ]
+  },
+  {
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+    "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude",
+    "published": "2026-11-09T04:32:33.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:the web is more than enough by paul ford",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Hide your slop PR descriptions behind",
+    "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+    "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding ",
+    "published": "2026-11-09T04:25:05.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:hide your slop pr descriptions behind",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair",
+    "published": "2026-11-08T22:54:50.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:here s the full text of jensen huang s memo to nvidia",
+    "category": "智能体",
+    "tags": [
+      "英伟达",
+      "Agent"
+    ]
+  },
+  {
+    "title": "parse_number() as a SQLite extension: C vs Rust",
+    "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+    "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and so",
+    "published": "2026-11-08T22:26:00.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:parse_number as a sqlite extension c vs rust",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ]
+  },
+  {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "published": "2026-11-08T21:00:11.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia will investigate ceo jensen huang s relationship with possible chinese sp",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ]
+  },
+  {
     "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
@@ -28,6 +113,22 @@
       "Agent",
       "Agentic",
       "OpenAI"
+    ]
+  },
+  {
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "published": "2026-11-08T18:16:07Z",
+    "points": 696,
+    "comments": 386,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50415628",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "禁令"
     ]
   },
   {
@@ -126,8 +227,8 @@
     "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 620,
-    "comments": 399,
+    "points": 729,
+    "comments": 451,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -184,8 +285,8 @@
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
-    "points": 538,
-    "comments": 382,
+    "points": 599,
+    "comments": 407,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -197,11 +298,25 @@
     ]
   },
   {
+    "title": "Terry Pratchett's Study",
+    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+    "summary": "My comment on Terry Pratchett's Study &mdash; Hacker News. Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical wealth is where you spend money on rich people stuff - yachts and suchlike. Horizontal wealth is where you spend more money on the things you liked before you got ",
+    "published": "2026-11-07T19:34:24.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:terry pratchett s study",
+    "category": "研究论文",
+    "tags": [
+      "研究论文"
+    ]
+  },
+  {
     "title": "The end of Microsoft Research's AI Frontiers group",
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
-    "points": 485,
-    "comments": 302,
+    "points": 500,
+    "comments": 309,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -539,26 +654,10 @@
     ]
   },
   {
-    "title": "All the latest updates on AI data centers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data ",
-    "published": "2026-11-06T20:02:22.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:all the latest updates on ai data centers",
-    "aiSummary": "科技公司大规模扩建AI数据中心，引发全球电网、电费及社区影响争议。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
-    "points": 594,
+    "points": 595,
     "comments": 153,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -798,8 +897,8 @@
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
-    "points": 651,
-    "comments": 425,
+    "points": 655,
+    "comments": 426,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -913,7 +1012,7 @@
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
     "published": "2026-11-05T23:09:57Z",
-    "points": 517,
+    "points": 519,
     "comments": 231,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -945,8 +1044,8 @@
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1599,
-    "comments": 530,
+    "points": 1604,
+    "comments": 533,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1093,24 +1192,6 @@
     ]
   },
   {
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "published": "2026-11-05T18:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:claude can now analyze your spending with its new personal finance tool",
-    "aiSummary": "Claude推出个人理财工具，经Plaid连接银行账户，可分析消费。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "金融",
-      "Claude",
-      "禁令"
-    ]
-  },
-  {
     "title": "Quoting Paul Ford",
     "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
     "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
@@ -1163,7 +1244,7 @@
     "title": "Window Sweaters",
     "link": "https://github.com/saragordic/window-sweaters",
     "published": "2026-11-05T16:50:14Z",
-    "points": 462,
+    "points": 463,
     "comments": 136,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1172,22 +1253,6 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "published": "2026-11-05T16:16:45.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:axiom math wants to keep ai slop out of mathematics",
-    "aiSummary": "Axiom Math用AI代理正式验证数学巨库Stacks Project，防止未经证实的AI证明污染数学。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
     ]
   },
   {
@@ -1391,6 +1456,21 @@
     ]
   },
   {
+    "title": "Declarative Dragging",
+    "link": "https://declarative-dragging.github.io/",
+    "published": "2026-11-04T17:05:07Z",
+    "points": 458,
+    "comments": 60,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50368481",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "How big is the open model economy today?",
     "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
     "summary": "Our first open model economy research note for paid subscribers.",
@@ -1428,8 +1508,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 561,
-    "comments": 693,
+    "points": 564,
+    "comments": 695,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1497,7 +1577,7 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1302,
+    "points": 1304,
     "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1712,6 +1792,20 @@
     ]
   },
   {
+    "title": "AI is destroying my CS degree",
+    "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+    "summary": "My comment on AI is destroying my CS degree &mdash; Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The wor",
+    "published": "2026-11-03T16:42:02.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:ai is destroying my cs degree",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "Palette: teaching a small model to build decks in your design language",
     "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "summary": "",
@@ -1750,8 +1844,8 @@
     "title": "Google will turn off search for schools that reject AI",
     "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
     "published": "2026-11-03T15:25:47Z",
-    "points": 673,
-    "comments": 472,
+    "points": 674,
+    "comments": 470,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1767,7 +1861,7 @@
     "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
     "link": "https://news.ycombinator.com/item?id=50352757",
     "published": "2026-11-03T14:53:41Z",
-    "points": 533,
+    "points": 535,
     "comments": 163,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1828,121 +1922,6 @@
       "OpenAI",
       "企业",
       "安全"
-    ]
-  },
-  {
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "link": "https://openai.com/index/heimstaden",
-    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "published": "2026-11-03T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:heimstaden is changing residential real estate management with ai",
-    "aiSummary": "Heimstaden借助OpenAI的ChatGPT Enterprise和Codex，革新欧洲住宅物业管理，降本增效。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "企业",
-      "OpenAI",
-      "GPT"
-    ]
-  },
-  {
-    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-    "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-    "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B dat",
-    "published": "2026-11-03T05:32:25.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:i discovered a sound that leaks your exact location and it s everywhere youtube",
-    "aiSummary": "利用视频中飞机背景噪声的多普勒曲线，可精确定位拍摄地点。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "视频"
-    ]
-  },
-  {
-    "title": "October sponsors-only newsletter",
-    "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-    "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscri",
-    "published": "2026-11-03T05:28:59.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:october sponsors only newsletter",
-    "aiSummary": "发布十月赞助商通讯，聚焦游戏开发拐",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "link": "https://hackertv.org",
-    "published": "2026-11-03T01:18:09Z",
-    "points": 488,
-    "comments": 83,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50346755",
-    "aiSummary": "HackerTV将HN最推荐的YouTube视频转为24/7电视直播频道。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "视频"
-    ]
-  },
-  {
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-    "published": "2026-11-03T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:openai appoints jill hazelbaker as chief corporate affairs officer",
-    "aiSummary": "OpenAI任命Jill Hazelbaker为首席企业事务官，负责全球传播与品牌定位。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "link": "https://huggingface.co/blog/cwe-bench",
-    "summary": "",
-    "published": "2026-11-03T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:cwe bench v2 more coverage quality and transparency",
-    "aiSummary": "CWE-bench v2发布，提升覆盖范围、质量和透明度。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Transformers Model Integration Contracts",
-    "link": "https://huggingface.co/blog/transformers-mic",
-    "summary": "",
-    "published": "2026-11-03T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:transformers model integration contracts",
-    "aiSummary": "Transformers模型集成合约发布，规范",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   }
 ]
