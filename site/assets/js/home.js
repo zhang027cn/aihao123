@@ -89,7 +89,7 @@
       const pool = tab === '最新'
         ? [...all].sort((a, b) => (b.published || '').localeCompare(a.published || ''))
         : all.filter((n) => n.category === tab);
-      // 6 条与右栏 12 行榜单高度配平
+      // 6 条 ≈ 右栏 10 行榜单（每行约 64px）高度配平
       return pool.slice(0, 6);
     };
     function show(tab) {
@@ -139,11 +139,11 @@
       let html = '';
       if (t === 'gh') {
         const g = groups[0];
-        html = (g?.items || []).slice(0, 12).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${esc(r.license || '开源')}`, r.url)).join('');
+        html = (g?.items || []).slice(0, 10).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${esc(r.license || '开源')}`, r.url)).join('');
       } else if (t === 'models') {
-        html = (rank.hfModels || []).slice(0, 12).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${esc(r.trendingScore)}`, r.url)).join('');
+        html = (rank.hfModels || []).slice(0, 10).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${esc(r.trendingScore)}`, r.url)).join('');
       } else {
-        html = (rank.hn || []).slice(0, 12).map((r, i) => rankRow(i, r.title, '', `${esc(r.points)} ▲`, r.url)).join('');
+        html = (rank.hn || []).slice(0, 10).map((r, i) => rankRow(i, r.title, '', `${esc(r.points)} ▲`, r.url)).join('');
       }
       pane.innerHTML = html || emptyBox('暂无数据');
     }
