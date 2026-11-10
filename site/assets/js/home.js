@@ -58,11 +58,11 @@
     ? tags.slice(0, 2).map((t) => `<span class="badge tag">#${esc(t)}</span>`).join('')
     : '';
 
-  function renderNews(items) {
-    const root = $('#home-news');
-    if (!root || !items?.length) return;
-    const top = items.slice(0, 6);  // 6 条与右栏 12 行榜单高度配平
-    root.innerHTML = top.map((n) => `
+  // 资讯分类 tab 布局（与右栏榜单一致）：首 tab「最新」，其余为高频分类
+  const NEWS_TABS = ['最新', '大模型', '智能体', '芯片算力', '政策监管'];
+
+  function newsItemHtml(n) {
+    return `
       <li>
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
         <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}</p>
@@ -73,9 +73,38 @@
           ${n.points ? `<span class="badge hot">▲ ${esc(n.points)}</span>` : ''}
           <span>${timeAgo(n.published)}</span>
         </div>
-      </li>`).join('');
-    // 懒加载摘要：无 aiSummary 的条目调 /api/summary 按需生成
-    requestSummary(top);
+      </li>`;
+  }
+
+  function renderNews(all) {
+    const root = $('#home-news');
+    if (!root || !all?.length) return;
+    // tabs 放卡片外（与榜单栏同构），卡片内渲染当前 tab 列表
+    root.innerHTML = `
+      <div class="tabs">${NEWS_TABS.map((t, i) => `<button class="tab ${i === 0 ? 'active' : ''}" data-t="${esc(t)}">${esc(t)}</button>`).join('')}</div>
+      <div class="card"><ul class="news-list" id="home-news-list"><li><div class="empty">暂无资讯</div></li></ul></div>`;
+
+    const list = $('#home-news-list');
+    const getItems = (tab) => {
+      const pool = tab === '最新'
+        ? [...all].sort((a, b) => (b.published || '').localeCompare(a.published || ''))
+        : all.filter((n) => n.category === tab);
+      // 6 条与右栏 12 行榜单高度配平
+      return pool.slice(0, 6);
+    };
+    function show(tab) {
+      const top = getItems(tab);
+      list.innerHTML = top.length ? top.map(newsItemHtml).join('')
+        : '<li><div class="empty">该分类暂无资讯</div></li>';
+      // 懒加载摘要：无 aiSummary 的条目调 /api/summary 按需生成
+      requestSummary(top);
+    }
+    root.querySelectorAll('.tab').forEach((b) => b.addEventListener('click', () => {
+      root.querySelectorAll('.tab').forEach((x) => x.classList.remove('active'));
+      b.classList.add('active');
+      show(b.dataset.t);
+    }));
+    show('最新');
   }
 
   const summaryQueue = new Set();
