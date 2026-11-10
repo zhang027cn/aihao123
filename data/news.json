@@ -1,5 +1,291 @@
 [
   {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "published": "2026-11-10T01:27:12.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:anthropic reportedly plans to move forward with ipo plans",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic",
+      "IPO",
+      "估值"
+    ]
+  },
+  {
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th",
+    "published": "2026-11-10T00:28:49.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:david ellison says ai could be the biggest creative unlock in modern history",
+    "category": "应用落地",
+    "tags": [
+      "应用落地"
+    ]
+  },
+  {
+    "title": "llm-anthropic 0.31",
+    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+    "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG of ",
+    "published": "2026-11-09T23:58:46.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:llm anthropic 0 31",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "LLM"
+    ]
+  },
+  {
+    "title": "Locating the source of a mysterious beep with Claude",
+    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was frustrating, and I re",
+    "published": "2026-11-09T23:57:21.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:locating the source of a mysterious beep with claude",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "What could China get from Jensen Huang?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
+    "published": "2026-11-09T23:51:58.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:what could china get from jensen huang",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "芯片"
+    ]
+  },
+  {
+    "title": "Here’s what Trump said he knew about Jensen Huang",
+    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation int",
+    "published": "2026-11-09T23:47:46.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:here s what trump said he knew about jensen huang",
+    "category": "开源",
+    "tags": [
+      "英伟达",
+      "端侧"
+    ]
+  },
+  {
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "published": "2026-11-09T23:28:37.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:jensen huang reportedly engaged a pr firm with a history of handling high profil",
+    "category": "应用落地",
+    "tags": [
+      "商业"
+    ]
+  },
+  {
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
+    "published": "2026-11-09T23:07:59.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:everything we know so far about the nvidia spy scandal targeting ceo jensen huan",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "端侧"
+    ]
+  },
+  {
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "published": "2026-11-09T22:46:09.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:a short seller flagged nvidia ceo s ties to a suspected chinese spy six months b",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "研究"
+    ]
+  },
+  {
+    "title": "The race is on to sue Nvidia",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+    "published": "2026-11-09T22:23:42.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:the race is on to sue nvidia",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+    "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+    "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and wri",
+    "published": "2026-11-09T21:15:23.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:claude fable 5 2 and mythos 5 2 cement anthropic s ai lead just before its ipo",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "IPO",
+      "安全"
+    ]
+  },
+  {
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "2026-11-09T20:09:06.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:jensen huang pulls out of elevenlabs summit amid nvidia controversy",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "Anthropic"
+    ]
+  },
+  {
+    "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+    "link": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+    "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual",
+    "published": "2026-11-09T19:41:51.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:meta launches muse ember a small ai model built for the repetitive work agents a",
+    "category": "大模型",
+    "tags": [
+      "Agent",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "published": "2026-11-09T19:24:51.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:anthropic releases new mythos and fable models amid rsi concerns",
+    "category": "开源",
+    "tags": [
+      "Anthropic",
+      "推理模型",
+      "编程"
+    ]
+  },
+  {
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st",
+    "published": "2026-11-09T19:09:58.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:apple s 50 intelligence usage packs extend access to some ai features",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "published": "2026-11-09T19:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:chatgpt enterprise now available in aws marketplace",
+    "category": "大模型",
+    "tags": [
+      "企业",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of ",
+    "published": "2026-11-09T19:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:anthropic launches new claude fable and mythos 5 2 models",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "推理模型",
+      "编程"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "published": "2026-11-09T18:56:29Z",
+    "points": 963,
+    "comments": 6,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50429906",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+    "link": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+    "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in reali",
+    "published": "2026-11-09T18:50:01.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:bytedance s seedream 5 5 promises pixel stable image editing across 100 rounds w",
+    "category": "应用落地",
+    "tags": [
+      "图像"
+    ]
+  },
+  {
     "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
     "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
@@ -89,7 +375,7 @@
   {
     "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
     "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
     "published": "2026-11-09T16:56:54.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -172,20 +458,6 @@
     ]
   },
   {
-    "title": "Hold up — I had a great time talking to the RIAA guy",
-    "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-    "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, whi",
-    "published": "2026-11-09T15:30:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:hold up i had a great time talking to the riaa guy",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Nvidia CEO's affair becomes a national security problem",
     "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
     "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
@@ -216,20 +488,6 @@
     ]
   },
   {
-    "title": "Jonathan Kanter is using AI to take on Big Tech",
-    "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-    "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Div",
-    "published": "2026-11-09T14:30:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:jonathan kanter is using ai to take on big tech",
-    "category": "行业动态",
-    "tags": [
-      "法律"
-    ]
-  },
-  {
     "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
     "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
     "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
@@ -255,6 +513,23 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
+    ]
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "published": "2026-11-09T13:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:control room a central system to track and stop model workloads across our resea",
+    "category": "研究论文",
+    "tags": [
+      "研究",
+      "安全",
+      "OpenAI",
+      "安全对齐"
     ]
   },
   {
@@ -301,11 +576,11 @@
     ]
   },
   {
-    "title": "Fold Epic Paper Airplanes",
+    "title": "Foldable Flight: The Best Paper Airplanes",
     "link": "https://www.foldableflight.com",
     "published": "2026-11-09T12:19:22Z",
-    "points": 599,
-    "comments": 95,
+    "points": 864,
+    "comments": 140,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -400,6 +675,36 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ]
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "published": "2026-11-09T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:coderabbit scales agentic software development and ships 20x more",
+    "category": "智能体",
+    "tags": [
+      "Agentic",
+      "Agent",
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "link": "https://openai.com/index/kuken",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "published": "2026-11-09T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:kuken industries searches 70 years of drawings in minutes",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
     ]
   },
   {
@@ -533,8 +838,8 @@
     "title": "I'm not convinced the AI bubble exists",
     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "published": "2026-11-08T23:44:36Z",
-    "points": 522,
-    "comments": 889,
+    "points": 543,
+    "comments": 938,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -545,26 +850,11 @@
     ]
   },
   {
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair",
-    "published": "2026-11-08T22:54:50.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:here s the full text of jensen huang s memo to nvidia",
-    "category": "智能体",
-    "tags": [
-      "英伟达",
-      "Agent"
-    ]
-  },
-  {
     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
     "link": "https://ketchup3d.github.io/app/",
     "published": "2026-11-08T22:35:35Z",
-    "points": 704,
-    "comments": 211,
+    "points": 732,
+    "comments": 225,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -604,42 +894,11 @@
     ]
   },
   {
-    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
-    "published": "2026-11-08T20:22:39.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:nvidia is investigating jensen huang s relationship with an alleged chinese spy",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "安全"
-    ]
-  },
-  {
-    "title": "Apple is racing to make Siri more agentic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
-    "published": "2026-11-08T19:18:19.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:apple is racing to make siri more agentic",
-    "category": "智能体",
-    "tags": [
-      "Agent",
-      "Agentic",
-      "OpenAI"
-    ]
-  },
-  {
     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "published": "2026-11-08T18:16:07Z",
-    "points": 869,
-    "comments": 469,
+    "points": 884,
+    "comments": 473,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -648,21 +907,6 @@
     "tags": [
       "Claude",
       "禁令"
-    ]
-  },
-  {
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
-    "published": "2026-11-08T17:23:19.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:elvis and eminem rights holders are suing suno",
-    "category": "政策监管",
-    "tags": [
-      "诉讼",
-      "法律"
     ]
   },
   {
@@ -712,28 +956,29 @@
     ]
   },
   {
-    "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-    "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
-    "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agen",
-    "published": "2026-11-08T09:50:59.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "published": "2026-11-08T10:22:04Z",
+    "points": 475,
+    "comments": 204,
+    "source": "Hacker News",
+    "sourceId": "hn",
     "lang": "en",
-    "id": "the-decoder:ai coding agents still need human cleanup on nearly three out of four tasks in a",
+    "id": "hn:50411961",
     "category": "大模型",
     "tags": [
-      "编程",
-      "Agent",
-      "基准",
-      "GPT"
+      "DeepSeek",
+      "Llama",
+      "芯片",
+      "GPU"
     ]
   },
   {
     "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 798,
-    "comments": 483,
+    "points": 805,
+    "comments": 485,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -790,8 +1035,8 @@
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
-    "points": 621,
-    "comments": 417,
+    "points": 622,
+    "comments": 422,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -820,7 +1065,7 @@
     "title": "The end of Microsoft Research's AI Frontiers group",
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
-    "points": 507,
+    "points": 509,
     "comments": 309,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -832,45 +1077,11 @@
     ]
   },
   {
-    "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-    "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-    "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthrop",
-    "published": "2026-11-07T17:37:25.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic pushes ahead with pre thanksgiving ipo despite tech selloff accepts lo",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "估值",
-      "IPO",
-      "开发者"
-    ]
-  },
-  {
-    "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-    "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
-    "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable saf",
-    "published": "2026-11-07T16:56:38.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:ai auditors catch most agent misbehavior but flood reviewers with false alarms n",
-    "category": "大模型",
-    "tags": [
-      "Agent",
-      "Anthropic",
-      "研究",
-      "GPT-5"
-    ]
-  },
-  {
     "title": "Every Mac comes with an (undocumented) family member classifier",
     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "published": "2026-11-07T09:46:03Z",
-    "points": 862,
-    "comments": 458,
+    "points": 863,
+    "comments": 461,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -977,22 +1188,6 @@
     ]
   },
   {
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-    "published": "2026-11-06T18:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:how a blue wave midterm might reshape the ai industry",
-    "aiSummary": "美国中期选举民主党获胜，41项数据中心投票中40项支持加强限制，或重塑AI行业。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
     "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
     "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
@@ -1006,22 +1201,6 @@
     "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ]
-  },
-  {
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-    "published": "2026-11-06T17:23:52.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:after the midterms is the ai industry in for a rough two years",
-    "aiSummary": "美国中期选举后，选民对41项数据中心提案大多支持加强限制，或影响AI行业。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
     ]
   },
   {
@@ -1054,39 +1233,6 @@
     "summaryStatus": "ai",
     "tags": [
       "开发者"
-    ]
-  },
-  {
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "published": "2026-11-06T15:54:47.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:ramp data shows ai spending stalling just as anthropic nears its ipo",
-    "aiSummary": "Ramp数据显示AI支出停滞，Anthropic临近IPO，挑战投资者超增长预期。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "IPO"
-    ]
-  },
-  {
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "published": "2026-11-06T14:10:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:after blocking muse amazon now lets users text alexa to help them shop",
-    "aiSummary": "亚马逊推出短信与Alexa购物功能，数周内覆盖数百万用户。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -1123,43 +1269,11 @@
     ]
   },
   {
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-    "published": "2026-11-06T13:02:16.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:underdog shows off a 32mb speech model in new demo",
-    "aiSummary": "Underdog展示32MB语音模型，能同时生成语音和音乐。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "published": "2026-11-06T13:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:physicl raises 10m to make the digital world real enough for robots",
-    "aiSummary": "Physicl融资1000万美元，用电商营销流程解决机器人模拟到现实差距。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "机器人"
-    ]
-  },
-  {
     "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
     "points": 656,
-    "comments": 433,
+    "comments": 436,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1191,7 +1305,7 @@
     "title": "Blender's UI and Runtime: Much Faster Than GPUI",
     "link": "https://github.com/ppmpreetham/BUI",
     "published": "2026-11-06T07:40:35Z",
-    "points": 737,
+    "points": 738,
     "comments": 290,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1258,8 +1372,8 @@
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1609,
-    "comments": 533,
+    "points": 1612,
+    "comments": 535,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1558,8 +1672,8 @@
     "title": "Declarative Dragging",
     "link": "https://declarative-dragging.github.io/",
     "published": "2026-11-04T17:05:07Z",
-    "points": 725,
-    "comments": 91,
+    "points": 740,
+    "comments": 93,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1588,7 +1702,7 @@
   {
     "title": "datasette-llm 0.1a10",
     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-    "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+    "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
     "published": "2026-11-04T15:26:02.000Z",
     "source": "Simon Willison",
     "sourceId": "simonwillison",
@@ -1607,8 +1721,8 @@
     "title": "Ask HN: What's your current AI agentic setup?",
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
-    "points": 568,
-    "comments": 699,
+    "points": 569,
+    "comments": 701,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1641,7 +1755,7 @@
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "published": "2026-11-04T11:52:17Z",
-    "points": 1306,
+    "points": 1308,
     "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1658,7 +1772,7 @@
     "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
     "link": "https://news.ycombinator.com/item?id=50363461",
     "published": "2026-11-04T10:10:27Z",
-    "points": 734,
+    "points": 736,
     "comments": 201,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1736,138 +1850,6 @@
       "数据集",
       "Agent",
       "LLM"
-    ]
-  },
-  {
-    "title": "Introducing Images 2.6",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "published": "2026-11-04T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:introducing images 2 6",
-    "aiSummary": "OpenAI推出Images 2.6，实现更快图像生成、GIF制作及精准编辑，并新增API控制。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "图像",
-      "GPT"
-    ]
-  },
-  {
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "published": "2026-11-04T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:devrev delivers autonomous self service with gpt 6 1 sol",
-    "aiSummary": "DevRev用GPT-6.1 Sol驱动Computer和Operator，平衡推理、速度与成本，服务企业。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPT",
-      "自主",
-      "企业",
-      "推理模型"
-    ]
-  },
-  {
-    "title": "datasette-agent 0.5a0",
-    "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-    "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a",
-    "published": "2026-11-03T23:13:45.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette agent 0 5a0",
-    "aiSummary": "Datasette Agent 0.5发布，新增面板功能，可并排显示聊天与数据页面。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据集",
-      "Agent"
-    ]
-  },
-  {
-    "title": "llm 0.37.1",
-    "link": "https://simonwillison.net/2026/Nov/3/llm/",
-    "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
-    "published": "2026-11-03T21:41:42.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:llm 0 37 1",
-    "aiSummary": "LLM 0.37.1 发布，修复多项错误，感谢四位贡献者。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "LLM"
-    ]
-  },
-  {
-    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-    "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-    "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-    "published": "2026-11-03T20:39:55.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:ukraine s drone strikes spur hasty russian plans for underground data centers",
-    "aiSummary": "乌克兰无人机袭击促使俄罗斯匆忙规划地下数据中心以保护数字基础设施。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-    "published": "2026-11-03T17:54:43.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:google will let schools skip ai tools but they have to give up search too",
-    "aiSummary": "谷歌向学校提供不泄露答案的AI工具，但需放弃搜索功能。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "published": "2026-11-03T17:22:37Z",
-    "points": 1527,
-    "comments": 498,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50354960",
-    "aiSummary": "Postman静默安装AI插件并尝试共享全部API数据，引发",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "AI is destroying my CS degree",
-    "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
-    "summary": "My comment on AI is destroying my CS degree &mdash; Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The wor",
-    "published": "2026-11-03T16:42:02.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:ai is destroying my cs degree",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
     ]
   }
 ]
