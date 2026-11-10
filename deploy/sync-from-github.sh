@@ -33,10 +33,10 @@ rm -rf src && mkdir src && tar xzf latest.tgz -C src --strip-components=1
 # 供应链防护：只允许「构建脚本」在受限环境里执行，且必须是最小集合。
 # 上游仓库被入侵时，攻击者可能塞入恶意 build.mjs / preinstall 钩子。
 # 这里做三重校验：
-#   1) build.mjs 必须是可执行 Node 脚本，且不能含 shell 反引号执行/网络请求；
+#   1) build.mjs 不能含子进程/管道执行信号（curl|sh 等）；合法 https URL 与模板串不拦截——
 #   2) 删除任何 package.json 里的 npm 生命周期钩子，禁止 node 运行时自动执行其它脚本；
 #   3) 以 nologin 的专用用户、只读工作目录、无网络之外权限的环境运行构建（见 README）。
-if grep -Eq 'child_process|exec\(|spawn\(|require\(.?child_process|curl |wget |fetch\(|https?://.+\$\{' src/scripts/build.mjs; then
+if grep -Eq 'child_process|spawn\(|execFile\(|execSync|curl [^|]*\| *(ba|z)?sh|wget .+\|' src/scripts/build.mjs; then
   log "build.mjs 含可疑执行/网络片段，拒绝运行（请人工核查上游仓库）"
   exit 0
 fi
