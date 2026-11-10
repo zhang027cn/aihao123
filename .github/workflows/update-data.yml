@@ -35,6 +35,22 @@ jobs:
           SENSENOVA_KEY: ${{ secrets.SENSENOVA_KEY }}
         timeout-minutes: 30
 
+      - name: 诊断探针（写入 meta.summarize，含 key 状态）
+        if: always()
+        run: |
+          node -e "
+          const fs=require('fs');
+          let m={};try{m=JSON.parse(fs.readFileSync('data/meta.json','utf8'))}catch{}
+          const hasKey=!!process.env.SENSENOVA_KEY;
+          if(!m.summarize||m.summarize.at===undefined){
+            m.summarize={key:hasKey,reason:hasKey?'summarize 未写诊断（异常退出）':'SENSENOVA_KEY 未配置（GitHub Secrets 缺失或未注入）',at:new Date().toISOString()};
+          }else{ m.summarize.key=hasKey; }
+          fs.writeFileSync('data/meta.json',JSON.stringify(m,null,2));
+          console.log('DIAG summarize:',JSON.stringify(m.summarize));
+          "
+        env:
+          SENSENOVA_KEY: ${{ secrets.SENSENOVA_KEY }}
+
       - name: 提交变更
         run: |
           git config user.name "aihao123-bot"

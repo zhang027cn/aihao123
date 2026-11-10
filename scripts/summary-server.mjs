@@ -14,7 +14,7 @@
 // pm2:  pm2 start scripts/summary-server.mjs --name aihao-summary
 
 import { createServer } from 'node:http';
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rename } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -29,6 +29,11 @@ const MODEL = 'sensenova-6.8-flash-lite';
 const CONCURRENCY = Number(process.env.SUMMARY_CONCURRENCY || 2);
 const MAX_TOKENS = 160;
 const TTL_MS = 30 * 86400000; // 缓存 30 天
+// 回写持久化：懒加载生成的摘要写入 enrich 文件（服务器权威副本 + web root 服务副本），
+// CI 每 4h 拉取合并回 data/news.json —— 双镜像受益，零 token 零回推。
+const ENRICH_PERSIST = process.env.ENRICH_PERSIST || '/var/lib/aihao/enrich.json';
+const ENRICH_SERVE = process.env.ENRICH_SERVE || '/var/www/aihao123/data/enrich.json';
+const ENRICH_MAX = 500; // LRU 上限，防无限膨胀
 const BOOT_T = Date.now(); // 进程启动时间（健康检查 uptime）
 
 let active = 0;
@@ -122,11 +127,12 @@ function schedule(fn) {
 }
 
 async function getOrGenerate(key, id, title, summary) {
+  let fresh = false;
   const f = cacheFile(id, title);
   try {
     const cached = JSON.parse(await readFile(f, 'utf8'));
     if (cached && cached.aiSummary && cached.key === key && Date.now() - cached.at < TTL_MS) {
-      return cached.aiSummary;
+      return { ai: cached.aiSummary, fresh: false };
     }
   } catch { /* cache miss */ }
 
@@ -139,11 +145,32 @@ async function getOrGenerate(key, id, title, summary) {
 
 请用一句中文总结这条 AI 资讯。`;
   const ai = await chat(prompt);
+  fresh = true;
   try {
     await mkdir(CACHE_DIR, { recursive: true, mode: 0o700 });
     await writeFile(f, JSON.stringify({ key, id, title, aiSummary: ai, at: Date.now() }), 'utf8');
   } catch { /* 缓存失败不影响返回 */ }
-  return ai;
+  try { await persistEnrich(id, ai); } catch (e) { console.error('enrich 回写异常:', e.message); }
+  return { ai, fresh };
+}
+
+// 生成后回写 enrich：{ id: { aiSummary, at } }，LRU 上限，双路径原子写
+async function persistEnrich(id, aiSummary) {
+  let obj = {};
+  try { obj = JSON.parse(await readFile(ENRICH_PERSIST, 'utf8')); } catch {}
+  if (typeof obj !== 'object' || obj === null || Array.isArray(obj)) obj = {};
+  obj[id] = { aiSummary, at: Date.now() };
+  const keys = Object.keys(obj).sort((a, b) => (obj[b]?.at || 0) - (obj[a]?.at || 0));
+  if (keys.length > ENRICH_MAX) for (const k of keys.slice(ENRICH_MAX)) delete obj[k];
+  const body = JSON.stringify(obj);
+  for (const f of [ENRICH_PERSIST, ENRICH_SERVE]) {
+    try {
+      await mkdir(join(f, '..'), { recursive: true });
+      const tmp = f + '.tmp';
+      await writeFile(tmp, body, 'utf8');
+      await rename(tmp, f);
+    } catch (e) { console.error('enrich 回写失败', f, e.message); }
+  }
 }
 
 // ---- 访问控制与限流（滑动窗口：全局 RATE_LIMIT/分，单 IP IP_LIMIT/分）----
@@ -221,8 +248,8 @@ async function handler(req, res) {
   if (!KEY) return send(200, { ok: false, error: 'no-key', note: 'SENSENOVA_KEY 未配置' });
 
   try {
-    const ai = await schedule(() => getOrGenerate(id, title, cleanText(u.searchParams.get('summary'), 300)));
-    send(200, { ok: true, aiSummary: ai });
+    const r = await schedule(() => getOrGenerate(id, id, title, cleanText(u.searchParams.get('summary'), 300)));
+    send(200, { ok: true, aiSummary: r.ai, fresh: r.fresh });
   } catch (e) {
     send(200, { ok: false, error: String(e.message || e).slice(0, 120) });
   }

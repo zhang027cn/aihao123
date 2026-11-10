@@ -55,7 +55,8 @@ node src/scripts/build.mjs >> "$LOG" 2>&1 || log "build.mjs 失败，继续用�
 # 同步到 nginx 根（site + data）
 mkdir -p "$WEB/data"
 rsync -a --delete "$STAGE/src/site/" "$WEB/"
-rsync -a --delete "$STAGE/src/data/" "$WEB/data/"
+# enrich.json 是服务器懒加载回写的持久副本（不在 repo 内），--delete 会误删，必须排除
+rsync -a --delete --exclude=enrich.json "$STAGE/src/data/" "$WEB/data/"
 
 # 记录成功时间
 date -u +%FT%T > "$STAMP"

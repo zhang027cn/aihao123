@@ -199,6 +199,18 @@ async function summarizeItem(item, { forceAi = false } = {}) {
   return item;
 }
 
+// 诊断：把本次生成结果写进 data/meta.json 的 summarize 节点，
+// 线上可 curl data/meta.json 直接看到 key 状态与产出数（CI 诊断无需翻日志）。
+const META = join(ROOT, 'data', 'meta.json');
+async function writeDiag(diag) {
+  try {
+    let meta = {};
+    try { meta = JSON.parse(await readFile(META, 'utf8')); } catch {}
+    meta.summarize = { ...diag, at: new Date().toISOString() };
+    await writeFile(META, JSON.stringify(meta, null, 2), 'utf8');
+  } catch (e) { console.error('写 meta 诊断失败:', e.message); }
+}
+
 async function main() {
   let news = [];
   try {
@@ -221,6 +233,11 @@ async function main() {
 
   if (!KEY) {
     await writeFile(NEWS, JSON.stringify(news, null, 2), 'utf8');
+    const noKey = {
+      key: false, reason: 'SENSENOVA_KEY 未配置（GitHub Secrets 缺失或未注入）',
+      total: news.length, withAi: news.filter((n) => n.aiSummary).length, generated: 0, failed: 0,
+    };
+    await writeDiag(noKey);
     console.log(`⚠ 未设置 SENSENOVA_KEY，仅补全标签（跳过 AI 摘要生成）`);
     return;
   }
@@ -254,10 +271,22 @@ async function main() {
   await writeFile(NEWS, JSON.stringify(news, null, 2), 'utf8');
   const withAi = news.filter((n) => n.aiSummary).length;
   const withTags = news.filter((n) => Array.isArray(n.tags) && n.tags.length).length;
+  await writeDiag({
+    key: true, reason: ok === 0 && targets.length > 0 ? '全部生成失败（检查商汤配额/响应）' : '',
+    total: news.length, todo: targets.length, generated: ok, failed: fail,
+    withAi, aiRate: Math.round(withAi / news.length * 100),
+  });
   console.log(`✔ 完成：摘要 ${ok} 条，失败 ${fail} 条，含 aiSummary ${withAi}/${news.length} 条，含标签 ${withTags}/${news.length} 条`);
 }
 
-main().catch((e) => {
+main().catch(async (e) => {
   console.error('✘ summarize.mjs 异常:', e.message);
+  try {
+    const META_PATH = join(ROOT, 'data', 'meta.json');
+    let meta = {};
+    try { meta = JSON.parse(await readFile(META_PATH, 'utf8')); } catch {}
+    meta.summarize = { key: !!process.env.SENSENOVA_KEY, fatal: String(e.message || e).slice(0, 200), at: new Date().toISOString() };
+    await writeFile(META_PATH, JSON.stringify(meta, null, 2), 'utf8');
+  } catch {}
   process.exit(1);
 });

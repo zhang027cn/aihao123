@@ -82,7 +82,7 @@ function mergeFeatured(kind, items, limit) {
 async function fetchNews() {
   const cfg = sources.news || {};
   const out = [];
-  const cutoff = Date.now() - (cfg.maxAgeDays || 10) * 86400000;
+  const cutoff = Date.now() - (cfg.maxAgeDays || 25) * 86400000;
 
   for (const feed of cfg.feeds || []) {
     try {
@@ -510,6 +510,32 @@ async function mergeNewsEnrichment(prev, next) {
   return restored;
 }
 
+// 方案B：合并服务器懒加载回写的摘要（enrich.json，服务器权威副本）
+// 来源 https://aihao123.zgc.pub/data/enrich.json（pm2 服务原子写入的 web root 副本）。
+// 只做「缺失补齐」：news.json 已有 aiSummary 的不覆盖（本地 CI 生成优先），防止互相踢。
+async function mergeServerEnrich(next) {
+  const ENRICH_URL = process.env.ENRICH_URL || 'https://aihao123.zgc.pub/data/enrich.json';
+  try {
+    const enrich = await getJson(ENRICH_URL, { timeoutMs: 10000 });
+    if (!enrich || typeof enrich !== 'object') return 0;
+    let merged = 0;
+    for (const n of next) {
+      const e = enrich[n.id];
+      if (e?.aiSummary && !n.aiSummary) {
+        n.aiSummary = e.aiSummary;
+        n.summaryStatus = 'lazy';
+        merged++;
+      }
+    }
+    record('news', '_enrich', true, { source: 'server-lazy', items: Object.keys(enrich).length, merged });
+    return merged;
+  } catch (e) {
+    // 服务器 enrich 还不存在/暂时拉不到都不影响主流程
+    record('news', '_enrich', false, { error: String(e.message || e).slice(0, 120) });
+    return 0;
+  }
+}
+
 await mkdir(DATA, { recursive: true });
 for (const [name, fn] of jobs) {
   try {
@@ -520,6 +546,8 @@ for (const [name, fn] of jobs) {
       meta.datasets.news = meta.datasets.news || {};
       meta.datasets.news._aiRestored = restored;
       console.log(`   ↺ 复用既有 AI 摘要 ${restored} 条`);
+      const lazyMerged = await mergeServerEnrich(data);
+      if (lazyMerged) console.log(`   ↺ 拉回服务器懒加载摘要 ${lazyMerged} 条`);
     }
     await writeJson(join(DATA, `${name}.json`), data);
     meta.datasets[name] ??= {};

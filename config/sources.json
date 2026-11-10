@@ -1,7 +1,7 @@
 {
   "news": {
     "maxItems": 120,
-    "maxAgeDays": 10,
+    "maxAgeDays": 25,
     "feeds": [
       { "id": "openai", "name": "OpenAI News", "lang": "en", "url": "https://openai.com/news/rss.xml" },
       { "id": "hf-blog", "name": "Hugging Face Blog", "lang": "en", "url": "https://huggingface.co/blog/feed.xml" },
