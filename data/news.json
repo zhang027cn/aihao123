@@ -1,5 +1,240 @@
 [
   {
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+    "published": "2026-11-10T12:15:32.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:ukraine s fiber optic drones get squeezed by ai data center demand",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ]
+  },
+  {
+    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+    "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+    "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes a",
+    "published": "2026-11-10T12:13:03.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:anthropic kicks off ipo roadshow offering shares at 70 to 78 and targeting a tri",
+    "category": "芯片算力",
+    "tags": [
+      "Anthropic",
+      "估值",
+      "IPO",
+      "英伟达"
+    ]
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "published": "2026-11-10T12:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:helping caregivers use ai in everyday life",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "published": "2026-11-10T09:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:closing the ai guidance gap in education",
+    "category": "研究论文",
+    "tags": [
+      "教育",
+      "研究",
+      "OpenAI"
+    ]
+  },
+  {
+    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+    "link": "https://www.qbitai.com/2026/11/509017.html",
+    "summary": "近亿元融资刚刚落袋",
+    "published": "2026-11-10T08:33:25.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:从芯片到千比特整机 超导量子计算还有一场硬仗",
+    "category": "芯片算力",
+    "tags": [
+      "芯片"
+    ]
+  },
+  {
+    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+    "link": "https://www.qbitai.com/2026/11/508996.html",
+    "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+    "published": "2026-11-10T07:57:45.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:从 一脑多机 到 一脑多手 蚂蚁灵波开源lingbot touch触觉基础模型",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ]
+  },
+  {
+    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+    "link": "https://www.qbitai.com/2026/11/508998.html",
+    "summary": "让每一次任务，都成为下一次进步的起点",
+    "published": "2026-11-10T07:56:29.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:agent自演进驶入 双轨时代 openjiuwen首发ttse经验学习框架",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ]
+  },
+  {
+    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+    "link": "https://www.qbitai.com/2026/11/508991.html",
+    "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+    "published": "2026-11-10T07:50:26.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:成立四个月 融资过亿美金 tensorworld物原科技要跑通 物理真实 路线",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+    "link": "https://www.qbitai.com/2026/11/508985.html",
+    "summary": "加速东部城市型智算中心向E-AIDC演进",
+    "published": "2026-11-10T07:33:19.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:达卯科技与浦东环保能源战略合作 黎明智算中心算电协同平台启动",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+    "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls,",
+    "published": "2026-11-10T07:28:21.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:introducing our smallest most efficient model muse ember",
+    "category": "大模型",
+    "tags": [
+      "推理模型",
+      "Claude",
+      "GPT"
+    ]
+  },
+  {
+    "title": "Token卷到触觉了！机器人终于有了通用手感",
+    "link": "https://www.qbitai.com/2026/11/508919.html",
+    "summary": "蚂蚁灵波开源LingBot-Touch",
+    "published": "2026-11-10T07:26:53.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:token卷到触觉了 机器人终于有了通用手感",
+    "category": "开源",
+    "tags": [
+      "机器人",
+      "开源"
+    ]
+  },
+  {
+    "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+    "link": "https://www.qbitai.com/2026/11/508912.html",
+    "summary": "作曲、拍片、3D建模一条龙全包圆",
+    "published": "2026-11-10T07:03:43.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:fable 5 2首批实测来了 网友 opus突然不香了",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "published": "2026-11-10T07:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:otter ai can now follow conversations across 30 languages",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Quoting Prompting Claude Fable 5.2",
+    "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+    "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repe",
+    "published": "2026-11-10T05:34:14.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:quoting prompting claude fable 5 2",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Anthropic",
+      "编程"
+    ]
+  },
+  {
+    "title": "Yonkers Rises",
+    "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+    "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers sta",
+    "published": "2026-11-10T03:53:04.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:yonkers rises",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ]
+  },
+  {
+    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+    "link": "https://www.qbitai.com/2026/11/508828.html",
+    "summary": "速度提了，API价格降了",
+    "published": "2026-11-10T02:48:22.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:100轮图像编辑这道 毙刷题 新出的seedream 5 5稳上来了",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
     "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -13,6 +248,20 @@
       "Anthropic",
       "IPO",
       "估值"
+    ]
+  },
+  {
+    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+    "link": "https://www.qbitai.com/2026/11/508798.html",
+    "summary": "办公AI结束单机模式",
+    "published": "2026-11-10T01:27:09.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:千问办公2 0卷向team agent 我们用它跑了一遍编辑部日常",
+    "category": "大模型",
+    "tags": [
+      "Agent"
     ]
   },
   {
@@ -32,7 +281,7 @@
   {
     "title": "llm-anthropic 0.31",
     "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-    "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG of ",
+    "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new m",
     "published": "2026-11-09T23:58:46.000Z",
     "source": "Simon Willison",
     "sourceId": "simonwillison",
@@ -41,7 +290,8 @@
     "category": "大模型",
     "tags": [
       "Anthropic",
-      "LLM"
+      "LLM",
+      "基准"
     ]
   },
   {
@@ -144,6 +394,20 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
+    ]
+  },
+  {
+    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+    "link": "https://www.qbitai.com/2026/11/508787.html",
+    "summary": "投毒 → 耗尽预算 → 诱导误判",
+    "published": "2026-11-09T22:11:49.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:中大本科生反ai逆向项目火了 让黑客token账单原地暴涨300倍",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ]
   },
   {
@@ -260,7 +524,7 @@
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "published": "2026-11-09T18:56:29Z",
-    "points": 963,
+    "points": 978,
     "comments": 6,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -283,6 +547,36 @@
     "category": "应用落地",
     "tags": [
       "图像"
+    ]
+  },
+  {
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "link": "https://e-means.github.io/",
+    "published": "2026-11-09T18:45:43Z",
+    "points": 426,
+    "comments": 50,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50429734",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "published": "2026-11-09T18:24:38Z",
+    "points": 646,
+    "comments": 135,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50429426",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
     ]
   },
   {
@@ -579,8 +873,8 @@
     "title": "Foldable Flight: The Best Paper Airplanes",
     "link": "https://www.foldableflight.com",
     "published": "2026-11-09T12:19:22Z",
-    "points": 864,
-    "comments": 140,
+    "points": 1074,
+    "comments": 152,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -620,64 +914,6 @@
     ]
   },
   {
-    "title": "“AI毁了我的计算机学位”",
-    "link": "https://www.qbitai.com/2026/11/508706.html",
-    "summary": "教授也用Claude糊弄…",
-    "published": "2026-11-09T08:57:20.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:ai毁了我的计算机学位",
-    "category": "大模型",
-    "tags": [
-      "Claude"
-    ]
-  },
-  {
-    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-    "link": "https://www.qbitai.com/2026/11/507843.html",
-    "summary": "",
-    "published": "2026-11-09T08:44:00.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:腾讯混元跻身最强开源模型 一手实测hy4 搭配workbuddy 多模态agent交付力拉满",
-    "category": "大模型",
-    "tags": [
-      "Agent",
-      "多模态",
-      "开源"
-    ]
-  },
-  {
-    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "link": "https://www.qbitai.com/2026/11/508694.html",
-    "summary": "11月9日，千问办公发布2.0版本",
-    "published": "2026-11-09T08:34:03.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:千问办公2 0发布 首个支持多人与agent协作的team agent来了",
-    "category": "大模型",
-    "tags": [
-      "Agent"
-    ]
-  },
-  {
-    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-    "link": "https://www.qbitai.com/2026/11/508690.html",
-    "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-    "published": "2026-11-09T08:26:45.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:叙事奔涌 何以为锚 丨第 20 届中国投资年会 有限合伙人峰会即将启幕",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "CodeRabbit scales agentic software development and ships 20x more",
     "link": "https://openai.com/index/coderabbit-codex-daybreak",
     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
@@ -708,35 +944,6 @@
     ]
   },
   {
-    "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
-    "link": "https://www.qbitai.com/2026/11/508629.html",
-    "summary": "最早量产的亲自泼冷水",
-    "published": "2026-11-09T07:02:36.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:l3大撤退 奔驰宝马官宣不玩了 还没l2好用",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-    "link": "https://www.qbitai.com/2026/11/508607.html",
-    "summary": "Worker不够了主管Agent还能自己招！",
-    "published": "2026-11-09T05:47:58.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:ai接管一家8万star开源公司 写代码 派任务 查bug全包了",
-    "category": "智能体",
-    "tags": [
-      "开源",
-      "Agent"
-    ]
-  },
-  {
     "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
     "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
     "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
@@ -748,20 +955,6 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
-    ]
-  },
-  {
-    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-    "link": "https://www.qbitai.com/2026/11/508603.html",
-    "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-    "published": "2026-11-09T05:09:23.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:基元律动发布neohorse 1 5 flash preview agent模型rsi进入第二轮迭代",
-    "category": "智能体",
-    "tags": [
-      "Agent"
     ]
   },
   {
@@ -793,53 +986,11 @@
     ]
   },
   {
-    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-    "link": "https://www.qbitai.com/2026/11/508586.html",
-    "summary": "“让人放心，把人放大。”",
-    "published": "2026-11-09T03:47:12.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:当ai在加速狂奔 什么反而应该 慢 下来",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-    "link": "https://www.qbitai.com/2026/11/508566.html",
-    "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
-    "published": "2026-11-09T02:19:08.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:寻找最会讲故事的ai创作者 虎鲸文娱鲸锐ai创作大赛走进清华大学",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-    "link": "https://www.qbitai.com/2026/11/508498.html",
-    "summary": "英伟达暗盘跌2%",
-    "published": "2026-11-09T00:40:50.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:黄仁勋承认出轨发全员信道歉 英伟达启动紧急调查",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "I'm not convinced the AI bubble exists",
     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "published": "2026-11-08T23:44:36Z",
-    "points": 543,
-    "comments": 938,
+    "points": 557,
+    "comments": 948,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -853,8 +1004,8 @@
     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
     "link": "https://ketchup3d.github.io/app/",
     "published": "2026-11-08T22:35:35Z",
-    "points": 732,
-    "comments": 225,
+    "points": 745,
+    "comments": 228,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -897,8 +1048,8 @@
     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "published": "2026-11-08T18:16:07Z",
-    "points": 884,
-    "comments": 473,
+    "points": 891,
+    "comments": 483,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -940,27 +1091,11 @@
     ]
   },
   {
-    "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-    "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-    "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wav",
-    "published": "2026-11-08T11:44:41.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:the inventor of the bitter lesson has a bitter lesson for llm scaling enthusiast",
-    "category": "大模型",
-    "tags": [
-      "LLM",
-      "研究",
-      "OpenAI"
-    ]
-  },
-  {
     "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
     "link": "https://github.com/synchopate/llama-modchip",
     "published": "2026-11-08T10:22:04Z",
-    "points": 475,
-    "comments": 204,
+    "points": 481,
+    "comments": 205,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -977,8 +1112,8 @@
     "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 805,
-    "comments": 485,
+    "points": 808,
+    "comments": 488,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1035,8 +1170,8 @@
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
-    "points": 622,
-    "comments": 422,
+    "points": 623,
+    "comments": 424,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1065,8 +1200,8 @@
     "title": "The end of Microsoft Research's AI Frontiers group",
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
-    "points": 509,
-    "comments": 309,
+    "points": 510,
+    "comments": 310,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1080,8 +1215,8 @@
     "title": "Every Mac comes with an (undocumented) family member classifier",
     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "published": "2026-11-07T09:46:03Z",
-    "points": 863,
-    "comments": 461,
+    "points": 865,
+    "comments": 465,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1144,7 +1279,7 @@
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
     "points": 599,
-    "comments": 154,
+    "comments": 156,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1169,22 +1304,6 @@
     "tags": [
       "研究",
       "安全"
-    ]
-  },
-  {
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "published": "2026-11-06T18:44:20.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:meta introduces spaces a new way to collaborate with your muse agent",
-    "aiSummary": "Meta推出Spaces，提供与Muse AI代理协作的新方式。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
     ]
   },
   {
@@ -1269,23 +1388,6 @@
     ]
   },
   {
-    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-    "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-    "published": "2026-11-06T09:27:12Z",
-    "points": 656,
-    "comments": 436,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50390124",
-    "aiSummary": "荷兰ASN银行封禁非谷歌安卓系统，含GrapheneOS。",
-    "category": "政策监管",
-    "summaryStatus": "ai",
-    "tags": [
-      "禁令"
-    ]
-  },
-  {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "link": "https://openai.com/index/partnering-with-hacktron",
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -1299,23 +1401,6 @@
     "summaryStatus": "ai",
     "tags": [
       "OpenAI"
-    ]
-  },
-  {
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "link": "https://github.com/ppmpreetham/BUI",
-    "published": "2026-11-06T07:40:35Z",
-    "points": 738,
-    "comments": 290,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50389333",
-    "aiSummary": "Blender界面与运行时性能远超GPUI。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPU"
     ]
   },
   {
@@ -1669,21 +1754,6 @@
     ]
   },
   {
-    "title": "Declarative Dragging",
-    "link": "https://declarative-dragging.github.io/",
-    "published": "2026-11-04T17:05:07Z",
-    "points": 740,
-    "comments": 93,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50368481",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "How big is the open model economy today?",
     "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
     "summary": "Our first open model economy research note for paid subscribers.",
@@ -1722,7 +1792,7 @@
     "link": "https://news.ycombinator.com/item?id=50366117",
     "published": "2026-11-04T14:37:22Z",
     "points": 569,
-    "comments": 701,
+    "comments": 703,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1766,90 +1836,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "link": "https://news.ycombinator.com/item?id=50363461",
-    "published": "2026-11-04T10:10:27Z",
-    "points": 736,
-    "comments": 201,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50363461",
-    "aiSummary": "Gemini被曝用聊天记录训练模型，订阅用户个人账户也不例外。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
-    ]
-  },
-  {
-    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "published": "2026-11-04T08:46:29Z",
-    "points": 617,
-    "comments": 292,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50362905",
-    "category": "芯片算力",
-    "tags": [
-      "推理",
-      "英伟达"
-    ]
-  },
-  {
-    "title": "A thousand fewer paths to root",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "published": "2026-11-04T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:a thousand fewer paths to root",
-    "aiSummary": "OpenAI自主发现并修复948个Linux内核本地提权漏洞。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "自主",
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-    "published": "2026-11-04T07:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:daybreak red is now available in aws govcloud us east",
-    "aiSummary": "Daybreak Red 登陆 AWS GovCloud，经 Bedrock 提供 GPT-5.6 Cyber 用于授权网络安全。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "安全",
-      "GPT-5",
-      "GPT"
-    ]
-  },
-  {
-    "title": "datasette-apps 0.3a0",
-    "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-    "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Ag",
-    "published": "2026-11-04T00:29:36.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette apps 0 3a0",
-    "category": "大模型",
-    "tags": [
-      "数据集",
-      "Agent",
-      "LLM"
     ]
   }
 ]
