@@ -39,6 +39,47 @@
     return String(n);
   }
 
+  // ---- 懒加载摘要：严格串行队列（同时最多 1 个请求，绝不并发）----
+  // 首页/资讯页共用；429/网络失败退避重试，最终失败保留占位不清空。
+  const _sumQ = { items: [], done: new Set(), active: false };
+  function _sumApply(id, text) {
+    document.querySelectorAll('[data-summary-for="' + CSS.escape(id) + '"]').forEach((el) => { el.textContent = text; });
+  }
+  function _sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
+  async function _sumFetchOne(n) {
+    const url = `/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        const res = await fetch(url);
+        if (res.status === 429) { await _sleep(2500 * (attempt + 1)); continue; }  // 限流退避重试
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const d = await res.json();
+        if (d.ok && d.aiSummary) { _sumApply(n.id, '🤖 ' + d.aiSummary); return; }
+        return; // 服务端明确失败（如无 key）：保留占位，不重试
+      } catch (e) {
+        await _sleep(1500 * (attempt + 1));
+      }
+    }
+    // 3 次均失败：保留 '…' 占位（不清空，不报错）
+  }
+  async function requestSummary(list) {
+    for (const n of list) {
+      if (n.aiSummary || !n.id || _sumQ.done.has(n.id)) continue;
+      _sumQ.done.add(n.id);
+      _sumQ.items.push(n);
+    }
+    if (_sumQ.active) return;
+    _sumQ.active = true;
+    try {
+      while (_sumQ.items.length) {
+        const n = _sumQ.items.shift();
+        await _sumFetchOne(n);   // 串行：上一条完成才发下一条
+      }
+    } finally {
+      _sumQ.active = false;
+    }
+  }
+
   // 头部搜索：跨目录与资讯检索
   function initSearch() {
     const wrap = $('.header-search');
@@ -94,5 +135,5 @@
     initBackTop();
   });
 
-  window.AIH = { $, $$, getData, esc, safeUrl, timeAgo, fmt };
+  window.AIH = { $, $$, getData, esc, safeUrl, timeAgo, fmt, requestSummary };
 })();

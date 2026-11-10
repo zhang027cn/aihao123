@@ -1,6 +1,6 @@
 // 资讯页：懒加载列表 + 来源/语言/分类/搜索过滤 + 按需 AI 摘要
 (function () {
-  const { $, getData, esc, safeUrl, timeAgo } = window.AIH;
+  const { $, getData, esc, safeUrl, timeAgo, requestSummary } = window.AIH;
   const state = { items: [], lang: 'all', src: 'all', cat: 'all', q: '', visible: 0 };
   const PAGE = 30;          // 每次渲染条数（懒加载）
   const catBadge = (cat) => cat ? `<span class="badge cat">${esc(cat)}</span>` : '';
@@ -65,31 +65,6 @@
     if (more) more.classList.toggle('hidden', !(items.length > state.visible));
     requestSummary(next);
     bindLoadMore();
-  }
-
-  // 按需摘要：可见条目若无 aiSummary，调后端生成（懒加载）
-  const summaryQueue = new Set();
-  let fetching = false;
-  async function requestSummary(items) {
-    for (const n of items) {
-      if (!n.aiSummary && n.id && !summaryQueue.has(n.id)) {
-        summaryQueue.add(n.id);
-        const p = fetch(`/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`)
-          .then((r) => (r.ok ? r.json() : { ok: false }))
-          .catch(() => ({ ok: false }))
-          .then((d) => {
-            summaryQueue.delete(n.id);
-            if (d.ok && d.aiSummary) {
-              const el = document.querySelector(`[data-summary-for="${CSS.escape(n.id)}"]`);
-              if (el) { el.textContent = '🤖 ' + d.aiSummary; }
-            } else {
-              const el = document.querySelector(`[data-summary-for="${CSS.escape(n.id)}"]`);
-              if (el) { el.textContent = ''; }
-            }
-          });
-        if (!fetching) { fetching = true; p.finally(() => { fetching = false; }); }
-      }
-    }
   }
 
   function bindLoadMore() {

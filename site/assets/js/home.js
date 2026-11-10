@@ -1,6 +1,6 @@
 // 首页：目录 + 资讯 + 榜单 + MCP/SKILL 精选
 (function () {
-  const { $, getData, esc, safeUrl, timeAgo, fmt } = window.AIH;
+  const { $, getData, esc, safeUrl, timeAgo, fmt, requestSummary } = window.AIH;
 
   // 方案 A：左侧分类导航 + 右侧当前分类链接网格（目录区高度从 ~2500px 降到一屏内）
   function renderDir() {
@@ -105,25 +105,6 @@
       show(b.dataset.t);
     }));
     show('最新');
-  }
-
-  const summaryQueue = new Set();
-  async function requestSummary(items) {
-    for (const n of items) {
-      if (!n.aiSummary && n.id && !summaryQueue.has(n.id)) {
-        summaryQueue.add(n.id);
-        fetch(`/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`)
-          .then((r) => (r.ok ? r.json() : { ok: false }))
-          .catch(() => ({ ok: false }))
-          .then((d) => {
-            summaryQueue.delete(n.id);
-            const el = document.querySelector(`[data-summary-for="${CSS.escape(n.id)}"]`);
-            if (el) {
-              el.textContent = d.ok && d.aiSummary ? '🤖 ' + d.aiSummary : '';
-            }
-          });
-      }
-    }
   }
 
   function renderRankings(rank) {

@@ -149,8 +149,8 @@ async function getOrGenerate(key, id, title, summary) {
 // ---- 访问控制与限流（滑动窗口：全局 RATE_LIMIT/分，单 IP IP_LIMIT/分）----
 const ALLOWED_ORIGIN = process.env.SUMMARY_ORIGIN || 'https://aihao123.zgc.pub';
 const TOKEN = process.env.SUMMARY_TOKEN || '';
-const RATE_LIMIT = Number(process.env.SUMMARY_RATE_LIMIT || 60);
-const IP_LIMIT = Number(process.env.SUMMARY_IP_LIMIT || 12);
+const RATE_LIMIT = Number(process.env.SUMMARY_RATE_LIMIT || 180); // 全局/分（前端已串行，防滥用即可）
+const IP_LIMIT = Number(process.env.SUMMARY_IP_LIMIT || 90);  // 单 IP/分（首屏30条串行约90s，需留足）
 const WINDOW_MS = 60000;
 
 let globalHits = [];
