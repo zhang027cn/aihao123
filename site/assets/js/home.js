@@ -2,17 +2,56 @@
 (function () {
   const { $, getData, esc, safeUrl, timeAgo, fmt } = window.AIH;
 
+  // 方案 A：左侧分类导航 + 右侧当前分类链接网格（目录区高度从 ~2500px 降到一屏内）
   function renderDir() {
     const dir = window.__DIRECTORY__;
     const root = $('#category-grid');
     if (!dir || !root) return;
-    root.innerHTML = dir.categories.map((c) => `
-      <section class="cat-card ${c.id === 'mcp' ? 'wide' : ''}" id="cat-${esc(c.id)}">
-        <h3 class="cat-title"><span class="icon">${esc(c.icon)}</span>${esc(c.title)}</h3>
-        <div class="cat-links">
-          ${c.links.map((l) => `<a href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener"><span class="dot"></span>${esc(l.name)}</a>`).join('')}
+    const cats = dir.categories;
+
+    const railHtml = cats.map((c, i) => `
+      <button type="button" class="dir-cat${i === 0 ? ' active' : ''}" data-i="${i}" aria-pressed="${i === 0}">
+        <span class="icon">${esc(c.icon)}</span>
+        <span class="name">${esc(c.title)}</span>
+        <span class="cnt">${c.links.length}</span>
+      </button>`).join('');
+
+    root.innerHTML = `
+      <nav class="dir-rail" aria-label="导航分类">${railHtml}</nav>
+      <div class="dir-panel" id="dir-panel"></div>`;
+
+    // 12 个面板全部渲染进 DOM（116 个 <a> 都在 HTML 中，SEO 无损），仅用 .show 切换可见性
+    const panel = $('#dir-panel');
+    panel.innerHTML = cats.map((c, i) => `
+      <div class="dir-panel-body${i === 0 ? ' show' : ''}" data-i="${i}" role="tabpanel">
+        <div class="dir-panel-head">
+          <span class="icon">${esc(c.icon)}</span>
+          <h3>${esc(c.title)}</h3>
+          <span class="cnt">${c.links.length} 个站点</span>
         </div>
-      </section>`).join('');
+        <div class="dir-links">
+          ${c.links.map((l) => `
+            <a class="dir-link" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">
+              <span class="name">${esc(l.name)}</span>
+              ${l.desc ? `<span class="desc">${esc(l.desc)}</span>` : ''}
+              <span class="go">↗</span>
+            </a>`).join('')}
+        </div>
+      </div>`).join('');
+
+    function show(i) {
+      root.querySelectorAll('.dir-cat').forEach((b, bi) => {
+        b.classList.toggle('active', bi === i);
+        b.setAttribute('aria-pressed', bi === i);
+      });
+      panel.querySelectorAll('.dir-panel-body').forEach((p) => {
+        p.classList.toggle('show', Number(p.dataset.i) === i);
+      });
+    }
+    root.querySelector('.dir-rail').addEventListener('click', (e) => {
+      const b = e.target.closest('.dir-cat');
+      if (b) show(Number(b.dataset.i));
+    });
   }
 
   const tagBadges = (tags) => Array.isArray(tags)
