@@ -202,14 +202,11 @@ a.section-head .more:hover { color: var(--accent); border-color: var(--accent); 
 
 /* 通用卡片 / 列表 */
 .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); }
-.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: stretch; }
-/* 双栏内部：section 零外边距（栏距由 gap 统一控制），flex 链拉到最内层卡片
-   —— 两栏结构都是 section > 包装div(#home-news/#home-rank) > tabs + card，
-   必须把包装 div 也变成 flex 列，内层 .card 才能 flex:1 撑满，实现盒子等高 */
-.grid2 > .section { display: flex; flex-direction: column; margin: 0; }
-.grid2 > .section > div { display: flex; flex-direction: column; flex: 1; min-width: 0; }
-.grid2 > .section > div > .card { flex: 1; min-height: 0; }
-.grid2 > .section > .card { flex: 1; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+/* 双栏：顶边齐平即可，高度各随内容自然生长（不强制底边齐平）。
+   align-items:start 让两 section 高度由内容决定；两栏结构对称
+   （section-head + tabs 同高）→ 卡片顶边天然在同一水平线。 */
+.grid2 > .section { margin: 0; }
 .grid2 > .section > .section-head { margin-bottom: 12px; }
 .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 @media (max-width: 900px) { .grid2, .grid3 { grid-template-columns: 1fr; } }
