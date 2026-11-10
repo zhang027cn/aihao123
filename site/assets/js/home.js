@@ -55,13 +55,13 @@
   }
 
   const tagBadges = (tags) => Array.isArray(tags)
-    ? tags.slice(0, 3).map((t) => `<span class="badge tag">#${esc(t)}</span>`).join('')
+    ? tags.slice(0, 2).map((t) => `<span class="badge tag">#${esc(t)}</span>`).join('')
     : '';
 
   function renderNews(items) {
     const root = $('#home-news');
     if (!root || !items?.length) return;
-    const top = items.slice(0, 8);
+    const top = items.slice(0, 6);  // 6 条与右栏 12 行榜单高度配平
     root.innerHTML = top.map((n) => `
       <li>
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
@@ -110,11 +110,11 @@
       let html = '';
       if (t === 'gh') {
         const g = groups[0];
-        html = (g?.items || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${esc(r.license || '开源')}`, r.url)).join('');
+        html = (g?.items || []).slice(0, 12).map((r, i) => rankRow(i, r.name, r.fullName, `${fmt(r.stars)} ★ · ${esc(r.license || '开源')}`, r.url)).join('');
       } else if (t === 'models') {
-        html = (rank.hfModels || []).slice(0, 8).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${esc(r.trendingScore)}`, r.url)).join('');
+        html = (rank.hfModels || []).slice(0, 12).map((r, i) => rankRow(i, r.name, r.pipelineTag || 'model', `${fmt(r.downloads)} 下载 · 热力 ${esc(r.trendingScore)}`, r.url)).join('');
       } else {
-        html = (rank.hn || []).slice(0, 8).map((r, i) => rankRow(i, r.title, '', `${esc(r.points)} ▲`, r.url)).join('');
+        html = (rank.hn || []).slice(0, 12).map((r, i) => rankRow(i, r.title, '', `${esc(r.points)} ▲`, r.url)).join('');
       }
       pane.innerHTML = html || emptyBox('暂无数据');
     }
