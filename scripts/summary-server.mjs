@@ -151,6 +151,7 @@ async function getOrGenerate(key, id, title, summary) {
     await writeFile(f, JSON.stringify({ key, id, title, aiSummary: ai, at: Date.now() }), 'utf8');
   } catch { /* 缓存失败不影响返回 */ }
   try { await persistEnrich(id, ai); } catch (e) { console.error('enrich 回写异常:', e.message); }
+  pruneEnrichToNews().catch(() => {});
   return { ai, fresh };
 }
 
@@ -179,6 +180,41 @@ async function persistEnrich(id, aiSummary) {
 const ALLOWED_ORIGINS = (process.env.SUMMARY_ORIGIN || 'https://aihao123.zgc.pub,https://zhang027cn.github.io')
   .split(',').map((x) => x.trim()).filter(Boolean);
 const PRIMARY_ORIGIN = ALLOWED_ORIGINS[0];
+// 合法 id 集合：/api/summary 只接受 data/news.json 里真实存在的 id。
+// 防非浏览器伪造 Referer 的定向盗刷（浏览器伪造不了头；curl 能伪造但伪造不了 id 集合）。
+const NEWS_FILE = process.env.NEWS_FILE || '/var/www/aihao123/data/news.json';
+let validIds = null;            // null=尚未加载
+let validLoadedAt = 0;
+async function loadValidIds(force = false) {
+  if (!force && validIds && Date.now() - validLoadedAt < 300000) return validIds;
+  try {
+    const arr = JSON.parse(await readFile(NEWS_FILE, 'utf8'));
+    validIds = new Set(arr.map((n) => n.id));
+  } catch { validIds = null; }   // 加载失败 → 放行（不因文件故障阻断正常请求）
+  validLoadedAt = Date.now();
+  return validIds;
+}
+async function pruneEnrichToNews() {
+  // 回写时顺带剪掉 enrich 里不在当前 news 的键（盗刷产物自然过期）
+  try {
+    const ids = validIds || await loadValidIds();
+    if (!ids) return;
+    for (const f of [ENRICH_PERSIST, ENRICH_SERVE]) {
+      try {
+        const obj = JSON.parse(await readFile(f, 'utf8'));
+        const keys = Object.keys(obj);
+        const keep = keys.filter((k) => ids.has(k));
+        if (keep.length !== keys.length) {
+          const pruned = {};
+          for (const k of keep) pruned[k] = obj[k];
+          const tmp = f + '.tmp';
+          await writeFile(tmp, JSON.stringify(pruned), 'utf8');
+          await rename(tmp, f);
+        }
+      } catch { /* 单文件失败忽略 */ }
+    }
+  } catch { /* 整体失败忽略 */ }
+}
 const TOKEN = process.env.SUMMARY_TOKEN || '';
 const RATE_LIMIT = Number(process.env.SUMMARY_RATE_LIMIT || 180); // 全局/分（前端已串行，防滥用即可）
 const IP_LIMIT = Number(process.env.SUMMARY_IP_LIMIT || 90);  // 单 IP/分（首屏30条串行约90s，需留足）
@@ -240,6 +276,10 @@ async function handler(req, res) {
   const id = String(u.searchParams.get('id') || '').trim().slice(0, 100);
   const title = cleanText(u.searchParams.get('title'), 200);
   if (!id || !title) return send(400, { ok: false, error: 'missing id/title' });
+
+  // id 合法性：必须是 data/news.json 中真实资讯（列表 5 分钟刷新一次）
+  const ids = await loadValidIds();
+  if (ids && !ids.has(id)) return send(400, { ok: false, error: 'unknown id' });
 
   // 3) 限流
   const ip = String(req.headers['x-real-ip'] || req.socket.remoteAddress || '').slice(0, 60);
