@@ -7,7 +7,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/canvas-design",
     "intro": "Anthropic 官方画布设计技能。用代码生成网页/海报视觉稿，遵循设计规范，产出可直接预览的设计作品。",
@@ -29,7 +29,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/doc-coauthoring",
     "intro": "Anthropic 官方文档协作技能。与 Agent 一起撰写/编辑长文档，维护结构与风格一致，适合方案、规范、报告。",
@@ -51,7 +51,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/docx",
     "intro": "Anthropic 官方 Word 技能。从 Markdown 生成排版精美的 .docx，支持标题、列表、表格、图片，适合报告与文档产出。",
@@ -73,7 +73,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/frontend-design",
     "intro": "Anthropic 官方前端设计技能。产出符合现代设计系统与可访问性标准的网页，含布局、配色、交互细节。",
@@ -95,7 +95,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/mcp-builder",
     "intro": "Anthropic 官方 MCP 构建器。引导你创建、测试、发布 Model Context Protocol 服务器，从零到一做出自己的 MCP。",
@@ -117,7 +117,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/pdf",
     "intro": "Anthropic 官方 PDF 技能。创建、合并、拆分、加水印 PDF，或从 PDF 提取文本与表格，让 Agent 处理文档无障碍。",
@@ -139,7 +139,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/pptx",
     "intro": "Anthropic 官方 PowerPoint 技能。把 Markdown 大纲转成结构清晰的演示文稿，一键生成 PPT 给汇报/教学用。",
@@ -161,7 +161,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/skill-creator",
     "intro": "Anthropic 官方技能制作器。用对话方式创建你自己的 Agent Skill：定义触发、示例、工作流，生成规范 SKILL.md。",
@@ -182,7 +182,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/academy-guide"
   },
@@ -194,7 +194,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/algorithmic-art"
   },
@@ -206,7 +206,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/brand-guidelines"
   },
@@ -218,7 +218,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/claude-api"
   },
@@ -230,7 +230,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/discernment-nudge"
   },
@@ -242,7 +242,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/internal-comms"
   },
@@ -254,7 +254,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/slack-gif-creator"
   },
@@ -266,7 +266,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/theme-factory"
   },
@@ -278,7 +278,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/web-artifacts-builder"
   },
@@ -290,7 +290,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/webapp-testing"
   },
@@ -302,7 +302,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "skills/xlsx"
   },
@@ -314,7 +314,7 @@
     "source": "anthropics/skills",
     "official": true,
     "openSource": true,
-    "stars": 192574,
+    "stars": 192913,
     "license": "",
     "path": "template"
   },
@@ -324,11 +324,11 @@
     "fullName": "thedotmack/claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Herme",
-    "stars": 115924,
-    "forks": 10053,
+    "stars": 116103,
+    "forks": 10075,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-11T06:13:54Z",
+    "pushedAt": "2026-11-11T13:04:26Z",
     "archived": false,
     "topics": [
       "ai",
@@ -340,7 +340,7 @@
       "claude",
       "claude-agent-sdk"
     ],
-    "heat": 115746,
+    "heat": 102817,
     "source": "github",
     "official": false
   },
@@ -350,11 +350,11 @@
     "fullName": "paperclipai/paperclip",
     "url": "https://github.com/paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
-    "stars": 113000,
-    "forks": 18751,
+    "stars": 113111,
+    "forks": 18761,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-11T06:14:06Z",
+    "pushedAt": "2026-11-11T16:07:11Z",
     "archived": false,
     "topics": [
       "acpx",
@@ -366,7 +366,7 @@
       "ai-governance",
       "ai-tools"
     ],
-    "heat": 112842,
+    "heat": 112850,
     "source": "github",
     "official": false
   },
@@ -376,8 +376,8 @@
     "fullName": "tt-a1i/archify",
     "url": "https://github.com/tt-a1i/archify",
     "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "stars": 95439,
-    "forks": 6517,
+    "stars": 95574,
+    "forks": 6533,
     "license": "Apache-2.0",
     "openSource": true,
     "pushedAt": "2026-11-11T05:01:27Z",
@@ -392,7 +392,7 @@
       "coding-agents",
       "deepseek-harness"
     ],
-    "heat": 90734,
+    "heat": 65255,
     "source": "github",
     "official": false
   },
@@ -402,8 +402,8 @@
     "fullName": "Egonex-AI/Understand-Anything",
     "url": "https://github.com/Egonex-AI/Understand-Anything",
     "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "stars": 91937,
-    "forks": 7840,
+    "stars": 92079,
+    "forks": 7853,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-11T04:34:25Z",
@@ -418,7 +418,7 @@
       "codex-skills",
       "developer-tools-ai-agent"
     ],
-    "heat": 85872,
+    "heat": 62073,
     "source": "github",
     "official": false
   },
@@ -428,8 +428,8 @@
     "fullName": "ayghri/i-have-adhd",
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "stars": 60791,
-    "forks": 3556,
+    "stars": 60854,
+    "forks": 3561,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-19T19:46:23Z",
@@ -442,7 +442,7 @@
       "developer-tools",
       "productivity"
     ],
-    "heat": 2594,
+    "heat": 2552,
     "source": "github",
     "official": false
   },
@@ -452,8 +452,8 @@
     "fullName": "coreyhaines31/marketingskills",
     "url": "https://github.com/coreyhaines31/marketingskills",
     "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "stars": 59618,
-    "forks": 8705,
+    "stars": 59710,
+    "forks": 8720,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-11T02:26:00Z",
@@ -468,7 +468,7 @@
       "claude-skills",
       "codex"
     ],
-    "heat": 51403,
+    "heat": 37969,
     "source": "github",
     "official": false
   },
@@ -478,8 +478,8 @@
     "fullName": "K-Dense-AI/scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
-    "stars": 56756,
-    "forks": 4981,
+    "stars": 56833,
+    "forks": 4988,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-09T09:17:48Z",
@@ -494,7 +494,7 @@
       "claudecode",
       "clinical-research"
     ],
-    "heat": 19749,
+    "heat": 17292,
     "source": "github",
     "official": false
   },
@@ -504,8 +504,8 @@
     "fullName": "wshobson/agents",
     "url": "https://github.com/wshobson/agents",
     "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
-    "stars": 42406,
-    "forks": 4482,
+    "stars": 42413,
+    "forks": 4485,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-09T01:08:33Z",
@@ -520,7 +520,7 @@
       "claude-code",
       "claude-code-marketplace"
     ],
-    "heat": 13196,
+    "heat": 11696,
     "source": "github",
     "official": false
   },
@@ -530,8 +530,8 @@
     "fullName": "alchaincyf/nuwa-skill",
     "url": "https://github.com/alchaincyf/nuwa-skill",
     "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-    "stars": 38014,
-    "forks": 4875,
+    "stars": 38052,
+    "forks": 4880,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-10T00:41:13Z",
@@ -546,7 +546,7 @@
       "cursor",
       "decision-making"
     ],
-    "heat": 17027,
+    "heat": 14385,
     "source": "github",
     "official": false
   },
@@ -556,7 +556,7 @@
     "fullName": "VoltAgent/awesome-agent-skills",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-    "stars": 37063,
+    "stars": 37077,
     "forks": 4106,
     "license": "MIT",
     "openSource": true,
@@ -572,7 +572,7 @@
       "codex",
       "codex-skills"
     ],
-    "heat": 5439,
+    "heat": 5130,
     "source": "github",
     "official": false
   },
@@ -582,11 +582,11 @@
     "fullName": "nanocoai/nanoclaw",
     "url": "https://github.com/nanocoai/nanoclaw",
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
-    "stars": 31103,
+    "stars": 31106,
     "forks": 12649,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-10T18:35:29Z",
+    "pushedAt": "2026-11-11T15:34:46Z",
     "archived": false,
     "topics": [
       "ai-agents",
@@ -595,7 +595,7 @@
       "claude-skills",
       "openclaw"
     ],
-    "heat": 20923,
+    "heat": 30352,
     "source": "github",
     "official": false
   },
@@ -605,11 +605,11 @@
     "fullName": "alirezarezvani/claude-skills",
     "url": "https://github.com/alirezarezvani/claude-skills",
     "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance,",
-    "stars": 29610,
-    "forks": 4110,
+    "stars": 29634,
+    "forks": 4114,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-11T02:45:26Z",
+    "pushedAt": "2026-11-11T06:17:50Z",
     "archived": false,
     "topics": [
       "agent-plugins",
@@ -621,7 +621,7 @@
       "claude-code",
       "claude-code-plugins"
     ],
-    "heat": 25831,
+    "heat": 20993,
     "source": "github",
     "official": false
   },
@@ -631,8 +631,8 @@
     "fullName": "alchaincyf/huashu-design",
     "url": "https://github.com/alchaincyf/huashu-design",
     "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-    "stars": 29164,
-    "forks": 3136,
+    "stars": 29234,
+    "forks": 3141,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-10T00:16:14Z",
@@ -647,7 +647,7 @@
       "codex",
       "cursor"
     ],
-    "heat": 12962,
+    "heat": 10979,
     "source": "github",
     "official": false
   },
@@ -657,8 +657,8 @@
     "fullName": "OthmanAdi/planning-with-files",
     "url": "https://github.com/OthmanAdi/planning-with-files",
     "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Ins",
-    "stars": 27995,
-    "forks": 2310,
+    "stars": 28008,
+    "forks": 2309,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-10T18:28:40Z",
@@ -673,7 +673,7 @@
       "codex",
       "coding-agent"
     ],
-    "heat": 18772,
+    "heat": 14710,
     "source": "github",
     "official": false
   },
@@ -683,8 +683,8 @@
     "fullName": "JimLiu/baoyu-skills",
     "url": "https://github.com/JimLiu/baoyu-skills",
     "description": "",
-    "stars": 27458,
-    "forks": 2993,
+    "stars": 27470,
+    "forks": 2994,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-06T17:20:33Z",
@@ -695,7 +695,7 @@
       "codex-skills",
       "openclaw-skills"
     ],
-    "heat": 4958,
+    "heat": 4616,
     "source": "github",
     "official": false
   },
@@ -705,8 +705,8 @@
     "fullName": "titanwings/distilly",
     "url": "https://github.com/titanwings/distilly",
     "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
-    "stars": 26505,
-    "forks": 2259,
+    "stars": 26521,
+    "forks": 2260,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-13T05:57:17Z",
@@ -721,7 +721,7 @@
       "claude-code",
       "claude-skills"
     ],
-    "heat": 883,
+    "heat": 872,
     "source": "github",
     "official": false
   },
@@ -731,8 +731,8 @@
     "fullName": "latent-spaces/brag",
     "url": "https://github.com/latent-spaces/brag",
     "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
-    "stars": 20987,
-    "forks": 1632,
+    "stars": 21050,
+    "forks": 1635,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-23T21:18:13Z",
@@ -745,7 +745,7 @@
       "launch-video",
       "video-generation"
     ],
-    "heat": 1083,
+    "heat": 1064,
     "source": "github",
     "official": false
   },
@@ -755,8 +755,8 @@
     "fullName": "teng-lin/notebooklm-py",
     "url": "https://github.com/teng-lin/notebooklm-py",
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw",
-    "stars": 20197,
-    "forks": 2686,
+    "stars": 20200,
+    "forks": 2687,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-08T22:05:28Z",
@@ -771,7 +771,7 @@
       "notebooklm",
       "notebooklm-api"
     ],
-    "heat": 6046,
+    "heat": 5382,
     "source": "github",
     "official": false
   },
@@ -781,11 +781,11 @@
     "fullName": "Vincentwei1021/video-shotcraft",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-    "stars": 18548,
-    "forks": 1754,
+    "stars": 18691,
+    "forks": 1765,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-09T15:59:44Z",
+    "pushedAt": "2026-11-11T14:31:14Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -797,7 +797,7 @@
       "codex",
       "motion-design"
     ],
-    "heat": 7148,
+    "heat": 17485,
     "source": "github",
     "official": false
   },
@@ -807,11 +807,11 @@
     "fullName": "google/elephant-goldfish-model",
     "url": "https://github.com/google/elephant-goldfish-model",
     "description": "Open-source plugin for designing and reviewing software with agents",
-    "stars": 17268,
-    "forks": 1296,
+    "stars": 17483,
+    "forks": 1305,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-11T03:57:34Z",
+    "pushedAt": "2026-11-11T15:23:19Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -823,7 +823,7 @@
       "codex",
       "codex-plugin"
     ],
-    "heat": 15752,
+    "heat": 16928,
     "source": "github",
     "official": false
   },
@@ -833,8 +833,8 @@
     "fullName": "nidhinjs/prompt-master",
     "url": "https://github.com/nidhinjs/prompt-master",
     "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
-    "stars": 15812,
-    "forks": 1820,
+    "stars": 15835,
+    "forks": 1821,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-22T13:26:18Z",
@@ -845,7 +845,7 @@
       "llm",
       "prompt-engineering"
     ],
-    "heat": 764,
+    "heat": 750,
     "source": "github",
     "official": false
   },
@@ -855,7 +855,7 @@
     "fullName": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-    "stars": 15298,
+    "stars": 15299,
     "forks": 1554,
     "license": "MIT",
     "openSource": true,
@@ -871,7 +871,7 @@
       "conflict-detection",
       "documentation"
     ],
-    "heat": 360,
+    "heat": 357,
     "source": "github",
     "official": false
   },
@@ -881,8 +881,8 @@
     "fullName": "Orchestra-Research/AI-Research-SKILLs",
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
     "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
-    "stars": 14431,
-    "forks": 997,
+    "stars": 14458,
+    "forks": 1000,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-11T02:56:34Z",
@@ -897,7 +897,7 @@
       "gemini",
       "gpt-5"
     ],
-    "heat": 449,
+    "heat": 444,
     "source": "github",
     "official": false
   },
@@ -907,7 +907,7 @@
     "fullName": "alchaincyf/zhangxuefeng-skill",
     "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
     "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "stars": 10741,
+    "stars": 10745,
     "forks": 2687,
     "license": "MIT",
     "openSource": true,
@@ -923,7 +923,7 @@
       "cursor",
       "decision-making"
     ],
-    "heat": 358,
+    "heat": 354,
     "source": "github",
     "official": false
   },
@@ -933,11 +933,11 @@
     "fullName": "SnailSploit/Claude-Red",
     "url": "https://github.com/SnailSploit/Claude-Red",
     "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shell",
-    "stars": 10576,
-    "forks": 1417,
+    "stars": 10598,
+    "forks": 1425,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-10-12T15:02:40Z",
+    "pushedAt": "2026-11-11T13:48:05Z",
     "archived": false,
     "topics": [
       "claude-ai",
@@ -947,33 +947,7 @@
       "redteam-tools",
       "skills"
     ],
-    "heat": 345,
-    "source": "github",
-    "official": false
-  },
-  {
-    "id": "nexu-io/html-anything",
-    "name": "html-anything",
-    "fullName": "nexu-io/html-anything",
-    "url": "https://github.com/nexu-io/html-anything",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhih",
-    "stars": 9496,
-    "forks": 903,
-    "license": "Apache-2.0",
-    "openSource": true,
-    "pushedAt": "2026-11-11T06:01:10Z",
-    "archived": false,
-    "topics": [
-      "agent-skills",
-      "agentic",
-      "ai-agents",
-      "ai-design",
-      "ai-editor",
-      "byok",
-      "claude",
-      "claude-code"
-    ],
-    "heat": 9398,
+    "heat": 9644,
     "source": "github",
     "official": false
   },
@@ -983,11 +957,11 @@
     "fullName": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": 450666,
-    "forks": 110892,
+    "stars": 451947,
+    "forks": 111167,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-11T06:15:53Z",
+    "pushedAt": "2026-11-11T16:05:00Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -999,7 +973,7 @@
       "dsh-plugin",
       "html"
     ],
-    "heat": 450589,
+    "heat": 450219,
     "source": "github",
     "official": false
   },
@@ -1009,8 +983,8 @@
     "fullName": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "stars": 188546,
-    "forks": 10483,
+    "stars": 188905,
+    "forks": 10505,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-10-29T11:59:31Z",
@@ -1025,7 +999,7 @@
       "developer-tools",
       "llm"
     ],
-    "heat": 13701,
+    "heat": 13327,
     "source": "github",
     "official": false
   },
@@ -1035,8 +1009,8 @@
     "fullName": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
-    "stars": 115342,
-    "forks": 12110,
+    "stars": 115683,
+    "forks": 12137,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-01T19:24:49Z",
@@ -1049,7 +1023,7 @@
       "cursor",
       "skills"
     ],
-    "heat": 11035,
+    "heat": 10647,
     "source": "github",
     "official": false
   },
@@ -1059,8 +1033,8 @@
     "fullName": "Leonxlnx/taste-skill",
     "url": "https://github.com/Leonxlnx/taste-skill",
     "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-    "stars": 113091,
-    "forks": 7617,
+    "stars": 113362,
+    "forks": 7633,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-08T21:51:50Z",
@@ -1075,7 +1049,7 @@
       "design-system",
       "frontend"
     ],
-    "heat": 33756,
+    "heat": 30126,
     "source": "github",
     "official": false
   },
@@ -1085,11 +1059,11 @@
     "fullName": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
     "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-    "stars": 107741,
-    "forks": 6406,
+    "stars": 108078,
+    "forks": 6425,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-11T05:49:52Z",
+    "pushedAt": "2026-11-11T14:13:47Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -1098,7 +1072,7 @@
       "design",
       "slop"
     ],
-    "heat": 105811,
+    "heat": 99973,
     "source": "github",
     "official": false
   },
@@ -1108,11 +1082,11 @@
     "fullName": "nexu-io/open-design",
     "url": "https://github.com/nexu-io/open-design",
     "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate ",
-    "stars": 107070,
-    "forks": 12178,
+    "stars": 107173,
+    "forks": 12188,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-11T04:11:31Z",
+    "pushedAt": "2026-11-11T13:40:46Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -1124,7 +1098,7 @@
       "cursor-design",
       "deepseek"
     ],
-    "heat": 98542,
+    "heat": 97077,
     "source": "github",
     "official": false
   },
@@ -1134,11 +1108,11 @@
     "fullName": "career-ops-hq/career-ops",
     "url": "https://github.com/career-ops-hq/career-ops",
     "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each a",
-    "stars": 81792,
-    "forks": 15021,
+    "stars": 81906,
+    "forks": 15035,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-11T06:01:31Z",
+    "pushedAt": "2026-11-11T15:53:37Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -1150,7 +1124,7 @@
       "claude-code",
       "claude-code-plugin"
     ],
-    "heat": 80970,
+    "heat": 80955,
     "source": "github",
     "official": false
   },
@@ -1160,8 +1134,8 @@
     "fullName": "blader/humanizer",
     "url": "https://github.com/blader/humanizer",
     "description": "Agent skill that removes signs of AI-generated writing from text",
-    "stars": 67669,
-    "forks": 5318,
+    "stars": 67850,
+    "forks": 5329,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-10T01:35:15Z",
@@ -1176,7 +1150,7 @@
       "codex",
       "cursor"
     ],
-    "heat": 30828,
+    "heat": 26018,
     "source": "github",
     "official": false
   },
@@ -1186,8 +1160,8 @@
     "fullName": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "stars": 66386,
-    "forks": 4409,
+    "stars": 66480,
+    "forks": 4418,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-10T22:44:09Z",
@@ -1202,7 +1176,7 @@
       "mermaid",
       "svg"
     ],
-    "heat": 50527,
+    "heat": 38502,
     "source": "github",
     "official": false
   }

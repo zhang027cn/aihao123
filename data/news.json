@@ -8,12 +8,314 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:gilbert tobin rethinks the business of law with ai",
+    "aiSummary": "Gilbert + Tobin律所CEO探讨用AI重塑法律业务模式。",
     "category": "政策监管",
+    "summaryStatus": "ai",
     "tags": [
       "商业"
+    ]
+  },
+  {
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "published": "2026-11-11T16:00:00.000Z",
+    "source": "Google AI Blog",
+    "sourceId": "google-ai",
+    "lang": "en",
+    "id": "google-ai:try tabletop customizable collaborative spaces for groups to plan play and do mo",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "Gilbert + Tobin律所CEO探讨用AI重塑法律业务模式。",
-    "summaryStatus": "ai"
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
+    "published": "2026-11-11T16:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:google s tabletop ai experiment lets you build custom collaboration apps",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+    "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+    "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fu",
+    "published": "2026-11-11T15:12:53.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:helsing built an ai system that prepares targets for weapons systems and says ev",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Anthropic's IPO roadshow video",
+    "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+    "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic t",
+    "published": "2026-11-11T15:11:59.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:anthropic s ipo roadshow video",
+    "category": "开源",
+    "tags": [
+      "Anthropic",
+      "视频",
+      "IPO",
+      "商业"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "published": "2026-11-11T15:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:databricks new ai agent tells ceo ali ghodsi the unvarnished truth",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+    "published": "2026-11-11T15:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:google s alphagenome 2 zooms in on the cellular roots of disease",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+    "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+    "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The a",
+    "published": "2026-11-11T14:25:20.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:anthropic says ai is eroding nvidia s cuda lead cutting an amd chip switch from ",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "英伟达",
+      "芯片",
+      "Claude"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+    "link": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+    "summary": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+    "published": "2026-11-11T14:21:42.000Z",
+    "source": "Last Week in AI",
+    "sourceId": "lastweekinai",
+    "lang": "en",
+    "id": "lastweekinai:last week month in ai 347 nvidia s spy anthropic s 1 4t ipo ai s blue wave",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "英伟达",
+      "IPO",
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google DeepMind just mathematically verified key parts of Signal",
+    "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+    "summary": "The four-week project hints that AI could make formal verification far more practical.",
+    "published": "2026-11-11T14:08:57.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:google deepmind just mathematically verified key parts of signal",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "published": "2026-11-11T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:plurai wants to help ai agents work better using the same approach that helped g",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
+    "published": "2026-11-11T14:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:adobe s ai experiments let you walk around in photos and interview your characte",
+    "category": "行业动态",
+    "tags": [
+      "图像"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+    "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and ",
+    "published": "2026-11-11T13:51:11.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:us data brokers are selling half a billion dollars in rl training environments t",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+    "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+    "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. The article DeepL wants real-time translation to finally capture sarcasm and mo",
+    "published": "2026-11-11T13:50:30.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:deepl wants real time translation to finally capture sarcasm and mood shifts",
+    "category": "行业动态",
+    "tags": [
+      "语音"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w",
+    "published": "2026-11-11T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:the download preserving minds and weighing open ai risks",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+    "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+    "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain ",
+    "published": "2026-11-11T12:53:07.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:grok built apps exposed patient data plaintext passwords and spacexsi s own sale",
+    "category": "芯片算力",
+    "tags": [
+      "Grok",
+      "安全"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+    "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+    "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for ent",
+    "published": "2026-11-11T12:12:47.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:enterprise sales push openai s quarterly revenue to 10 billion though it still t",
+    "category": "应用落地",
+    "tags": [
+      "Anthropic",
+      "营收",
+      "OpenAI",
+      "企业"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "link": "https://pietromiotti.com/latest/maya-site/?maya",
+    "published": "2026-11-11T12:05:22Z",
+    "points": 579,
+    "comments": 226,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50452455",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+    "link": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+    "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward. To save the credib",
+    "published": "2026-11-11T11:54:46.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:uk regulator threatens universities with sanctions unless they adopt ai proof ex",
+    "category": "大模型",
+    "tags": [
+      "教育",
+      "论文",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "published": "2026-11-11T09:00:00.000Z",
+    "source": "Google AI Blog",
+    "sourceId": "google-ai",
+    "lang": "en",
+    "id": "google-ai:experience the art and legacy of dr esther mahlangu",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "ChatGPT Plus for veterans and servicemembers",
@@ -27,6 +329,66 @@
     "category": "大模型",
     "tags": [
       "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "published": "2026-11-11T07:30:51.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia s crisis has corporate governance experts reaching for the popcorn",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+    "link": "https://www.qbitai.com/2026/11/509146.html",
+    "summary": "价格、门槛全打穿",
+    "published": "2026-11-11T06:41:26.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:双11直播间爆改ai秀场 罗永浩上手trae 秒变ai coding的大众嘴替",
+    "category": "应用落地",
+    "tags": [
+      "编程"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+    "link": "https://www.qbitai.com/2026/11/509088.html",
+    "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+    "published": "2026-11-11T06:27:03.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:从 卖token 到 卖结果 科技有 联想 沙龙激辩token经济三大议题",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+    "link": "https://www.qbitai.com/2026/11/509085.html",
+    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+    "published": "2026-11-11T06:18:09.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:卷起来了 11月11日 大模型厂商在天猫打5折",
+    "category": "大模型",
+    "tags": [
+      "大模型"
     ],
     "summaryStatus": "nocache"
   },
@@ -63,6 +425,21 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "summary": "",
+    "published": "2026-11-11T00:00:00.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:token pooling aware training for multi vector embedding models",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
     "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
     "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
@@ -71,13 +448,29 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:ring cameras go mobile as amazon debuts ai powered security drone and robot",
+    "aiSummary": "亚马逊推出AI安防无人机和机器人，Ring摄像头移动化，2026年底亮相。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "机器人",
       "安全"
+    ]
+  },
+  {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "published": "2026-11-10T21:25:03Z",
+    "points": 426,
+    "comments": 439,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50446520",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "亚马逊推出AI安防无人机和机器人，Ring摄像头移动化，2026年底亮相。",
-    "summaryStatus": "ai"
+    "summaryStatus": "nocache"
   },
   {
     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -88,15 +481,15 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:grok build coding agent leaks oodles of confidential info some belonging to spac",
+    "aiSummary": "Grok Build编码代理泄露大量机密信息，部分属于Spa。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Grok",
       "编程",
       "Agent",
       "研究"
-    ],
-    "aiSummary": "Grok Build编码代理泄露大量机密信息，部分属于Spa。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -107,12 +500,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:openai acquires odessia travel startup created by sonder founder",
+    "aiSummary": "OpenAI收购旅行初创Odessia，由Sonder创始人创立，进军旅行领域。",
     "category": "应用落地",
+    "summaryStatus": "lazy",
     "tags": [
       "OpenAI"
-    ],
-    "aiSummary": "OpenAI收购旅行初创Odessia，由Sonder创始人创立，进军旅行领域。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -123,15 +516,15 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:openai anthropic face new oversight as new york s ai safety law takes effect",
+    "aiSummary": "纽约AI安全法生效，OpenAI和Anthropic须登记、披露安全实践并报告事故，违者罚款。",
     "category": "政策监管",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "OpenAI",
       "安全对齐",
       "开发者"
-    ],
-    "aiSummary": "纽约AI安全法生效，OpenAI和Anthropic须登记、披露安全实践并报告事故，违者罚款。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "What happens to mathematics when AI becomes an oracle?",
@@ -142,12 +535,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:what happens to mathematics when ai becomes an oracle",
+    "aiSummary": "数学家Steven Strogatz谈新书，探讨AI成为预言机时数学的未来。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "数学家Steven Strogatz谈新书，探讨AI成为预言机时数学的未来。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
@@ -158,15 +551,15 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai turns chatgpt into a business directory with ai agents that handle custom",
+    "aiSummary": "OpenAI推商业中心，企业可认领资料并设智能体在ChatGPT内服务客户。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "商业",
       "OpenAI",
       "Agent",
       "GPT"
-    ],
-    "aiSummary": "OpenAI推商业中心，企业可认领资料并设智能体在ChatGPT内服务客户。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "llm-gemini 0.36",
@@ -177,14 +570,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:llm gemini 0 36",
+    "aiSummary": "谷歌最强Gemini 4 Carbon全面开放，输入每百万2美元、输出10美元。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Gemini",
       "LLM",
       "GPT"
-    ],
-    "aiSummary": "谷歌最强Gemini 4 Carbon全面开放，输入每百万2美元、输出10美元。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
@@ -195,13 +588,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:all 7 anthropic founders will each cash out about 250m in ipo",
+    "aiSummary": "Anthropic七位联合创始人IPO各套现约2.5亿美元，仍掌控公司。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "IPO",
       "Anthropic"
-    ],
-    "aiSummary": "Anthropic七位联合创始人IPO各套现约2.5亿美元，仍掌控公司。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
@@ -212,13 +605,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:anthropic turns claude into a full workspace with plugins spreadsheets whiteboar",
+    "aiSummary": "Anthropic将Claude扩展为工作空间，新增表格、白板及插件，会议笔记功能即将上线。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "Claude"
-    ],
-    "aiSummary": "Anthropic将Claude扩展为工作空间，新增表格、白板及插件，会议笔记功能即将上线。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
@@ -229,13 +622,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:oura to acquire ai native primary care startup counsel health for 625m",
+    "aiSummary": "Oura以6.25亿美元收购AI医疗初创Counsel Health，此前已",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "医疗",
       "IPO"
-    ],
-    "aiSummary": "Oura以6.25亿美元收购AI医疗初创Counsel Health，此前已",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "The US is winning the AI race. Jensen Huang could have blown it",
@@ -246,12 +639,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:the us is winning the ai race jensen huang could have blown it",
+    "aiSummary": "美国AI竞赛领先，黄仁勋或成变数。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "美国AI竞赛领先，黄仁勋或成变数。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "PSI is trying to make a business out of AI-driven scientific discovery",
@@ -262,14 +655,14 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:psi is trying to make a business out of ai driven scientific discovery",
+    "aiSummary": "PSI用Anthropic未发布模型，解决量子计算近二十年未解难题。",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "商业",
       "Anthropic",
       "量子"
-    ],
-    "aiSummary": "PSI用Anthropic未发布模型，解决量子计算近二十年未解难题。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Gemini Intelligence: New features, on more devices",
@@ -280,12 +673,12 @@
     "sourceId": "google-ai",
     "lang": "en",
     "id": "google-ai:gemini intelligence new features on more devices",
+    "aiSummary": "谷歌Gemini Intelligence扩展至更多设备，新增功能助用户完成更多任务。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Gemini"
-    ],
-    "aiSummary": "谷歌Gemini Intelligence扩展至更多设备，新增功能助用户完成更多任务。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -296,14 +689,14 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:openai rolls out new business profiles making chatgpt just a little bit more lik",
+    "aiSummary": "OpenAI推企业档案功能，ChatGPT更像谷歌，强化消费发现引擎。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "商业",
       "OpenAI",
       "GPT"
-    ],
-    "aiSummary": "OpenAI推企业档案功能，ChatGPT更像谷歌，强化消费发现引擎。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
@@ -314,33 +707,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:nvidia s model gr00t 2 watches humans on video then imagines itself as the robot",
+    "aiSummary": "英伟达发布GR00T 2模型，让机器人通过观看视频学习新任务，成功率10%至80%。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达",
       "机器人",
       "视频"
-    ],
-    "aiSummary": "英伟达发布GR00T 2模型，让机器人通过观看视频学习新任务，成功率10%至80%。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
-    "link": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
-    "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, whi",
-    "published": "2026-11-10T18:19:13.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:gemini 4 carbon arrives just in time to feel like yesterday s news in the fastes",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "Anthropic",
-      "基准",
-      "Agent"
-    ],
-    "aiSummary": "谷歌Gemini 4 Carbon正式上线，多项基准领先，成本不到对手一半，并预览智能体协作。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "ChatGPT is getting verified AI ‘Business Agents’",
@@ -351,14 +725,14 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:chatgpt is getting verified ai business agents",
+    "aiSummary": "ChatGPT推出认证商业代理，帮用户比价购物，率先面向美国电商企业。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "商业",
       "Agent",
       "GPT"
-    ],
-    "aiSummary": "ChatGPT推出认证商业代理，帮用户比价购物，率先面向美国电商企业。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "The indie game community is in disarray over AI and Big Walk",
@@ -369,12 +743,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:the indie game community is in disarray over ai and big walk",
+    "aiSummary": "IGF评委拒投生成式AI游戏，独立游戏《Big Walk》开发者承认少量使用AI。",
     "category": "应用落地",
+    "summaryStatus": "lazy",
     "tags": [
       "开发者"
-    ],
-    "aiSummary": "IGF评委拒投生成式AI游戏，独立游戏《Big Walk》开发者承认少量使用AI。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -401,32 +775,15 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:anthropic has its own ai powered office suite now",
+    "aiSummary": "Anthropic推出自家AI办公套件，延续企业级工具战略。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "企业",
       "OpenAI",
       "Claude"
-    ],
-    "aiSummary": "Anthropic推出自家AI办公套件，延续企业级工具战略。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
-    "link": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
-    "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's",
-    "published": "2026-11-10T17:11:10.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:google deepmind s gemini robotics 2 5 scores 96 percent sorting metal parts in a",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "机器人"
-    ],
-    "aiSummary": "谷歌DeepMind机器人模型在奔驰产线测试，分拣金属件成功率96%。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -437,13 +794,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:nvidia ceo jensen huang s affair with alleged chinese spy a timeline",
+    "aiSummary": "黄仁勋疑涉中国间谍婚外情，或影响美中AI竞争与国家安全。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达",
       "安全"
-    ],
-    "aiSummary": "黄仁勋疑涉中国间谍婚外情，或影响美中AI竞争与国家安全。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "eBay appears to have shut the door on third-party AI agents",
@@ -454,12 +811,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:ebay appears to have shut the door on third party ai agents",
+    "aiSummary": "eBay封锁第三方AI代理，包括Meta的Muse，限制其浏览平台。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "eBay封锁第三方AI代理，包括Meta的Muse，限制其浏览平台。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
@@ -470,14 +827,14 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:google releases gemini 4 carbon with agent swarm feature",
+    "aiSummary": "谷歌发布最强模型Gemini 4 Carbon，带智能体集群功能，向公众开放，挑战OpenAI。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Gemini",
       "Agent",
       "安全"
-    ],
-    "aiSummary": "谷歌发布最强模型Gemini 4 Carbon，带智能体集群功能，向公众开放，挑战OpenAI。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Google broadens its AI hardware portfolio with two new specialized chips",
@@ -488,12 +845,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:google broadens its ai hardware portfolio with two new specialized chips",
+    "aiSummary": "谷歌推出两款新TPU，扩展AI硬件，支持机密训练与更大内存。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "芯片"
-    ],
-    "aiSummary": "谷歌推出两款新TPU，扩展AI硬件，支持机密训练与更大内存。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
@@ -504,13 +861,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:meta s ai agent muse lands on apple watch and android wear os",
+    "aiSummary": "Meta AI助手Muse登陆Apple Watch和安卓手表，支持语音、短信和听写交互。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Agent",
       "语音"
-    ],
-    "aiSummary": "Meta AI助手Muse登陆Apple Watch和安卓手表，支持语音、短信和听写交互。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -521,32 +878,15 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:deepmind reveals gemini robotics 2 5 and open safety benchmark asimov jailbreak",
+    "aiSummary": "DeepMind发布Gemini Robotics 2.5及开放安全基准，部分任务成功率翻倍。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "基准",
       "Gemini",
       "安全对齐",
       "机器人"
-    ],
-    "aiSummary": "DeepMind发布Gemini Robotics 2.5及开放安全基准，部分任务成功率翻倍。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-    "link": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
-    "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot. The article An",
-    "published": "2026-11-10T14:07:47.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic s fable 5 2 completes 41 percent of real freelance jobs up from 2 5 pe",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "GPT"
-    ],
-    "aiSummary": "Anthropic Fable 5.2完成41%真实自由职业任务，一年前仅2.5%，远超其他系统。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Anthropic targets $1.4 trillion IPO",
@@ -557,14 +897,14 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:anthropic targets 1 4 trillion ipo",
+    "aiSummary": "Anthropic确认IPO估值可达1.4万亿美元，或成史上最大IPO之一。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "IPO",
       "估值"
-    ],
-    "aiSummary": "Anthropic确认IPO估值可达1.4万亿美元，或成史上最大IPO之一。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -575,12 +915,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:adobe brings ai agents and new creative tools to photoshop premiere and firefly",
+    "aiSummary": "Adobe在Firefly推出原型构建工具，对抗Figma。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "Adobe在Firefly推出原型构建工具，对抗Figma。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
@@ -591,14 +931,14 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:anthropic sets ipo price range of 70 to 78 per share to reach an implied valuati",
+    "aiSummary": "Anthropic IPO定价区间70至78美元，隐含估值达1.404万亿美元。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "估值",
       "IPO"
-    ],
-    "aiSummary": "Anthropic IPO定价区间70至78美元，隐含估值达1.404万亿美元。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -609,12 +949,12 @@
     "sourceId": "google-ai",
     "lang": "en",
     "id": "google-ai:we re bringing adobe s creative and productivity tools closer to your everyday g",
+    "aiSummary": "谷歌与Adobe合作，在Drive编辑PDF、Gemini中调用Adobe AI工具。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Gemini"
-    ],
-    "aiSummary": "谷歌与Adobe合作，在Drive编辑PDF、Gemini中调用Adobe AI工具。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
@@ -625,12 +965,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:after challenging google s android with cyanogen its co founder takes aim at win",
+    "aiSummary": "Cyanogen联合创始人推出免费系统Kora，挑战Windows，主打AI模型与代理用户。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "Cyanogen联合创始人推出免费系统Kora，挑战Windows，主打AI模型与代理用户。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
@@ -641,64 +981,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:spotify s ai dj gets new voices personalities and an option for less chatter",
+    "aiSummary": "Spotify为AI DJ新增多种声音和个性，并可关闭歌曲间评论。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "语音"
-    ],
-    "aiSummary": "Spotify为AI DJ新增多种声音和个性，并可关闭歌曲间评论。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Adobe is going all in on agentic AI",
-    "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferr",
-    "published": "2026-11-10T14:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:adobe is going all in on agentic ai",
-    "category": "智能体",
-    "tags": [
-      "Agent",
-      "Agentic"
-    ],
-    "aiSummary": "Adobe在Max大会宣布全面押注智能体AI，让AI代理成为设计助手并自动化创意流程。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-    "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted",
-    "published": "2026-11-10T14:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:photoshop lightroom and premiere are making it easier to remove things",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "Adobe扩展Creative Cloud与Firefly AI，新增自动移除物体等编辑功能。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-    "link": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
-    "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks b",
-    "published": "2026-11-10T13:37:16.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:eight countries and top ai labs agree to shutdown mechanisms in new paris declar",
-    "category": "开源",
-    "tags": [
-      "Anthropic",
-      "安全",
-      "Mistral",
-      "OpenAI"
-    ],
-    "aiSummary": "八国及OpenAI等签巴黎宣言，承诺AI关闭机制与审计，但无强制力。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
@@ -709,31 +997,15 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:ring known for its doorbell cameras launches a home security drone and an enterp",
+    "aiSummary": "亚马逊旗下Ring推出家庭安防无人机及企业安保机器人，拓展机器人业务。",
     "category": "应用落地",
+    "summaryStatus": "lazy",
     "tags": [
       "安全",
       "机器人",
       "企业",
       "商业"
-    ],
-    "aiSummary": "亚马逊旗下Ring推出家庭安防无人机及企业安保机器人，拓展机器人业务。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Hands-on with Ring’s new AI drone camera for your home",
-    "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company ann",
-    "published": "2026-11-10T13:30:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:hands on with ring s new ai drone camera for your home",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "Ring发布AI室内无人机摄像头，2027年1月27日发售，售价249.99美元。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
@@ -744,12 +1016,12 @@
     "sourceId": "techreview",
     "lang": "en",
     "id": "techreview:the download pelosi s successor targets ai and data centers face power woes",
+    "aiSummary": "佩洛西继任者拟监管AI，加州议员维纳推动限制风险法案",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "佩洛西继任者拟监管AI，加州议员维纳推动限制风险法案",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Google Cloud launches Gemini for healthcare.",
@@ -760,13 +1032,13 @@
     "sourceId": "google-ai",
     "lang": "en",
     "id": "google-ai:google cloud launches gemini for healthcare",
+    "aiSummary": "谷歌云推出Gemini医疗版，统一临床数据并自动化流程，减轻行政负担。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Gemini",
       "医疗"
-    ],
-    "aiSummary": "谷歌云推出Gemini医疗版，统一临床数据并自动化流程，减轻行政负担。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
@@ -777,14 +1049,14 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:cyberattacks threaten to make open source ai a little less open hugging face exe",
+    "aiSummary": "Hugging Face高管警告：网络攻击激增恐迫使开源AI收紧安全，损害开放性。",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "开源",
       "开发者",
       "安全"
-    ],
-    "aiSummary": "Hugging Face高管警告：网络攻击激增恐迫使开源AI收紧安全，损害开放性。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -795,31 +1067,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:ukraine s fiber optic drones get squeezed by ai data center demand",
+    "aiSummary": "乌克兰光纤无人机受AI数据中心需求挤压，与中国光纤供应竞争加剧。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "乌克兰光纤无人机受AI数据中心需求挤压，与中国光纤供应竞争加剧。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-    "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
-    "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes a",
-    "published": "2026-11-10T12:13:03.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic kicks off ipo roadshow offering shares at 70 to 78 and targeting a tri",
-    "category": "芯片算力",
-    "tags": [
-      "Anthropic",
-      "估值",
-      "IPO",
-      "英伟达"
-    ],
-    "aiSummary": "Anthropic启动IPO路演，目标估值1.02万亿美元，谷歌英伟达微软等巨头参与认购。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Helping caregivers use AI in everyday life",
@@ -830,13 +1083,13 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:helping caregivers use ai in everyday life",
+    "aiSummary": "OpenAI为美国五城护理人员提供免费ChatGPT工作坊，助其掌握实用AI技能。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "aiSummary": "OpenAI为美国五城护理人员提供免费ChatGPT工作坊，助其掌握实用AI技能。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
@@ -855,6 +1108,22 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "AI usage generates a fragile codebase",
+    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "published": "2026-11-10T10:25:58Z",
+    "points": 614,
+    "comments": 579,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50438318",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Introducing Businesses in ChatGPT",
     "link": "https://openai.com/index/introducing-businesses-chatgpt",
     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
@@ -863,13 +1132,13 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:introducing businesses in chatgpt",
+    "aiSummary": "OpenAI推出ChatGPT商业版，助企业管理信息",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "商业",
       "GPT"
-    ],
-    "aiSummary": "OpenAI推出ChatGPT商业版，助企业管理信息",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Closing the AI guidance gap in education",
@@ -880,14 +1149,14 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:closing the ai guidance gap in education",
+    "aiSummary": "ThinkYoung与OpenAI合作研究，助力教师AI素养与自主学习。",
     "category": "研究论文",
+    "summaryStatus": "lazy",
     "tags": [
       "教育",
       "研究",
       "OpenAI"
-    ],
-    "aiSummary": "ThinkYoung与OpenAI合作研究，助力教师AI素养与自主学习。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -898,12 +1167,27 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:从芯片到千比特整机 超导量子计算还有一场硬仗",
+    "aiSummary": "超导量子计算获近亿元融资，但迈向千比特整机仍面临挑战。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "芯片"
+    ]
+  },
+  {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "link": "https://openai.com/index/singapore-airlines-travel-work",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "published": "2026-11-10T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:singapore airlines elevates travel work with openai technology",
+    "category": "应用落地",
+    "tags": [
+      "OpenAI"
     ],
-    "aiSummary": "超导量子计算获近亿元融资，但迈向千比特整机仍面临挑战。",
-    "summaryStatus": "lazy"
+    "summaryStatus": "nocache"
   },
   {
     "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
@@ -914,12 +1198,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:从 一脑多机 到 一脑多手 蚂蚁灵波开源lingbot touch触觉基础模型",
+    "aiSummary": "蚂蚁灵波科技开源触觉基础模型LingBot-Touch，助力机器人从“一脑多机”迈向“一脑多手”。",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "开源"
-    ],
-    "aiSummary": "蚂蚁灵波科技开源触觉基础模型LingBot-Touch，助力机器人从“一脑多机”迈向“一脑多手”。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
@@ -930,12 +1214,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:agent自演进驶入 双轨时代 openjiuwen首发ttse经验学习框架",
+    "aiSummary": "openJiuwen首发TTSE框架，助Agent自演进进入双轨时代。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "openJiuwen首发TTSE框架，助Agent自演进进入双轨时代。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -946,12 +1230,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:成立四个月 融资过亿美金 tensorworld物原科技要跑通 物理真实 路线",
+    "aiSummary": "TensorWorld物原科技成立四月融资过亿美金，主攻物理真实路线。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "TensorWorld物原科技成立四月融资过亿美金，主攻物理真实路线。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
@@ -962,12 +1246,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:达卯科技与浦东环保能源战略合作 黎明智算中心算电协同平台启动",
+    "aiSummary": "达卯科技与浦东环保能源合作，启动黎明智算中心算电协同平台，加速智算中心向E-AIDC演进。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "达卯科技与浦东环保能源合作，启动黎明智算中心算电协同平台，加速智算中心向E-AIDC演进。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -978,47 +1262,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:introducing our smallest most efficient model muse ember",
+    "aiSummary": "Meta AI发布最小高效模型Muse Ember，专注复杂推理与工具调用。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "推理模型",
       "Claude",
       "GPT"
-    ],
-    "aiSummary": "Meta AI发布最小高效模型Muse Ember，专注复杂推理与工具调用。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Token卷到触觉了！机器人终于有了通用手感",
-    "link": "https://www.qbitai.com/2026/11/508919.html",
-    "summary": "蚂蚁灵波开源LingBot-Touch",
-    "published": "2026-11-10T07:26:53.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:token卷到触觉了 机器人终于有了通用手感",
-    "category": "开源",
-    "tags": [
-      "机器人",
-      "开源"
-    ],
-    "aiSummary": "蚂蚁灵波开源LingBot-Touch，为机器人提供通用触觉。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-    "link": "https://www.qbitai.com/2026/11/508912.html",
-    "summary": "作曲、拍片、3D建模一条龙全包圆",
-    "published": "2026-11-10T07:03:43.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:fable 5 2首批实测来了 网友 opus突然不香了",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "Fable 5.2实测获赞，作曲拍片3D建模全包，网友直呼Opus不香了。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Work at the Frontier: AI’s effect on freelance work",
@@ -1029,13 +1280,13 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:work at the frontier ai s effect on freelance work",
+    "aiSummary": "OpenAI与Upwork研究：AI带动自由职业需求变化，新技能组合涌现，相关项目预算与工时增加。",
     "category": "研究论文",
+    "summaryStatus": "lazy",
     "tags": [
       "研究",
       "OpenAI"
-    ],
-    "aiSummary": "OpenAI与Upwork研究：AI带动自由职业需求变化，新技能组合涌现，相关项目预算与工时增加。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Otter AI can now follow conversations across 30+ languages",
@@ -1046,12 +1297,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:otter ai can now follow conversations across 30 languages",
+    "aiSummary": "Otter AI新增27种语言支持，将可实时跟随多语言切换。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Otter AI新增27种语言支持，将可实时跟随多语言切换。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Quoting Prompting Claude Fable 5.2",
@@ -1062,14 +1313,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:quoting prompting claude fable 5 2",
+    "aiSummary": "Claude Fable 5.2据提示中代码所有权，倾向在他人代码上增量修改。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Claude",
       "Anthropic",
       "编程"
-    ],
-    "aiSummary": "Claude Fable 5.2据提示中代码所有权，倾向在他人代码上增量修改。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Yonkers Rises",
@@ -1080,46 +1331,12 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:yonkers rises",
+    "aiSummary": "作者用Claude Fable 5.2制作Yon",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Claude"
-    ],
-    "aiSummary": "作者用Claude Fable 5.2制作Yon",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-    "link": "https://www.qbitai.com/2026/11/508828.html",
-    "summary": "速度提了，API价格降了",
-    "published": "2026-11-10T02:48:22.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:100轮图像编辑这道 毙刷题 新出的seedream 5 5稳上来了",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "Seedream 5.5发布，100轮图像编辑稳定，速度提升，API降价。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "published": "2026-11-10T01:27:12.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:anthropic reportedly plans to move forward with ipo plans",
-    "category": "行业动态",
-    "tags": [
-      "Anthropic",
-      "IPO",
-      "估值"
-    ],
-    "aiSummary": "Anthropic据报推进IPO，本周或定估值区间。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
@@ -1177,14 +1394,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:llm anthropic 0 31",
+    "aiSummary": "llm-anthropic更新至0.31，支持Anthropic新模型Fable 5.2和Mythos 5.2。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "LLM",
       "基准"
-    ],
-    "aiSummary": "llm-anthropic更新至0.31，支持Anthropic新模型Fable 5.2和Mythos 5.2。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Locating the source of a mysterious beep with Claude",
@@ -1195,78 +1412,12 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:locating the source of a mysterious beep with claude",
+    "aiSummary": "Claude帮助",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Claude"
-    ],
-    "aiSummary": "Claude帮助",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "published": "2026-11-09T23:28:37.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:jensen huang reportedly engaged a pr firm with a history of handling high profil",
-    "category": "应用落地",
-    "tags": [
-      "商业"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "published": "2026-11-09T22:46:09.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:a short seller flagged nvidia ceo s ties to a suspected chinese spy six months b",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "研究"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-    "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-    "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and wri",
-    "published": "2026-11-09T21:15:23.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:claude fable 5 2 and mythos 5 2 cement anthropic s ai lead just before its ipo",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "IPO",
-      "安全"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-    "link": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-    "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual",
-    "published": "2026-11-09T19:41:51.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:meta launches muse ember a small ai model built for the repetitive work agents a",
-    "category": "大模型",
-    "tags": [
-      "Agent",
-      "Claude",
-      "GPT"
-    ],
-    "summaryStatus": "nocache"
+    ]
   },
   {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -1288,7 +1439,7 @@
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "published": "2026-11-09T18:56:29Z",
-    "points": 990,
+    "points": 994,
     "comments": 8,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1304,7 +1455,7 @@
     "title": "E-means: Outperforming k-means in one-tenth the epochs",
     "link": "https://e-means.github.io/",
     "published": "2026-11-09T18:45:43Z",
-    "points": 497,
+    "points": 503,
     "comments": 78,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1320,7 +1471,7 @@
     "title": "Google Gemini routes personal Drive files and emails to human annotators",
     "link": "https://github.com/thisisme6598/gemini_files/",
     "published": "2026-11-09T18:24:38Z",
-    "points": 717,
+    "points": 723,
     "comments": 147,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1329,6 +1480,22 @@
     "category": "大模型",
     "tags": [
       "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "link": "https://www.watched.earth",
+    "published": "2026-11-09T17:51:31Z",
+    "points": 476,
+    "comments": 81,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50428907",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -1462,7 +1629,7 @@
     "title": "Foldable Flight: The Best Paper Airplanes",
     "link": "https://www.foldableflight.com",
     "published": "2026-11-09T12:19:22Z",
-    "points": 1214,
+    "points": 1234,
     "comments": 167,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1555,8 +1722,8 @@
     "title": "I'm not convinced the AI bubble exists",
     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "published": "2026-11-08T23:44:36Z",
-    "points": 566,
-    "comments": 962,
+    "points": 569,
+    "comments": 965,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1571,7 +1738,7 @@
     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
     "link": "https://ketchup3d.github.io/app/",
     "published": "2026-11-08T22:35:35Z",
-    "points": 762,
+    "points": 766,
     "comments": 233,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1603,8 +1770,8 @@
     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "published": "2026-11-08T18:16:07Z",
-    "points": 899,
-    "comments": 492,
+    "points": 901,
+    "comments": 493,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1621,7 +1788,7 @@
     "link": "https://github.com/synchopate/llama-modchip",
     "published": "2026-11-08T10:22:04Z",
     "points": 483,
-    "comments": 207,
+    "comments": 208,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1639,8 +1806,8 @@
     "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 816,
-    "comments": 491,
+    "points": 818,
+    "comments": 492,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1670,8 +1837,8 @@
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
-    "points": 624,
-    "comments": 427,
+    "points": 626,
+    "comments": 428,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1703,7 +1870,7 @@
     "link": "https://hunch.net/?p=13764006",
     "published": "2026-11-07T18:02:17Z",
     "points": 510,
-    "comments": 310,
+    "comments": 309,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1718,7 +1885,7 @@
     "title": "Every Mac comes with an (undocumented) family member classifier",
     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "published": "2026-11-07T09:46:03Z",
-    "points": 867,
+    "points": 868,
     "comments": 469,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1734,7 +1901,7 @@
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
     "published": "2026-11-06T19:48:51Z",
-    "points": 600,
+    "points": 601,
     "comments": 156,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1792,206 +1959,6 @@
     "summaryStatus": "ai",
     "tags": [
       "开发者"
-    ]
-  },
-  {
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "summary": "",
-    "published": "2026-11-06T14:00:48.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:toyblocks a controlled world for robot learning and evaluation",
-    "aiSummary": "ToyBlocks：为机器人学习与评估打造的受控世界。",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "估值",
-      "机器人"
-    ]
-  },
-  {
-    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service",
-    "published": "2026-11-06T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:the download a humanoid cleans house and samsung builds for the ai boom",
-    "aiSummary": "人形机器人进家清洁公寓，展现未来生活图景。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "机器人"
-    ]
-  },
-  {
-    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-    "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-    "published": "2026-11-06T09:27:12Z",
-    "points": 658,
-    "comments": 437,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50390124",
-    "category": "政策监管",
-    "tags": [
-      "禁令"
-    ],
-    "aiSummary": "荷兰ASN银行封禁非谷歌安卓系统，含GrapheneOS。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "published": "2026-11-06T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:partnering with hacktron to find vulnerabilities in openai s systems",
-    "aiSummary": "OpenAI携手Hacktron寻找系统漏洞，测试第三方连接并强化前沿AI防御。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "link": "https://github.com/ppmpreetham/BUI",
-    "published": "2026-11-06T07:40:35Z",
-    "points": 738,
-    "comments": 293,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50389333",
-    "category": "芯片算力",
-    "tags": [
-      "GPU"
-    ],
-    "aiSummary": "Blender界面与运行时性能远超GPUI。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "published": "2026-11-06T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:measuring how ai agents handle everyday wet lab science",
-    "aiSummary": "OpenAI发布BioBasicsBench，含100项任务，测试AI代理解读实验数据及湿实验操作能力。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "基准",
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "summary": "",
-    "published": "2026-11-06T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:egyptian and nigerian english join the open asr leaderboard",
-    "aiSummary": "埃及和尼日利亚英语加入Open ASR语音识别排行榜。",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "研究论文"
-    ]
-  },
-  {
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "published": "2026-11-05T23:09:57Z",
-    "points": 523,
-    "comments": 233,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50385870",
-    "category": "政策监管",
-    "tags": [
-      "营收",
-      "禁令"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Claude Code sends your email address to websites",
-    "link": "https://github.com/anthropics/claude-code/issues/107757",
-    "published": "2026-11-05T22:17:15Z",
-    "points": 1614,
-    "comments": 535,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50385272",
-    "aiSummary": "Claude Code 向网站发送用户邮箱，存在隐私泄露风险。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Claude"
-    ]
-  },
-  {
-    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-    "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-    "published": "2026-11-05T21:40:36.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:google schools can keep search while skipping gemini but ai search is non negoti",
-    "aiSummary": "谷歌称学校可保留搜索但跳过Gemini，但AI搜索不可让步。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
-    ]
-  },
-  {
-    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-    "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-    "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-    "published": "2026-11-05T21:39:40.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:lawsuit man introduced his wife to chatgpt she used it to plan his murder",
-    "aiSummary": "妻子用ChatGPT策划投毒谋杀丈夫，诉讼称其受AI指导。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "诉讼",
-      "GPT"
-    ]
-  },
-  {
-    "title": "Cult.fit builds operational muscle with Codex",
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-    "published": "2026-11-05T20:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:cult fit builds operational muscle with codex",
-    "aiSummary": "Cult.fit借助Codex构建工具，加速团队运作，革新工作流程。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   }
 ]
