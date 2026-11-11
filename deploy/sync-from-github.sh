@@ -58,6 +58,13 @@ rsync -a --delete "$STAGE/src/site/" "$WEB/"
 # enrich.json 是服务器懒加载回写的持久副本（不在 repo 内），--delete 会误删，必须排除
 rsync -a --delete --exclude=enrich.json "$STAGE/src/data/" "$WEB/data/"
 
+# enrich web 副本兜底：若缺失（生成前被删的窗口），从权威副本补回，
+# 保证 CI 的 mergeServerEnrich 任何时候都能拉到。
+if [ ! -f "$WEB/data/enrich.json" ] && [ -f /var/lib/aihao/enrich.json ]; then
+  cp /var/lib/aihao/enrich.json "$WEB/data/enrich.json"
+  log "enrich web 副本缺失，已从权威副本补回"
+fi
+
 # 记录成功时间
 date -u +%FT%T > "$STAMP"
 log "同步完成 $(date -u +%FT%T)"
