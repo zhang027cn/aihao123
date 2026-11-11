@@ -47,7 +47,9 @@
   }
   function _sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
   async function _sumFetchOne(n) {
-    const url = `/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`;
+    // 主域同源直调；GitHub Pages 等镜像跨域调主域 API（服务器白名单 + CORS 反射）
+    const API = (location.hostname === 'aihao123.zgc.pub') ? '' : 'https://aihao123.zgc.pub';
+    const url = `${API}/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`;
     for (let attempt = 0; attempt < 3; attempt++) {
       try {
         const res = await fetch(url);

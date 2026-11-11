@@ -174,7 +174,11 @@ async function persistEnrich(id, aiSummary) {
 }
 
 // ---- 访问控制与限流（滑动窗口：全局 RATE_LIMIT/分，单 IP IP_LIMIT/分）----
-const ALLOWED_ORIGIN = process.env.SUMMARY_ORIGIN || 'https://aihao123.zgc.pub';
+// 多 origin 白名单（逗号分隔）：主域 + GitHub Pages 镜像（Pages 纯静态无后端，
+// 前端跨域调用主域 API，双域体感一致）。Pages 是本人账户域，不扩大攻击面。
+const ALLOWED_ORIGINS = (process.env.SUMMARY_ORIGIN || 'https://aihao123.zgc.pub,https://zhang027cn.github.io')
+  .split(',').map((x) => x.trim()).filter(Boolean);
+const PRIMARY_ORIGIN = ALLOWED_ORIGINS[0];
 const TOKEN = process.env.SUMMARY_TOKEN || '';
 const RATE_LIMIT = Number(process.env.SUMMARY_RATE_LIMIT || 180); // 全局/分（前端已串行，防滥用即可）
 const IP_LIMIT = Number(process.env.SUMMARY_IP_LIMIT || 90);  // 单 IP/分（首屏30条串行约90s，需留足）
@@ -197,23 +201,21 @@ function takeToken(ip) {
 
 // 同源校验：Origin 或 Referer 必须来自本站（浏览器跨站请求会被拦，脚本直连也需伪造）
 function originAllowed(req) {
-  const origin = req.headers.origin;
-  if (typeof origin === 'string') {
-    try { return new URL(origin).origin === ALLOWED_ORIGIN; } catch { return false; }
-  }
-  const ref = req.headers.referer;
-  if (typeof ref === 'string') {
-    try { return new URL(ref).origin === ALLOWED_ORIGIN; } catch { return false; }
-  }
-  return false; // 无来源（curl/脚本直连）一律拒绝
+  const raw = req.headers.origin || req.headers.referer; // 浏览器同源 GET 带 Referer，跨域 fetch 带 Origin
+  if (typeof raw !== 'string' || !raw) return null;      // 无来源（curl/脚本直连）一律拒绝
+  try {
+    const origin = new URL(raw).origin;
+    return ALLOWED_ORIGINS.includes(origin) ? origin : null;
+  } catch { return null; }
 }
 
+let requestOrigin = null;  // 本次请求命中的合法 origin（供 send 反射 ACAO）
 async function handler(req, res) {
   const send = (code, obj) => {
     res.writeHead(code, {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'no-store',
-      'Access-Control-Allow-Origin': ALLOWED_ORIGIN,
+      'Access-Control-Allow-Origin': requestOrigin || PRIMARY_ORIGIN,
       'Access-Control-Allow-Methods': 'GET, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type',
     });
@@ -229,7 +231,8 @@ async function handler(req, res) {
   if (req.method !== 'GET') return send(405, { ok: false, error: 'method not allowed' });
 
   // 1) 同源校验
-  if (!originAllowed(req)) return send(403, { ok: false, error: 'forbidden origin' });
+  requestOrigin = originAllowed(req);
+  if (!requestOrigin) return send(403, { ok: false, error: 'forbidden origin' });
 
   // 2) 可选共享密钥
   if (TOKEN && u.searchParams.get('token') !== TOKEN) return send(403, { ok: false, error: 'bad token' });
