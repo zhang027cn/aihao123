@@ -16,11 +16,15 @@ import { fileURLToPath } from 'node:url';
 import { getJson, getText } from './lib/http.mjs';
 import { fetchFeed } from './lib/rss.mjs';
 import { writeJson, readJson, dedupeBy, normText, isOsiLicense, daysSince, sanitizeUrl } from './lib/util.mjs';
+import { enrichNews } from './lib/enrich.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
 const sources = await readJson(join(ROOT, 'config/sources.json'), {});
 const featuredTools = await readJson(join(ROOT, 'config/featured-tools.json'), { mcp: [], skills: [] });
+
+// 摘要抓取配额：单次 fetch 最多为多少条缺摘要条目生成（其余留给下轮/懒加载）
+const AI_LIMIT = Number(process.env.AI_SUMMARIZE_LIMIT || 40);
 
 const token = process.env.GITHUB_TOKEN || '';
 const ghHeaders = token ? { Authorization: `Bearer ${token}` } : {};
@@ -548,6 +552,24 @@ for (const [name, fn] of jobs) {
       console.log(`   ↺ 复用既有 AI 摘要 ${restored} 条`);
       const lazyMerged = await mergeServerEnrich(data);
       if (lazyMerged) console.log(`   ↺ 拉回服务器懒加载摘要 ${lazyMerged} 条`);
+
+      // ★ 抓取即摘要：同进程立即生成/复用 AI 摘要，持久化到 data/ai-cache.json。
+      //   缓存命中零 token；未命中的调商汤生成（并发2/重试6）。--skip-ai 或无 key
+      //   时降级为规则增强，摘要交给服务器懒加载兜底。
+      if (!process.argv.includes('--skip-ai')) {
+        const st = await enrichNews(data, {
+          key: process.env.SENSENOVA_KEY || '',
+          limit: AI_LIMIT,
+        });
+        meta.datasets.news = meta.datasets.news || {};
+        meta.datasets.news._ai = {
+          cacheHit: st.cacheHit, generated: st.generated, failed: st.failed,
+          withAi: st.withAi, aiRate: st.aiRate, key: st.key,
+        };
+        console.log(`   ✨ 摘要: 缓存命中 ${st.cacheHit} + 生成 ${st.generated} → 覆盖 ${st.withAi}/${st.total}(${st.aiRate}%)`);
+      } else {
+        console.log('   ⏭ --skip-ai：跳过摘要生成（仅规则增强）');
+      }
     }
     await writeJson(join(DATA, `${name}.json`), data);
     meta.datasets[name] ??= {};

@@ -24,12 +24,14 @@ jobs:
         with:
           node-version: "22"
 
-      - name: 抓取数据
+      - name: 抓取数据（抓取即摘要，同进程生成）
         run: node scripts/fetch.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENSENOVA_KEY: ${{ secrets.SENSENOVA_KEY }}
+        timeout-minutes: 25
 
-      - name: 生成 AI 摘要（商汤 SenseNova）
+      - name: 摘要兜底补跑（缓存命中为主，补 fetch 中失败的条目）
         run: node scripts/summarize.mjs
         env:
           SENSENOVA_KEY: ${{ secrets.SENSENOVA_KEY }}
