@@ -1,5 +1,85 @@
 [
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "published": "2026-11-12T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:gilbert tobin rethinks the business of law with ai",
+    "category": "政策监管",
+    "tags": [
+      "商业"
+    ],
+    "aiSummary": "Gilbert + Tobin律所CEO探讨用AI重塑法律业务模式。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "published": "2026-11-11T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:chatgpt plus for veterans and servicemembers",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "summary": "",
+    "published": "2026-11-11T05:01:16.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:botpsy on device personal assistant with a sub billion parameter agentic languag",
+    "category": "智能体",
+    "tags": [
+      "端侧",
+      "Agentic",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+    "link": "https://www.qbitai.com/2026/11/509052.html",
+    "summary": "L4无人化作业走向规模交付",
+    "published": "2026-11-11T03:43:31.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:无人拖拉机真正下地了 新疆大田深翻30 厘米 丘沃智能开物 系统首次完整曝光",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "published": "2026-11-10T22:35:01.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:ring cameras go mobile as amazon debuts ai powered security drone and robot",
+    "category": "行业动态",
+    "tags": [
+      "机器人",
+      "安全"
+    ],
+    "aiSummary": "亚马逊推出AI安防无人机和机器人，Ring摄像头移动化，2026年底亮相。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
     "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
@@ -14,7 +94,9 @@
       "编程",
       "Agent",
       "研究"
-    ]
+    ],
+    "aiSummary": "Grok Build编码代理泄露大量机密信息，部分属于Spa。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -28,7 +110,9 @@
     "category": "应用落地",
     "tags": [
       "OpenAI"
-    ]
+    ],
+    "aiSummary": "OpenAI收购旅行初创Odessia，由Sonder创始人创立，进军旅行领域。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -45,7 +129,9 @@
       "OpenAI",
       "安全对齐",
       "开发者"
-    ]
+    ],
+    "aiSummary": "纽约AI安全法生效，OpenAI和Anthropic须登记、披露安全实践并报告事故，违者罚款。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "What happens to mathematics when AI becomes an oracle?",
@@ -59,7 +145,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "数学家Steven Strogatz谈新书，探讨AI成为预言机时数学的未来。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
@@ -76,7 +164,9 @@
       "OpenAI",
       "Agent",
       "GPT"
-    ]
+    ],
+    "aiSummary": "OpenAI推商业中心，企业可认领资料并设智能体在ChatGPT内服务客户。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "llm-gemini 0.36",
@@ -92,7 +182,9 @@
       "Gemini",
       "LLM",
       "GPT"
-    ]
+    ],
+    "aiSummary": "谷歌最强Gemini 4 Carbon全面开放，输入每百万2美元、输出10美元。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
@@ -107,7 +199,9 @@
     "tags": [
       "IPO",
       "Anthropic"
-    ]
+    ],
+    "aiSummary": "Anthropic七位联合创始人IPO各套现约2.5亿美元，仍掌控公司。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
@@ -122,7 +216,9 @@
     "tags": [
       "Anthropic",
       "Claude"
-    ]
+    ],
+    "aiSummary": "Anthropic将Claude扩展为工作空间，新增表格、白板及插件，会议笔记功能即将上线。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
@@ -137,7 +233,9 @@
     "tags": [
       "医疗",
       "IPO"
-    ]
+    ],
+    "aiSummary": "Oura以6.25亿美元收购AI医疗初创Counsel Health，此前已",
+    "summaryStatus": "lazy"
   },
   {
     "title": "The US is winning the AI race. Jensen Huang could have blown it",
@@ -151,7 +249,9 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
-    ]
+    ],
+    "aiSummary": "美国AI竞赛领先，黄仁勋或成变数。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "PSI is trying to make a business out of AI-driven scientific discovery",
@@ -167,7 +267,9 @@
       "商业",
       "Anthropic",
       "量子"
-    ]
+    ],
+    "aiSummary": "PSI用Anthropic未发布模型，解决量子计算近二十年未解难题。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Gemini Intelligence: New features, on more devices",
@@ -181,7 +283,9 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ]
+    ],
+    "aiSummary": "谷歌Gemini Intelligence扩展至更多设备，新增功能助用户完成更多任务。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -197,7 +301,9 @@
       "商业",
       "OpenAI",
       "GPT"
-    ]
+    ],
+    "aiSummary": "OpenAI推企业档案功能，ChatGPT更像谷歌，强化消费发现引擎。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
@@ -213,7 +319,9 @@
       "英伟达",
       "机器人",
       "视频"
-    ]
+    ],
+    "aiSummary": "英伟达发布GR00T 2模型，让机器人通过观看视频学习新任务，成功率10%至80%。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
@@ -230,7 +338,9 @@
       "Anthropic",
       "基准",
       "Agent"
-    ]
+    ],
+    "aiSummary": "谷歌Gemini 4 Carbon正式上线，多项基准领先，成本不到对手一半，并预览智能体协作。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "ChatGPT is getting verified AI ‘Business Agents’",
@@ -246,7 +356,9 @@
       "商业",
       "Agent",
       "GPT"
-    ]
+    ],
+    "aiSummary": "ChatGPT推出认证商业代理，帮用户比价购物，率先面向美国电商企业。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "The indie game community is in disarray over AI and Big Walk",
@@ -260,7 +372,9 @@
     "category": "应用落地",
     "tags": [
       "开发者"
-    ]
+    ],
+    "aiSummary": "IGF评委拒投生成式AI游戏，独立游戏《Big Walk》开发者承认少量使用AI。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -275,7 +389,8 @@
     "tags": [
       "Claude",
       "Anthropic"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Anthropic has its own AI-powered office suite now",
@@ -292,7 +407,9 @@
       "企业",
       "OpenAI",
       "Claude"
-    ]
+    ],
+    "aiSummary": "Anthropic推出自家AI办公套件，延续企业级工具战略。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
@@ -307,7 +424,9 @@
     "tags": [
       "Gemini",
       "机器人"
-    ]
+    ],
+    "aiSummary": "谷歌DeepMind机器人模型在奔驰产线测试，分拣金属件成功率96%。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -322,7 +441,9 @@
     "tags": [
       "英伟达",
       "安全"
-    ]
+    ],
+    "aiSummary": "黄仁勋疑涉中国间谍婚外情，或影响美中AI竞争与国家安全。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "eBay appears to have shut the door on third-party AI agents",
@@ -336,7 +457,9 @@
     "category": "智能体",
     "tags": [
       "Agent"
-    ]
+    ],
+    "aiSummary": "eBay封锁第三方AI代理，包括Meta的Muse，限制其浏览平台。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
@@ -352,7 +475,9 @@
       "Gemini",
       "Agent",
       "安全"
-    ]
+    ],
+    "aiSummary": "谷歌发布最强模型Gemini 4 Carbon，带智能体集群功能，向公众开放，挑战OpenAI。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Google broadens its AI hardware portfolio with two new specialized chips",
@@ -366,7 +491,9 @@
     "category": "芯片算力",
     "tags": [
       "芯片"
-    ]
+    ],
+    "aiSummary": "谷歌推出两款新TPU，扩展AI硬件，支持机密训练与更大内存。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
@@ -381,7 +508,9 @@
     "tags": [
       "Agent",
       "语音"
-    ]
+    ],
+    "aiSummary": "Meta AI助手Muse登陆Apple Watch和安卓手表，支持语音、短信和听写交互。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -398,7 +527,9 @@
       "Gemini",
       "安全对齐",
       "机器人"
-    ]
+    ],
+    "aiSummary": "DeepMind发布Gemini Robotics 2.5及开放安全基准，部分任务成功率翻倍。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
@@ -413,7 +544,9 @@
     "tags": [
       "Anthropic",
       "GPT"
-    ]
+    ],
+    "aiSummary": "Anthropic Fable 5.2完成41%真实自由职业任务，一年前仅2.5%，远超其他系统。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic targets $1.4 trillion IPO",
@@ -429,7 +562,9 @@
       "Anthropic",
       "IPO",
       "估值"
-    ]
+    ],
+    "aiSummary": "Anthropic确认IPO估值可达1.4万亿美元，或成史上最大IPO之一。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -443,7 +578,9 @@
     "category": "智能体",
     "tags": [
       "Agent"
-    ]
+    ],
+    "aiSummary": "Adobe在Firefly推出原型构建工具，对抗Figma。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
@@ -459,7 +596,9 @@
       "Anthropic",
       "估值",
       "IPO"
-    ]
+    ],
+    "aiSummary": "Anthropic IPO定价区间70至78美元，隐含估值达1.404万亿美元。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
@@ -473,7 +612,9 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ]
+    ],
+    "aiSummary": "谷歌与Adobe合作，在Drive编辑PDF、Gemini中调用Adobe AI工具。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
@@ -487,7 +628,9 @@
     "category": "智能体",
     "tags": [
       "Agent"
-    ]
+    ],
+    "aiSummary": "Cyanogen联合创始人推出免费系统Kora，挑战Windows，主打AI模型与代理用户。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
@@ -501,7 +644,9 @@
     "category": "行业动态",
     "tags": [
       "语音"
-    ]
+    ],
+    "aiSummary": "Spotify为AI DJ新增多种声音和个性，并可关闭歌曲间评论。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Adobe is going all in on agentic AI",
@@ -516,7 +661,9 @@
     "tags": [
       "Agent",
       "Agentic"
-    ]
+    ],
+    "aiSummary": "Adobe在Max大会宣布全面押注智能体AI，让AI代理成为设计助手并自动化创意流程。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
@@ -530,7 +677,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "Adobe扩展Creative Cloud与Firefly AI，新增自动移除物体等编辑功能。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
@@ -547,7 +696,9 @@
       "安全",
       "Mistral",
       "OpenAI"
-    ]
+    ],
+    "aiSummary": "八国及OpenAI等签巴黎宣言，承诺AI关闭机制与审计，但无强制力。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
@@ -564,7 +715,9 @@
       "机器人",
       "企业",
       "商业"
-    ]
+    ],
+    "aiSummary": "亚马逊旗下Ring推出家庭安防无人机及企业安保机器人，拓展机器人业务。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Hands-on with Ring’s new AI drone camera for your home",
@@ -578,7 +731,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "Ring发布AI室内无人机摄像头，2027年1月27日发售，售价249.99美元。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
@@ -592,7 +747,9 @@
     "category": "芯片算力",
     "tags": [
       "数据中心"
-    ]
+    ],
+    "aiSummary": "佩洛西继任者拟监管AI，加州议员维纳推动限制风险法案",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Google Cloud launches Gemini for healthcare.",
@@ -607,7 +764,9 @@
     "tags": [
       "Gemini",
       "医疗"
-    ]
+    ],
+    "aiSummary": "谷歌云推出Gemini医疗版，统一临床数据并自动化流程，减轻行政负担。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
@@ -623,7 +782,9 @@
       "开源",
       "开发者",
       "安全"
-    ]
+    ],
+    "aiSummary": "Hugging Face高管警告：网络攻击激增恐迫使开源AI收紧安全，损害开放性。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -637,7 +798,9 @@
     "category": "芯片算力",
     "tags": [
       "数据中心"
-    ]
+    ],
+    "aiSummary": "乌克兰光纤无人机受AI数据中心需求挤压，与中国光纤供应竞争加剧。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
@@ -654,7 +817,9 @@
       "估值",
       "IPO",
       "英伟达"
-    ]
+    ],
+    "aiSummary": "Anthropic启动IPO路演，目标估值1.02万亿美元，谷歌英伟达微软等巨头参与认购。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Helping caregivers use AI in everyday life",
@@ -669,7 +834,25 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ]
+    ],
+    "aiSummary": "OpenAI为美国五城护理人员提供免费ChatGPT工作坊，助其掌握实用AI技能。",
+    "summaryStatus": "lazy"
+  },
+  {
+    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "link": "https://www.qbitai.com/2026/11/509032.html",
+    "summary": "",
+    "published": "2026-11-10T10:35:38.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:英伟达机器人开源撞上fable 5 2发布 jim fan 不是寒冬是夏天",
+    "category": "开源",
+    "tags": [
+      "机器人",
+      "开源"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Introducing Businesses in ChatGPT",
@@ -684,7 +867,9 @@
     "tags": [
       "商业",
       "GPT"
-    ]
+    ],
+    "aiSummary": "OpenAI推出ChatGPT商业版，助企业管理信息",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Closing the AI guidance gap in education",
@@ -700,7 +885,9 @@
       "教育",
       "研究",
       "OpenAI"
-    ]
+    ],
+    "aiSummary": "ThinkYoung与OpenAI合作研究，助力教师AI素养与自主学习。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -714,7 +901,9 @@
     "category": "芯片算力",
     "tags": [
       "芯片"
-    ]
+    ],
+    "aiSummary": "超导量子计算获近亿元融资，但迈向千比特整机仍面临挑战。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
@@ -728,7 +917,9 @@
     "category": "开源",
     "tags": [
       "开源"
-    ]
+    ],
+    "aiSummary": "蚂蚁灵波科技开源触觉基础模型LingBot-Touch，助力机器人从“一脑多机”迈向“一脑多手”。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
@@ -742,7 +933,9 @@
     "category": "智能体",
     "tags": [
       "Agent"
-    ]
+    ],
+    "aiSummary": "openJiuwen首发TTSE框架，助Agent自演进进入双轨时代。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
@@ -756,7 +949,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "TensorWorld物原科技成立四月融资过亿美金，主攻物理真实路线。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
@@ -770,7 +965,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "达卯科技与浦东环保能源合作，启动黎明智算中心算电协同平台，加速智算中心向E-AIDC演进。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
@@ -786,7 +983,9 @@
       "推理模型",
       "Claude",
       "GPT"
-    ]
+    ],
+    "aiSummary": "Meta AI发布最小高效模型Muse Ember，专注复杂推理与工具调用。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Token卷到触觉了！机器人终于有了通用手感",
@@ -801,7 +1000,9 @@
     "tags": [
       "机器人",
       "开源"
-    ]
+    ],
+    "aiSummary": "蚂蚁灵波开源LingBot-Touch，为机器人提供通用触觉。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
@@ -815,7 +1016,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "Fable 5.2实测获赞，作曲拍片3D建模全包，网友直呼Opus不香了。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Work at the Frontier: AI’s effect on freelance work",
@@ -830,7 +1033,9 @@
     "tags": [
       "研究",
       "OpenAI"
-    ]
+    ],
+    "aiSummary": "OpenAI与Upwork研究：AI带动自由职业需求变化，新技能组合涌现，相关项目预算与工时增加。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Otter AI can now follow conversations across 30+ languages",
@@ -844,7 +1049,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "Otter AI新增27种语言支持，将可实时跟随多语言切换。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Quoting Prompting Claude Fable 5.2",
@@ -860,7 +1067,9 @@
       "Claude",
       "Anthropic",
       "编程"
-    ]
+    ],
+    "aiSummary": "Claude Fable 5.2据提示中代码所有权，倾向在他人代码上增量修改。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Yonkers Rises",
@@ -874,7 +1083,9 @@
     "category": "大模型",
     "tags": [
       "Claude"
-    ]
+    ],
+    "aiSummary": "作者用Claude Fable 5.2制作Yon",
+    "summaryStatus": "lazy"
   },
   {
     "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
@@ -888,7 +1099,9 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "Seedream 5.5发布，100轮图像编辑稳定，速度提升，API降价。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -904,21 +1117,26 @@
       "Anthropic",
       "IPO",
       "估值"
-    ]
+    ],
+    "aiSummary": "Anthropic据报推进IPO，本周或定估值区间。",
+    "summaryStatus": "lazy"
   },
   {
-    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
-    "link": "https://www.qbitai.com/2026/11/508798.html",
-    "summary": "办公AI结束单机模式",
-    "published": "2026-11-10T01:27:09.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:千问办公2 0卷向team agent 我们用它跑了一遍编辑部日常",
-    "category": "大模型",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "link": "https://openai.com/index/cogent-security",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "published": "2026-11-10T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:cogent and openai build cyber defense factories for enterprises",
+    "category": "智能体",
     "tags": [
+      "企业",
+      "OpenAI",
       "Agent"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -932,7 +1150,8 @@
     "category": "开源",
     "tags": [
       "开源"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Decision Models in Hugging Face",
@@ -946,7 +1165,8 @@
     "category": "开源",
     "tags": [
       "开源"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "llm-anthropic 0.31",
@@ -962,7 +1182,9 @@
       "Anthropic",
       "LLM",
       "基准"
-    ]
+    ],
+    "aiSummary": "llm-anthropic更新至0.31，支持Anthropic新模型Fable 5.2和Mythos 5.2。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Locating the source of a mysterious beep with Claude",
@@ -976,7 +1198,9 @@
     "category": "大模型",
     "tags": [
       "Claude"
-    ]
+    ],
+    "aiSummary": "Claude帮助",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
@@ -990,7 +1214,8 @@
     "category": "应用落地",
     "tags": [
       "商业"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
@@ -1005,21 +1230,8 @@
     "tags": [
       "英伟达",
       "研究"
-    ]
-  },
-  {
-    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
-    "link": "https://www.qbitai.com/2026/11/508787.html",
-    "summary": "投毒 → 耗尽预算 → 诱导误判",
-    "published": "2026-11-09T22:11:49.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:中大本科生反ai逆向项目火了 让黑客token账单原地暴涨300倍",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
@@ -1036,7 +1248,8 @@
       "Claude",
       "IPO",
       "安全"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
@@ -1052,7 +1265,8 @@
       "Agent",
       "Claude",
       "GPT"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -1067,14 +1281,15 @@
     "tags": [
       "企业",
       "GPT"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "published": "2026-11-09T18:56:29Z",
-    "points": 986,
-    "comments": 6,
+    "points": 990,
+    "comments": 8,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1082,14 +1297,15 @@
     "category": "大模型",
     "tags": [
       "Claude"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "E-means: Outperforming k-means in one-tenth the epochs",
     "link": "https://e-means.github.io/",
     "published": "2026-11-09T18:45:43Z",
-    "points": 492,
-    "comments": 77,
+    "points": 497,
+    "comments": 78,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1097,13 +1313,14 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Google Gemini routes personal Drive files and emails to human annotators",
     "link": "https://github.com/thisisme6598/gemini_files/",
     "published": "2026-11-09T18:24:38Z",
-    "points": 707,
+    "points": 717,
     "comments": 147,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1112,7 +1329,8 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -1127,7 +1345,8 @@
     "tags": [
       "Claude",
       "GitHub"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -1141,7 +1360,8 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Nvidia CEO's affair becomes a national security problem",
@@ -1156,7 +1376,8 @@
     "tags": [
       "英伟达",
       "安全"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -1171,7 +1392,8 @@
     "tags": [
       "数据集",
       "金融"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -1185,7 +1407,8 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -1202,7 +1425,8 @@
       "安全",
       "OpenAI",
       "安全对齐"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Innovating with AI in the special chemicals industry",
@@ -1216,7 +1440,8 @@
     "category": "应用落地",
     "tags": [
       "应用落地"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
@@ -1230,13 +1455,14 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Foldable Flight: The Best Paper Airplanes",
     "link": "https://www.foldableflight.com",
     "published": "2026-11-09T12:19:22Z",
-    "points": 1180,
+    "points": 1214,
     "comments": 167,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1245,7 +1471,8 @@
     "category": "研究论文",
     "tags": [
       "论文"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "The climate case for AI has not been made",
@@ -1259,7 +1486,8 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "CodeRabbit scales agentic software development and ships 20x more",
@@ -1275,7 +1503,8 @@
       "Agentic",
       "Agent",
       "OpenAI"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -1289,7 +1518,8 @@
     "category": "行业动态",
     "tags": [
       "OpenAI"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "The Web Is More Than Enough, by Paul Ford",
@@ -1303,7 +1533,8 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Hide your slop PR descriptions behind",
@@ -1317,14 +1548,15 @@
     "category": "大模型",
     "tags": [
       "Claude"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "I'm not convinced the AI bubble exists",
     "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "published": "2026-11-08T23:44:36Z",
-    "points": 563,
-    "comments": 957,
+    "points": 566,
+    "comments": 962,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1332,14 +1564,15 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
     "link": "https://ketchup3d.github.io/app/",
     "published": "2026-11-08T22:35:35Z",
-    "points": 756,
-    "comments": 228,
+    "points": 762,
+    "comments": 233,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1348,7 +1581,8 @@
     "tags": [
       "开源",
       "GPU"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "parse_number() as a SQLite extension: C vs Rust",
@@ -1362,14 +1596,15 @@
     "category": "研究论文",
     "tags": [
       "研究"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "published": "2026-11-08T18:16:07Z",
-    "points": 896,
-    "comments": 488,
+    "points": 899,
+    "comments": 492,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1378,14 +1613,34 @@
     "tags": [
       "Claude",
       "禁令"
-    ]
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "published": "2026-11-08T10:22:04Z",
+    "points": 483,
+    "comments": 207,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50411961",
+    "category": "大模型",
+    "tags": [
+      "DeepSeek",
+      "Llama",
+      "芯片",
+      "GPU"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "published": "2026-11-08T03:11:48Z",
-    "points": 813,
-    "comments": 489,
+    "points": 816,
+    "comments": 491,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1393,7 +1648,8 @@
     "category": "大模型",
     "tags": [
       "Claude"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -1407,14 +1663,15 @@
     "category": "研究论文",
     "tags": [
       "数据集"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "published": "2026-11-07T20:45:32Z",
     "points": 624,
-    "comments": 426,
+    "comments": 427,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1423,7 +1680,8 @@
     "tags": [
       "Claude",
       "GitHub"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Terry Pratchett's Study",
@@ -1437,7 +1695,8 @@
     "category": "研究论文",
     "tags": [
       "研究论文"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "The end of Microsoft Research's AI Frontiers group",
@@ -1452,14 +1711,15 @@
     "category": "研究论文",
     "tags": [
       "研究"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Every Mac comes with an (undocumented) family member classifier",
     "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
     "published": "2026-11-07T09:46:03Z",
-    "points": 865,
-    "comments": 468,
+    "points": 867,
+    "comments": 469,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1467,7 +1727,8 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
@@ -1482,7 +1743,8 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
@@ -1570,7 +1832,7 @@
     "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
     "published": "2026-11-06T09:27:12Z",
     "points": 658,
-    "comments": 436,
+    "comments": 437,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1578,7 +1840,9 @@
     "category": "政策监管",
     "tags": [
       "禁令"
-    ]
+    ],
+    "aiSummary": "荷兰ASN银行封禁非谷歌安卓系统，含GrapheneOS。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -1609,7 +1873,9 @@
     "category": "芯片算力",
     "tags": [
       "GPU"
-    ]
+    ],
+    "aiSummary": "Blender界面与运行时性能远超GPUI。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -1659,13 +1925,14 @@
     "tags": [
       "营收",
       "禁令"
-    ]
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Claude Code sends your email address to websites",
     "link": "https://github.com/anthropics/claude-code/issues/107757",
     "published": "2026-11-05T22:17:15Z",
-    "points": 1613,
+    "points": 1614,
     "comments": 535,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1725,107 +1992,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Quoting Paul Ford",
-    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-    "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
-    "published": "2026-11-05T17:34:03.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:quoting paul ford",
-    "aiSummary": "Paul Ford称浏览器是强大应用软件，访问其能力的成本正日益降低。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Australian universities are creating AI-native graduates",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "published": "2026-11-05T17:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:australian universities are creating ai native graduates",
-    "aiSummary": "澳大利亚大学普及ChatGPT并融入教学，培养AI原生毕业生。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPT"
-    ]
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-    "published": "2026-11-05T17:00:00.000Z",
-    "source": "Google AI Blog",
-    "sourceId": "google-ai",
-    "lang": "en",
-    "id": "google-ai:gemini omni 1 2 flash fast and cost effective with longer clips",
-    "aiSummary": "Gemini Omni 1.2 Flash 支持15秒视频生成编辑，一致性更强，价格降30%。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini",
-      "视频"
-    ]
-  },
-  {
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big",
-    "published": "2026-11-05T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:the download texas s fragile ai boom and energy policy shifts",
-    "aiSummary": "德州AI数据中心建设热潮或终结，能源政策转变成关键。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "政策",
-      "数据中心"
-    ]
-  },
-  {
-    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-    "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-    "published": "2026-11-05T12:00:41.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:agility robotics nasdaq debut invites scrutiny of humanoid robot market",
-    "aiSummary": "Agility Robotics登陆纳斯达克，成为美国人形机器人部署领域的领导者。",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "机器人"
-    ]
-  },
-  {
-    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "link": "https://openai.com/index/introducing-gpt-6-cyber",
-    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "published": "2026-11-05T09:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:gpt 6 cyber advancing the frontier of aligned cybersecurity agents",
-    "aiSummary": "OpenAI发布GPT-6 Cyber网络安全模型，用于发现漏洞并修复，训练确保",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "安全",
-      "GPT",
-      "Agent",
-      "OpenAI"
     ]
   }
 ]
