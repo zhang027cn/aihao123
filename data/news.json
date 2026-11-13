@@ -1,5 +1,466 @@
 [
   {
+    "title": "llm-gemini 0.37",
+    "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M)",
+    "published": "2026-11-12T22:55:19.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:llm gemini 0 37",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "LLM"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "published": "2026-11-12T22:42:51.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:democrats launch nvidia investigation write scathing letter on huang s scheme wi",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "published": "2026-11-12T22:28:47.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:faa expands ai advice to manage air traffic congestion across entire us airspace",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+    "published": "2026-11-12T22:22:28.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:muse can now place calls to us businesses if you pay",
+    "category": "应用落地",
+    "tags": [
+      "商业"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available startin",
+    "published": "2026-11-12T21:55:32.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:google s new gemini model is better at understanding complicated questions",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "published": "2026-11-12T21:35:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:the unfolding jensen huang scandal a timeline",
+    "aiSummary": "黄仁勋丑闻时间线曝光，或影响美中AI竞赛国家安全。",
+    "category": "芯片算力",
+    "summaryStatus": "lazy",
+    "tags": [
+      "安全",
+      "英伟达"
+    ]
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "published": "2026-11-12T21:27:10.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nebius tests the neocloud playbook with 40 billion in planned spending",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Claude Meetings lets Anthropic's AI join your video calls",
+    "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+    "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic'",
+    "published": "2026-11-12T20:26:50.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:claude meetings lets anthropic s ai join your video calls",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "视频",
+      "企业"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "published": "2026-11-12T20:26:47.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:jensen huang was having a third affair reuters reports",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "published": "2026-11-12T20:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:how amplitude ships product improvements in 1 2 days with openai",
+    "category": "智能体",
+    "tags": [
+      "OpenAI",
+      "编程",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+    "published": "2026-11-12T19:59:59.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:ars live what drone attacks on data centers mean for modern life in the cloud",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+    "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+    "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and stil",
+    "published": "2026-11-12T19:58:43.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:google s gemini 4 hydrogen outscores the bigger argon just four weeks after its ",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "基准",
+      "Claude"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "No, AI agents did not discover a previously unknown Maya site",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked cr",
+    "published": "2026-11-12T19:42:40.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:no ai agents did not discover a previously unknown maya site",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "研究"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "published": "2026-11-12T19:27:45.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:google s latest search upgrade promises better answers to your most complicated ",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+    "published": "2026-11-12T19:23:03.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:google rolls out gemini 4 hydrogen finally replacing 3 8 flash",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "安全"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "published": "2026-11-12T19:11:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nectar launches an ai agent to automate creator discovery and outreach for brand",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "summary": "",
+    "published": "2026-11-12T19:07:35.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:llmon an llm native markup language now in granite 4 1 3b and 8b",
+    "category": "大模型",
+    "tags": [
+      "LLM"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+    "published": "2026-11-12T18:57:45.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:google faces calls for ai moratoriums in schools after gemini pilot backlash",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "诉讼"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "published": "2026-11-12T18:39:23.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:jensen huang s exit puts nvidia s support for open source in question",
+    "category": "开源",
+    "tags": [
+      "开源",
+      "英伟达",
+      "收购"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Oh, Palantir is ‘progressive’ now, is it?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+    "published": "2026-11-12T18:06:54.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:oh palantir is progressive now is it",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "published": "2026-11-12T18:00:00.000Z",
+    "source": "Google AI Blog",
+    "sourceId": "google-ai",
+    "lang": "en",
+    "id": "google-ai:google search gets a major upgrade with gemini 4 hydrogen",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The Jensen Huang scandal is hardly over",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'es",
+    "published": "2026-11-12T17:44:33.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:the jensen huang scandal is hardly over",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "published": "2026-11-12T17:36:40.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:hugging face ceo vows to keep fighting for open source ai after jensen huang s e",
+    "category": "开源",
+    "tags": [
+      "开源",
+      "收购",
+      "英伟达",
+      "端侧"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "published": "2026-11-12T17:17:58.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:united airlines blocks ai agents from booking flights citing cybersecurity risks",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "安全"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "published": "2026-11-12T17:00:52.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:softbank s billion dollar loss may have put a cap on ai s natural gas ambitions",
+    "category": "芯片算力",
+    "tags": [
+      "禁令",
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "published": "2026-11-12T17:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:phota labs uses ai to turn everyday photos into professional looking shots",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of sho",
+    "published": "2026-11-12T17:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:ai chatbots are recommending fake retail websites study finds",
+    "category": "大模型",
+    "tags": [
+      "研究",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "More game developers are starting to use generative AI",
+    "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher wi",
+    "published": "2026-11-12T17:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:more game developers are starting to use generative ai",
+    "category": "应用落地",
+    "tags": [
+      "开发者",
+      "游戏",
+      "视频"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+    "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+    "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not",
+    "published": "2026-11-12T16:58:11.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:openai s data suggests that frontier models are hiding their thoughts because de",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "开发者",
+      "安全对齐",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Jensen Huang agrees to testify before Congress",
     "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
     "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
@@ -23,6 +484,21 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:five ways jensen huang s ouster from nvidia could damage the ai industry",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Jensen Huang is out. What did China want from him?",
+    "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese s",
+    "published": "2026-11-12T16:30:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:jensen huang is out what did china want from him",
     "category": "芯片算力",
     "tags": [
       "英伟达"
@@ -136,23 +612,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "published": "2026-11-12T14:30:01.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:the unfolding jensen huang scandal a timeline",
-    "category": "芯片算力",
-    "tags": [
-      "安全",
-      "英伟达"
-    ],
-    "aiSummary": "黄仁勋丑闻时间线曝光，或影响美中AI竞赛国家安全。",
-    "summaryStatus": "lazy"
-  },
-  {
     "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
     "link": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
     "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder .",
@@ -183,33 +642,18 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-    "summary": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huan",
-    "published": "2026-11-12T13:53:16.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:nvidia ceo jensen huang resigns amid spy affair scandals",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "NVIDIA Announces CEO Transition",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "title": "Jensen Huang resigns",
+    "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "published": "2026-11-12T13:52:29Z",
-    "points": 1296,
-    "comments": 1082,
+    "points": 2886,
+    "comments": 2731,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50467087",
-    "category": "芯片算力",
+    "category": "行业动态",
     "tags": [
-      "英伟达"
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -234,7 +678,7 @@
   {
     "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
     "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
     "published": "2026-11-12T13:26:25.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -259,6 +703,22 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "published": "2026-11-12T12:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:gondola doubles revenue as its team builds more with codex",
+    "category": "大模型",
+    "tags": [
+      "营收",
+      "GPT"
     ],
     "summaryStatus": "nocache"
   },
@@ -424,12 +884,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:who could replace jensen huang a highly unscientific list of possible successors",
+    "aiSummary": "英伟达无继任计划，黄仁勋或面临替换，媒体列出潜在接班人。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "英伟达无继任计划，黄仁勋或面临替换，媒体列出潜在接班人。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
@@ -495,55 +955,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "published": "2026-11-11T23:28:45.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:nvidia s stock drops as board reportedly preps to oust ceo jensen huang",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "aiSummary": "英伟达董事会拟罢免CEO黄仁勋，股价应声下跌。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "published": "2026-11-11T23:17:05.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:jensen huang accused of having another affair with an nvidia exec",
-    "category": "智能体",
-    "tags": [
-      "英伟达",
-      "Agent"
-    ],
-    "aiSummary": "黄仁勋再遭指控，称与英伟达下属有婚外情。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
-    "published": "2026-11-11T22:44:36.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:nvidia is reportedly preparing to fire jensen huang",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "aiSummary": "英伟达董事会准备解雇CEO黄仁勋，因第二起婚外情丑闻。",
-    "summaryStatus": "lazy"
-  },
-  {
     "title": "Gemini Decisions API",
     "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
     "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's pri",
@@ -561,28 +972,11 @@
     ]
   },
   {
-    "title": "United won’t let your AI agent book your flight",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like ",
-    "published": "2026-11-11T21:54:21.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:united won t let your ai agent book your flight",
-    "aiSummary": "美联航禁止个人AI助手代订机票，称隐私监管风险。",
-    "category": "智能体",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Agent",
-      "监管"
-    ]
-  },
-  {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
     "published": "2026-11-11T21:24:35Z",
-    "points": 636,
-    "comments": 661,
+    "points": 661,
+    "comments": 684,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -611,22 +1005,6 @@
     ]
   },
   {
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-    "published": "2026-11-11T20:15:15.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:why the data center you dread might never even be built",
-    "aiSummary": "数据中心繁荣遭遇现实阻碍，许多宣布项目可能永远无法建成。",
-    "category": "芯片算力",
-    "summaryStatus": "lazy",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
     "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
     "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
     "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article G",
@@ -645,51 +1023,6 @@
     ]
   },
   {
-    "title": "Meta is losing its longtime head of infrastructure",
-    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "published": "2026-11-11T20:12:01.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:meta is losing its longtime head of infrastructure",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
-    "published": "2026-11-11T20:02:14.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:how backlash and red tape continue to slow data centers post blue wave",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-    "published": "2026-11-11T19:54:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:coreweave turns to customer prepayments shorter contracts to fund ai growth",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
     "link": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
     "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has ",
@@ -703,36 +1036,6 @@
       "Anthropic",
       "营收",
       "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "published": "2026-11-11T19:34:55.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:with 720m round britain s fractile gets a leg up in the race for ai chips",
-    "category": "芯片算力",
-    "tags": [
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "published": "2026-11-11T19:22:22.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:congress to call jensen huang in to answer for alleged chinese spy affair",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
     ],
     "summaryStatus": "nocache"
   },
@@ -836,8 +1139,8 @@
     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
     "published": "2026-11-11T16:38:44Z",
-    "points": 547,
-    "comments": 259,
+    "points": 575,
+    "comments": 272,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -845,37 +1148,6 @@
     "category": "芯片算力",
     "tags": [
       "数据中心"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "published": "2026-11-11T16:16:07.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:is jensen huang s bad behavior more commonplace than it seems",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-    "published": "2026-11-11T16:14:44.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:openai s quarterly revenue reportedly crosses 10b for the first time",
-    "category": "应用落地",
-    "tags": [
-      "营收",
-      "OpenAI"
     ],
     "summaryStatus": "nocache"
   },
@@ -895,36 +1167,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
-    "published": "2026-11-11T16:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:google s tabletop ai experiment lets you build custom collaboration apps",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-    "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-    "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fu",
-    "published": "2026-11-11T15:12:53.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:helsing built an ai system that prepares targets for weapons systems and says ev",
-    "category": "智能体",
-    "tags": [
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Anthropic's IPO roadshow video",
     "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
     "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic t",
@@ -939,54 +1181,6 @@
       "视频",
       "IPO",
       "商业"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-    "published": "2026-11-11T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:databricks new ai agent tells ceo ali ghodsi the unvarnished truth",
-    "category": "智能体",
-    "tags": [
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
-    "published": "2026-11-11T15:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:google s alphagenome 2 zooms in on the cellular roots of disease",
-    "category": "研究论文",
-    "tags": [
-      "研究"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
-    "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-    "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The a",
-    "published": "2026-11-11T14:25:20.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic says ai is eroding nvidia s cuda lead cutting an amd chip switch from ",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "英伟达",
-      "芯片",
-      "Claude"
     ],
     "summaryStatus": "nocache"
   },
@@ -1024,37 +1218,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
-    "published": "2026-11-11T14:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:adobe s ai experiments let you walk around in photos and interview your characte",
-    "category": "行业动态",
-    "tags": [
-      "图像"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-    "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
-    "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and ",
-    "published": "2026-11-11T13:51:11.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:us data brokers are selling half a billion dollars in rl training environments t",
-    "category": "行业动态",
-    "tags": [
-      "Anthropic",
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "The Download: preserving minds and weighing open AI risks",
     "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w",
@@ -1088,8 +1251,8 @@
     "title": "My AI agents found an unmapped Maya site?",
     "link": "https://pietromiotti.com/latest/maya-site",
     "published": "2026-11-11T12:05:22Z",
-    "points": 1022,
-    "comments": 383,
+    "points": 1026,
+    "comments": 390,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1198,8 +1361,8 @@
     "title": "Apple has new Mac app coming to make running local AI models easy",
     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
     "published": "2026-11-10T21:25:03Z",
-    "points": 545,
-    "comments": 549,
+    "points": 550,
+    "comments": 551,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1261,22 +1424,6 @@
       "Gemini",
       "LLM",
       "GPT"
-    ]
-  },
-  {
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool le",
-    "published": "2026-11-10T19:04:05.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:the us is winning the ai race jensen huang could have blown it",
-    "aiSummary": "美国AI竞赛领先，黄仁勋或成变数。",
-    "category": "芯片算力",
-    "summaryStatus": "lazy",
-    "tags": [
-      "英伟达"
     ]
   },
   {
@@ -1400,8 +1547,8 @@
     "title": "AI usage generates a fragile codebase",
     "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
     "published": "2026-11-10T10:25:58Z",
-    "points": 637,
-    "comments": 618,
+    "points": 639,
+    "comments": 624,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1416,8 +1563,8 @@
     "title": "Socratic Tutor",
     "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
     "published": "2026-11-10T10:18:22Z",
-    "points": 529,
-    "comments": 124,
+    "points": 652,
+    "comments": 155,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1648,7 +1795,7 @@
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "published": "2026-11-09T18:56:29Z",
-    "points": 996,
+    "points": 997,
     "comments": 8,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1657,6 +1804,22 @@
     "category": "大模型",
     "tags": [
       "Claude"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "link": "https://e-means.github.io/",
+    "published": "2026-11-09T18:45:43Z",
+    "points": 514,
+    "comments": 81,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50429734",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -1673,6 +1836,22 @@
     "category": "大模型",
     "tags": [
       "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "link": "https://www.watched.earth",
+    "published": "2026-11-09T17:51:31Z",
+    "points": 485,
+    "comments": 84,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50428907",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -1736,178 +1915,6 @@
     "tags": [
       "数据集",
       "金融"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Re",
-    "published": "2026-11-09T13:15:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:the download empty ai climate claims and an nvidia investigation",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "link": "https://openai.com/index/control-room",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "published": "2026-11-09T13:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:control room a central system to track and stop model workloads across our resea",
-    "category": "研究论文",
-    "tags": [
-      "研究",
-      "安全",
-      "OpenAI",
-      "安全对齐"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Innovating with AI in the special chemicals industry",
-    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
-    "published": "2026-11-09T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:innovating with ai in the special chemicals industry",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "summary": "",
-    "published": "2026-11-09T12:34:29.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:your experts have partners there s hope for keeping them together",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Foldable Flight: The Best Paper Airplanes",
-    "link": "https://www.foldableflight.com",
-    "published": "2026-11-09T12:19:22Z",
-    "points": 1259,
-    "comments": 167,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50424581",
-    "category": "研究论文",
-    "tags": [
-      "论文"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The climate case for AI has not been made",
-    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate ",
-    "published": "2026-11-09T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:the climate case for ai has not been made",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "link": "https://openai.com/index/coderabbit-codex-daybreak",
-    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "published": "2026-11-09T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:coderabbit scales agentic software development and ships 20x more",
-    "category": "智能体",
-    "tags": [
-      "Agentic",
-      "Agent",
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "link": "https://openai.com/index/kuken",
-    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "published": "2026-11-09T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:kuken industries searches 70 years of drawings in minutes",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The Web Is More Than Enough, by Paul Ford",
-    "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-    "summary": "My comment on The Web Is More Than Enough, by Paul Ford &mdash; Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude",
-    "published": "2026-11-09T04:32:33.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:the web is more than enough by paul ford",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Hide your slop PR descriptions behind",
-    "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-    "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding ",
-    "published": "2026-11-09T04:25:05.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:hide your slop pr descriptions behind",
-    "category": "大模型",
-    "tags": [
-      "Claude"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "I'm not convinced the AI bubble exists",
-    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-    "published": "2026-11-08T23:44:36Z",
-    "points": 573,
-    "comments": 972,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50418975",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
     ],
     "summaryStatus": "nocache"
   }
