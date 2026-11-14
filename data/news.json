@@ -1,5 +1,38 @@
 [
   {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "published": "2026-11-14T21:41:22.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:elon musk other tech execs sign petition calling on nvidia to reinstate jensen h",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+    "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+    "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned I",
+    "published": "2026-11-14T19:05:17.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:anthropic ceo amodei admits there s a huge uncertainty in what s going to happen",
+    "category": "应用落地",
+    "tags": [
+      "Anthropic",
+      "IPO",
+      "商业",
+      "营收"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -12,7 +45,8 @@
     "tags": [
       "OpenAI"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "苹果Siri AI多次延迟，OpenAI超级应用发布混乱，AI失败项目清单公布。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
@@ -30,7 +64,8 @@
       "Anthropic",
       "基准"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "谷歌Gemini 4 Carbon登顶MathArena，成本却是GPT-6.1 Sol的15倍。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
@@ -245,8 +280,8 @@
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "published": "2026-11-14T02:52:59Z",
-    "points": 952,
-    "comments": 575,
+    "points": 1022,
+    "comments": 615,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -548,21 +583,6 @@
     ]
   },
   {
-    "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-    "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-    "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. Al",
-    "published": "2026-11-13T15:53:49.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:nearly 70 percent of us agencies use generative ai and unions are finally catchi",
-    "category": "智能体",
-    "tags": [
-      "自主"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Introducing ChatGPT Wallet",
     "link": "https://openai.com/index/introducing-chatgpt-wallet",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
@@ -685,6 +705,22 @@
     "tags": [
       "英伟达"
     ]
+  },
+  {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "link": "https://status.claude.com/incidents/nn11wk485zfn",
+    "published": "2026-11-13T10:18:13Z",
+    "points": 493,
+    "comments": 390,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50481187",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -878,8 +914,8 @@
     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
     "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "published": "2026-11-12T22:03:09Z",
-    "points": 775,
-    "comments": 215,
+    "points": 783,
+    "comments": 221,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1061,6 +1097,22 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "published": "2026-11-12T18:52:01Z",
+    "points": 501,
+    "comments": 163,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50472260",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
     "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
     "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
@@ -1096,8 +1148,8 @@
     "title": "Gemini 4 Hydrogen",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "published": "2026-11-12T18:01:48Z",
-    "points": 567,
-    "comments": 351,
+    "points": 568,
+    "comments": 350,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1161,8 +1213,8 @@
     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
     "link": "https://github.com/simpsoka/zigzag",
     "published": "2026-11-12T17:02:42Z",
-    "points": 733,
-    "comments": 252,
+    "points": 736,
+    "comments": 253,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1170,22 +1222,6 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "published": "2026-11-12T17:00:52.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:softbank s billion dollar loss may have put a cap on ai s natural gas ambitions",
-    "category": "芯片算力",
-    "tags": [
-      "禁令",
-      "数据中心"
     ],
     "summaryStatus": "nocache"
   },
@@ -1208,8 +1244,8 @@
     "title": "Jensen Huang resigns",
     "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "published": "2026-11-12T13:52:29Z",
-    "points": 4040,
-    "comments": 3445,
+    "points": 4041,
+    "comments": 3443,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1320,7 +1356,7 @@
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
     "published": "2026-11-11T21:24:35Z",
-    "points": 678,
+    "points": 680,
     "comments": 706,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1433,7 +1469,7 @@
     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
     "published": "2026-11-11T16:38:44Z",
-    "points": 586,
+    "points": 587,
     "comments": 276,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1640,8 +1676,8 @@
     "title": "Apple has new Mac app coming to make running local AI models easy",
     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
     "published": "2026-11-10T21:25:03Z",
-    "points": 568,
-    "comments": 558,
+    "points": 569,
+    "comments": 559,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1842,7 +1878,7 @@
     "title": "Socratic Tutor",
     "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
     "published": "2026-11-10T10:18:22Z",
-    "points": 707,
+    "points": 709,
     "comments": 167,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1887,39 +1923,6 @@
       "教育",
       "研究",
       "OpenAI"
-    ]
-  },
-  {
-    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "link": "https://openai.com/index/singapore-airlines-travel-work",
-    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "published": "2026-11-10T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:singapore airlines elevates travel work with openai technology",
-    "category": "应用落地",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-    "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls,",
-    "published": "2026-11-10T07:28:21.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:introducing our smallest most efficient model muse ember",
-    "aiSummary": "Meta AI发布最小高效模型Muse Ember，专注复杂推理与工具调用。",
-    "summaryStatus": "lazy",
-    "category": "大模型",
-    "tags": [
-      "推理模型",
-      "Claude",
-      "GPT"
     ]
   }
 ]
