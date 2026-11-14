@@ -5,11 +5,11 @@
     "fullName": "browser-use/browser-use",
     "url": "https://github.com/browser-use/browser-use",
     "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-    "stars": 120941,
-    "forks": 13525,
+    "stars": 120955,
+    "forks": 13529,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T06:37:35Z",
+    "pushedAt": "2026-11-13T20:56:59Z",
     "archived": false,
     "topics": [
       "ai-agents",
@@ -21,7 +21,7 @@
       "cloud-browser",
       "computer-use"
     ],
-    "heat": 78330,
+    "heat": 103845,
     "source": "github",
     "official": false,
     "deploy": "stdio",
@@ -42,8 +42,8 @@
     "fullName": "unclecode/crawl4ai",
     "url": "https://github.com/unclecode/crawl4ai",
     "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
-    "stars": 87315,
-    "forks": 9107,
+    "stars": 87325,
+    "forks": 9109,
     "license": "Apache-2.0",
     "openSource": true,
     "pushedAt": "2026-11-13T13:32:17Z",
@@ -58,7 +58,7 @@
       "markdown",
       "mcp"
     ],
-    "heat": 69518,
+    "heat": 59260,
     "source": "github",
     "official": false,
     "deploy": "stdio",
@@ -79,11 +79,11 @@
     "fullName": "upstash/context7",
     "url": "https://github.com/upstash/context7",
     "description": "Context7 Platform -- Up-to-date docs for AI agents",
-    "stars": 64758,
+    "stars": 64767,
     "forks": 3247,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T11:40:46Z",
+    "pushedAt": "2026-11-13T19:52:46Z",
     "archived": false,
     "topics": [
       "llm",
@@ -91,7 +91,7 @@
       "mcp-server",
       "vibe-coding"
     ],
-    "heat": 48564,
+    "heat": 53555,
     "source": "github",
     "official": false,
     "deploy": "stdio",
@@ -217,11 +217,11 @@
     "fullName": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "stars": 457303,
-    "forks": 112249,
+    "stars": 457680,
+    "forks": 112307,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T19:36:26Z",
+    "pushedAt": "2026-11-13T23:00:09Z",
     "archived": false,
     "topics": [
       "agent-skills",
@@ -233,7 +233,7 @@
       "dsh-plugin",
       "html"
     ],
-    "heat": 455877,
+    "heat": 424081,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -244,8 +244,8 @@
     "fullName": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 302383,
-    "forks": 44604,
+    "stars": 302467,
+    "forks": 44616,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-09T04:56:24Z",
@@ -260,7 +260,7 @@
       "mcp",
       "productivity"
     ],
-    "heat": 53860,
+    "heat": 51865,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -271,8 +271,8 @@
     "fullName": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-    "stars": 159556,
-    "forks": 46114,
+    "stars": 159558,
+    "forks": 46113,
     "license": "Apache-2.0",
     "openSource": true,
     "pushedAt": "2026-10-25T11:47:10Z",
@@ -287,7 +287,7 @@
       "mcp",
       "mysql"
     ],
-    "heat": 7849,
+    "heat": 7766,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -298,7 +298,7 @@
     "fullName": "farion1231/cc-switch",
     "url": "https://github.com/farion1231/cc-switch",
     "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-    "stars": 154222,
+    "stars": 154232,
     "forks": 10115,
     "license": "MIT",
     "openSource": true,
@@ -314,7 +314,7 @@
       "grokbuild",
       "hermes"
     ],
-    "heat": 131224,
+    "heat": 110733,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -325,8 +325,8 @@
     "fullName": "Graphify-Labs/graphify",
     "url": "https://github.com/Graphify-Labs/graphify",
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-    "stars": 147197,
-    "forks": 14108,
+    "stars": 147293,
+    "forks": 14116,
     "license": "Apache-2.0",
     "openSource": true,
     "pushedAt": "2026-11-12T21:47:45Z",
@@ -341,7 +341,7 @@
       "codex",
       "cursor"
     ],
-    "heat": 76988,
+    "heat": 69168,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -352,11 +352,11 @@
     "fullName": "paperclipai/paperclip",
     "url": "https://github.com/paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
-    "stars": 113638,
-    "forks": 18860,
+    "stars": 113705,
+    "forks": 18871,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T19:40:43Z",
+    "pushedAt": "2026-11-14T00:51:35Z",
     "archived": false,
     "topics": [
       "acpx",
@@ -368,7 +368,7 @@
       "ai-governance",
       "ai-tools"
     ],
-    "heat": 113621,
+    "heat": 113496,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -379,8 +379,8 @@
     "fullName": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "stars": 111542,
-    "forks": 9996,
+    "stars": 111573,
+    "forks": 10002,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-08T02:17:48Z",
@@ -395,7 +395,7 @@
       "cli",
       "cursor"
     ],
-    "heat": 16588,
+    "heat": 16072,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -406,11 +406,11 @@
     "fullName": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "stars": 104229,
-    "forks": 13559,
+    "stars": 104238,
+    "forks": 13564,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T18:10:45Z",
+    "pushedAt": "2026-11-14T00:24:22Z",
     "archived": false,
     "topics": [
       "claude",
@@ -422,7 +422,7 @@
       "iot",
       "mcp"
     ],
-    "heat": 98086,
+    "heat": 102120,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -433,8 +433,8 @@
     "fullName": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
     "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-    "stars": 102461,
-    "forks": 10670,
+    "stars": 102499,
+    "forks": 10674,
     "license": "BSD-3-Clause",
     "openSource": true,
     "pushedAt": "2026-11-11T19:16:10Z",
@@ -449,7 +449,7 @@
       "data",
       "data-extraction"
     ],
-    "heat": 33959,
+    "heat": 31687,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -461,7 +461,7 @@
     "url": "https://github.com/punkpeye/awesome-mcp-servers",
     "description": "A collection of MCP servers.",
     "stars": 97685,
-    "forks": 19887,
+    "forks": 19901,
     "license": "MIT",
     "openSource": true,
     "pushedAt": "2026-11-06T17:59:03Z",
@@ -470,7 +470,7 @@
       "ai",
       "mcp"
     ],
-    "heat": 12104,
+    "heat": 11786,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -481,11 +481,11 @@
     "fullName": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "stars": 90591,
+    "stars": 90601,
     "forks": 14053,
     "license": "AGPL-3.0",
     "openSource": true,
-    "pushedAt": "2026-11-13T19:40:17Z",
+    "pushedAt": "2026-11-14T00:50:19Z",
     "archived": false,
     "topics": [
       "agent",
@@ -497,7 +497,7 @@
       "mcp-server",
       "monitoring"
     ],
-    "heat": 90550,
+    "heat": 90355,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -508,11 +508,11 @@
     "fullName": "cheaper-inference/OmniRoute",
     "url": "https://github.com/cheaper-inference/OmniRoute",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, R",
-    "stars": 87123,
-    "forks": 13340,
+    "stars": 87174,
+    "forks": 13352,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T19:17:27Z",
+    "pushedAt": "2026-11-14T00:41:14Z",
     "archived": false,
     "topics": [
       "a2a",
@@ -524,7 +524,7 @@
       "cline",
       "codex"
     ],
-    "heat": 85725,
+    "heat": 86394,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -535,11 +535,11 @@
     "fullName": "heygen-com/hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "description": "Write HTML. Render video. Built for agents.",
-    "stars": 83849,
-    "forks": 7746,
+    "stars": 83945,
+    "forks": 7757,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-13T19:40:36Z",
+    "pushedAt": "2026-11-14T00:40:24Z",
     "archived": false,
     "topics": [
       "ai",
@@ -551,7 +551,7 @@
       "gsap",
       "html"
     ],
-    "heat": 83829,
+    "heat": 83146,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -562,11 +562,11 @@
     "fullName": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and nativ",
-    "stars": 81635,
-    "forks": 9615,
+    "stars": 81646,
+    "forks": 9617,
     "license": "MIT",
     "openSource": true,
-    "pushedAt": "2026-11-13T15:57:21Z",
+    "pushedAt": "2026-11-13T21:05:37Z",
     "archived": false,
     "topics": [
       "agent-memory",
@@ -578,7 +578,7 @@
       "claude",
       "claude-code"
     ],
-    "heat": 70663,
+    "heat": 70459,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -589,11 +589,11 @@
     "fullName": "netdata/netdata",
     "url": "https://github.com/netdata/netdata",
     "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-    "stars": 81399,
+    "stars": 81402,
     "forks": 6730,
     "license": "GPL-3.0",
     "openSource": true,
-    "pushedAt": "2026-11-13T18:49:36Z",
+    "pushedAt": "2026-11-14T00:13:24Z",
     "archived": false,
     "topics": [
       "ai",
@@ -605,7 +605,7 @@
       "docker",
       "grafana"
     ],
-    "heat": 78597,
+    "heat": 79157,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -616,11 +616,11 @@
     "fullName": "headroomlabs-ai/headroom",
     "url": "https://github.com/headroomlabs-ai/headroom",
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-    "stars": 79576,
-    "forks": 6227,
+    "stars": 79605,
+    "forks": 6230,
     "license": "Apache-2.0",
     "openSource": true,
-    "pushedAt": "2026-11-13T18:44:59Z",
+    "pushedAt": "2026-11-13T23:38:21Z",
     "archived": false,
     "topics": [
       "agent",
@@ -632,7 +632,7 @@
       "context-window",
       "cursor"
     ],
-    "heat": 76600,
+    "heat": 75620,
     "source": "github",
     "official": false,
     "deploy": "stdio"
@@ -643,7 +643,7 @@
     "fullName": "rohitg00/ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-    "stars": 78680,
+    "stars": 78687,
     "forks": 14017,
     "license": "MIT",
     "openSource": true,
@@ -659,7 +659,7 @@
       "deep-learning",
       "dsh"
     ],
-    "heat": 57468,
+    "heat": 49593,
     "source": "github",
     "official": false,
     "deploy": "stdio"
