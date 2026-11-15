@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-14T23:54:23.787Z",
+  "generatedAt": "2026-11-15T06:29:01.564Z",
   "datasets": {
     "news": {
       "openai": {
         "ok": true,
-        "at": "2026-11-14T23:54:23.950Z",
-        "items": 81
+        "at": "2026-11-15T06:29:01.757Z",
+        "items": 78
       },
       "hf-blog": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.122Z",
+        "at": "2026-11-15T06:29:01.868Z",
         "items": 25
       },
       "google-ai": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.460Z",
-        "items": 11
+        "at": "2026-11-15T06:29:02.136Z",
+        "items": 10
       },
       "techcrunch-ai": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.578Z",
+        "at": "2026-11-15T06:29:02.206Z",
         "items": 20
       },
       "verge-ai": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.655Z",
+        "at": "2026-11-15T06:29:02.336Z",
         "items": 10
       },
       "ars-ai": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.909Z",
+        "at": "2026-11-15T06:29:02.529Z",
         "items": 20
       },
       "techreview": {
         "ok": true,
-        "at": "2026-11-14T23:54:24.988Z",
+        "at": "2026-11-15T06:29:02.581Z",
         "items": 4
       },
       "simonwillison": {
         "ok": true,
-        "at": "2026-11-14T23:54:25.129Z",
+        "at": "2026-11-15T06:29:02.646Z",
         "items": 30
       },
       "the-decoder": {
         "ok": true,
-        "at": "2026-11-14T23:54:26.547Z",
+        "at": "2026-11-15T06:29:03.991Z",
         "items": 10
       },
       "importai": {
         "ok": true,
-        "at": "2026-11-14T23:54:26.601Z",
+        "at": "2026-11-15T06:29:04.022Z",
         "items": 0
       },
       "lastweekinai": {
         "ok": true,
-        "at": "2026-11-14T23:54:26.747Z",
+        "at": "2026-11-15T06:29:04.099Z",
         "items": 1
       },
       "interconnects": {
         "ok": true,
-        "at": "2026-11-14T23:54:26.899Z",
+        "at": "2026-11-15T06:29:04.274Z",
         "items": 5
       },
       "qbitai": {
         "ok": true,
-        "at": "2026-11-14T23:54:28.367Z",
+        "at": "2026-11-15T06:29:06.627Z",
         "items": 10
       },
       "36kr": {
         "ok": true,
-        "at": "2026-11-14T23:54:29.262Z",
+        "at": "2026-11-15T06:29:07.616Z",
         "items": 0
       },
       "sspai": {
         "ok": true,
-        "at": "2026-11-14T23:54:30.623Z",
+        "at": "2026-11-15T06:29:09.122Z",
         "items": 2
       },
       "hn": {
         "ok": true,
-        "at": "2026-11-14T23:54:32.457Z",
+        "at": "2026-11-15T06:29:10.620Z",
         "items": 30
       },
       "_aiRestored": 23,
       "_enrich": {
         "ok": true,
-        "at": "2026-11-14T23:54:33.571Z",
+        "at": "2026-11-15T06:29:12.090Z",
         "source": "server-lazy",
         "items": 24,
-        "merged": 2
+        "merged": 0
       },
       "_ai": {
         "cacheHit": 23,
         "generated": 0,
         "failed": 0,
-        "withAi": 25,
-        "aiRate": 21,
+        "withAi": 23,
+        "aiRate": 19,
         "key": false
       },
       "_total": 120
@@ -103,62 +103,62 @@
     "rankings": {
       "gh:llm": {
         "ok": true,
-        "at": "2026-11-14T23:54:34.188Z",
+        "at": "2026-11-15T06:29:12.678Z",
         "items": 15
       },
       "gh:mcp": {
         "ok": true,
-        "at": "2026-11-14T23:54:34.678Z",
+        "at": "2026-11-15T06:29:13.250Z",
         "items": 15
       },
       "gh:skills": {
         "ok": true,
-        "at": "2026-11-14T23:54:35.254Z",
+        "at": "2026-11-15T06:29:13.712Z",
         "items": 15
       },
       "gh:agents": {
         "ok": true,
-        "at": "2026-11-14T23:54:35.766Z",
+        "at": "2026-11-15T06:29:14.227Z",
         "items": 15
       },
       "gh:rag": {
         "ok": true,
-        "at": "2026-11-14T23:54:36.288Z",
+        "at": "2026-11-15T06:29:14.698Z",
         "items": 15
       },
       "hf-models": {
         "ok": true,
-        "at": "2026-11-14T23:54:36.357Z",
+        "at": "2026-11-15T06:29:14.732Z",
         "items": 20
       },
       "hf-spaces": {
         "ok": true,
-        "at": "2026-11-14T23:54:36.399Z",
+        "at": "2026-11-15T06:29:14.759Z",
         "items": 20
       },
       "hn": {
         "ok": true,
-        "at": "2026-11-14T23:54:37.525Z",
+        "at": "2026-11-15T06:29:15.721Z",
         "items": 20
       },
       "featured:cn-models": {
         "ok": true,
-        "at": "2026-11-14T23:54:42.152Z",
+        "at": "2026-11-15T06:29:20.514Z",
         "items": 11
       },
       "featured:hot-topics": {
         "ok": true,
-        "at": "2026-11-14T23:54:42.153Z",
+        "at": "2026-11-15T06:29:20.514Z",
         "items": 15
       },
       "featured:new-rising": {
         "ok": true,
-        "at": "2026-11-14T23:54:42.663Z",
+        "at": "2026-11-15T06:29:21.029Z",
         "items": 15
       },
       "featured:agents": {
         "ok": true,
-        "at": "2026-11-14T23:54:52.900Z",
+        "at": "2026-11-15T06:29:31.339Z",
         "items": 14
       },
       "_total": 120
@@ -166,12 +166,12 @@
     "mcp": {
       "gh:mcp-repos": {
         "ok": true,
-        "at": "2026-11-14T23:54:53.574Z",
+        "at": "2026-11-15T06:29:31.968Z",
         "items": 20
       },
       "official-registry": {
         "ok": true,
-        "at": "2026-11-14T23:54:53.820Z",
+        "at": "2026-11-15T06:29:32.274Z",
         "items": 200
       },
       "_total": 60
@@ -179,17 +179,17 @@
     "skills": {
       "anthropics-official": {
         "ok": true,
-        "at": "2026-11-14T23:54:54.281Z",
+        "at": "2026-11-15T06:29:32.665Z",
         "items": 20
       },
       "gh:skills-repos": {
         "ok": true,
-        "at": "2026-11-14T23:54:54.940Z",
+        "at": "2026-11-15T06:29:33.350Z",
         "items": 27
       },
       "gh:agent-skills-repos": {
         "ok": true,
-        "at": "2026-11-14T23:54:55.393Z",
+        "at": "2026-11-15T06:29:33.866Z",
         "items": 12
       },
       "_total": 55
@@ -199,15 +199,15 @@
   "summarize": {
     "key": false,
     "total": 120,
-    "cacheHit": 25,
+    "cacheHit": 23,
     "seeded": 0,
     "generated": 0,
     "failed": 0,
-    "todo": 95,
-    "withAi": 25,
-    "aiRate": 21,
+    "todo": 97,
+    "withAi": 23,
+    "aiRate": 19,
     "mode": "incremental",
     "reason": "SENSENOVA_KEY 未配置（GitHub Secrets 缺失或未注入）",
-    "at": "2026-11-14T23:54:55.442Z"
+    "at": "2026-11-15T06:29:33.928Z"
   }
 }
