@@ -1,5 +1,71 @@
 [
   {
+    "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+    "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+    "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, ",
+    "published": "2026-11-15T14:45:12.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:firm linked to jensen huang s ex lover reportedly brokered nearly 12 billion in ",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "芯片",
+      "研究"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "An overview of Jensen Huang’s messy days",
+    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
+    "published": "2026-11-15T13:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:an overview of jensen huang s messy days",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+    "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+    "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older worke",
+    "published": "2026-11-15T10:45:58.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:australia s central bank finds ai hitting young workers first especially in soft",
+    "category": "大模型",
+    "tags": [
+      "禁令",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no ment",
+    "published": "2026-11-15T10:06:06.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:meituan releases a 1 6 trillion parameter agent model that never touched an nvid",
+    "category": "大模型",
+    "tags": [
+      "Agent",
+      "英伟达",
+      "GPU",
+      "开源权重"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Where was Nvidia’s security team?",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
@@ -329,8 +395,8 @@
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "published": "2026-11-14T02:52:59Z",
-    "points": 1062,
-    "comments": 628,
+    "points": 1085,
+    "comments": 643,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -486,22 +552,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-    "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-    "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic",
-    "published": "2026-11-13T18:55:21.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai rebuilt ai shopping from scratch with chatgpt wallet",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
@@ -516,23 +566,6 @@
       "芯片",
       "禁令",
       "研究"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-    "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-    "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway.",
-    "published": "2026-11-13T18:01:53.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:banks bar chinese and hong kong investors from anthropic ipo over us export cont",
-    "category": "政策监管",
-    "tags": [
-      "Anthropic",
-      "禁令",
-      "IPO"
     ],
     "summaryStatus": "nocache"
   },
@@ -579,22 +612,6 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-    "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-    "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control phy",
-    "published": "2026-11-13T16:37:01.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic s claude for manufacturing plugs ai directly into factory software to ",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
     ],
     "summaryStatus": "nocache"
   },
@@ -760,7 +777,7 @@
     "link": "https://status.claude.com/incidents/nn11wk485zfn",
     "published": "2026-11-13T10:18:13Z",
     "points": 493,
-    "comments": 390,
+    "comments": 389,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -963,8 +980,8 @@
     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
     "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "published": "2026-11-12T22:03:09Z",
-    "points": 787,
-    "comments": 222,
+    "points": 792,
+    "comments": 224,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1149,8 +1166,8 @@
     "title": "Gemini 4 Hydrogen and Orchestrator",
     "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
     "published": "2026-11-12T18:52:01Z",
-    "points": 502,
-    "comments": 163,
+    "points": 503,
+    "comments": 165,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1179,26 +1196,11 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
-    "published": "2026-11-12T18:06:54.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:oh palantir is progressive now is it",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Gemini 4 Hydrogen",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "published": "2026-11-12T18:01:48Z",
-    "points": 569,
-    "comments": 350,
+    "points": 570,
+    "comments": 352,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1247,7 +1249,7 @@
     "link": "https://github.com/simpsoka/zigzag",
     "published": "2026-11-12T17:02:42Z",
     "points": 740,
-    "comments": 253,
+    "comments": 256,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1255,6 +1257,22 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "I'm making LLMs work on small and old devices",
+    "link": "https://github.com/hyperionaidev/smolmaxxing/",
+    "published": "2026-11-12T15:23:10Z",
+    "points": 479,
+    "comments": 180,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50468888",
+    "category": "大模型",
+    "tags": [
+      "LLM"
     ],
     "summaryStatus": "nocache"
   },
@@ -1277,8 +1295,8 @@
     "title": "Jensen Huang resigns",
     "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "published": "2026-11-12T13:52:29Z",
-    "points": 4044,
-    "comments": 3449,
+    "points": 4045,
+    "comments": 3450,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1502,7 +1520,7 @@
     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
     "published": "2026-11-11T16:38:44Z",
-    "points": 587,
+    "points": 588,
     "comments": 276,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1599,7 +1617,7 @@
     "title": "My AI agents found an unmapped Maya site?",
     "link": "https://pietromiotti.com/latest/maya-site",
     "published": "2026-11-11T12:05:22Z",
-    "points": 1035,
+    "points": 1036,
     "comments": 392,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1709,8 +1727,8 @@
     "title": "Apple has new Mac app coming to make running local AI models easy",
     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
     "published": "2026-11-10T21:25:03Z",
-    "points": 570,
-    "comments": 560,
+    "points": 572,
+    "comments": 564,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1813,8 +1831,8 @@
     "title": "Why get an expensive Pi when I have an old phone?",
     "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
     "published": "2026-11-10T14:16:05Z",
-    "points": 536,
-    "comments": 292,
+    "points": 594,
+    "comments": 315,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1906,21 +1924,5 @@
       "OpenAI",
       "GPT"
     ]
-  },
-  {
-    "title": "AI usage generates a fragile codebase",
-    "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-    "published": "2026-11-10T10:25:58Z",
-    "points": 643,
-    "comments": 626,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50438318",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
   }
 ]
