@@ -34,7 +34,8 @@ const TTL_MS = 30 * 86400000; // 缓存 30 天
 const ENRICH_PERSIST = process.env.ENRICH_PERSIST || '/var/lib/aihao/enrich.json';
 const ENRICH_SERVE = process.env.ENRICH_SERVE || '/var/www/aihao123/data/enrich.json';
 const ENRICH_MAX = 500; // LRU 上限，防无限膨胀
-const BOOT_T = Date.now(); // 进程启动时间（健康检查 uptime）
+const BOOT_T = Date.now();
+const NEG_TTL = 600000;  // 失败负缓存 10 分钟：防止同一条目每次访问都触发 5 发重试风暴 // 进程启动时间（健康检查 uptime）
 
 let active = 0;
 const queue = [];
@@ -166,6 +167,10 @@ async function getOrGenerate(key, id, title, summary) {
   const f = cacheFile(id, title);
   try {
     const cached = JSON.parse(await readFile(f, 'utf8'));
+    // 负缓存：失败记录 10 分钟内直接复用失败结果（防重试风暴烧配额）
+    if (cached && (cached.aiSummary === null || cached.aiSummary === undefined) && Date.now() - (cached.at||0) < NEG_TTL) {
+      return { ai: null, fresh: false, negative: true };
+    }
     if (cached && cached.aiSummary && cached.key === key && Date.now() - cached.at < TTL_MS
         && !isGarbled(cached.aiSummary)) {  // 历史坏条目(黄仁勋型<6字)命中缓存也质检，不过则当 miss 重生成
       return { ai: cached.aiSummary, fresh: false };
@@ -180,7 +185,17 @@ async function getOrGenerate(key, id, title, summary) {
 >>>
 
 请用一句中文总结这条 AI 资讯。`;
-  const ai = await chat(prompt);
+  let ai;
+  try {
+    ai = await chat(prompt);
+  } catch (e) {
+    // 负缓存：10 分钟内同 id 快速失败，不再打 LLM
+    try {
+      await mkdir(CACHE_DIR, { recursive: true, mode: 0o700 });
+      await writeFile(f, JSON.stringify({ key, id, title, aiSummary: null, err: String(e.message||e).slice(0,80), at: Date.now() }), 'utf8');
+    } catch { /* 忽略 */ }
+    throw e;
+  }
   fresh = true;
   try {
     await mkdir(CACHE_DIR, { recursive: true, mode: 0o700 });
@@ -328,6 +343,7 @@ async function handler(req, res) {
 
   try {
     const r = await schedule(() => getOrGenerate(id, id, title, cleanText(u.searchParams.get('summary'), 300)));
+    if (r.negative || !r.ai) return send(200, { ok: false, error: 'cached-negative（失败负缓存，10 分钟内不重试）' });
     send(200, { ok: true, aiSummary: r.ai, fresh: r.fresh });
   } catch (e) {
     send(200, { ok: false, error: String(e.message || e).slice(0, 120) });
