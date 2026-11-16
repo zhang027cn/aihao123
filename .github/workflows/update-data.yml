@@ -39,6 +39,7 @@ jobs:
 
       - name: 诊断探针（写入 meta.summarize，含 key 状态）
         if: always()
+        continue-on-error: true   # 探针绝不能阻塞「提交变更」（提交步骤默认 if:success()）
         run: |
           node -e "
           const fs=require('fs');
