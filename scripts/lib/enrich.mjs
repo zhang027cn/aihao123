@@ -240,9 +240,16 @@ export async function enrichNews(news, { key = '', limit = Infinity, force = fal
 请用一句中文总结这条 AI 资讯。`;
           try {
             const ai = await chat(key, SYSTEM, prompt);
-            const cleaned = ai.replace(/["'"`]/g, '').trim();
+            let cleaned = ai.replace(/["'"`]/g, '').trim();
+            if (isGarbled(cleaned)) {  // 混排/超长 → 加约束重试一次（预览版 6.8 抽样）
+              try {
+                const retry = await chat(key, SYSTEM + '\n5. 只输出纯中文，不要夹杂英文单词或拼音。', prompt);
+                const r2 = retry.replace(/["'"`]/g, '').trim();
+                if (!isGarbled(r2)) cleaned = r2;
+              } catch { /* 保留首个输出 */ }
+            }
             if (cleaned.length >= 6) {
-              item.aiSummary = cleaned.slice(0, 80);
+              item.aiSummary = clipStr(cleaned, 40);  // 按码点截 40 字（原 slice(0,80)=UTF-16 码元，会劈代理对→乱码）
               item.summaryStatus = 'ai';
               if (item.id) cache[item.id] = { aiSummary: item.aiSummary, title, status: 'ai', at: Date.now() };
               stats.generated++;

@@ -62,6 +62,15 @@ function cleanText(s, max) {
     .slice(0, max);
 }
 
+// 质检：中英无空格紧贴（Grok Build编码）或超长 → 重试一次加纯中文约束
+function isGarbled(t) {
+  const s = String(t || '');
+  if (s.length > 60) return true;
+  if (/[\u4e00-\u9fff][a-zA-Z]|[a-zA-Z][\u4e00-\u9fff]/.test(s)) return true;
+  if (/[\ufffd]/.test(s)) return true;
+  return false;
+}
+
 async function chat(prompt) {
   let lastErr;
   for (let attempt = 0; attempt < 5; attempt++) {
@@ -92,7 +101,25 @@ async function chat(prompt) {
         await new Promise((r) => setTimeout(r, 1200 * (attempt + 1)));
         continue;
       }
-      return c.replace(/["'`]/g, '').trim().slice(0, 80);
+      let t = c.replace(/["'"`]/g, '').trim();
+      if (isGarbled(t)) {
+        // 混排/超长 → 加「纯中文」约束重试一次（预览版 6.8 抽样，一次就够）
+        const extra = `\n5. 只输出纯中文，不要夹杂英文单词或拼音。`;
+        const resp2 = await fetch(API_URL, {
+          method: 'POST',
+          signal: ctrl.signal,
+          headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${KEY}` },
+          body: JSON.stringify({ model: MODEL, max_tokens: MAX_TOKENS, temperature: 0.3,
+            messages: [{ role: 'system', content: SYSTEM + extra }, { role: 'user', content: prompt }] }),
+        }).catch(() => null);
+        if (resp2 && resp2.ok) {
+          const d2 = await resp2.json().catch(() => null);
+          const t2 = (d2?.choices?.[0]?.message?.content || '').replace(/["'"`]/g, '').trim();
+          if (t2 && !isGarbled(t2)) t = t2;
+        }
+      }
+      // 按码点截 40 字（UTF-16 slice 会劈代理对 → 乱码）
+      return Array.from(t).slice(0, 40).join('').trim();
     } catch (e) {
       lastErr = e;
       if (e.name === 'AbortError') {
