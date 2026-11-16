@@ -217,7 +217,7 @@ export async function enrichNews(news, { key = '', limit = Infinity, force = fal
   for (const n of news) {
     if (!n.id) continue;
     const hit = cache[n.id];
-    if (hit?.aiSummary && !force) {
+    if (hit?.aiSummary && !force && !isGarbled(hit.aiSummary)) {
       if (!n.aiSummary) {
         n.aiSummary = hit.aiSummary;
         n.summaryStatus = hit.status || 'ai';

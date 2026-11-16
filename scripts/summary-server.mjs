@@ -166,7 +166,8 @@ async function getOrGenerate(key, id, title, summary) {
   const f = cacheFile(id, title);
   try {
     const cached = JSON.parse(await readFile(f, 'utf8'));
-    if (cached && cached.aiSummary && cached.key === key && Date.now() - cached.at < TTL_MS) {
+    if (cached && cached.aiSummary && cached.key === key && Date.now() - cached.at < TTL_MS
+        && !isGarbled(cached.aiSummary)) {  // 历史坏条目(黄仁勋型<6字)命中缓存也质检，不过则当 miss 重生成
       return { ai: cached.aiSummary, fresh: false };
     }
   } catch { /* cache miss */ }
