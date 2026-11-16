@@ -100,9 +100,10 @@ function clipStr(s, max) {
 // 允许大写缩写/品牌词紧邻（"AI芯片"/"GPT模型" 合法）
 function isGarbled(t) {
   const s = String(t || '');
-  if (s.length > 60) return true;
-  if (/[\ufffd]/.test(s)) return true;
-  if (/[\u4e00-\u9fff][a-z][a-z]+|[a-z][a-z]+[\u4e00-\u9fff]/.test(s)) return true;
+  if (s.length < 6 || s.length > 60) return true;              // 过短/超长（"黄仁" 型截断）
+  if (/[\ufffd]/.test(s)) return true;                        // U+FFFD = 代理对劈裂
+  if (/[\u4e00-\u9fff][a-z][a-z]+/.test(s)) return true;       // 中文直接接小写词：发富mei / 长accord（截图实锤）
+  if (/(?<![A-Za-z])[a-z][a-z]+[\u4e00-\u9fff]/.test(s)) return true; // 小写词直接接中文，词边界排除品牌前缀
   return false;
 }
 
