@@ -49,6 +49,7 @@ jobs:
           }else{ m.summarize.key=hasKey; }
           fs.writeFileSync('data/meta.json',JSON.stringify(m,null,2));
           console.log('DIAG summarize:',JSON.stringify(m.summarize));
+          if(!hasKey) console.log('::warning title=SENSENOVA_KEY 未注入::Secrets 未被 workflow 读到（key=false）。请到 Settings > Secrets and variables > Actions 的 **Secrets** 标签确认名称精确为 SENSENOVA_KEY，或改用手动 Run workflow 验证。');
           "
         env:
           SENSENOVA_KEY: ${{ secrets.SENSENOVA_KEY }}
