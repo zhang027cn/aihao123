@@ -65,7 +65,7 @@
     return `
       <li>
         <a class="t" href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a>
-        <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}</p>
+        <p class="ai-summary" data-summary-for="${esc(n.id || '')}">${n.aiSummary ? '🤖 ' + esc(n.aiSummary) : '<span class="sum-placeholder">…</span>'}<button type="button" class="sum-refresh" data-refresh-id="${esc(n.id || '')}" data-t="${esc(String(n.title || '').slice(0, 100))}" data-s="${esc(String(n.summary || '').slice(0, 300))}" title="重新生成 AI 摘要" aria-label="重新生成 AI 摘要">↻</button></p>
         <div class="news-meta">
           ${tagBadges(n.tags)}
           <span class="badge src">${esc(n.source)}</span>

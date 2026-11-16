@@ -43,33 +43,44 @@
   // 首页/资讯页共用；429/网络失败退避重试，最终失败保留占位不清空。
   const _sumQ = { items: [], done: new Set(), active: false };
   function _sumApply(id, text) {
-    document.querySelectorAll('[data-summary-for="' + CSS.escape(id) + '"]').forEach((el) => { el.textContent = text; });
+    document.querySelectorAll('[data-summary-for="' + CSS.escape(id) + '"]').forEach((el) => {
+      // 只更新文本节点，保留刷新按钮与结构（旧实现 textContent 会连按钮一起清掉）
+      const ph = el.querySelector('.sum-placeholder');
+      if (ph) ph.remove();
+      let first = el.firstChild;
+      if (first && first.nodeType === 3) { first.nodeValue = text; return; }
+      if (first && first.nodeType !== 3) first.remove();  // 防御：首个子节点非文本则移除
+      el.insertBefore(document.createTextNode(text), el.firstChild);
+    });
   }
   function _sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
   async function _sumFetchOne(n) {
     // 主域同源直调；GitHub Pages 等镜像跨域调主域 API（服务器白名单 + CORS 反射）
     const API = (location.hostname === 'aihao123.zgc.pub') ? '' : 'https://aihao123.zgc.pub';
-    const url = `${API}/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}`;
-    for (let attempt = 0; attempt < 3; attempt++) {
-      try {
-        const res = await fetch(url);
-        if (res.status === 429) { await _sleep(2500 * (attempt + 1)); continue; }  // 限流退避重试
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        const d = await res.json();
-        if (d.ok && d.aiSummary) { _sumApply(n.id, '🤖 ' + d.aiSummary); return; }
-        return; // 服务端明确失败（如无 key）：保留占位，不重试
-      } catch (e) {
-        await _sleep(1500 * (attempt + 1));
+    const url = `${API}/api/summary?id=${encodeURIComponent(n.id)}&title=${encodeURIComponent(n.title || '')}&summary=${encodeURIComponent(n.summary || '')}` + (n.force ? '&force=1' : '');
+    try {
+      const res = await fetch(url);
+      if (res.status === 429) { await _sleep(2500); return; }   // 限流：退避后放弃（刷新按钮可再点）
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const d = await res.json();
+      if (d.ok && d.aiSummary) {
+        n.aiSummary = d.aiSummary;                 // 同步数据源，切 tab/重渲染不回退旧文案
+        _sumApply(n.id, '🤖 ' + d.aiSummary);
+      }
+      // 失败（无 key/负缓存/空）：保留原占位或旧文案，不清空
+    } catch (e) {
+      // 网络失败同样保留原文案
+    } finally {
+      if (n.btn) {
+        n.btn.disabled = false;
+        n.btn.classList.remove('spin');
+        n.btn.title = '重新生成 AI 摘要';
       }
     }
-    // 3 次均失败：保留 '…' 占位（不清空，不报错）
   }
-  async function requestSummary(list) {
-    for (const n of list) {
-      if (n.aiSummary || !n.id || _sumQ.done.has(n.id)) continue;
-      _sumQ.done.add(n.id);
-      _sumQ.items.push(n);
-    }
+
+  // 公共出队：严格串行消费队列
+  async function _drain() {
     if (_sumQ.active) return;
     _sumQ.active = true;
     try {
@@ -81,6 +92,36 @@
       _sumQ.active = false;
     }
   }
+  async function requestSummary(list) {
+    for (const n of list) {
+      if (n.aiSummary || !n.id || _sumQ.done.has(n.id)) continue;
+      _sumQ.done.add(n.id);
+      _sumQ.items.push(n);
+    }
+    return _drain();
+  }
+
+  // ---- 重新生成按钮（↻）：委托处理，跳过缓存 force=1 ----
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('.sum-refresh');
+    if (!btn || btn.disabled) return;
+    const id = btn.dataset.refreshId || '';
+    if (!id || !/^.{1,100}$/.test(id)) return;
+    btn.disabled = true;
+    btn.classList.add('spin');
+    btn.title = '生成中…';
+    _sumQ.done.delete(id);                       // 允许重新入队
+    const item = {
+      id,
+      title: btn.dataset.t || '',
+      summary: btn.dataset.s || '',
+      aiSummary: undefined,                      // 无 aiSummary → 必入队
+      force: true,
+      btn,
+    };
+    _sumQ.items.push(item);
+    _drain();   // 复位由 _sumFetchOne 的 finally 负责（drain 已激活时立即返回也安全）
+  });
 
   // 头部搜索：跨目录与资讯检索
   function initSearch() {

@@ -162,11 +162,14 @@ function schedule(fn) {
   });
 }
 
-async function getOrGenerate(key, id, title, summary) {
+async function getOrGenerate(key, id, title, summary, force = false) {
   let fresh = false;
   const f = cacheFile(id, title);
-  try {
-    const cached = JSON.parse(await readFile(f, 'utf8'));
+  // 读已有条目：force 时也读（失败时保护旧好值不被负缓存覆盖），但不用于命中
+  let existing = null;
+  try { existing = JSON.parse(await readFile(f, 'utf8')); } catch { /* miss */ }
+  if (!force) try {
+    const cached = existing;
     // 负缓存：失败记录 10 分钟内直接复用失败结果（防重试风暴烧配额）
     if (cached && (cached.aiSummary === null || cached.aiSummary === undefined) && Date.now() - (cached.at||0) < NEG_TTL) {
       return { ai: null, fresh: false, negative: true };
@@ -189,11 +192,13 @@ async function getOrGenerate(key, id, title, summary) {
   try {
     ai = await chat(prompt);
   } catch (e) {
-    // 负缓存：10 分钟内同 id 快速失败，不再打 LLM
-    try {
-      await mkdir(CACHE_DIR, { recursive: true, mode: 0o700 });
-      await writeFile(f, JSON.stringify({ key, id, title, aiSummary: null, err: String(e.message||e).slice(0,80), at: Date.now() }), 'utf8');
-    } catch { /* 忽略 */ }
+    // 负缓存：10 分钟内同 id 快速失败；但已有好摘要不被覆盖（force 重试失败保底）
+    if (!(existing && existing.aiSummary && !isGarbled(existing.aiSummary))) {
+      try {
+        await mkdir(CACHE_DIR, { recursive: true, mode: 0o700 });
+        await writeFile(f, JSON.stringify({ key, id, title, aiSummary: null, err: String(e.message||e).slice(0,80), at: Date.now() }), 'utf8');
+      } catch { /* 忽略 */ }
+    }
     throw e;
   }
   fresh = true;
@@ -342,7 +347,8 @@ async function handler(req, res) {
   if (!KEY) return send(200, { ok: false, error: 'no-key', note: 'SENSENOVA_KEY 未配置' });
 
   try {
-    const r = await schedule(() => getOrGenerate(id, id, title, cleanText(u.searchParams.get('summary'), 300)));
+    const force = u.searchParams.get('force') === '1';  // 重新生成：跳过缓存
+    const r = await schedule(() => getOrGenerate(id, id, title, cleanText(u.searchParams.get('summary'), 300), force));
     if (r.negative || !r.ai) return send(200, { ok: false, error: 'cached-negative（失败负缓存，10 分钟内不重试）' });
     send(200, { ok: true, aiSummary: r.ai, fresh: r.fresh });
   } catch (e) {
