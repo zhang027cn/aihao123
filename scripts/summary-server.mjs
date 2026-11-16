@@ -63,11 +63,18 @@ function cleanText(s, max) {
 }
 
 // 质检：中英无空格紧贴（Grok Build编码）或超长 → 重试一次加纯中文约束
+// 截断到 max 字符：Array.from 按码点切（UTF-16 slice(0,80) 会劈代理对 → 乱码）
+function clipStr(s, max) {
+  const arr = Array.from(String(s || '').trim());
+  return arr.length > max ? arr.slice(0, max).join('').trim() : arr.join('');
+}
+// 质检：中英无空格紧贴（"Grok Build编码"/"发富mei"）或 U+FFFD 或超长 → 重试
+// 允许大写缩写/品牌词紧邻（"AI芯片"/"GPT模型" 合法）
 function isGarbled(t) {
   const s = String(t || '');
   if (s.length > 60) return true;
-  if (/[\u4e00-\u9fff][a-zA-Z]|[a-zA-Z][\u4e00-\u9fff]/.test(s)) return true;
   if (/[\ufffd]/.test(s)) return true;
+  if (/[\u4e00-\u9fff][a-z][a-z]+|[a-z][a-z]+[\u4e00-\u9fff]/.test(s)) return true;
   return false;
 }
 
