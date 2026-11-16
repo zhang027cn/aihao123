@@ -829,9 +829,8 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:let s talk about jensen huang s many affairs",
-    "aiSummary": "黄仁",
     "category": "芯片算力",
-    "summaryStatus": "lazy",
+    "summaryStatus": "garbage-purged",
     "tags": [
       "英伟达"
     ]
