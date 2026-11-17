@@ -1,6 +1,290 @@
 [
   {
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "title": "llm 0.37.3",
+    "link": "https://simonwillison.net/2026/Nov/16/llm/",
+    "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('",
+    "published": "2026-11-16T23:57:26.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:llm 0 37 3",
+    "category": "大模型",
+    "tags": [
+      "LLM"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "published": "2026-11-16T23:32:32.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:cybersecurity ai startup corma reaches 1b valuation in about 3 months",
+    "category": "应用落地",
+    "tags": [
+      "估值",
+      "安全"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
+    "published": "2026-11-16T23:17:34.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:tech leaders are convinced that jensen huang s exit was a plot against him",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+    "published": "2026-11-16T22:58:27.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:robo soldier startup backed by eric trump misses payroll may collapse",
+    "category": "行业动态",
+    "tags": [
+      "机器人"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "published": "2026-11-16T22:03:02.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:all the questions nvidia should answer on tuesday but probably won t",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
+    "published": "2026-11-16T20:46:01.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:california sues openai over rogue ai hacking incidents",
+    "category": "智能体",
+    "tags": [
+      "OpenAI",
+      "诉讼",
+      "安全对齐",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+    "published": "2026-11-16T20:41:28.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:sam altman says he wants everyone to have a lot of ram",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr",
+    "published": "2026-11-16T20:29:37.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:big nuclear isn t worried about the democrats stopping data centers",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "US data centers now burn more electricity than a midsized country",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. ",
+    "published": "2026-11-16T20:27:58.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:us data centers now burn more electricity than a midsized country",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心",
+      "论文"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "published": "2026-11-16T20:07:13.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:california state ag sues openai over rogue agent incidents",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "OpenAI",
+      "诉讼",
+      "法律"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+    "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+    "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and r",
+    "published": "2026-11-16T19:42:13.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:google warns that fully automated cyberattacks have arrived and will get worse f",
+    "category": "智能体",
+    "tags": [
+      "安全",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advan",
+    "published": "2026-11-16T19:24:40.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:apple is testing daily usage limits for more complex siri ai interactions",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether",
+    "published": "2026-11-16T19:23:45.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:openai wants to stop deepfakes from overwhelming child abuse tiplines",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+    "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+    "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before",
+    "published": "2026-11-16T19:19:56.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:openai s gpt 6 astra tackles the standard model s toughest math problem on a lat",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "published": "2026-11-16T19:12:02.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:trump says ex nvidia ceo jensen huang s affair with an alleged chinese spy did n",
+    "category": "芯片算力",
+    "tags": [
+      "安全",
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "US moves to cut China’s remote access to AI chips",
+    "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+    "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+    "published": "2026-11-16T19:10:09.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:us moves to cut china s remote access to ai chips",
+    "category": "芯片算力",
+    "tags": [
+      "芯片"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as be",
+    "published": "2026-11-16T18:52:55.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:moonshot ai pivots kimi models from coding to science as benchmark gains flatten",
+    "category": "政策监管",
+    "tags": [
+      "基准",
+      "编程",
+      "研究",
+      "金融"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+    "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+    "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, alon",
+    "published": "2026-11-16T18:43:35.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:nvidia s board is reportedly not considering hiring jensen huang back",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
     "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
     "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
     "published": "2026-11-16T18:11:10.000Z",
@@ -17,9 +301,9 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
     "published": "2026-11-16T17:36:43.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -48,18 +332,19 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
     "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
     "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
     "published": "2026-11-16T17:02:43.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
     "lang": "en",
-    "id": "techcrunch-ai:openai will embed apollo researchers to investigate ai subversion",
+    "id": "techcrunch-ai:openai will embed safety researchers to investigate ai subversion",
     "category": "研究论文",
     "tags": [
       "研究",
-      "OpenAI"
+      "OpenAI",
+      "安全对齐"
     ],
     "summaryStatus": "nocache"
   },
@@ -97,7 +382,7 @@
   {
     "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
     "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
     "published": "2026-11-16T17:00:00.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -280,22 +565,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The Nvidia scandal isn’t slowing down",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpac",
-    "published": "2026-11-16T13:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:the nvidia scandal isn t slowing down",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "芯片"
     ],
     "summaryStatus": "nocache"
   },
@@ -510,8 +779,8 @@
     "title": "How to make almost anything",
     "link": "https://pub.cba.mit.edu/863.26/site/",
     "published": "2026-11-16T05:50:37Z",
-    "points": 727,
-    "comments": 118,
+    "points": 844,
+    "comments": 143,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -571,8 +840,8 @@
     "title": "Qwen4-Max",
     "link": "https://qwen.ai/blog?id=qwen4-max",
     "published": "2026-11-16T02:14:44Z",
-    "points": 809,
-    "comments": 434,
+    "points": 854,
+    "comments": 471,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -586,34 +855,18 @@
   {
     "title": "Apple launches new app to study how people use AI for health",
     "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "summary": "Apple's new app for a study will answer everyday medical questions.",
     "published": "2026-11-16T01:30:00.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:apple launches new app to study how people use ai for health",
-    "category": "研究论文",
-    "tags": [
-      "医疗"
-    ],
     "aiSummary": "苹果推出新应用，研究人们用AI",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
-    "published": "2026-11-16T01:26:56.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:apple s new study looks to improve the effectiveness of ai health tools",
     "category": "研究论文",
+    "summaryStatus": "lazy",
     "tags": [
       "医疗"
-    ],
-    "aiSummary": "苹果携手OpenEvidence启动研究，评估对话式AI健康工具的实际效用。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -627,6 +880,21 @@
     "category": "行业动态",
     "tags": [
       "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "published": "2026-11-16T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:at holiday extras dots get to work before anyone asks",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -654,29 +922,29 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette maplibre 0 1a0",
+    "aiSummary": "Datasette发布首个地理空间插件，集成MapLibre与免费矢量地图Ope",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "数据集",
       "GitHub"
-    ],
-    "aiSummary": "Datasette发布首个地理空间插件，集成MapLibre与免费矢量地图Ope",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
     "published": "2026-11-15T23:30:00.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:indian chip startup bharat semi lands 24m seed round as it eyes global ai sensor",
+    "aiSummary": "印度芯片初创Bharat Semi获2400万美元种子轮，瞄准全球AI传感器市场",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "芯片"
-    ],
-    "aiSummary": "印度芯片初创Bharat Semi获2400万美元种子轮，瞄准全球AI传感器市场",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "datasette 1.0a43",
@@ -687,13 +955,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette 1 0a43",
+    "aiSummary": "datasette 1.0a43发布，用Claude辅助开发，新增流式输出，里程",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "数据集",
       "Claude"
-    ],
-    "aiSummary": "datasette 1.0a43发布，用Claude辅助开发，新增流式输出，里程",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "datasette 0.65.6",
@@ -704,13 +972,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette 0 65 6",
+    "aiSummary": "datasette 0.65.6发布，修复路由与名称不同时数据库可被未授权下载的",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "数据集",
       "安全"
-    ],
-    "aiSummary": "datasette 0.65.6发布，修复路由与名称不同时数据库可被未授权下载的",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "A step toward defining the Standard Model on a lattice",
@@ -721,12 +989,12 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:a step toward defining the standard model on a lattice",
+    "aiSummary": "GPT-6 Astra助力将标准模型格点定义想法转化为详细证明，迈出关键一步。",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "GPT"
-    ],
-    "aiSummary": "GPT-6 Astra助力将标准模型格点定义想法转化为详细证明，迈出关键一步。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Our new blog for science",
@@ -737,13 +1005,13 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:our new blog for science",
+    "aiSummary": "OpenAI推出科学博客，分享AI助力科研的新发现与实践经验。",
     "category": "研究论文",
+    "summaryStatus": "lazy",
     "tags": [
       "研究",
       "OpenAI"
-    ],
-    "aiSummary": "OpenAI推出科学博客，分享AI助力科研的新发现与实践经验。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
@@ -754,23 +1022,7 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:is bad news for jensen huang also bad news for the ai industry",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
     "aiSummary": "黄仁勋的坏消息或拖累AI行业，因英伟达牵动经济。",
-    "summaryStatus": "lazy"
-  },
-  {
-    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a ",
-    "published": "2026-11-15T20:43:49.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:jensen huang might be plotting a return and more of the latest nvidia drama",
-    "aiSummary": "黄仁勋或酝酿复出，英伟达相关风波持续升级。",
     "category": "芯片算力",
     "summaryStatus": "lazy",
     "tags": [
@@ -778,7 +1030,7 @@
     ]
   },
   {
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
     "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
     "published": "2026-11-15T20:20:57.000Z",
@@ -794,22 +1046,20 @@
     ]
   },
   {
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th",
-    "published": "2026-11-15T19:15:43.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "link": "https://bruceroettgers.eu/blog/protomaps/",
+    "published": "2026-11-15T19:26:22Z",
+    "points": 455,
+    "comments": 84,
+    "source": "Hacker News",
+    "sourceId": "hn",
     "lang": "en",
-    "id": "verge-ai:congress wants to tighten export rules on ai chips after nvidia spy scandal",
-    "aiSummary": "英伟达间谍丑闻后，美国国会拟进一步收紧AI芯片出口管制。",
-    "category": "芯片算力",
-    "summaryStatus": "lazy",
+    "id": "hn:50509837",
+    "category": "行业动态",
     "tags": [
-      "英伟达",
-      "芯片",
-      "语音"
-    ]
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
@@ -820,21 +1070,21 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:anthropic s claude fable 5 2 doesn t generate images it paints them",
+    "aiSummary": "Anthropic新模型Claude Fable 5.2用Python代码模拟画",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "Claude",
       "图像"
-    ],
-    "aiSummary": "Anthropic新模型Claude Fable 5.2用Python代码模拟画",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "All AI-generated code should be Open Source",
     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "published": "2026-11-15T14:46:58Z",
-    "points": 1229,
-    "comments": 648,
+    "points": 1266,
+    "comments": 655,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -859,21 +1109,6 @@
       "英伟达",
       "芯片",
       "研究"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "An overview of Jensen Huang’s messy days",
-    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
-    "published": "2026-11-15T13:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:an overview of jensen huang s messy days",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
     ],
     "summaryStatus": "nocache"
   },
@@ -982,7 +1217,7 @@
     "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
     "published": "2026-11-14T22:26:30Z",
     "points": 450,
-    "comments": 238,
+    "comments": 239,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1006,24 +1241,6 @@
     "category": "芯片算力",
     "tags": [
       "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-    "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-    "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned I",
-    "published": "2026-11-14T19:05:17.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic ceo amodei admits there s a huge uncertainty in what s going to happen",
-    "category": "应用落地",
-    "tags": [
-      "Anthropic",
-      "IPO",
-      "商业",
-      "营收"
     ],
     "summaryStatus": "nocache"
   },
@@ -1059,75 +1276,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-    "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-    "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The articl",
-    "published": "2026-11-14T16:48:01.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:gemini 4 carbon takes the matharena crown but costs 15 times more than gpt 6 1 s",
-    "aiSummary": "谷歌Gemini 4 Carbon登顶MathArena，成本却是GPT-6.1 Sol的15倍。",
-    "category": "大模型",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Gemini",
-      "GPT",
-      "Anthropic",
-      "基准"
-    ]
-  },
-  {
-    "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-    "link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-    "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared ",
-    "published": "2026-11-14T16:42:56.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic says outdated prompting habits are slowing down claude opus 5 5",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "published": "2026-11-14T16:34:15.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:asian governments react to nvidia ceo jensen huang s exit",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
-    "published": "2026-11-14T15:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:the openai board member who fired sam altman says we still can t trust ai ceos",
-    "category": "政策监管",
-    "tags": [
-      "OpenAI",
-      "安全",
-      "政策",
-      "安全对齐"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Open-source AI without Jensen",
     "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
     "summary": "A decapitation. It’s time to rebuild.",
@@ -1143,25 +1291,10 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat",
-    "published": "2026-11-14T12:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:jensen huang and the decline of the visionary showman founder ceo",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "published": "2026-11-14T02:52:59Z",
-    "points": 1108,
+    "points": 1112,
     "comments": 649,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1172,21 +1305,6 @@
       "融资",
       "英伟达",
       "GPU"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
-    "published": "2026-11-13T23:49:11.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:amazon has a plan to index the world s online shopping data",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
     ],
     "summaryStatus": "nocache"
   },
@@ -1202,23 +1320,6 @@
     "category": "开源",
     "tags": [
       "数据集"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "published": "2026-11-13T22:43:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:jensen huang s departure blasts big hole in ai startup funding vcs and founders ",
-    "category": "芯片算力",
-    "tags": [
-      "融资",
-      "估值",
-      "英伟达"
     ],
     "summaryStatus": "nocache"
   },
@@ -1250,40 +1351,6 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "published": "2026-11-13T19:37:57.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:ai agent startup langchain hits 3b valuation",
-    "category": "智能体",
-    "tags": [
-      "Agent",
-      "估值"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "published": "2026-11-13T18:40:30.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:export banned nvidia chips are behind china s most powerful ai models uh oh jens",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "芯片",
-      "禁令",
-      "研究"
     ],
     "summaryStatus": "nocache"
   },
@@ -1499,8 +1566,8 @@
     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
     "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "published": "2026-11-12T22:03:09Z",
-    "points": 798,
-    "comments": 224,
+    "points": 799,
+    "comments": 225,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1594,7 +1661,7 @@
     "title": "Gemini 4 Hydrogen and Orchestrator",
     "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
     "published": "2026-11-12T18:52:01Z",
-    "points": 506,
+    "points": 507,
     "comments": 165,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1642,7 +1709,7 @@
     "link": "https://github.com/simpsoka/zigzag",
     "published": "2026-11-12T17:02:42Z",
     "points": 741,
-    "comments": 257,
+    "comments": 258,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1657,7 +1724,7 @@
     "title": "I'm making LLMs work on small and old devices",
     "link": "https://github.com/hyperionaidev/smolmaxxing/",
     "published": "2026-11-12T15:23:10Z",
-    "points": 481,
+    "points": 483,
     "comments": 180,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1688,8 +1755,8 @@
     "title": "Jensen Huang resigns",
     "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "published": "2026-11-12T13:52:29Z",
-    "points": 4054,
-    "comments": 3469,
+    "points": 4055,
+    "comments": 3472,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1728,6 +1795,23 @@
     "category": "应用落地",
     "tags": [
       "应用落地"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "published": "2026-11-12T05:29:24Z",
+    "points": 450,
+    "comments": 236,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50463399",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "视频"
     ],
     "summaryStatus": "nocache"
   },
@@ -1828,101 +1912,5 @@
     "tags": [
       "Agent"
     ]
-  },
-  {
-    "title": "Browse tools.simonwillison.net by tag",
-    "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-    "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, an",
-    "published": "2026-11-11T18:42:50.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:browse tools simonwillison net by tag",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-    "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-    "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-    "published": "2026-11-11T18:16:40.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:taiwan s chipmaking giant tsmc to invest 1b in anthropic openai",
-    "category": "芯片算力",
-    "tags": [
-      "Anthropic",
-      "OpenAI",
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "published": "2026-11-11T18:00:00.000Z",
-    "source": "Google AI Blog",
-    "sourceId": "google-ai",
-    "lang": "en",
-    "id": "google-ai:gemini decisions api fast calibrated multimodal decisions",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-    "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-    "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-    "published": "2026-11-11T17:37:32.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:big walk used ai to fix a bug now the indie gaming world is having a reckoning",
-    "category": "应用落地",
-    "tags": [
-      "游戏",
-      "编程"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "llm 0.37.2",
-    "link": "https://simonwillison.net/2026/Nov/11/llm/",
-    "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from othe",
-    "published": "2026-11-11T17:19:52.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:llm 0 37 2",
-    "category": "大模型",
-    "tags": [
-      "LLM",
-      "安全",
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "published": "2026-11-11T16:38:44Z",
-    "points": 588,
-    "comments": 276,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50455394",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心"
-    ],
-    "summaryStatus": "nocache"
   }
 ]
