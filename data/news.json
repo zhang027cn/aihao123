@@ -1,5 +1,35 @@
 [
   {
+    "title": "Quoting Go Proverbs",
+    "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+    "summary": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
+    "published": "2026-11-17T06:16:26.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:quoting go proverbs",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "published": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:strengthening nato and allied cyber defenses with ai",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "llm 0.37.3",
     "link": "https://simonwillison.net/2026/Nov/16/llm/",
     "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('",
@@ -633,6 +663,23 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "published": "2026-11-16T09:30:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:how revolut raises ambition without lowering the bar",
+    "category": "应用落地",
+    "tags": [
+      "安全",
+      "OpenAI",
+      "编程"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "link": "https://openai.com/index/lvmh-media-division-partnership",
     "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
@@ -743,22 +790,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "summary": "",
-    "published": "2026-11-16T06:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:advancing computer use agents for healthcare teams",
-    "category": "智能体",
-    "tags": [
-      "医疗",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
@@ -776,11 +807,27 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": "",
+    "published": "2026-11-16T06:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:advancing computer use agents for healthcare teams",
+    "category": "智能体",
+    "tags": [
+      "医疗",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "How to make almost anything",
     "link": "https://pub.cba.mit.edu/863.26/site/",
     "published": "2026-11-16T05:50:37Z",
-    "points": 844,
-    "comments": 143,
+    "points": 889,
+    "comments": 147,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -840,8 +887,8 @@
     "title": "Qwen4-Max",
     "link": "https://qwen.ai/blog?id=qwen4-max",
     "published": "2026-11-16T02:14:44Z",
-    "points": 854,
-    "comments": 471,
+    "points": 867,
+    "comments": 479,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1049,8 +1096,8 @@
     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
     "link": "https://bruceroettgers.eu/blog/protomaps/",
     "published": "2026-11-15T19:26:22Z",
-    "points": 455,
-    "comments": 84,
+    "points": 462,
+    "comments": 85,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1083,8 +1130,8 @@
     "title": "All AI-generated code should be Open Source",
     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "published": "2026-11-15T14:46:58Z",
-    "points": 1266,
-    "comments": 655,
+    "points": 1274,
+    "comments": 664,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1179,6 +1226,22 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "published": "2026-11-15T01:18:36Z",
+    "points": 534,
+    "comments": 234,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50502988",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Where was Nvidia’s security team?",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
@@ -1216,8 +1279,8 @@
     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
     "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
     "published": "2026-11-14T22:26:30Z",
-    "points": 450,
-    "comments": 239,
+    "points": 451,
+    "comments": 240,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1404,8 +1467,8 @@
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
     "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
     "published": "2026-11-13T15:08:44Z",
-    "points": 489,
-    "comments": 731,
+    "points": 493,
+    "comments": 741,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1453,7 +1516,7 @@
     "link": "https://status.claude.com/incidents/nn11wk485zfn",
     "published": "2026-11-13T10:18:13Z",
     "points": 493,
-    "comments": 392,
+    "comments": 393,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1513,39 +1576,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-    "link": "https://sspai.com/post/118153",
-    "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
-    "published": "2026-11-13T07:00:00.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:研究生如何用 ai 辅助完成一篇综述 我的科研写作工具与实践经验",
-    "aiSummary": "研究生用AI辅助完成综述，AI改变了科研写作的工作方式。",
-    "category": "研究论文",
-    "summaryStatus": "lazy",
-    "tags": [
-      "研究论文"
-    ]
-  },
-  {
-    "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-    "link": "https://sspai.com/post/118512",
-    "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
-    "published": "2026-11-13T03:35:48.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:在快 ai 时代 我是怎么把 mole 做成一款 慢产品 的",
-    "aiSummary": "开发者将Mole更新至1.19，新增AI工具与系统数据清理，在快AI时代坚持慢产品理念。",
-    "category": "开源",
-    "summaryStatus": "lazy",
-    "tags": [
-      "开源",
-      "应用"
-    ]
-  },
-  {
     "title": "llm-gemini 0.37",
     "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
     "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M)",
@@ -1566,7 +1596,7 @@
     "title": "Reverse engineering my Coway air purifier to ditch the cloud",
     "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "published": "2026-11-12T22:03:09Z",
-    "points": 799,
+    "points": 800,
     "comments": 225,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1575,6 +1605,22 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "link": "https://unemploymentlabs.com/checkpoint-forensics",
+    "published": "2026-11-12T21:56:11Z",
+    "points": 451,
+    "comments": 196,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50474883",
+    "category": "芯片算力",
+    "tags": [
+      "GPU"
     ],
     "summaryStatus": "nocache"
   },
@@ -1708,7 +1754,7 @@
     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
     "link": "https://github.com/simpsoka/zigzag",
     "published": "2026-11-12T17:02:42Z",
-    "points": 741,
+    "points": 742,
     "comments": 258,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1755,8 +1801,8 @@
     "title": "Jensen Huang resigns",
     "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "published": "2026-11-12T13:52:29Z",
-    "points": 4055,
-    "comments": 3472,
+    "points": 4056,
+    "comments": 3475,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1802,8 +1848,8 @@
     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
     "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
     "published": "2026-11-12T05:29:24Z",
-    "points": 450,
-    "comments": 236,
+    "points": 454,
+    "comments": 239,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1862,55 +1908,5 @@
       "行业动态"
     ],
     "summaryStatus": "nocache"
-  },
-  {
-    "title": "Gemini Decisions API",
-    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-    "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's pri",
-    "published": "2026-11-11T22:03:25.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:gemini decisions api",
-    "aiSummary": "谷歌推出Gemini Decision 1决策模型API，与Jev类似，支持三种问题类型。",
-    "category": "大模型",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Gemini",
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "published": "2026-11-11T21:24:35Z",
-    "points": 681,
-    "comments": 710,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50458900",
-    "category": "智能体",
-    "tags": [
-      "Agent",
-      "禁令"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "aws-emulator",
-    "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-    "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Si",
-    "published": "2026-11-11T21:18:30.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:aws emulator",
-    "aiSummary": "AWS 推出 Rust 官方模拟器，三周近3万次提交，可本地测试服务免付费密钥。",
-    "category": "智能体",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Agent"
-    ]
   }
 ]
