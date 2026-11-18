@@ -1,5 +1,476 @@
 [
   {
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "published": "2026-11-18T17:00:00.000Z",
+    "source": "Google AI Blog",
+    "sourceId": "google-ai",
+    "lang": "en",
+    "id": "google-ai:the gemini app is now available on lower memory android devices",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "图像"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "published": "2026-11-18T16:59:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:sam altman warns against a future where ai not humans calls the shots",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "published": "2026-11-18T16:14:09.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:openai ceo sam altman says it s hard to imagine the ai industry without jensen",
+    "category": "芯片算力",
+    "tags": [
+      "OpenAI",
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+    "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
+    "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written. French publisher Gallimard plans t",
+    "published": "2026-11-18T16:09:08.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:pangram flags 99 percent of an award winning peruvian novel as ai generated but ",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Quoting Daniel Stenberg",
+    "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+    "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of tho",
+    "published": "2026-11-18T15:58:27.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:quoting daniel stenberg",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+    "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+    "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even be",
+    "published": "2026-11-18T15:47:49.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:anthropic openai and google models readily marked medics journalists and surrend",
+    "category": "智能体",
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "自主",
+      "视频"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the ",
+    "published": "2026-11-18T15:44:02.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:remember the frontier ai pause chip companies don t either",
+    "category": "智能体",
+    "tags": [
+      "芯片",
+      "Anthropic",
+      "安全",
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "summary": "",
+    "published": "2026-11-18T15:00:23.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:time series models in the streamhouse a new frontier and use cases",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The PSF end-of-year fundraiser",
+    "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+    "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The ",
+    "published": "2026-11-18T14:44:48.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:the psf end of year fundraiser",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The AI Hype Index: AI is everywhere",
+    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+    "published": "2026-11-18T14:42:44.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:the ai hype index ai is everywhere",
+    "category": "应用落地",
+    "tags": [
+      "营收",
+      "机器人"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+    "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+    "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder .",
+    "published": "2026-11-18T14:40:52.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:mistral plays catch up with vibe desktop as rivals already command full operatin",
+    "category": "智能体",
+    "tags": [
+      "Mistral",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+    "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+    "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so ho",
+    "published": "2026-11-18T14:36:42.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:openai opens its ai systems to four independent on site auditors for the first t",
+    "category": "开源",
+    "tags": [
+      "OpenAI",
+      "研究",
+      "安全对齐"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+    "link": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+    "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners face multibillion-do",
+    "published": "2026-11-18T14:33:44.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:hugging face now routes model requests through openrouter for the best price or ",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+    "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/",
+    "summary": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels. With 2,000 additional facilities planned, th",
+    "published": "2026-11-18T14:25:04.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:more than half the electricity feeding america s largest data centers comes from",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Will Wright’s next game uses AI to map your memories",
+    "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+    "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they creat",
+    "published": "2026-11-18T14:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:will wright s next game uses ai to map your memories",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+    "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
+    "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because AI agents analyze fa",
+    "published": "2026-11-18T13:55:49.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:kpmg s project exponential put ai agents alongside a real audit team and found t",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
+    "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
+    "summary": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia. The article SEC probes Nvidia over undisclosed chip sales tied to China appeared first on The Decoder .",
+    "published": "2026-11-18T13:28:49.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:sec probes nvidia over undisclosed chip sales tied to china",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "芯片"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,”",
+    "published": "2026-11-18T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:the download ai learns to smell and hydropower struggles",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former",
+    "published": "2026-11-18T13:01:05.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:nvidia isn t selling any more ai chips to china",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "芯片"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "published": "2026-11-18T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia clarifies when it will and won t keep financing neoclouds",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "数据中心"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "published": "2026-11-18T12:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:felicis leads 7 5m bet on unsiloed ai to make enterprise documents usable by ai ",
+    "category": "智能体",
+    "tags": [
+      "企业",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "published": "2026-11-18T11:30:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:india s humyn labs raises 47m to feed u s robotics companies the data they need",
+    "category": "应用落地",
+    "tags": [
+      "机器人",
+      "营收"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Suno now lets you make AI videos for your AI music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+    "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be u",
+    "published": "2026-11-18T11:16:53.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:suno now lets you make ai videos for your ai music",
+    "category": "行业动态",
+    "tags": [
+      "视频",
+      "图像"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+    "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder .",
+    "published": "2026-11-18T10:22:45.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:suno s new visuals feature pairs ai generated music with ai generated video",
+    "category": "行业动态",
+    "tags": [
+      "视频",
+      "图像"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+    "published": "2026-11-18T10:20:30.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:this smell startup says its ai nose is as good as a human s",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+    "link": "https://www.qbitai.com/2026/11/510922.html",
+    "summary": "氖人寻味！",
+    "published": "2026-11-18T09:41:55.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:gemini新模型neon箭在弦上 网友 遍历元素周期表",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "GPT-6.2难产！OpenAI怕了",
+    "link": "https://www.qbitai.com/2026/11/510914.html",
+    "summary": "OpenAI也终于活成了2022年谷歌的样子",
+    "published": "2026-11-18T07:53:29.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:gpt 6 2难产 openai怕了",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "link": "https://www.qbitai.com/2026/11/510916.html",
+    "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+    "published": "2026-11-18T07:24:50.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:全球首个医疗健康ai独立评测与分析平台inclusionmed正式上线",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+    "link": "https://sspai.com/post/118732",
+    "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。 查看全文",
+    "published": "2026-11-18T06:54:30.000Z",
+    "source": "少数派",
+    "sourceId": "sspai",
+    "lang": "zh",
+    "id": "sspai:app 1 nodlink airpods 变鼠标 动动脑就能操作电脑",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "AI is killing All About Berlin",
+    "link": "https://nicolasbouliane.com/blog/death-by-ai",
+    "published": "2026-11-18T06:47:26Z",
+    "points": 684,
+    "comments": 627,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50542705",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
     "link": "https://www.qbitai.com/2026/11/510811.html",
     "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
@@ -123,6 +594,22 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "link": "https://revscope.co/blog/search-seo-geo-2026/",
+    "published": "2026-11-18T00:17:58Z",
+    "points": 651,
+    "comments": 498,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50540178",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Nvidia promises that revenue will keep soaring — for now",
     "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
     "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
@@ -135,6 +622,69 @@
     "tags": [
       "营收",
       "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "published": "2026-11-18T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:le groupe figaro and openai partner to bring le figaro journalism to chatgpt",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "published": "2026-11-18T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:advancing chip design with openai models",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "芯片",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
+    "summary": "",
+    "published": "2026-11-18T00:00:00.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:180b parameters 32gb of ram pushing moe inference to the limit with transformers",
+    "category": "芯片算力",
+    "tags": [
+      "推理"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "summary": "",
+    "published": "2026-11-18T00:00:00.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:rumble 2 flash an open 0 5b speech model for 40 languages",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -179,13 +729,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:nvidia says its open source ai strategy remains intact after jensen huang s exit",
+    "aiSummary": "英伟达临时CEO重申开源AI战略，并计划收购Hugging Face。",
     "category": "开源",
+    "summaryStatus": "lazy",
     "tags": [
       "开源",
       "英伟达"
-    ],
-    "aiSummary": "英伟达临时CEO重申开源AI战略，并计划收购Hugging Face。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "External sandboxes for coding agents",
@@ -196,13 +746,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:external sandboxes for coding agents",
+    "aiSummary": "探索编码代理外部沙箱，安全试用本地模型，防止错误或注入攻击造成损害。",
     "category": "智能体",
+    "summaryStatus": "lazy",
     "tags": [
       "编程",
       "Agent"
-    ],
-    "aiSummary": "探索编码代理外部沙箱，安全试用本地模型，防止错误或注入攻击造成损害。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
@@ -213,12 +763,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:nvidia says it doesn t plan to reappoint jensen huang as ceo",
+    "aiSummary": "英伟达称无意重新任命黄仁勋为CEO，其辞职后曾提出回归。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "英伟达称无意重新任命黄仁勋为CEO，其辞职后曾提出回归。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
@@ -229,13 +779,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:gpt 6 2 astra and gpt 6 2 sol",
+    "aiSummary": "OpenAI发布GPT-6.2 Astra与Sol，分别面向复杂和日常任务，AP",
     "category": "大模型",
+    "summaryStatus": "lazy",
     "tags": [
       "GPT",
       "OpenAI"
-    ],
-    "aiSummary": "OpenAI发布GPT-6.2 Astra与Sol，分别面向复杂和日常任务，AP",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
@@ -246,13 +796,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:amazon and google will together own nearly 30 of anthropic after its ipo",
+    "aiSummary": "亚马逊和谷歌将合计持有Anthropic近30%股份，成重要股东。",
     "category": "行业动态",
+    "summaryStatus": "lazy",
     "tags": [
       "Anthropic",
       "IPO"
-    ],
-    "aiSummary": "亚马逊和谷歌将合计持有Anthropic近30%股份，成重要股东。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "SEC reportedly investigating Nvidia amid Huang exit",
@@ -263,12 +813,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:sec reportedly investigating nvidia amid huang exit",
+    "aiSummary": "美国证交会调查英伟达，因黄仁勋离职并承认与疑似间谍有染。",
     "category": "芯片算力",
+    "summaryStatus": "lazy",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "美国证交会调查英伟达，因黄仁勋离职并承认与疑似间谍有染。",
-    "summaryStatus": "lazy"
+    ]
   },
   {
     "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
@@ -445,8 +995,8 @@
     "title": "GPT‑6.2 Astra and Sol",
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "published": "2026-11-17T17:46:43Z",
-    "points": 1229,
-    "comments": 762,
+    "points": 1326,
+    "comments": 836,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -521,24 +1071,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
-    "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
-    "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Heal",
-    "published": "2026-11-17T16:55:47.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:ai agents are starting to fill out medical forms and file insurance requests in ",
-    "category": "大模型",
-    "tags": [
-      "Agent",
-      "医疗",
-      "OpenAI",
-      "GPT"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Google makes it easier to use Gemini without training AI on your data",
     "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
     "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
@@ -565,53 +1097,6 @@
     "category": "开源",
     "tags": [
       "数据集"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
-    "link": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
-    "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware short",
-    "published": "2026-11-17T16:47:21.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:the us wants to block china from renting ai power abroad but china already built",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心",
-      "英伟达",
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-    "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-    "published": "2026-11-17T16:44:15.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:jensen huang says he would be honored if allowed to return as nvidia ceo",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-    "published": "2026-11-17T16:32:55.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:daydream s new ai agent acts as your personal stylist and can shop for you too",
-    "category": "智能体",
-    "tags": [
-      "Agent"
     ],
     "summaryStatus": "nocache"
   },
@@ -658,113 +1143,6 @@
     "category": "芯片算力",
     "tags": [
       "数据中心"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
-    "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
-    "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's alre",
-    "published": "2026-11-17T15:02:03.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai opens its cybersecurity tool daybreak to nato and european governments",
-    "category": "行业动态",
-    "tags": [
-      "安全",
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-    "published": "2026-11-17T15:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:voyage labs raises 12 million for a specialized ai travel assistant",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
-    "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
-    "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants governments to",
-    "published": "2026-11-17T14:59:50.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:reports of ai generated child sexual abuse material have surged more than 8 400 ",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
-    "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
-    "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet. The article Isomorphic Labs raises $5 bill",
-    "published": "2026-11-17T14:57:02.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:isomorphic labs raises 5 billion in its second mega round within six months",
-    "category": "行业动态",
-    "tags": [
-      "融资"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-    "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
-    "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder ",
-    "published": "2026-11-17T14:54:10.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:california s attorney general sues openai over rogue ai models that attacked hug",
-    "category": "开源",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-    "published": "2026-11-17T14:50:58.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:isomorphic labs raises 5b as it looks to take drug candidates to clinical trials",
-    "category": "行业动态",
-    "tags": [
-      "融资"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "published": "2026-11-17T14:26:46.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:science corporation s brain tech is worth 3 5 billion after new funding",
-    "category": "应用落地",
-    "tags": [
-      "融资",
-      "商业"
     ],
     "summaryStatus": "nocache"
   },
@@ -846,52 +1224,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-    "link": "https://www.qbitai.com/2026/11/510652.html",
-    "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
-    "published": "2026-11-17T06:09:40.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:材料科学智能体matos正式开源 大幅提高材料研发任务成功率",
-    "category": "智能体",
-    "tags": [
-      "智能体",
-      "开源"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-    "link": "https://www.qbitai.com/2026/11/510610.html",
-    "summary": "斩获80000元奖金",
-    "published": "2026-11-17T04:35:03.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:真勇啊 00后团队参加具身挑战赛 仅48小时竟敢从零手搓数据 还夺冠了",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-    "link": "https://www.qbitai.com/2026/11/510592.html",
-    "summary": "奥特曼首谈黄仁勋离职",
-    "published": "2026-11-17T02:33:13.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:奥特曼共情黄仁勋 英雄也有缺陷 但支持他重返英伟达ceo嘛",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -901,6 +1233,21 @@
     "lang": "en",
     "id": "openai:strengthening nato and allied cyber defenses with ai",
     "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "published": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:introducing openai for chile",
+    "category": "应用落地",
     "tags": [
       "OpenAI"
     ],
@@ -925,21 +1272,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "published": "2026-11-17T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:introducing openai for chile",
-    "category": "应用落地",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "llm 0.37.3",
     "link": "https://simonwillison.net/2026/Nov/16/llm/",
     "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('",
@@ -955,26 +1287,11 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
-    "published": "2026-11-16T23:17:34.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:tech leaders are convinced that jensen huang s exit was a plot against him",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Optimizely compromised, served malware on Zoom, GitLab",
     "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "published": "2026-11-16T23:00:34Z",
-    "points": 683,
-    "comments": 269,
+    "points": 693,
+    "comments": 273,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1001,86 +1318,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "California sues OpenAI over rogue AI hacking incidents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
-    "published": "2026-11-16T20:46:01.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:california sues openai over rogue ai hacking incidents",
-    "category": "智能体",
-    "tags": [
-      "OpenAI",
-      "诉讼",
-      "安全对齐",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
-    "published": "2026-11-16T20:41:28.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:sam altman says he wants everyone to have a lot of ram",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-    "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-    "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr",
-    "published": "2026-11-16T20:29:37.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:big nuclear isn t worried about the democrats stopping data centers",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
-    "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
-    "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and r",
-    "published": "2026-11-16T19:42:13.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:google warns that fully automated cyberattacks have arrived and will get worse f",
-    "category": "智能体",
-    "tags": [
-      "安全",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-    "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
-    "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before",
-    "published": "2026-11-16T19:19:56.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai s gpt 6 astra tackles the standard model s toughest math problem on a lat",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "US moves to cut China’s remote access to AI chips",
     "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
     "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
@@ -1092,24 +1329,6 @@
     "category": "芯片算力",
     "tags": [
       "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-    "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-    "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as be",
-    "published": "2026-11-16T18:52:55.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:moonshot ai pivots kimi models from coding to science as benchmark gains flatten",
-    "category": "政策监管",
-    "tags": [
-      "基准",
-      "编程",
-      "研究",
-      "金融"
     ],
     "summaryStatus": "nocache"
   },
@@ -1192,23 +1411,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Building AI that can work across the enterprise",
-    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
-    "published": "2026-11-16T13:00:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:building ai that can work across the enterprise",
-    "category": "智能体",
-    "tags": [
-      "企业",
-      "商业",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Science at the Frontier: How scientists use ChatGPT",
     "link": "https://openai.com/index/science-at-the-frontier",
     "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
@@ -1275,6 +1477,22 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": "",
+    "published": "2026-11-16T06:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:advancing computer use agents for healthcare teams",
+    "category": "智能体",
+    "tags": [
+      "医疗",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
@@ -1292,26 +1510,10 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "summary": "",
-    "published": "2026-11-16T06:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:advancing computer use agents for healthcare teams",
-    "category": "智能体",
-    "tags": [
-      "医疗",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "How to make almost anything",
     "link": "https://pub.cba.mit.edu/863.26/site/",
     "published": "2026-11-16T05:50:37Z",
-    "points": 912,
+    "points": 915,
     "comments": 149,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1328,7 +1530,7 @@
     "link": "https://qwen.ai/blog?id=qwen4-max",
     "published": "2026-11-16T02:14:44Z",
     "points": 877,
-    "comments": 483,
+    "comments": 487,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1472,7 +1674,7 @@
     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
     "link": "https://bruceroettgers.eu/blog/protomaps/",
     "published": "2026-11-15T19:26:22Z",
-    "points": 464,
+    "points": 466,
     "comments": 89,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1488,8 +1690,8 @@
     "title": "All AI-generated code should be Open Source",
     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "published": "2026-11-15T14:46:58Z",
-    "points": 1279,
-    "comments": 669,
+    "points": 1281,
+    "comments": 670,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1536,7 +1738,7 @@
     "title": "Court denies motion to dismiss DRAM price fixing case",
     "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
     "published": "2026-11-15T01:18:36Z",
-    "points": 537,
+    "points": 538,
     "comments": 235,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1562,6 +1764,23 @@
       "数据集",
       "LLM",
       "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "published": "2026-11-14T22:26:30Z",
+    "points": 451,
+    "comments": 240,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50501631",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "GPU"
     ],
     "summaryStatus": "nocache"
   },
@@ -1671,230 +1890,6 @@
     "category": "行业动态",
     "tags": [
       "机器人"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-    "published": "2026-11-13T17:25:45.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:openai board member worries an ai takeover of society could be months away",
-    "category": "研究论文",
-    "tags": [
-      "OpenAI",
-      "研究"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "summary": "",
-    "published": "2026-11-13T17:02:35.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:xybench helping with the problem behind the question",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-    "published": "2026-11-13T15:08:44Z",
-    "points": 494,
-    "comments": 749,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50484658",
-    "category": "应用落地",
-    "tags": [
-      "编程",
-      "视频"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Introducing ChatGPT Wallet",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "published": "2026-11-13T15:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:introducing chatgpt wallet",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "summary": "",
-    "published": "2026-11-13T14:05:22.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:llama cpp v1 0 0 a stronger foundation for the local ai ecosystem",
-    "category": "开源",
-    "tags": [
-      "Llama"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "link": "https://status.claude.com/incidents/nn11wk485zfn",
-    "published": "2026-11-13T10:18:13Z",
-    "points": 494,
-    "comments": 394,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50481187",
-    "category": "大模型",
-    "tags": [
-      "Claude"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
-    "published": "2026-11-13T10:00:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:more autonomy fewer ndas volunteers have new requests for brain implant trials",
-    "aiSummary": "脑植入试验志愿者呼吁更多自主权与更少保密协议。",
-    "category": "行业动态",
-    "summaryStatus": "lazy",
-    "tags": [
-      "机器人"
-    ]
-  },
-  {
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "published": "2026-11-13T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:shield helps technicians hand off legacy portal work with openai",
-    "category": "智能体",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "llm-gemini 0.37",
-    "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-    "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M)",
-    "published": "2026-11-12T22:55:19.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:llm gemini 0 37",
-    "aiSummary": "谷歌发布Gemini 4 Hydrogen，为家族最低成本型号，价格接近更大版本。",
-    "category": "大模型",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Gemini",
-      "LLM"
-    ]
-  },
-  {
-    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-    "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "published": "2026-11-12T22:03:09Z",
-    "points": 801,
-    "comments": 225,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50474959",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "link": "https://unemploymentlabs.com/checkpoint-forensics",
-    "published": "2026-11-12T21:56:11Z",
-    "points": 452,
-    "comments": 197,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50474883",
-    "category": "芯片算力",
-    "tags": [
-      "GPU"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "link": "https://openai.com/business/customer-stories/amplitude",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "published": "2026-11-12T20:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:how amplitude ships product improvements in 1 2 days with openai",
-    "category": "智能体",
-    "tags": [
-      "OpenAI",
-      "编程",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-    "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-    "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-    "published": "2026-11-12T19:23:03.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:google rolls out gemini 4 hydrogen finally replacing 3 8 flash",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "安全"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "summary": "",
-    "published": "2026-11-12T19:07:35.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:llmon an llm native markup language now in granite 4 1 3b and 8b",
-    "category": "大模型",
-    "tags": [
-      "LLM"
     ],
     "summaryStatus": "nocache"
   }
