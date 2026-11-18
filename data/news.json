@@ -1,8 +1,179 @@
 [
   {
-    "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+    "link": "https://www.qbitai.com/2026/11/510811.html",
+    "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+    "published": "2026-11-18T04:49:51.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:思维链一作jason wei离职 怎么去meta待一年都跑路",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+    "link": "https://www.qbitai.com/2026/11/510821.html",
+    "summary": "具身全栈玩家",
+    "published": "2026-11-18T04:28:57.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:英伟达amd首次联手押注 genesis完成a轮融资 估值超230亿",
+    "category": "芯片算力",
+    "tags": [
+      "芯片算力"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+    "link": "https://www.qbitai.com/2026/11/510737.html",
+    "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+    "published": "2026-11-18T02:49:23.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:潜伏小红书48h ai时代 顶尖技术人才都在聊什么",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+    "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "published": "2026-11-18T01:44:21.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia s startup stakes ballooned to 65b but huang s exit puts future deals in d",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "估值"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+    "link": "https://www.qbitai.com/2026/11/510726.html",
+    "summary": "英伟达公布了老黄离职后的首份财报",
+    "published": "2026-11-18T01:03:42.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:黄仁勋不再沉默 我愿重掌英伟达 董事会 不考虑",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+    "link": "https://www.qbitai.com/2026/11/510707.html",
+    "summary": "Sol逼近旗舰性能",
+    "published": "2026-11-18T00:49:14.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:gpt 6 2 astra和sol王炸双发 3d又危了",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+    "link": "https://sspai.com/post/119210",
+    "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
+    "published": "2026-11-18T00:46:03.000Z",
+    "source": "少数派",
+    "sourceId": "sspai",
+    "lang": "zh",
+    "id": "sspai:派早报 国区 app store 将 aigc 合规设为上架必填 openai 发布 gpt 6 2 astra 等",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+    "published": "2026-11-18T00:27:29.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:copilot is the new os for work and now office runs inside of it",
+    "category": "智能体",
+    "tags": [
+      "Copilot",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia promises that revenue will keep soaring — for now",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+    "published": "2026-11-18T00:16:50.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia promises that revenue will keep soaring for now",
+    "category": "芯片算力",
+    "tags": [
+      "营收",
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
+    "published": "2026-11-17T23:41:18.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:satya nadella says he s agi pilled now",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "published": "2026-11-17T23:37:48.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia is abandoning china after jensen huang s ouster",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "禁令",
+      "芯片"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
     "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
     "published": "2026-11-17T23:04:35.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -13,7 +184,8 @@
       "开源",
       "英伟达"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "英伟达临时CEO重申开源AI战略，并计划收购Hugging Face。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "External sandboxes for coding agents",
@@ -29,7 +201,8 @@
       "编程",
       "Agent"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "探索编码代理外部沙箱，安全试用本地模型，防止错误或注入攻击造成损害。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
@@ -44,7 +217,8 @@
     "tags": [
       "英伟达"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "英伟达称无意重新任命黄仁勋为CEO，其辞职后曾提出回归。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
@@ -60,7 +234,8 @@
       "GPT",
       "OpenAI"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "OpenAI发布GPT-6.2 Astra与Sol，分别面向复杂和日常任务，AP",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
@@ -76,7 +251,8 @@
       "Anthropic",
       "IPO"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "亚马逊和谷歌将合计持有Anthropic近30%股份，成重要股东。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "SEC reportedly investigating Nvidia amid Huang exit",
@@ -91,7 +267,8 @@
     "tags": [
       "英伟达"
     ],
-    "summaryStatus": "nocache"
+    "aiSummary": "美国证交会调查英伟达，因黄仁勋离职并承认与疑似间谍有染。",
+    "summaryStatus": "lazy"
   },
   {
     "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
@@ -268,8 +445,8 @@
     "title": "GPT‑6.2 Astra and Sol",
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "published": "2026-11-17T17:46:43Z",
-    "points": 1005,
-    "comments": 621,
+    "points": 1229,
+    "comments": 762,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -607,22 +784,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-    "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-    "published": "2026-11-17T14:05:30.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:nvidia s first big move after jensen huang s exit targets national security",
-    "category": "芯片算力",
-    "tags": [
-      "安全",
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
     "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
     "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
@@ -635,21 +796,6 @@
     "tags": [
       "Grok",
       "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "published": "2026-11-17T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:spotify s new tool aims to stop deepfakes from being attributed to real artists",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -746,21 +892,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-    "link": "https://www.qbitai.com/2026/11/510561.html",
-    "summary": "",
-    "published": "2026-11-17T02:03:22.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:物理ai的强化学习仿真环境来了 光轮智能推出robofinals rl envs",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -824,22 +955,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "published": "2026-11-16T23:32:32.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:cybersecurity ai startup corma reaches 1b valuation in about 3 months",
-    "category": "应用落地",
-    "tags": [
-      "估值",
-      "安全"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
     "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
     "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
@@ -858,8 +973,8 @@
     "title": "Optimizely compromised, served malware on Zoom, GitLab",
     "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "published": "2026-11-16T23:00:34Z",
-    "points": 658,
-    "comments": 261,
+    "points": 683,
+    "comments": 269,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -930,22 +1045,6 @@
     "category": "芯片算力",
     "tags": [
       "数据中心"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "US data centers now burn more electricity than a midsized country",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. ",
-    "published": "2026-11-16T20:27:58.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:us data centers now burn more electricity than a midsized country",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心",
-      "论文"
     ],
     "summaryStatus": "nocache"
   },
@@ -1126,22 +1225,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-    "link": "https://www.qbitai.com/2026/11/510542.html",
-    "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-    "published": "2026-11-16T10:57:31.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:睿尔曼智能郑随兵 质量 经济性 稳定性是机器人落地三大标准",
-    "category": "应用落地",
-    "tags": [
-      "机器人",
-      "落地"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "How Revolut raises ambition without lowering the bar",
     "link": "https://openai.com/business/customer-stories/revolut",
     "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
@@ -1175,36 +1258,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-    "link": "https://www.qbitai.com/2026/11/510526.html",
-    "summary": "12月1日，细数AI的未竟之问。",
-    "published": "2026-11-16T08:45:17.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:2026甲子引力年终盛典即将启幕 ai的无限游戏进入 第二序章 甲子引力",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-    "link": "https://www.qbitai.com/2026/11/510496.html",
-    "summary": "在华为待了快10000天。",
-    "published": "2026-11-16T08:02:07.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:没搞过一天研发的他 50岁以华为董事的身份退休了",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Our first phase of embedded assessments",
     "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
     "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
@@ -1218,21 +1271,6 @@
       "安全对齐",
       "研究",
       "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-    "link": "https://www.qbitai.com/2026/11/510493.html",
-    "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-    "published": "2026-11-16T07:58:57.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:superlink2026开启创投行业超级链接时刻 12月北京见",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -1273,7 +1311,7 @@
     "title": "How to make almost anything",
     "link": "https://pub.cba.mit.edu/863.26/site/",
     "published": "2026-11-16T05:50:37Z",
-    "points": 904,
+    "points": 912,
     "comments": 149,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1289,7 +1327,7 @@
     "title": "Qwen4-Max",
     "link": "https://qwen.ai/blog?id=qwen4-max",
     "published": "2026-11-16T02:14:44Z",
-    "points": 872,
+    "points": 877,
     "comments": 483,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1434,8 +1472,8 @@
     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
     "link": "https://bruceroettgers.eu/blog/protomaps/",
     "published": "2026-11-15T19:26:22Z",
-    "points": 463,
-    "comments": 86,
+    "points": 464,
+    "comments": 89,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1450,8 +1488,8 @@
     "title": "All AI-generated code should be Open Source",
     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "published": "2026-11-15T14:46:58Z",
-    "points": 1278,
-    "comments": 668,
+    "points": 1279,
+    "comments": 669,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1498,7 +1536,7 @@
     "title": "Court denies motion to dismiss DRAM price fixing case",
     "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
     "published": "2026-11-15T01:18:36Z",
-    "points": 536,
+    "points": 537,
     "comments": 235,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1672,7 +1710,7 @@
     "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
     "published": "2026-11-13T15:08:44Z",
     "points": 494,
-    "comments": 747,
+    "comments": 749,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1857,38 +1895,6 @@
     "category": "大模型",
     "tags": [
       "LLM"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-    "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-    "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-    "published": "2026-11-12T18:57:45.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:google faces calls for ai moratoriums in schools after gemini pilot backlash",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "诉讼"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Gemini 4 Hydrogen and Orchestrator",
-    "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "published": "2026-11-12T18:52:01Z",
-    "points": 507,
-    "comments": 165,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50472260",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "summaryStatus": "nocache"
   }
