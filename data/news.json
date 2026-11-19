@@ -1,5 +1,438 @@
 [
   {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "published": "2026-11-19T00:42:56.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:microsoft ceo satya nadella explains why he asked 60k employees to quit",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "published": "2026-11-18T23:45:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:amidst fears of ai cyberattacks satya nadella says lots of critical infrastructu",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "published": "2026-11-18T23:25:17.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:elon musk says ousting jensen huang is like kicking michael jordan off your team",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without a",
+    "published": "2026-11-18T23:18:35.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:the nation s largest school districts consider ditching google search",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "published": "2026-11-18T23:17:28.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:microsoft ceo satya nadella remains confident in nvidia after huang s exit",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+    "published": "2026-11-18T22:58:11.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:satya nadella predicts ai agents will reshuffle the economics of the web",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "商业"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+    "published": "2026-11-18T22:11:15.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:anthropic reportedly prices ipo at 83 a share above projected range",
+    "category": "行业动态",
+    "tags": [
+      "IPO",
+      "Anthropic"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+    "published": "2026-11-18T21:57:40.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:nvidia created a weird bit of intrigue by not filing a routine sec report",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "published": "2026-11-18T21:34:13.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:palmer luckey warns ai powered cyberattacks are outpacing defenses it s time to ",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Gemini 4 Neon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "published": "2026-11-18T21:34:07Z",
+    "points": 447,
+    "comments": 423,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50552424",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "published": "2026-11-18T21:31:21.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:palmer luckey thinks china is thrilled to have jensen out so he wants the ousted",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+    "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+    "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previou",
+    "published": "2026-11-18T21:03:23.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:google ships gemini 4 neon its fourth new gemini model in a month",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "视频",
+      "图像",
+      "端侧"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "published": "2026-11-18T20:07:01.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:sam altman says his life is so weird that he s unfazed by andrew garfield portra",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "published": "2026-11-18T19:56:39.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:snapchat now lets developers build ar lenses with ai assistants like claude code",
+    "category": "大模型",
+    "tags": [
+      "开发者",
+      "Claude"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "summary": "",
+    "published": "2026-11-18T19:54:56.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:daisyrose 27b pushing the frontier of post training efficiency",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls ",
+    "published": "2026-11-18T19:40:36.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:trump s latest land grab is an ai hub in the philippines",
+    "category": "政策监管",
+    "tags": [
+      "禁令"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Nvidia’s rise, visualized",
+    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a seri",
+    "published": "2026-11-18T19:30:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:nvidia s rise visualized",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+    "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+    "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix t",
+    "published": "2026-11-18T19:26:25.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:google deepmind s project genie update brings genie 4 chainable worlds and a com",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+    "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+    "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+    "published": "2026-11-18T19:19:33.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:muse privacy invasions are freaking out meta staffers internal chats show",
+    "category": "芯片算力",
+    "tags": [
+      "禁令"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+    "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+    "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for",
+    "published": "2026-11-18T19:07:29.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:tech lawsuits defined 2026 and lawmakers want more",
+    "category": "政策监管",
+    "tags": [
+      "诉讼"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "summary": "",
+    "published": "2026-11-18T18:53:43.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:why your fine tuning job takes longer than the flops say",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+    "link": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+    "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises.",
+    "published": "2026-11-18T18:47:36.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:microsoft is replacing outside ai models in its own products with cheaper in hou",
+    "category": "大模型",
+    "tags": [
+      "安全",
+      "图像",
+      "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "What is Nvidia without AI’s sugar daddy in charge?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+    "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang",
+    "published": "2026-11-18T18:34:15.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:what is nvidia without ai s sugar daddy in charge",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
+    "published": "2026-11-18T18:10:33.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:will wright s next simulation will use ai to mine content from your memories",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "published": "2026-11-18T18:04:05.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:google s ai feature in search gets its own incognito mode",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+    "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+    "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applying AI to chip work to",
+    "published": "2026-11-18T18:00:33.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:openai says its models delivered a year s worth of chip optimization on top of a",
+    "category": "芯片算力",
+    "tags": [
+      "OpenAI",
+      "芯片",
+      "GPU"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+    "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+    "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has r",
+    "published": "2026-11-18T17:50:57.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:disney s new star wars animatronics interact with guests using ai",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "published": "2026-11-18T17:32:10.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:more banks say customers using ai agents are on their own even if they get hacke",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "禁令",
+      "金融"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
     "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
@@ -18,7 +451,7 @@
   {
     "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
     "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-    "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
     "published": "2026-11-18T16:59:00.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
@@ -55,6 +488,22 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:pangram flags 99 percent of an award winning peruvian novel as ai generated but ",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Seven new models at scalable price-performance",
+    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "published": "2026-11-18T16:08:24Z",
+    "points": 451,
+    "comments": 314,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50548021",
     "category": "行业动态",
     "tags": [
       "行业动态"
@@ -237,37 +686,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
-    "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
-    "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because AI agents analyze fa",
-    "published": "2026-11-18T13:55:49.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:kpmg s project exponential put ai agents alongside a real audit team and found t",
-    "category": "智能体",
-    "tags": [
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
-    "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
-    "summary": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia. The article SEC probes Nvidia over undisclosed chip sales tied to China appeared first on The Decoder .",
-    "published": "2026-11-18T13:28:49.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:sec probes nvidia over undisclosed chip sales tied to china",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "The Download: AI learns to smell and hydropower struggles",
     "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,”",
@@ -331,14 +749,14 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+    "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
     "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-    "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
     "published": "2026-11-18T11:30:00.000Z",
     "source": "TechCrunch AI",
     "sourceId": "techcrunch-ai",
     "lang": "en",
-    "id": "techcrunch-ai:india s humyn labs raises 47m to feed u s robotics companies the data they need",
+    "id": "techcrunch-ai:india s humyn labs raises 47m to feed us robotics companies the data they need",
     "category": "应用落地",
     "tags": [
       "机器人",
@@ -363,22 +781,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-    "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
-    "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder .",
-    "published": "2026-11-18T10:22:45.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:suno s new visuals feature pairs ai generated music with ai generated video",
-    "category": "行业动态",
-    "tags": [
-      "视频",
-      "图像"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "This smell startup says its AI nose is as good as a human’s",
     "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
     "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
@@ -394,6 +796,21 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "The Silent Consensus",
+    "link": "https://openai.com/index/the-silent-consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "published": "2026-11-18T10:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:the silent consensus",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
     "link": "https://www.qbitai.com/2026/11/510922.html",
     "summary": "氖人寻味！",
@@ -405,6 +822,56 @@
     "category": "大模型",
     "tags": [
       "Gemini"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "published": "2026-11-18T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:research acceleration the jagged frontier",
+    "category": "智能体",
+    "tags": [
+      "研究",
+      "OpenAI",
+      "编程",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "published": "2026-11-18T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:how sumitomo life s leaders helped teams adopt chatgpt enterprise",
+    "category": "大模型",
+    "tags": [
+      "企业",
+      "GPT",
+      "研究"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Inside the Codex sandbox",
+    "link": "https://openai.com/index/inside-the-codex-sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "published": "2026-11-18T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:inside the codex sandbox",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
     "summaryStatus": "nocache"
   },
@@ -458,8 +925,8 @@
     "title": "AI is killing All About Berlin",
     "link": "https://nicolasbouliane.com/blog/death-by-ai",
     "published": "2026-11-18T06:47:26Z",
-    "points": 684,
-    "comments": 627,
+    "points": 759,
+    "comments": 684,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -467,6 +934,22 @@
     "category": "行业动态",
     "tags": [
       "行业动态"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Managing frontier AI risk: From training to deployment",
+    "link": "https://openai.com/index/managing-frontier-ai-risk",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "published": "2026-11-18T06:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:managing frontier ai risk from training to deployment",
+    "category": "应用落地",
+    "tags": [
+      "安全对齐",
+      "OpenAI"
     ],
     "summaryStatus": "nocache"
   },
@@ -597,8 +1080,8 @@
     "title": "Google's AI answers reducing search traffic by 40%",
     "link": "https://revscope.co/blog/search-seo-geo-2026/",
     "published": "2026-11-18T00:17:58Z",
-    "points": 651,
-    "comments": 498,
+    "points": 689,
+    "comments": 539,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -689,53 +1172,20 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Satya Nadella says he’s AGI-pilled now",
-    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
-    "published": "2026-11-17T23:41:18.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "link": "https://github.com/microsoft/onnxruntime",
+    "published": "2026-11-17T23:18:49Z",
+    "points": 450,
+    "comments": 98,
+    "source": "Hacker News",
+    "sourceId": "hn",
     "lang": "en",
-    "id": "verge-ai:satya nadella says he s agi pilled now",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-    "published": "2026-11-17T23:37:48.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:nvidia is abandoning china after jensen huang s ouster",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "禁令",
-      "芯片"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-    "published": "2026-11-17T23:04:35.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:nvidia says its open source ai strategy remains intact after jensen huang s exit",
-    "aiSummary": "英伟达临时CEO重申开源AI战略，并计划收购Hugging Face。",
+    "id": "hn:50539610",
     "category": "开源",
-    "summaryStatus": "lazy",
     "tags": [
-      "开源",
-      "英伟达"
-    ]
+      "GitHub"
+    ],
+    "summaryStatus": "nocache"
   },
   {
     "title": "External sandboxes for coding agents",
@@ -752,22 +1202,6 @@
     "tags": [
       "编程",
       "Agent"
-    ]
-  },
-  {
-    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-    "published": "2026-11-17T22:42:27.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:nvidia says it doesn t plan to reappoint jensen huang as ceo",
-    "aiSummary": "英伟达称无意重新任命黄仁勋为CEO，其辞职后曾提出回归。",
-    "category": "芯片算力",
-    "summaryStatus": "lazy",
-    "tags": [
-      "英伟达"
     ]
   },
   {
@@ -788,84 +1222,6 @@
     ]
   },
   {
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-    "published": "2026-11-17T22:29:05.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:amazon and google will together own nearly 30 of anthropic after its ipo",
-    "aiSummary": "亚马逊和谷歌将合计持有Anthropic近30%股份，成重要股东。",
-    "category": "行业动态",
-    "summaryStatus": "lazy",
-    "tags": [
-      "Anthropic",
-      "IPO"
-    ]
-  },
-  {
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-    "published": "2026-11-17T21:48:07.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:sec reportedly investigating nvidia amid huang exit",
-    "aiSummary": "美国证交会调查英伟达，因黄仁勋离职并承认与疑似间谍有染。",
-    "category": "芯片算力",
-    "summaryStatus": "lazy",
-    "tags": [
-      "英伟达"
-    ]
-  },
-  {
-    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-    "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-    "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
-    "published": "2026-11-17T21:40:59.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:nvidia s q3 earnings hit the mark without mentioning the whole jensen huang thin",
-    "category": "开源",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google joins the tech outage trend by announcing it’s not having one",
-    "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-    "published": "2026-11-17T21:34:50.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:google joins the tech outage trend by announcing it s not having one",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-    "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO",
-    "published": "2026-11-17T21:00:55.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:not even sam altman is safe from ai deepfakes on instagram",
-    "category": "智能体",
-    "tags": [
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
     "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
     "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
@@ -881,122 +1237,11 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-    "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-    "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improveme",
-    "published": "2026-11-17T20:30:50.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai launches gpt 6 2 astra and sol with lower api prices and some benchmark g",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "基准",
-      "Claude"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "published": "2026-11-17T19:32:11.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:model ml raises 250m to automate investment banking grunt work",
-    "category": "智能体",
-    "tags": [
-      "禁令",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-    "published": "2026-11-17T19:02:20.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:google expands access to gemini tasks which can help with calls purchases",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-    "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-    "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the ",
-    "published": "2026-11-17T18:58:01.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:google s spark ai agent becomes tasks and now it s free",
-    "category": "大模型",
-    "tags": [
-      "Agent",
-      "Gemini"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-    "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-    "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-    "published": "2026-11-17T18:48:23.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:google to keep gemini chats for 2 months up from 72 hours even with history off",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "As decision model use skyrockets, is customization the next frontier?",
-    "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-    "published": "2026-11-17T18:10:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:as decision model use skyrockets is customization the next frontier",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-    "published": "2026-11-17T18:04:16.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:pedestal ai raises 4 7 million to agentify the supply chain",
-    "category": "智能体",
-    "tags": [
-      "Agent",
-      "Agentic"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "GPT‑6.2 Astra and Sol",
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "published": "2026-11-17T17:46:43Z",
-    "points": 1326,
-    "comments": 836,
+    "points": 1337,
+    "comments": 851,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1020,38 +1265,6 @@
     "tags": [
       "GPT",
       "编程"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-    "published": "2026-11-17T17:32:25.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:proton s lumo a privacy focused alternative to chatgpt and claude arrives on des",
-    "category": "大模型",
-    "tags": [
-      "Claude",
-      "GPT"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "published": "2026-11-17T17:20:41.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:ai models can be tricked into identifying civilians as military targets by telli",
-    "category": "智能体",
-    "tags": [
-      "自主",
-      "估值"
     ],
     "summaryStatus": "nocache"
   },
@@ -1097,37 +1310,6 @@
     "category": "开源",
     "tags": [
       "数据集"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "The DOJ says it’s investigating Megaspeed",
-    "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-    "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv",
-    "published": "2026-11-17T16:19:03.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:the doj says it s investigating megaspeed",
-    "category": "芯片算力",
-    "tags": [
-      "数据中心",
-      "英伟达"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-    "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-    "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par",
-    "published": "2026-11-17T16:09:57.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:jensen huang says he s willing to return as nvidia ceo",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
     ],
     "summaryStatus": "nocache"
   },
@@ -1239,21 +1421,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "published": "2026-11-17T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:introducing openai for chile",
-    "category": "应用落地",
-    "tags": [
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "Astra for Law leads in legal intelligence",
     "link": "https://openai.com/index/astra-law-6-2",
     "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
@@ -1268,6 +1435,21 @@
       "企业",
       "估值",
       "GPT"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "published": "2026-11-17T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:introducing openai for chile",
+    "category": "应用落地",
+    "tags": [
+      "OpenAI"
     ],
     "summaryStatus": "nocache"
   },
@@ -1290,8 +1472,8 @@
     "title": "Optimizely compromised, served malware on Zoom, GitLab",
     "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "published": "2026-11-16T23:00:34Z",
-    "points": 693,
-    "comments": 273,
+    "points": 699,
+    "comments": 276,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1477,22 +1659,6 @@
     "summaryStatus": "nocache"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "summary": "",
-    "published": "2026-11-16T06:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:advancing computer use agents for healthcare teams",
-    "category": "智能体",
-    "tags": [
-      "医疗",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
@@ -1510,10 +1676,26 @@
     "summaryStatus": "nocache"
   },
   {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": "",
+    "published": "2026-11-16T06:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:advancing computer use agents for healthcare teams",
+    "category": "智能体",
+    "tags": [
+      "医疗",
+      "Agent"
+    ],
+    "summaryStatus": "nocache"
+  },
+  {
     "title": "How to make almost anything",
     "link": "https://pub.cba.mit.edu/863.26/site/",
     "published": "2026-11-16T05:50:37Z",
-    "points": 915,
+    "points": 916,
     "comments": 149,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1529,8 +1711,8 @@
     "title": "Qwen4-Max",
     "link": "https://qwen.ai/blog?id=qwen4-max",
     "published": "2026-11-16T02:14:44Z",
-    "points": 877,
-    "comments": 487,
+    "points": 879,
+    "comments": 485,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1674,7 +1856,7 @@
     "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
     "link": "https://bruceroettgers.eu/blog/protomaps/",
     "published": "2026-11-15T19:26:22Z",
-    "points": 466,
+    "points": 467,
     "comments": 89,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1691,7 +1873,7 @@
     "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
     "published": "2026-11-15T14:46:58Z",
     "points": 1281,
-    "comments": 670,
+    "comments": 671,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1699,197 +1881,6 @@
     "category": "开源",
     "tags": [
       "开源"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-apps 0.4a0",
-    "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-    "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see",
-    "published": "2026-11-15T04:02:45.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette apps 0 4a0",
-    "category": "大模型",
-    "tags": [
-      "数据集",
-      "Claude"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-agent 0.6a0",
-    "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-    "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-a",
-    "published": "2026-11-15T03:49:47.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette agent 0 6a0",
-    "category": "智能体",
-    "tags": [
-      "数据集",
-      "Agent"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Court denies motion to dismiss DRAM price fixing case",
-    "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "published": "2026-11-15T01:18:36Z",
-    "points": 538,
-    "comments": 235,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50502988",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-llm 0.1a11",
-    "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-    "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseu",
-    "published": "2026-11-14T23:59:28.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette llm 0 1a11",
-    "category": "大模型",
-    "tags": [
-      "数据集",
-      "LLM",
-      "OpenAI"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-    "published": "2026-11-14T22:26:30Z",
-    "points": 451,
-    "comments": 240,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50501631",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达",
-      "GPU"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-vega 0.7",
-    "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-    "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to ",
-    "published": "2026-11-14T17:09:09.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette vega 0 7",
-    "category": "开源",
-    "tags": [
-      "数据集"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Open-source AI without Jensen",
-    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "summary": "A decapitation. It’s time to rebuild.",
-    "published": "2026-11-14T12:23:15.000Z",
-    "source": "Interconnects",
-    "sourceId": "interconnects",
-    "lang": "en",
-    "id": "interconnects:open source ai without jensen",
-    "category": "开源",
-    "tags": [
-      "开源"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "published": "2026-11-14T02:52:59Z",
-    "points": 1113,
-    "comments": 650,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50493251",
-    "category": "芯片算力",
-    "tags": [
-      "融资",
-      "英伟达",
-      "GPU"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-cluster-map 0.19",
-    "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-    "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's ",
-    "published": "2026-11-13T23:02:45.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette cluster map 0 19",
-    "category": "开源",
-    "tags": [
-      "数据集"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "datasette-leaflet 0.3",
-    "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-    "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datas",
-    "published": "2026-11-13T22:30:54.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:datasette leaflet 0 3",
-    "category": "开源",
-    "tags": [
-      "数据集",
-      "政策"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-    "published": "2026-11-13T21:20:47.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:faa expands ai advice to manage air traffic congestion across entire us airspace",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "summaryStatus": "nocache"
-  },
-  {
-    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "summary": "",
-    "published": "2026-11-13T18:00:39.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:build a robot pick and place simulation with simready assets",
-    "category": "行业动态",
-    "tags": [
-      "机器人"
     ],
     "summaryStatus": "nocache"
   }
