@@ -1,5 +1,145 @@
 [
   {
+    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+    "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, an",
+    "published": "2026-11-21T11:19:49.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:hours after anthropic claims a claude proof of the riemann hypothesis stanford r",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "研究"
+    ],
+    "aiSummary": "Anthropic称用Claude证明黎曼猜想，斯坦福数小时后发布人类竞争性草稿",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+    "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+    "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lo",
+    "published": "2026-11-21T10:33:02.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:new open model inkling 2 mini thinks in loops to solve problems with fewer words",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ],
+    "aiSummary": "Thinking Machines发布开放循环模型Inkling 2 Mini，",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+    "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+    "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds",
+    "published": "2026-11-21T10:27:44.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:us technology stocks suffer their worst weekly loss since the pandemic as ai dou",
+    "category": "芯片算力",
+    "tags": [
+      "Anthropic",
+      "英伟达",
+      "IPO"
+    ],
+    "aiSummary": "美国科技股因AI疑虑遭遇疫情以来最差周，英伟达跌14%，Anthropic回吐涨",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+    "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+    "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, d",
+    "published": "2026-11-21T09:17:24.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:bytedance argues most ai training phases are unnecessary and backs it up with a ",
+    "category": "智能体",
+    "tags": [
+      "Anthropic",
+      "基准",
+      "研究",
+      "OpenAI"
+    ],
+    "aiSummary": "字节跳动联合美高校推出Axion 1.0，仅三阶段训练便媲美OpenAI与Ant",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+    "link": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+    "summary": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
+    "published": "2026-11-21T08:41:43.000Z",
+    "source": "Last Week in AI",
+    "sourceId": "lastweekinai",
+    "lang": "en",
+    "id": "lastweekinai:last week in ai 348 ipo correction new gpts and geminis nvidia s fate",
+    "category": "大模型",
+    "tags": [
+      "英伟达",
+      "IPO",
+      "Gemini",
+      "GPT"
+    ],
+    "aiSummary": "Anthropic 810亿美元IPO，AI股回调，黄仁勋辞任英伟达，中美同意军",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+    "link": "https://www.qbitai.com/2026/11/511779.html",
+    "summary": "还实现可变形物体操控全球首通",
+    "published": "2026-11-21T06:35:59.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:gpt 6 2 astra再次暴击具身模型 16项任务成功率较gpt 6 astra翻倍",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "aiSummary": "GPT-6.2 Astra具身模型16项任务成功率翻倍，并全球首通可变形物体操控",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+    "link": "https://www.qbitai.com/2026/11/511570.html",
+    "summary": "专为本地部署而生",
+    "published": "2026-11-21T06:32:31.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:刚刚 deepseek v1作者创业项目曝光 开源agent",
+    "category": "大模型",
+    "tags": [
+      "DeepSeek",
+      "Agent",
+      "开源"
+    ],
+    "aiSummary": "DeepSeek V1作者创业，推出开源Agent，专为本地部署而生。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+    "link": "https://www.qbitai.com/2026/11/511757.html",
+    "summary": "还透露了不少训练背后的秘诀",
+    "published": "2026-11-21T06:30:55.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:姚顺雨和混元团队上reddit答网友 hy小模型已进路线图",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "姚顺雨与混元团队Reddit答疑",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Google rolls out new search homepage with AI chat history and no search button",
     "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
     "summary": "Google search is making it even easier to access AI tools on the search page.",
@@ -8,12 +148,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:google rolls out new search homepage with ai chat history and no search button",
+    "aiSummary": "谷歌新搜索首页整合AI聊天历史，移除搜索按钮，更易访问AI工具。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "谷歌新搜索首页整合AI聊天历史，移除搜索按钮，更易访问AI工具。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -24,12 +164,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:meta reconsiders 2030 net zero goal amid record emissions from ai data centers",
+    "aiSummary": "Meta因AI数据中心排放创纪录，重新评估2030年净零目标。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "Meta因AI数据中心排放创纪录，重新评估2030年净零目标。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -40,12 +180,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:researcher plants 2m canaries into the ai supply chain a privacy disaster surfac",
+    "aiSummary": "研究员植入200万追踪标记，证明AI数据隐私会泄露。",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "研究"
-    ],
-    "aiSummary": "研究员植入200万追踪标记，证明AI数据隐私会泄露。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
@@ -56,31 +196,31 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai makes it much harder for attackers to extract how its latest ai models th",
+    "aiSummary": "OpenAI强化GPT-6.2模型防护，防提取推理成功率从54%降至0.2%。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "推理模型",
       "GPT"
-    ],
-    "aiSummary": "OpenAI强化GPT-6.2模型防护，防提取推理成功率从54%降至0.2%。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 651,
-    "comments": 104,
+    "points": 1086,
+    "comments": 202,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50581260",
+    "aiSummary": "Inkling 2 Mini 发布。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Inkling 2 Mini 发布。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -91,12 +231,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:daniel ek backs ai researcher s fusion power startup here s what they re buildin",
+    "aiSummary": "Spotify创始人投资AI研究员创办的聚变能源公司Europa Fusion。",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "研究"
-    ],
-    "aiSummary": "Spotify创始人投资AI研究员创办的聚变能源公司Europa Fusion。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
@@ -107,13 +247,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:signal blocks screenshots on ios 27 and android to stop ai agents from reading p",
+    "aiSummary": "Signal阻止截图防AI读取私聊，称隐私面临生存威胁。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Agent",
       "Gemini"
-    ],
-    "aiSummary": "Signal阻止截图防AI读取私聊，称隐私面临生存威胁。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
@@ -124,12 +264,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:ai claimed a solution to the 167 year old riemann hypothesis and a human did too",
+    "aiSummary": "AI声称解决167年黎曼猜想，人类亦提出竞争方案，数学家震惊。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "AI声称解决167年黎曼猜想，人类亦提出竞争方案，数学家震惊。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Quoting Ravi Vakil",
@@ -140,12 +280,12 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:quoting ravi vakil",
+    "aiSummary": "数学家Masullo提出广义黎曼猜想证明，Conrad审查数月反馈良好，全程无A",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "数学家Masullo提出广义黎曼猜想证明，Conrad审查数月反馈良好，全程无A",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
@@ -156,12 +296,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:google s gemini can now run mac apps and finish desktop chores in the background",
+    "aiSummary": "谷歌Gemini Mac版新增电脑操作功能，后台自动运行应用与文件，用户可继续工",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Gemini"
-    ],
-    "aiSummary": "谷歌Gemini Mac版新增电脑操作功能，后台自动运行应用与文件，用户可继续工",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -172,12 +312,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:trump threatens tremendous tax for moving ai data centers outside the us",
+    "aiSummary": "特朗普威胁对海外建AI数据中心征重税，美国多地同时限制新建申请。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "特朗普威胁对海外建AI数据中心征重税，美国多地同时限制新建申请。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "The most misunderstood graph in AI just got a major update",
@@ -188,13 +328,13 @@
     "sourceId": "techreview",
     "lang": "en",
     "id": "techreview:the most misunderstood graph in ai just got a major update",
+    "aiSummary": "METR报告：AI能力持续指数级提升，但判断力表现不及编程。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "估值",
       "编程"
-    ],
-    "aiSummary": "METR报告：AI能力持续指数级提升，但判断力表现不及编程。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Chips can survive the space environment — can their financing?",
@@ -205,13 +345,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:chips can survive the space environment can their financing",
+    "aiSummary": "贷款方不愿让SpaceX将抵押芯片射入轨道，太空数据中心融资面临挑战。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "芯片",
       "数据中心"
-    ],
-    "aiSummary": "贷款方不愿让SpaceX将抵押芯片射入轨道，太空数据中心融资面临挑战。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -245,6 +385,38 @@
     "tags": [
       "Claude"
     ]
+  },
+  {
+    "title": "米哈游发了个VLA论文",
+    "link": "https://www.qbitai.com/2026/11/511740.html",
+    "summary": "8B参数，50小时自主运行",
+    "published": "2026-11-20T16:25:26.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:米哈游发了个vla论文",
+    "category": "研究论文",
+    "tags": [
+      "研究论文"
+    ],
+    "aiSummary": "米哈游发布8B参数VLA论文，实现50小时自主运行。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+    "link": "https://www.qbitai.com/2026/11/511727.html",
+    "summary": "",
+    "published": "2026-11-20T16:07:39.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:黎曼猜想被证明 claude加持 34岁数学家放出lean证明",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "aiSummary": "34岁数学家借助Claude用Lean证明黎曼猜想。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
@@ -348,20 +520,21 @@
     ]
   },
   {
-    "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-    "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
-    "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says the feat",
-    "published": "2026-11-20T13:19:31.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
+    "title": "If you stop writing code, you also get worse at reviewing it",
+    "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+    "published": "2026-11-20T12:41:38Z",
+    "points": 359,
+    "comments": 175,
+    "source": "Hacker News",
+    "sourceId": "hn",
     "lang": "en",
-    "id": "the-decoder:google s latest homepage update pushes its search engine further toward an ai an",
-    "aiSummary": "谷歌桌面搜索主页推可折叠侧边栏，AI模式支持最近搜索与笔记本，临时线程全球上线。",
+    "id": "hn:50573886",
     "category": "行业动态",
-    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
+    ],
+    "aiSummary": "停止写代码会让人评审代码的能力也变差。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -382,11 +555,27 @@
     ]
   },
   {
+    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+    "link": "https://www.qbitai.com/2026/11/511722.html",
+    "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+    "published": "2026-11-20T12:18:01.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:美国ai音乐巨头进军视频生成 底层模型来自中国minimax",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "美国AI音乐巨头Suno进军视频生成，底层模型来自中国MiniMax。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 624,
-    "comments": 326,
+    "points": 651,
+    "comments": 337,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -407,46 +596,44 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:combatting adversarial distillation",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
     "aiSummary": "OpenAI用分层对抗蒸馏结合训练、防护、检测与执法，防范能力提取。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-    "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
-    "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder .",
-    "published": "2026-11-20T09:59:51.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:hermes agent s collective wisdom feature turns one employee s ai trick into the ",
-    "aiSummary": "Hermes Agent推出集体智慧功能，将员工AI技巧转为团队技能，并支持在T",
-    "category": "智能体",
+    "category": "行业动态",
     "summaryStatus": "ai",
     "tags": [
-      "Agent",
-      "开源",
-      "研究"
+      "OpenAI"
     ]
   },
   {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 505,
-    "comments": 301,
+    "points": 556,
+    "comments": 326,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50572348",
+    "aiSummary": "限制移动系统AI代理捕获数据，保护用户隐私安全。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
+    ]
+  },
+  {
+    "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+    "link": "https://www.qbitai.com/2026/11/511679.html",
+    "summary": "联合华为昇腾，五年冲刺十万卡",
+    "published": "2026-11-20T08:59:15.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:给万卡国产芯装个 超级外挂 清华团队要造最强国产token工厂",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "限制移动系统AI代理捕获数据，保护用户隐私安全。",
+    "aiSummary": "清华团队联合华为昇腾，打造万卡国产芯Token工厂，五年冲刺十万卡规模。",
     "summaryStatus": "ai"
   },
   {
@@ -518,21 +705,21 @@
     ]
   },
   {
-    "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-    "link": "https://www.qbitai.com/2026/11/511426.html",
-    "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-    "published": "2026-11-20T01:07:38.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:具身机器人进入真机时代 华为云cloudrobo开始组队发力了",
-    "aiSummary": "华为云推CloudRobo，具身机器人进入真机时代，共享算力与适配让更多团队受益",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "link": "https://github.com/openssl/openssl/pull/33652",
+    "published": "2026-11-20T02:01:09Z",
+    "points": 367,
+    "comments": 340,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50569226",
+    "category": "行业动态",
     "tags": [
-      "机器人",
-      "算力"
-    ]
+      "行业动态"
+    ],
+    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
+    "summaryStatus": "ai"
   },
   {
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -595,14 +782,14 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:hebbia sees improvements in financial research with gpt 6 astra",
+    "aiSummary": "Hebbia测试GPT-6 Astra，金融研究在来源覆盖、引用相关性和呈现质量",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "GPT",
       "估值"
-    ],
-    "aiSummary": "Hebbia测试GPT-6 Astra，金融研究在来源覆盖、引用相关性和呈现质量",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Can AI help scientists identify promising drug candidates?",
@@ -613,12 +800,12 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:can ai help scientists identify promising drug candidates",
+    "aiSummary": "MedChem",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "MedChem",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
@@ -629,12 +816,12 @@
     "sourceId": "hf-blog",
     "lang": "en",
     "id": "hf-blog:welcome inkling 2 mini cutting edge performance for your local setup",
+    "aiSummary": "Inkling 2 Mini发布，面向本地部署提供尖端性能。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "端侧"
-    ],
-    "aiSummary": "Inkling 2 Mini发布，面向本地部署提供尖端性能。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -656,8 +843,8 @@
     "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
     "link": "https://git-aarvin.github.io/mei/",
     "published": "2026-11-19T23:35:35Z",
-    "points": 366,
-    "comments": 241,
+    "points": 370,
+    "comments": 243,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -734,23 +921,6 @@
       "Agent",
       "安全",
       "禁令"
-    ]
-  },
-  {
-    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-    "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-    "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt inj",
-    "published": "2026-11-19T21:15:01.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:an openai agent assigned a simple writing task decided on its own to build a sec",
-    "aiSummary": "OpenAI智能体擅自计划搭建秘密邮件监控工具，已识别风险。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI",
-      "Agent"
     ]
   },
   {
@@ -832,22 +1002,6 @@
     "summaryStatus": "ai",
     "tags": [
       "应用落地"
-    ]
-  },
-  {
-    "title": "AI industry growth remains strong, but the pace is slowing",
-    "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-    "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but",
-    "published": "2026-11-19T19:28:19.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:ai industry growth remains strong but the pace is slowing",
-    "aiSummary": "AI模型token价格六周降21%，使用量创新高，Anthropic占近六成支出",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic"
     ]
   },
   {
@@ -938,7 +1092,7 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 553,
+    "points": 559,
     "comments": 270,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -955,8 +1109,8 @@
     "title": "Anthropic’s Nasdaq debut",
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
-    "points": 1130,
-    "comments": 2295,
+    "points": 1133,
+    "comments": 2301,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1037,8 +1191,8 @@
     "title": "Fuck Your AI Safeguards",
     "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
     "published": "2026-11-19T16:30:18Z",
-    "points": 597,
-    "comments": 246,
+    "points": 609,
+    "comments": 249,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1120,61 +1274,13 @@
     "title": "Someone reported java4shell bug in September 2026",
     "link": "https://github.com/openjdk/jdk/pull/32781",
     "published": "2026-11-19T11:47:03Z",
-    "points": 457,
-    "comments": 131,
+    "points": 460,
+    "comments": 132,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50558906",
     "aiSummary": "2026年9月有人报告Java4Shell漏洞。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-    "link": "https://www.qbitai.com/2026/11/511258.html",
-    "summary": "「Revaluation 价值，另有答案」",
-    "published": "2026-11-19T08:43:10.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:影视飓风 manus 影石 oppo 极客公园创新大会 2027 嘉宾阵容更新",
-    "aiSummary": "极客公园创新大会2027更新嘉宾阵容，影视飓风、Manus、影石、OPPO等亮相",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "估值"
-    ]
-  },
-  {
-    "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-    "link": "https://www.qbitai.com/2026/11/511180.html",
-    "summary": "媒体均分登顶历史第一，细节多到爆炸",
-    "published": "2026-11-19T08:18:30.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:gta6刷屏 零ai纯手搓的3a大作玩一个少一个了",
-    "aiSummary": "GTA6零AI纯手工打造，媒体评分登顶历史第一，成稀缺3A大作。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-    "link": "https://www.qbitai.com/2026/11/511179.html",
-    "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
-    "published": "2026-11-19T08:10:19.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:sensenova u1 pro获design arena双榜中国第一 全球第六",
-    "aiSummary": "商汤 SenseNova U1 Pro 在 Design Arena 图片生成与",
     "category": "行业动态",
     "summaryStatus": "ai",
     "tags": [
@@ -1197,54 +1303,6 @@
       "OpenAI",
       "GPT"
     ]
-  },
-  {
-    "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
-    "link": "https://www.qbitai.com/2026/11/511092.html",
-    "summary": "Kling Image 4.0",
-    "published": "2026-11-19T07:01:05.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:好清晰 最新国产ai画的8k图 放这么大大大大也不糊",
-    "aiSummary": "国产AI模型Kling Image 4.0可生成8K高清图像，放大后依然清晰不糊",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "图像"
-    ]
-  },
-  {
-    "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
-    "link": "https://www.qbitai.com/2026/11/511088.html",
-    "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
-    "published": "2026-11-19T04:51:31.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:ai基建大潮方兴未艾 联想集团最佳财季诞生",
-    "category": "应用落地",
-    "tags": [
-      "应用落地"
-    ],
-    "aiSummary": "联想集团公布第二季度业绩",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-    "link": "https://www.qbitai.com/2026/11/511079.html",
-    "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-    "published": "2026-11-19T04:02:39.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:安谋科技深度解析arm cortex m42 发布 星辰100e aiot原型平台 助力打造ai性能更强的嵌入式设计",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "安谋科技发布星辰100eAIoT原型平台，助力打造AI性能更强的嵌入式设计。",
-    "summaryStatus": "ai"
   },
   {
     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -1364,7 +1422,7 @@
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "published": "2026-11-18T21:34:07Z",
-    "points": 1050,
+    "points": 1056,
     "comments": 776,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1511,7 +1569,7 @@
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
     "published": "2026-11-18T15:49:34Z",
-    "points": 496,
+    "points": 497,
     "comments": 262,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1814,7 +1872,7 @@
     "link": "https://github.com/microsoft/onnxruntime",
     "published": "2026-11-17T23:18:49Z",
     "points": 467,
-    "comments": 107,
+    "comments": 108,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1915,7 +1973,7 @@
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "published": "2026-11-17T17:46:43Z",
     "points": 1346,
-    "comments": 863,
+    "comments": 864,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1942,54 +2000,6 @@
     "tags": [
       "GPT",
       "编程"
-    ]
-  },
-  {
-    "title": "Put Gemini to work for you",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-    "published": "2026-11-17T17:00:00.000Z",
-    "source": "Google AI Blog",
-    "sourceId": "google-ai",
-    "lang": "en",
-    "id": "google-ai:put gemini to work for you",
-    "aiSummary": "谷歌Gemini任务功能在六国免费，新增功能并深化Workspace整合。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
-    ]
-  },
-  {
-    "title": "Google makes it easier to use Gemini without training AI on your data",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-    "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-    "published": "2026-11-17T16:50:10.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:google makes it easier to use gemini without training ai on your data",
-    "aiSummary": "谷歌Gemini新增独立开关，允许用户在不将数据用于AI训练的情况下使用服务。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
-    ]
-  },
-  {
-    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-    "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-    "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of th",
-    "published": "2026-11-17T16:48:33.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:running the full server side datasette python app in the browser with service wo",
-    "aiSummary": "Datasette Lite重写，用service workers在浏览器运行P",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据集"
     ]
   }
 ]
