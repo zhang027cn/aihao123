@@ -1,5 +1,189 @@
 [
   {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "published": "2026-11-21T21:37:10.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:signal restricts mobile screenshots as it confronts existential threat of ai sur",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "Signal限制移动端截图功能，应对AI监控带来的生存威胁。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "published": "2026-11-21T21:07:42.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:a tale of two nvidias",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达"
+    ],
+    "aiSummary": "英伟达财报亮眼，但科技高管却呼吁黄仁勋回归，呈现两种\n    \n    \n不同图",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat",
+    "published": "2026-11-21T20:03:37.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:the un fails to agree on rules regulating killer robots",
+    "category": "智能体",
+    "tags": [
+      "机器人",
+      "自主"
+    ],
+    "aiSummary": "联合国日内瓦会议未就自主武器（致命机器人）监管规则达成一致，各方仅同意开始讨论方",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published": "2026-11-21T17:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:here are the top ai agents that can live in your text messages",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "aiSummary": "媒体盘点可嵌入短信的AI智能体，涵盖通用助手、家庭、旅行及办公场景。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Nvidia researchers argue huge AI context windows are a dead end",
+    "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+    "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even ",
+    "published": "2026-11-21T16:23:45.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:nvidia researchers argue huge ai context windows are a dead end",
+    "category": "芯片算力",
+    "tags": [
+      "研究",
+      "英伟达"
+    ],
+    "aiSummary": "英伟达研究人员认为超大上下文窗口是死胡同，提出用周期摘要和关键词检索替代全量上下",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+    "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+    "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former members report manipul",
+    "published": "2026-11-21T16:04:29.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:silicon valley s growing obsession with ai doomsday is turning parts of the tech",
+    "category": "应用落地",
+    "tags": [
+      "应用落地"
+    ],
+    "aiSummary": "佛蒙特州Maple佛教寺院欲成硅谷精神权威并训练AI“神”，引发科技界末日崇拜担",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "published": "2026-11-21T16:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:is selling an ai version of your face to this microdrama startup the future of h",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "空响应（第 6 次）"
+  },
+  {
+    "title": "Can Anthropic afford to put safety first?",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
+    "published": "2026-11-21T15:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:can anthropic afford to put safety first",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "安全对齐",
+      "Claude",
+      "IPO"
+    ],
+    "aiSummary": "Anthropic（Claude 研发方）上周四登陆纳斯达克上市，融资规模巨大。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Lean verification of the Riemann Hypothesis",
+    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "published": "2026-11-21T14:36:45Z",
+    "points": 658,
+    "comments": 530,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50589618",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "研究团队尝试用 Lean 形式化语言验证黎曼假设，推动数学证明可被机器核验。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of ",
+    "published": "2026-11-21T14:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:chess com s next move is a new hub for classic games from mahjong to sudoku",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "Chess.com拓展业务，新增麻将、数独、围棋等10款经典棋类游戏。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+    "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+    "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content a",
+    "published": "2026-11-21T13:32:35.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:openai shares new prompting tips for gpt 6 2 astra and sol to fix brief answers ",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "编程"
+    ],
+    "aiSummary": "OpenAI发布GPT-6.2新提示模板，修复回答过短和多余提问等问题。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
     "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
     "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, an",
@@ -8,14 +192,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:hours after anthropic claims a claude proof of the riemann hypothesis stanford r",
+    "aiSummary": "Anthropic称用Claude证明黎曼猜想，斯坦福数小时后发布人类竞争性草稿",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "Claude",
       "研究"
-    ],
-    "aiSummary": "Anthropic称用Claude证明黎曼猜想，斯坦福数小时后发布人类竞争性草稿",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
@@ -26,12 +210,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:new open model inkling 2 mini thinks in loops to solve problems with fewer words",
+    "aiSummary": "Thinking Machines发布开放循环模型Inkling 2 Mini，",
     "category": "开源",
+    "summaryStatus": "ai",
     "tags": [
       "开源"
-    ],
-    "aiSummary": "Thinking Machines发布开放循环模型Inkling 2 Mini，",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
@@ -42,14 +226,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:us technology stocks suffer their worst weekly loss since the pandemic as ai dou",
+    "aiSummary": "美国科技股因AI疑虑遭遇疫情以来最差周，英伟达跌14%，Anthropic回吐涨",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "英伟达",
       "IPO"
-    ],
-    "aiSummary": "美国科技股因AI疑虑遭遇疫情以来最差周，英伟达跌14%，Anthropic回吐涨",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
@@ -60,15 +244,15 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:bytedance argues most ai training phases are unnecessary and backs it up with a ",
+    "aiSummary": "字节跳动联合美高校推出Axion 1.0，仅三阶段训练便媲美OpenAI与Ant",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "基准",
       "研究",
       "OpenAI"
-    ],
-    "aiSummary": "字节跳动联合美高校推出Axion 1.0，仅三阶段训练便媲美OpenAI与Ant",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
@@ -79,15 +263,15 @@
     "sourceId": "lastweekinai",
     "lang": "en",
     "id": "lastweekinai:last week in ai 348 ipo correction new gpts and geminis nvidia s fate",
+    "aiSummary": "Anthropic 810亿美元IPO，AI股回调，黄仁勋辞任英伟达，中美同意军",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达",
       "IPO",
       "Gemini",
       "GPT"
-    ],
-    "aiSummary": "Anthropic 810亿美元IPO，AI股回调，黄仁勋辞任英伟达，中美同意军",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -98,12 +282,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:gpt 6 2 astra再次暴击具身模型 16项任务成功率较gpt 6 astra翻倍",
+    "aiSummary": "GPT-6.2 Astra具身模型16项任务成功率翻倍，并全球首通可变形物体操控",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "GPT"
-    ],
-    "aiSummary": "GPT-6.2 Astra具身模型16项任务成功率翻倍，并全球首通可变形物体操控",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
@@ -114,14 +298,14 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:刚刚 deepseek v1作者创业项目曝光 开源agent",
+    "aiSummary": "DeepSeek V1作者创业，推出开源Agent，专为本地部署而生。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "DeepSeek",
       "Agent",
       "开源"
-    ],
-    "aiSummary": "DeepSeek V1作者创业，推出开源Agent，专为本地部署而生。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -132,11 +316,28 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:姚顺雨和混元团队上reddit答网友 hy小模型已进路线图",
+    "aiSummary": "姚顺雨与混元团队Reddit答疑",
+    "category": "行业动态",
+    "summaryStatus": "ai",
+    "tags": [
+      "行业动态"
+    ]
+  },
+  {
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "link": "https://news.ycombinator.com/item?id=50583761",
+    "published": "2026-11-20T23:18:32Z",
+    "points": 546,
+    "comments": 611,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50583761",
     "category": "行业动态",
     "tags": [
       "行业动态"
     ],
-    "aiSummary": "姚顺雨与混元团队Reddit答疑",
+    "aiSummary": "美国15年经验者失业两年，在Hacker News发帖求助职业建议。",
     "summaryStatus": "ai"
   },
   {
@@ -209,8 +410,8 @@
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1086,
-    "comments": 202,
+    "points": 1324,
+    "comments": 273,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -395,12 +596,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:米哈游发了个vla论文",
+    "aiSummary": "米哈游发布8B参数VLA论文，实现50小时自主运行。",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "研究论文"
-    ],
-    "aiSummary": "米哈游发布8B参数VLA论文，实现50小时自主运行。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
@@ -411,45 +612,11 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:黎曼猜想被证明 claude加持 34岁数学家放出lean证明",
+    "aiSummary": "34岁数学家借助Claude用Lean证明黎曼猜想。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Claude"
-    ],
-    "aiSummary": "34岁数学家借助Claude用Lean证明黎曼猜想。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-    "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-    "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns th",
-    "published": "2026-11-20T15:56:03.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:bloomberg analysis of 10 million job postings shows ai exposed roles in china fe",
-    "aiSummary": "彭博分析千万招聘信息：中国AI相关岗位降幅比其他岗位快10个百分点。",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "应用落地"
-    ]
-  },
-  {
-    "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-    "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-    "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The De",
-    "published": "2026-11-20T15:03:25.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:apple joins the race for ai agents that control your device while raising new ba",
-    "aiSummary": "苹果加入AI智能体竞赛，同时抬高竞争对手进入其设备的门槛。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "Anthropic",
-      "OpenAI"
     ]
   },
   {
@@ -468,23 +635,6 @@
       "英伟达",
       "医疗",
       "芯片"
-    ]
-  },
-  {
-    "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-    "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-    "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would b",
-    "published": "2026-11-20T14:53:50.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:nvidia bets at least 500 million on inception s diffusion models to strengthen i",
-    "aiSummary": "英伟达拟5亿美元收购扩散模型初创公司Inception，强化开源Nemotron",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "英伟达",
-      "开源"
     ]
   },
   {
@@ -520,20 +670,20 @@
     ]
   },
   {
-    "title": "If you stop writing code, you also get worse at reviewing it",
-    "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-    "published": "2026-11-20T12:41:38Z",
-    "points": 359,
-    "comments": 175,
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "published": "2026-11-20T13:29:59Z",
+    "points": 483,
+    "comments": 843,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
-    "id": "hn:50573886",
+    "id": "hn:50574383",
     "category": "行业动态",
     "tags": [
-      "行业动态"
+      "Anthropic"
     ],
-    "aiSummary": "停止写代码会让人评审代码的能力也变差。",
+    "aiSummary": "纳斯达克因AI板块抛售抹去2026年全部涨幅，Anthropic上市次日表现受挫",
     "summaryStatus": "ai"
   },
   {
@@ -563,19 +713,19 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:美国ai音乐巨头进军视频生成 底层模型来自中国minimax",
+    "aiSummary": "美国AI音乐巨头Suno进军视频生成，底层模型来自中国MiniMax。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "美国AI音乐巨头Suno进军视频生成，底层模型来自中国MiniMax。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 651,
-    "comments": 337,
+    "points": 666,
+    "comments": 351,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -607,8 +757,8 @@
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 556,
-    "comments": 326,
+    "points": 569,
+    "comments": 333,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -629,12 +779,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:给万卡国产芯装个 超级外挂 清华团队要造最强国产token工厂",
+    "aiSummary": "清华团队联合华为昇腾，打造万卡国产芯Token工厂，五年冲刺十万卡规模。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "清华团队联合华为昇腾，打造万卡国产芯Token工厂，五年冲刺十万卡规模。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -688,6 +838,25 @@
     ]
   },
   {
+    "title": "llm-gemini 0.38.1",
+    "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+    "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hy",
+    "published": "2026-11-20T03:01:57.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:llm gemini 0 38 1",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "LLM",
+      "推理模型"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "llm-gemini 0.38.1 修复插件，支持 Gemini 4 Hydro"
+  },
+  {
     "title": "Token fraud is here and it’s BAD (YouTube)",
     "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
     "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying ",
@@ -703,23 +872,6 @@
       "GPT-4",
       "GPT"
     ]
-  },
-  {
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "link": "https://github.com/openssl/openssl/pull/33652",
-    "published": "2026-11-20T02:01:09Z",
-    "points": 367,
-    "comments": 340,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50569226",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
-    "summaryStatus": "ai"
   },
   {
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -837,23 +989,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "link": "https://git-aarvin.github.io/mei/",
-    "published": "2026-11-19T23:35:35Z",
-    "points": 370,
-    "comments": 243,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50568130",
-    "aiSummary": "谷歌Gemini 4 Neon登顶Models Engineering Inde",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
     ]
   },
   {
@@ -989,22 +1124,6 @@
     ]
   },
   {
-    "title": "Google is putting AI chats right on the homepage",
-    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
-    "published": "2026-11-19T20:05:06.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:google is putting ai chats right on the homepage",
-    "aiSummary": "谷歌首页新增AI聊天侧边栏，用户可随时查看和继续对话。",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "应用落地"
-    ]
-  },
-  {
     "title": "Anthropic’s IPO could deliver $156B to charity",
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
@@ -1019,22 +1138,6 @@
     "tags": [
       "Anthropic",
       "IPO"
-    ]
-  },
-  {
-    "title": "Gemini on Mac can now use your computer",
-    "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and",
-    "published": "2026-11-19T18:21:13.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:gemini on mac can now use your computer",
-    "aiSummary": "谷歌Gemini macOS版新增电脑控制，可跨本地文件、应用和网页完成多步任务",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
     ]
   },
   {
@@ -1092,8 +1195,8 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 559,
-    "comments": 270,
+    "points": 566,
+    "comments": 273,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1109,8 +1212,8 @@
     "title": "Anthropic’s Nasdaq debut",
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
-    "points": 1133,
-    "comments": 2301,
+    "points": 1139,
+    "comments": 2318,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1172,26 +1275,10 @@
     ]
   },
   {
-    "title": "Anthropic starts trading on Wall Street",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-    "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its ",
-    "published": "2026-11-19T16:52:01.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:anthropic starts trading on wall street",
-    "aiSummary": "Anthropic登陆纳斯达克，开盘价111.5美元，估值约1.5万亿美元。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic"
-    ]
-  },
-  {
     "title": "Fuck Your AI Safeguards",
     "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
     "published": "2026-11-19T16:30:18Z",
-    "points": 609,
+    "points": 616,
     "comments": 249,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1222,39 +1309,6 @@
     ]
   },
   {
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "published": "2026-11-19T14:54:39.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:anthropic s ipo puts ai s circular financing boom to the test",
-    "aiSummary": "Anthropic上市面临巨额算力承诺，亚马逊谷歌等伙伴仍可获利。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "IPO"
-    ]
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "published": "2026-11-19T14:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:superhuman pushes its go assistant everywhere",
-    "aiSummary": "Superhuman将Go助手扩展至Docs和Mail，并设为核心代理。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
-    ]
-  },
-  {
     "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
     "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid",
@@ -1275,7 +1329,7 @@
     "link": "https://github.com/openjdk/jdk/pull/32781",
     "published": "2026-11-19T11:47:03Z",
     "points": 460,
-    "comments": 132,
+    "comments": 133,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1302,22 +1356,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ]
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-    "published": "2026-11-19T00:42:56.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:microsoft ceo satya nadella explains why he asked 60k employees to quit",
-    "aiSummary": "微软CEO纳德拉称，10月向6万员工提供买断离职，与AI转型相关。",
-    "category": "行业动态",
-    "summaryStatus": "lazy",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -1403,27 +1441,11 @@
     ]
   },
   {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "published": "2026-11-18T23:45:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:amidst fears of ai cyberattacks satya nadella says lots of critical infrastructu",
-    "aiSummary": "微软CEO纳德拉称许多关键基础设施“无法修补”，AI带来安全新挑战。",
-    "category": "行业动态",
-    "summaryStatus": "lazy",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "published": "2026-11-18T21:34:07Z",
-    "points": 1056,
-    "comments": 776,
+    "points": 1058,
+    "comments": 775,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1536,7 +1558,7 @@
     "title": "Seven new models at scalable price-performance",
     "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
     "published": "2026-11-18T16:08:24Z",
-    "points": 602,
+    "points": 603,
     "comments": 377,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1569,7 +1591,7 @@
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
     "published": "2026-11-18T15:49:34Z",
-    "points": 497,
+    "points": 499,
     "comments": 262,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1736,8 +1758,8 @@
     "title": "AI is killing All About Berlin",
     "link": "https://nicolasbouliane.com/blog/death-by-ai",
     "published": "2026-11-18T06:47:26Z",
-    "points": 813,
-    "comments": 712,
+    "points": 815,
+    "comments": 713,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1787,7 +1809,7 @@
     "title": "Google's AI answers reducing search traffic by 40%",
     "link": "https://revscope.co/blog/search-seo-geo-2026/",
     "published": "2026-11-18T00:17:58Z",
-    "points": 710,
+    "points": 712,
     "comments": 565,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1871,7 +1893,7 @@
     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
     "link": "https://github.com/microsoft/onnxruntime",
     "published": "2026-11-17T23:18:49Z",
-    "points": 467,
+    "points": 468,
     "comments": 108,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1935,23 +1957,6 @@
     ]
   },
   {
-    "title": "jQuery 4.1.0",
-    "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "published": "2026-11-17T19:50:40Z",
-    "points": 379,
-    "comments": 204,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50537156",
-    "aiSummary": "jQuery 4.1.0版本发布。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "MAI Code 2 and Code 2 Flash",
     "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
     "published": "2026-11-17T18:25:13Z",
@@ -1972,8 +1977,8 @@
     "title": "GPT‑6.2 Astra and Sol",
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "published": "2026-11-17T17:46:43Z",
-    "points": 1346,
-    "comments": 864,
+    "points": 1347,
+    "comments": 863,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",

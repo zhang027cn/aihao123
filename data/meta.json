@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-11-21T12:38:19.806Z",
+  "generatedAt": "2026-11-21T21:38:33.010Z",
   "datasets": {
     "news": {
       "openai": {
         "ok": true,
-        "at": "2026-11-21T12:38:20.004Z",
-        "items": 90
+        "at": "2026-11-21T21:38:33.297Z",
+        "items": 89
       },
       "hf-blog": {
         "ok": true,
-        "at": "2026-11-21T12:38:20.165Z",
-        "items": 29
+        "at": "2026-11-21T21:38:33.395Z",
+        "items": 28
       },
       "google-ai": {
         "ok": true,
-        "at": "2026-11-21T12:38:20.448Z",
+        "at": "2026-11-21T21:38:33.604Z",
         "items": 14
       },
       "techcrunch-ai": {
         "ok": true,
-        "at": "2026-11-21T12:38:20.535Z",
+        "at": "2026-11-21T21:38:33.674Z",
         "items": 20
       },
       "verge-ai": {
         "ok": true,
-        "at": "2026-11-21T12:38:20.724Z",
+        "at": "2026-11-21T21:38:33.827Z",
         "items": 10
       },
       "ars-ai": {
         "ok": true,
-        "at": "2026-11-21T12:38:21.062Z",
+        "at": "2026-11-21T21:38:34.044Z",
         "items": 20
       },
       "techreview": {
         "ok": true,
-        "at": "2026-11-21T12:38:21.188Z",
+        "at": "2026-11-21T21:38:34.110Z",
         "items": 5
       },
       "simonwillison": {
         "ok": true,
-        "at": "2026-11-21T12:38:21.263Z",
+        "at": "2026-11-21T21:38:34.222Z",
         "items": 30
       },
       "the-decoder": {
         "ok": true,
-        "at": "2026-11-21T12:38:22.862Z",
+        "at": "2026-11-21T21:38:35.390Z",
         "items": 10
       },
       "importai": {
         "ok": true,
-        "at": "2026-11-21T12:38:22.921Z",
+        "at": "2026-11-21T21:38:35.449Z",
         "items": 0
       },
       "lastweekinai": {
         "ok": true,
-        "at": "2026-11-21T12:38:23.102Z",
+        "at": "2026-11-21T21:38:35.545Z",
         "items": 2
       },
       "interconnects": {
         "ok": true,
-        "at": "2026-11-21T12:38:23.251Z",
+        "at": "2026-11-21T21:38:35.715Z",
         "items": 4
       },
       "qbitai": {
         "ok": true,
-        "at": "2026-11-21T12:38:24.976Z",
+        "at": "2026-11-21T21:38:38.019Z",
         "items": 10
       },
       "36kr": {
         "ok": true,
-        "at": "2026-11-21T12:38:25.885Z",
+        "at": "2026-11-21T21:38:38.928Z",
         "items": 0
       },
       "sspai": {
         "ok": true,
-        "at": "2026-11-21T12:38:27.247Z",
+        "at": "2026-11-21T21:38:40.399Z",
         "items": 1
       },
       "hn": {
         "ok": true,
-        "at": "2026-11-21T12:38:29.098Z",
+        "at": "2026-11-21T21:38:42.034Z",
         "items": 30
       },
       "_aiRestored": 106,
       "_enrich": {
         "ok": true,
-        "at": "2026-11-21T12:38:30.328Z",
+        "at": "2026-11-21T21:38:43.012Z",
         "source": "server-lazy",
         "items": 17,
         "merged": 0
       },
       "_ai": {
-        "cacheHit": 107,
-        "generated": 11,
-        "failed": 0,
-        "withAi": 120,
-        "aiRate": 100,
+        "cacheHit": 104,
+        "generated": 12,
+        "failed": 2,
+        "withAi": 118,
+        "aiRate": 98,
         "key": true
       },
       "_total": 120
@@ -103,62 +103,62 @@
     "rankings": {
       "gh:llm": {
         "ok": true,
-        "at": "2026-11-21T12:39:34.751Z",
+        "at": "2026-11-21T21:41:07.439Z",
         "items": 15
       },
       "gh:mcp": {
         "ok": true,
-        "at": "2026-11-21T12:39:35.362Z",
+        "at": "2026-11-21T21:41:07.954Z",
         "items": 15
       },
       "gh:skills": {
         "ok": true,
-        "at": "2026-11-21T12:39:35.935Z",
+        "at": "2026-11-21T21:41:08.495Z",
         "items": 15
       },
       "gh:agents": {
         "ok": true,
-        "at": "2026-11-21T12:39:36.522Z",
+        "at": "2026-11-21T21:41:09.031Z",
         "items": 15
       },
       "gh:rag": {
         "ok": true,
-        "at": "2026-11-21T12:39:37.008Z",
+        "at": "2026-11-21T21:41:09.570Z",
         "items": 15
       },
       "hf-models": {
         "ok": true,
-        "at": "2026-11-21T12:39:37.129Z",
+        "at": "2026-11-21T21:41:09.632Z",
         "items": 20
       },
       "hf-spaces": {
         "ok": true,
-        "at": "2026-11-21T12:39:37.177Z",
+        "at": "2026-11-21T21:41:09.649Z",
         "items": 20
       },
       "hn": {
         "ok": true,
-        "at": "2026-11-21T12:39:38.464Z",
+        "at": "2026-11-21T21:41:10.716Z",
         "items": 20
       },
       "featured:cn-models": {
         "ok": true,
-        "at": "2026-11-21T12:39:43.107Z",
+        "at": "2026-11-21T21:41:15.540Z",
         "items": 11
       },
       "featured:hot-topics": {
         "ok": true,
-        "at": "2026-11-21T12:39:43.108Z",
+        "at": "2026-11-21T21:41:15.540Z",
         "items": 15
       },
       "featured:new-rising": {
         "ok": true,
-        "at": "2026-11-21T12:39:43.698Z",
+        "at": "2026-11-21T21:41:16.064Z",
         "items": 15
       },
       "featured:agents": {
         "ok": true,
-        "at": "2026-11-21T12:40:00.863Z",
+        "at": "2026-11-21T21:41:32.195Z",
         "items": 13
       },
       "_total": 119
@@ -166,12 +166,12 @@
     "mcp": {
       "gh:mcp-repos": {
         "ok": true,
-        "at": "2026-11-21T12:40:01.684Z",
+        "at": "2026-11-21T21:41:32.947Z",
         "items": 20
       },
       "official-registry": {
         "ok": true,
-        "at": "2026-11-21T12:40:01.913Z",
+        "at": "2026-11-21T21:41:33.225Z",
         "items": 200
       },
       "_total": 60
@@ -179,17 +179,17 @@
     "skills": {
       "anthropics-official": {
         "ok": true,
-        "at": "2026-11-21T12:40:02.503Z",
+        "at": "2026-11-21T21:41:33.673Z",
         "items": 20
       },
       "gh:skills-repos": {
         "ok": true,
-        "at": "2026-11-21T12:40:03.244Z",
+        "at": "2026-11-21T21:41:34.450Z",
         "items": 27
       },
       "gh:agent-skills-repos": {
         "ok": true,
-        "at": "2026-11-21T12:40:03.811Z",
+        "at": "2026-11-21T21:41:34.935Z",
         "items": 13
       },
       "_total": 56
@@ -199,15 +199,15 @@
   "summarize": {
     "key": true,
     "total": 120,
-    "cacheHit": 118,
-    "seeded": 2,
-    "generated": 0,
-    "failed": 0,
-    "todo": 0,
-    "withAi": 120,
-    "aiRate": 100,
+    "cacheHit": 115,
+    "seeded": 3,
+    "generated": 1,
+    "failed": 1,
+    "todo": 2,
+    "withAi": 119,
+    "aiRate": 99,
     "mode": "incremental",
     "reason": "",
-    "at": "2026-11-21T12:40:03.866Z"
+    "at": "2026-11-21T21:42:37.679Z"
   }
 }
