@@ -1,5 +1,53 @@
 [
   {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "published": "2026-11-22T21:14:07.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:openai s chief scientist has thoughts on how to limit ai development",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "空响应（第 6 次）"
+  },
+  {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "published": "2026-11-22T18:08:43.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:why data centers are at the center of the big tech backlash",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "aiSummary": "记者Paris Marx新书《Hyperscale》剖析数据中心为何成为大众抵制",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
+    "published": "2026-11-22T17:25:20.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:binding of isaac developer removes ai music from repentance plus",
+    "category": "应用落地",
+    "tags": [
+      "开发者"
+    ],
+    "aiSummary": "《以撒的结合》开发商因玩家抵制，从DLC中移除AI生成音乐。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
     "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
     "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer",
@@ -8,14 +56,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:ai coding agents ace isolated tests but complete fewer than one in ten tasks in ",
+    "aiSummary": "AI编程代理在模拟职场测试中独立完成率不足一成。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "编程",
       "Agent",
       "开发者"
-    ],
-    "aiSummary": "AI编程代理在模拟职场测试中独立完成率不足一成。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
@@ -26,12 +74,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:perplexity s new monitor api turns web search from a one off query into a nonsto",
+    "aiSummary": "Perplexity推出监控API，定时搜索网页并仅在相关变化时提醒，旨在差异化",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "Perplexity推出监控API，定时搜索网页并仅在相关变化时提醒，旨在差异化",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
@@ -42,13 +90,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:ai is getting better faster than experts can reliably test whether new systems a",
+    "aiSummary": "METR警告：AI进步快于安全测试，现有数据无法排除危险加速。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "GPT"
-    ],
-    "aiSummary": "METR警告：AI进步快于安全测试，现有数据无法排除危险加速。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "The vibe-coding revolution is coming to all the gadgets",
@@ -59,12 +107,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:the vibe coding revolution is coming to all the gadgets",
+    "aiSummary": "David Pierce报道：氛围编程革命将席卷所有电子设备。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "编程"
-    ],
-    "aiSummary": "David Pierce报道：氛围编程革命将席卷所有电子设备。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
@@ -75,14 +123,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:security researchers show how cheap ai inference providers steal keys and snoop ",
+    "aiSummary": "Dragos用两百万假请求揭露AI供应链漏洞，三家供应商被入侵，数百AWS密钥被",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "安全",
       "推理"
-    ],
-    "aiSummary": "Dragos用两百万假请求揭露AI供应链漏洞，三家供应商被入侵，数百AWS密钥被",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
@@ -93,12 +141,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:lean and mathlib community officially confirms levent alp ge s proof of the riem",
+    "aiSummary": "Lean社区正式确认阿尔珀格的黎曼猜想证明正确，1700万行代码获验证。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Lean社区正式确认阿尔珀格的黎曼猜想证明正确，1700万行代码获验证。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
@@ -109,33 +157,32 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:gpt 6 2 astra and sol get to the point faster but score lower on transparency th",
+    "aiSummary": "OpenAI新模型回答更直接，但透明度低于Claude。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Claude",
       "GPT",
       "Anthropic",
       "OpenAI"
-    ],
-    "aiSummary": "OpenAI新模型回答更直接，但透明度低于Claude。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
     "published": "2026-11-22T08:57:34Z",
-    "points": 424,
-    "comments": 522,
+    "points": 791,
+    "comments": 815,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50597612",
+    "aiSummary": "2028年Anthropic电力87%来自天然气，11%来自煤炭。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "2028年Anthropic电力87%来自天然气，11%来自煤炭。"
+    ]
   },
   {
     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
@@ -146,12 +193,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:nature 糖尿病大鼠成功恢复正常血糖 用电刺激迷走神经控糖",
+    "aiSummary": "Nature研究：电刺激迷走神经助糖尿病大鼠恢复正常血糖。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Nature研究：电刺激迷走神经助糖尿病大鼠恢复正常血糖。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
@@ -162,11 +209,27 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:a社数学家用claude又证明另一千禧难题 逼出一份写了12年的940页纯人类手稿",
+    "aiSummary": "A社数学家借助Claude证明千禧难题，催生940页纯人类手稿。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Claude"
+    ]
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "published": "2026-11-22T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:perplexity and intelligence",
+    "category": "应用落地",
+    "tags": [
+      "开发者"
     ],
-    "aiSummary": "A社数学家借助Claude证明千禧难题，催生940页纯人类手稿。",
+    "aiSummary": "困惑度指标可衡量AI模型进步，助开发者建立统一的新兴能力评估方法。",
     "summaryStatus": "ai"
   },
   {
@@ -238,8 +301,8 @@
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "published": "2026-11-21T18:02:19Z",
-    "points": 523,
-    "comments": 127,
+    "points": 568,
+    "comments": 135,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -339,8 +402,8 @@
     "title": "Lean verification of the Riemann Hypothesis",
     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "published": "2026-11-21T14:36:45Z",
-    "points": 1147,
-    "comments": 955,
+    "points": 1200,
+    "comments": 999,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -361,12 +424,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:ai给乐队现场搓mv 这是黑客松还是音乐节啊",
+    "aiSummary": "AI在音乐节现场为乐队搓MV，融合黑客松与音乐节。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "AI在音乐节现场为乐队搓MV，融合黑客松与音乐节。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "中国计算，走出新的登峰之路",
@@ -377,12 +440,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:中国计算 走出新的登峰之路",
+    "aiSummary": "中国计算领域走出新的登峰之路。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "中国计算领域走出新的登峰之路。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -427,12 +490,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:8万条群聊消息做成考卷 腾讯元宝 kcl发布首个基于群聊构建的agent记忆基准",
+    "aiSummary": "腾讯元宝与KCL发布首个群聊Agent记忆基准，用8万条消息制成考卷。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "腾讯元宝与KCL发布首个群聊Agent记忆基准，用8万条消息制成考卷。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
@@ -443,12 +506,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:全网疯传 grok一姐教你如何月提交3000个pr",
+    "aiSummary": "Grok一姐分享月提交3000个PR方法，全网疯传。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "Grok"
-    ],
-    "aiSummary": "Grok一姐分享月提交3000个PR方法，全网疯传。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
@@ -459,14 +522,14 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:反超gemini之后 karpo新作再开源 浏览器agent速效双赢",
+    "aiSummary": "Karpo新作开源浏览器Agent，反超Gemini，实现速效双赢。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Gemini",
       "Agent",
       "开源"
-    ],
-    "aiSummary": "Karpo新作开源浏览器Agent，反超Gemini，实现速效双赢。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
@@ -559,8 +622,8 @@
     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
     "link": "https://news.ycombinator.com/item?id=50583761",
     "published": "2026-11-20T23:18:32Z",
-    "points": 704,
-    "comments": 794,
+    "points": 718,
+    "comments": 817,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -576,18 +639,18 @@
     "title": "Getting the mind to steer the body to steer you",
     "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "published": "2026-11-20T22:11:05Z",
-    "points": 358,
-    "comments": 130,
+    "points": 394,
+    "comments": 157,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50583028",
+    "aiSummary": "意念控制身体，让大脑引导行动。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "意念控制身体，让大脑引导行动。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -641,8 +704,8 @@
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1439,
-    "comments": 290,
+    "points": 1449,
+    "comments": 292,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -839,8 +902,8 @@
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "published": "2026-11-20T13:29:59Z",
-    "points": 518,
-    "comments": 908,
+    "points": 525,
+    "comments": 919,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -856,8 +919,8 @@
     "title": "If you stop writing code, you also get worse at reviewing it",
     "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
     "published": "2026-11-20T12:41:38Z",
-    "points": 389,
-    "comments": 180,
+    "points": 396,
+    "comments": 181,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -891,7 +954,7 @@
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 674,
+    "points": 676,
     "comments": 362,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -925,7 +988,7 @@
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
     "points": 577,
-    "comments": 345,
+    "comments": 346,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -971,23 +1034,6 @@
       "GPT-4",
       "GPT"
     ]
-  },
-  {
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "link": "https://github.com/openssl/openssl/pull/33652",
-    "published": "2026-11-20T02:01:09Z",
-    "points": 373,
-    "comments": 345,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50569226",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
-    "summaryStatus": "ai"
   },
   {
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -1108,23 +1154,6 @@
     ]
   },
   {
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "link": "https://git-aarvin.github.io/mei/",
-    "published": "2026-11-19T23:35:35Z",
-    "points": 375,
-    "comments": 247,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50568130",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "aiSummary": "谷歌Gemini 4 Neon登顶Models Engineering Inde",
-    "summaryStatus": "ai"
-  },
-  {
     "title": "Apple is hiring engineers to build its own AI agent",
     "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of",
@@ -1138,23 +1167,6 @@
     "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ]
-  },
-  {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip",
-    "published": "2026-11-19T21:59:35.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:a brief history of nvidia s recent stock fluctuations",
-    "aiSummary": "英伟达股价暴跌近40%，临时CEO称有信心应对。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "英伟达",
-      "芯片"
     ]
   },
   {
@@ -1312,7 +1324,7 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 572,
+    "points": 574,
     "comments": 274,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1330,7 +1342,7 @@
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
     "points": 1140,
-    "comments": 2326,
+    "comments": 2331,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1375,23 +1387,6 @@
     ]
   },
   {
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "published": "2026-11-19T16:59:23.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:anthropic hits nasdaq exchanges at 111 33 above ipo price",
-    "aiSummary": "Anthropic登陆纳斯达克，开盘111美元，较发行价高33%，募资超800亿",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "IPO"
-    ]
-  },
-  {
     "title": "Fuck Your AI Safeguards",
     "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
     "published": "2026-11-19T16:30:18Z",
@@ -1406,23 +1401,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "published": "2026-11-19T16:19:41.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:at nasdaq opening bell anthropic ceo recommits to pacing ai development",
-    "aiSummary": "Anthropic CEO敲钟时重申，无论商业或政治压力，都坚持把控AI发展节奏",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "商业"
     ]
   },
   {
@@ -1442,6 +1420,23 @@
     ]
   },
   {
+    "title": "Someone reported java4shell bug in September 2026",
+    "link": "https://github.com/openjdk/jdk/pull/32781",
+    "published": "2026-11-19T11:47:03Z",
+    "points": 461,
+    "comments": 136,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50558906",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "2026年9月有人报告Java4Shell漏洞。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -1459,19 +1454,20 @@
     ]
   },
   {
-    "title": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
     "published": "2026-11-19T00:00:00.000Z",
     "source": "OpenAI News",
     "sourceId": "openai",
     "lang": "en",
-    "id": "openai:explore the codex security plugin",
-    "aiSummary": "Codex安全插件演示上线，展示从启动到查看结果的完整工作流程。",
-    "category": "行业动态",
+    "id": "openai:deploying daybreak red",
+    "aiSummary": "Daybreak Red发布监督安全调查参考架构，涵盖安全控制与监控。",
+    "category": "应用落地",
     "summaryStatus": "ai",
     "tags": [
-      "安全"
+      "安全",
+      "安全对齐"
     ]
   },
   {
@@ -1507,20 +1503,19 @@
     ]
   },
   {
-    "title": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "published": "2026-11-19T00:00:00.000Z",
     "source": "OpenAI News",
     "sourceId": "openai",
     "lang": "en",
-    "id": "openai:deploying daybreak red",
-    "aiSummary": "Daybreak Red发布监督安全调查参考架构，涵盖安全控制与监控。",
-    "category": "应用落地",
+    "id": "openai:explore the codex security plugin",
+    "aiSummary": "Codex安全插件演示上线，展示从启动到查看结果的完整工作流程。",
+    "category": "行业动态",
     "summaryStatus": "ai",
     "tags": [
-      "安全",
-      "安全对齐"
+      "安全"
     ]
   },
   {
@@ -1544,7 +1539,7 @@
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "published": "2026-11-18T21:34:07Z",
-    "points": 1063,
+    "points": 1066,
     "comments": 775,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1802,24 +1797,6 @@
     ]
   },
   {
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "published": "2026-11-18T08:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:how sumitomo life s leaders helped teams adopt chatgpt enterprise",
-    "aiSummary": "住友生命用ChatGPT Enterprise做保险研究、提案和投资代码，高管带",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "企业",
-      "GPT",
-      "研究"
-    ]
-  },
-  {
     "title": "Research acceleration: The jagged frontier",
     "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
@@ -1836,6 +1813,24 @@
       "OpenAI",
       "编程",
       "Agent"
+    ]
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "published": "2026-11-18T08:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:how sumitomo life s leaders helped teams adopt chatgpt enterprise",
+    "aiSummary": "住友生命用ChatGPT Enterprise做保险研究、提案和投资代码，高管带",
+    "category": "大模型",
+    "summaryStatus": "ai",
+    "tags": [
+      "企业",
+      "GPT",
+      "研究"
     ]
   },
   {
@@ -1858,7 +1853,7 @@
     "title": "AI is killing All About Berlin",
     "link": "https://nicolasbouliane.com/blog/death-by-ai",
     "published": "2026-11-18T06:47:26Z",
-    "points": 817,
+    "points": 820,
     "comments": 713,
     "source": "Hacker News",
     "sourceId": "hn",
