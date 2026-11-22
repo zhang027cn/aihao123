@@ -1,5 +1,175 @@
 [
   {
+    "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+    "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+    "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer",
+    "published": "2026-11-22T15:15:48.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:ai coding agents ace isolated tests but complete fewer than one in ten tasks in ",
+    "category": "智能体",
+    "tags": [
+      "编程",
+      "Agent",
+      "开发者"
+    ],
+    "aiSummary": "AI编程代理在模拟职场测试中独立完成率不足一成。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+    "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+    "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable ch",
+    "published": "2026-11-22T14:20:28.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:perplexity s new monitor api turns web search from a one off query into a nonsto",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "aiSummary": "Perplexity推出监控API，定时搜索网页并仅在相关变化时提醒，旨在差异化",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+    "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+    "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models c",
+    "published": "2026-11-22T13:00:43.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:ai is getting better faster than experts can reliably test whether new systems a",
+    "category": "大模型",
+    "tags": [
+      "研究",
+      "GPT"
+    ],
+    "aiSummary": "METR警告：AI进步快于安全测试，现有数据无法排除危险加速。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit",
+    "published": "2026-11-22T13:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:the vibe coding revolution is coming to all the gadgets",
+    "category": "应用落地",
+    "tags": [
+      "编程"
+    ],
+    "aiSummary": "David Pierce报道：氛围编程革命将席卷所有电子设备。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+    "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+    "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing",
+    "published": "2026-11-22T12:07:56.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:security researchers show how cheap ai inference providers steal keys and snoop ",
+    "category": "芯片算力",
+    "tags": [
+      "研究",
+      "安全",
+      "推理"
+    ],
+    "aiSummary": "Dragos用两百万假请求揭露AI供应链漏洞，三家供应商被入侵，数百AWS密钥被",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+    "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+    "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until arou",
+    "published": "2026-11-22T11:08:31.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:lean and mathlib community officially confirms levent alp ge s proof of the riem",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "Lean社区正式确认阿尔珀格的黎曼猜想证明正确，1700万行代码获验证。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+    "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+    "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency th",
+    "published": "2026-11-22T09:41:37.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:gpt 6 2 astra and sol get to the point faster but score lower on transparency th",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "GPT",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "aiSummary": "OpenAI新模型回答更直接，但透明度低于Claude。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "published": "2026-11-22T08:57:34Z",
+    "points": 424,
+    "comments": 522,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50597612",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "2028年Anthropic电力87%来自天然气，11%来自煤炭。"
+  },
+  {
+    "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+    "link": "https://www.qbitai.com/2026/11/511904.html",
+    "summary": "用葡萄糖发电控制血糖。",
+    "published": "2026-11-22T06:21:47.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:nature 糖尿病大鼠成功恢复正常血糖 用电刺激迷走神经控糖",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "Nature研究：电刺激迷走神经助糖尿病大鼠恢复正常血糖。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+    "link": "https://www.qbitai.com/2026/11/511870.html",
+    "summary": "",
+    "published": "2026-11-22T06:03:54.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:a社数学家用claude又证明另一千禧难题 逼出一份写了12年的940页纯人类手稿",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "aiSummary": "A社数学家借助Claude证明千禧难题，催生940页纯人类手稿。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Muru",
     "link": "https://simonwillison.net/2026/Nov/21/muru/",
     "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
@@ -8,12 +178,12 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:muru",
+    "aiSummary": "Graham Dumpleton推出AI辅助Rust服务器Muru，旨在为ASG",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "应用落地"
-    ],
-    "aiSummary": "Graham Dumpleton推出AI辅助Rust服务器Muru，旨在为ASG",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -68,18 +238,18 @@
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "published": "2026-11-21T18:02:19Z",
-    "points": 427,
-    "comments": 107,
+    "points": 523,
+    "comments": 127,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50591853",
+    "aiSummary": "Inkling-2-Mini模型仅需5.4GB内存即可运行。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Inkling-2-Mini模型仅需5.4GB内存即可运行。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Here are the top AI agents that can live in your text messages",
@@ -139,12 +309,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:is selling an ai version of your face to this microdrama startup the future of h",
+    "aiSummary": "演员授权AI面部给微短剧公司，中国已流行，专家担忧好莱坞效仿。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "演员授权AI面部给微短剧公司，中国已流行，专家担忧好莱坞效仿。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Can Anthropic afford to put safety first?",
@@ -169,8 +339,8 @@
     "title": "Lean verification of the Riemann Hypothesis",
     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "published": "2026-11-21T14:36:45Z",
-    "points": 944,
-    "comments": 807,
+    "points": 1147,
+    "comments": 955,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -181,6 +351,38 @@
     "tags": [
       "行业动态"
     ]
+  },
+  {
+    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+    "link": "https://www.qbitai.com/2026/11/511855.html",
+    "summary": "",
+    "published": "2026-11-21T14:14:09.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:ai给乐队现场搓mv 这是黑客松还是音乐节啊",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "AI在音乐节现场为乐队搓MV，融合黑客松与音乐节。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "中国计算，走出新的登峰之路",
+    "link": "https://www.qbitai.com/2026/11/511849.html",
+    "summary": "",
+    "published": "2026-11-21T14:09:59.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:中国计算 走出新的登峰之路",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "中国计算领域走出新的登峰之路。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -217,6 +419,56 @@
     ]
   },
   {
+    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+    "link": "https://www.qbitai.com/2026/11/511841.html",
+    "summary": "",
+    "published": "2026-11-21T11:40:11.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:8万条群聊消息做成考卷 腾讯元宝 kcl发布首个基于群聊构建的agent记忆基准",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "aiSummary": "腾讯元宝与KCL发布首个群聊Agent记忆基准，用8万条消息制成考卷。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+    "link": "https://www.qbitai.com/2026/11/511830.html",
+    "summary": "",
+    "published": "2026-11-21T11:34:18.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:全网疯传 grok一姐教你如何月提交3000个pr",
+    "category": "芯片算力",
+    "tags": [
+      "Grok"
+    ],
+    "aiSummary": "Grok一姐分享月提交3000个PR方法，全网疯传。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+    "link": "https://www.qbitai.com/2026/11/511791.html",
+    "summary": "",
+    "published": "2026-11-21T11:24:29.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:反超gemini之后 karpo新作再开源 浏览器agent速效双赢",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent",
+      "开源"
+    ],
+    "aiSummary": "Karpo新作开源浏览器Agent，反超Gemini，实现速效双赢。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
     "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
     "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, an",
@@ -232,59 +484,6 @@
       "Anthropic",
       "Claude",
       "研究"
-    ]
-  },
-  {
-    "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-    "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-    "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lo",
-    "published": "2026-11-21T10:33:02.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:new open model inkling 2 mini thinks in loops to solve problems with fewer words",
-    "aiSummary": "Thinking Machines发布开放循环模型Inkling 2 Mini，",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "开源"
-    ]
-  },
-  {
-    "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-    "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-    "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds",
-    "published": "2026-11-21T10:27:44.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:us technology stocks suffer their worst weekly loss since the pandemic as ai dou",
-    "aiSummary": "美国科技股因AI疑虑遭遇疫情以来最差周，英伟达跌14%，Anthropic回吐涨",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "英伟达",
-      "IPO"
-    ]
-  },
-  {
-    "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-    "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-    "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, d",
-    "published": "2026-11-21T09:17:24.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:bytedance argues most ai training phases are unnecessary and backs it up with a ",
-    "aiSummary": "字节跳动联合美高校推出Axion 1.0，仅三阶段训练便媲美OpenAI与Ant",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "基准",
-      "研究",
-      "OpenAI"
     ]
   },
   {
@@ -360,8 +559,8 @@
     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
     "link": "https://news.ycombinator.com/item?id=50583761",
     "published": "2026-11-20T23:18:32Z",
-    "points": 667,
-    "comments": 765,
+    "points": 704,
+    "comments": 794,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -372,6 +571,23 @@
     "tags": [
       "行业动态"
     ]
+  },
+  {
+    "title": "Getting the mind to steer the body to steer you",
+    "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "published": "2026-11-20T22:11:05Z",
+    "points": 358,
+    "comments": 130,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50583028",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "意念控制身体，让大脑引导行动。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -422,29 +638,11 @@
     ]
   },
   {
-    "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-    "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-    "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thous",
-    "published": "2026-11-20T20:31:50.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai makes it much harder for attackers to extract how its latest ai models th",
-    "aiSummary": "OpenAI强化GPT-6.2模型防护，防提取推理成功率从54%降至0.2%。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI",
-      "推理模型",
-      "GPT"
-    ]
-  },
-  {
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1400,
-    "comments": 286,
+    "points": 1439,
+    "comments": 290,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -470,23 +668,6 @@
     "summaryStatus": "ai",
     "tags": [
       "研究"
-    ]
-  },
-  {
-    "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-    "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-    "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should ",
-    "published": "2026-11-20T19:50:27.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:signal blocks screenshots on ios 27 and android to stop ai agents from reading p",
-    "aiSummary": "Signal阻止截图防AI读取私聊，称隐私面临生存威胁。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "Gemini"
     ]
   },
   {
@@ -519,22 +700,6 @@
     "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ]
-  },
-  {
-    "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-    "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-    "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you ke",
-    "published": "2026-11-20T18:50:31.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:google s gemini can now run mac apps and finish desktop chores in the background",
-    "aiSummary": "谷歌Gemini Mac版新增电脑操作功能，后台自动运行应用与文件，用户可继续工",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
     ]
   },
   {
@@ -621,38 +786,6 @@
     ]
   },
   {
-    "title": "米哈游发了个VLA论文",
-    "link": "https://www.qbitai.com/2026/11/511740.html",
-    "summary": "8B参数，50小时自主运行",
-    "published": "2026-11-20T16:25:26.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:米哈游发了个vla论文",
-    "aiSummary": "米哈游发布8B参数VLA论文，实现50小时自主运行。",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "研究论文"
-    ]
-  },
-  {
-    "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-    "link": "https://www.qbitai.com/2026/11/511727.html",
-    "summary": "",
-    "published": "2026-11-20T16:07:39.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:黎曼猜想被证明 claude加持 34岁数学家放出lean证明",
-    "aiSummary": "34岁数学家借助Claude用Lean证明黎曼猜想。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Claude"
-    ]
-  },
-  {
     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
     "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
     "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
@@ -706,8 +839,8 @@
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "published": "2026-11-20T13:29:59Z",
-    "points": 509,
-    "comments": 890,
+    "points": 518,
+    "comments": 908,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -723,18 +856,18 @@
     "title": "If you stop writing code, you also get worse at reviewing it",
     "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
     "published": "2026-11-20T12:41:38Z",
-    "points": 384,
+    "points": 389,
     "comments": 180,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50573886",
+    "aiSummary": "停止写代码会让人评审代码的能力也变差。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "停止写代码会让人评审代码的能力也变差。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -755,27 +888,11 @@
     ]
   },
   {
-    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-    "link": "https://www.qbitai.com/2026/11/511722.html",
-    "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-    "published": "2026-11-20T12:18:01.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:美国ai音乐巨头进军视频生成 底层模型来自中国minimax",
-    "aiSummary": "美国AI音乐巨头Suno进军视频生成，底层模型来自中国MiniMax。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 670,
-    "comments": 357,
+    "points": 674,
+    "comments": 362,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -807,8 +924,8 @@
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 573,
-    "comments": 336,
+    "points": 577,
+    "comments": 345,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -818,73 +935,6 @@
     "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ]
-  },
-  {
-    "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
-    "link": "https://www.qbitai.com/2026/11/511679.html",
-    "summary": "联合华为昇腾，五年冲刺十万卡",
-    "published": "2026-11-20T08:59:15.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:给万卡国产芯装个 超级外挂 清华团队要造最强国产token工厂",
-    "aiSummary": "清华团队联合华为昇腾，打造万卡国产芯Token工厂，五年冲刺十万卡规模。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-    "link": "https://www.qbitai.com/2026/11/511610.html",
-    "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
-    "published": "2026-11-20T08:04:58.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:昇腾算力训出了双榜sota的具身世界模型 华为云这次想把整套底座开放出来",
-    "aiSummary": "华为云用昇腾算力训出双榜SOTA具身世界模型，拟开放整套底座。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "算力",
-      "芯片",
-      "落地"
-    ]
-  },
-  {
-    "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-    "link": "https://www.qbitai.com/2026/11/511603.html",
-    "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-    "published": "2026-11-20T06:16:06.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:新浪新闻 2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-    "aiSummary": "微博与新浪新闻在京举办2026探索大会，共探智能时代虚实交融共生新图景。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-    "link": "https://www.qbitai.com/2026/11/511582.html",
-    "summary": "已开源Agnes Harness",
-    "published": "2026-11-20T05:24:11.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:双系统决策 双层自进化 agnes让agent效率最高提速14倍 成本骤降至1 27",
-    "aiSummary": "Agnes开源，双系统决策加双层自进化，效率提升14倍，成本降至1/27。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "开源"
     ]
   },
   {
@@ -921,6 +971,23 @@
       "GPT-4",
       "GPT"
     ]
+  },
+  {
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "link": "https://github.com/openssl/openssl/pull/33652",
+    "published": "2026-11-20T02:01:09Z",
+    "points": 373,
+    "comments": 345,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50569226",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
+    "summaryStatus": "ai"
   },
   {
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -1041,6 +1108,23 @@
     ]
   },
   {
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "link": "https://git-aarvin.github.io/mei/",
+    "published": "2026-11-19T23:35:35Z",
+    "points": 375,
+    "comments": 247,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50568130",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "aiSummary": "谷歌Gemini 4 Neon登顶Models Engineering Inde",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Apple is hiring engineers to build its own AI agent",
     "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of",
@@ -1121,22 +1205,6 @@
     "summaryStatus": "ai",
     "tags": [
       "开源"
-    ]
-  },
-  {
-    "title": "Meta’s Muse Charm might cost $300",
-    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
-    "published": "2026-11-19T20:22:17.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:meta s muse charm might cost 300",
-    "aiSummary": "Meta计划将可聊天AI设备Muse Charm定价300美元。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
     ]
   },
   {
@@ -1244,8 +1312,8 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 569,
-    "comments": 273,
+    "points": 572,
+    "comments": 274,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1261,8 +1329,8 @@
     "title": "Anthropic’s Nasdaq debut",
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
-    "points": 1139,
-    "comments": 2320,
+    "points": 1140,
+    "comments": 2326,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1374,23 +1442,6 @@
     ]
   },
   {
-    "title": "Someone reported java4shell bug in September 2026",
-    "link": "https://github.com/openjdk/jdk/pull/32781",
-    "published": "2026-11-19T11:47:03Z",
-    "points": 460,
-    "comments": 133,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50558906",
-    "aiSummary": "2026年9月有人报告Java4Shell漏洞。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -1493,7 +1544,7 @@
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "published": "2026-11-18T21:34:07Z",
-    "points": 1059,
+    "points": 1063,
     "comments": 775,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1607,7 +1658,7 @@
     "title": "Seven new models at scalable price-performance",
     "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
     "published": "2026-11-18T16:08:24Z",
-    "points": 603,
+    "points": 604,
     "comments": 377,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1807,7 +1858,7 @@
     "title": "AI is killing All About Berlin",
     "link": "https://nicolasbouliane.com/blog/death-by-ai",
     "published": "2026-11-18T06:47:26Z",
-    "points": 816,
+    "points": 817,
     "comments": 713,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1858,7 +1909,7 @@
     "title": "Google's AI answers reducing search traffic by 40%",
     "link": "https://revscope.co/blog/search-seo-geo-2026/",
     "published": "2026-11-18T00:17:58Z",
-    "points": 712,
+    "points": 713,
     "comments": 565,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1953,56 +2004,6 @@
     "summaryStatus": "ai",
     "tags": [
       "GitHub"
-    ]
-  },
-  {
-    "title": "External sandboxes for coding agents",
-    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-    "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this pr",
-    "published": "2026-11-17T22:52:29.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:external sandboxes for coding agents",
-    "aiSummary": "探索编码代理外部沙箱，安全试用本地模型，防止错误或注入攻击造成损害。",
-    "category": "智能体",
-    "summaryStatus": "lazy",
-    "tags": [
-      "编程",
-      "Agent"
-    ]
-  },
-  {
-    "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-    "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-    "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new mode",
-    "published": "2026-11-17T22:38:52.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:gpt 6 2 astra and gpt 6 2 sol",
-    "aiSummary": "OpenAI发布GPT-6.2 Astra与Sol，分别面向复杂和日常任务，AP",
-    "category": "大模型",
-    "summaryStatus": "lazy",
-    "tags": [
-      "GPT",
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-    "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-    "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-    "published": "2026-11-17T20:32:55.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:trump was in bed with jensen critics balk at huang s wish to return to nvidia",
-    "aiSummary": "黄仁勋就Nvidia调查风波道歉称爱国，但批评者质疑其与特朗普关系，反对其回归公",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "英伟达"
     ]
   }
 ]
