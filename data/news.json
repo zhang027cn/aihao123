@@ -1,5 +1,21 @@
 [
   {
+    "title": "Muru",
+    "link": "https://simonwillison.net/2026/Nov/21/muru/",
+    "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
+    "published": "2026-11-21T23:56:28.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:muru",
+    "category": "应用落地",
+    "tags": [
+      "应用落地"
+    ],
+    "aiSummary": "Graham Dumpleton推出AI辅助Rust服务器Muru，旨在为ASG",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -8,12 +24,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:signal restricts mobile screenshots as it confronts existential threat of ai sur",
+    "aiSummary": "Signal限制移动端截图功能，应对AI监控带来的生存威胁。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Signal限制移动端截图功能，应对AI监控带来的生存威胁。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "A tale of two Nvidias",
@@ -24,12 +40,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:a tale of two nvidias",
+    "aiSummary": "英伟达财报亮眼，但科技高管却呼吁黄仁勋回归，呈现两种\n    \n    \n不同图",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "英伟达财报亮眼，但科技高管却呼吁黄仁勋回归，呈现两种\n    \n    \n不同图",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -40,12 +56,29 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:the un fails to agree on rules regulating killer robots",
+    "aiSummary": "联合国日内瓦会议未就自主武器（致命机器人）监管规则达成一致，各方仅同意开始讨论方",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "机器人",
       "自主"
+    ]
+  },
+  {
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "published": "2026-11-21T18:02:19Z",
+    "points": 427,
+    "comments": 107,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50591853",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "联合国日内瓦会议未就自主武器（致命机器人）监管规则达成一致，各方仅同意开始讨论方",
+    "aiSummary": "Inkling-2-Mini模型仅需5.4GB内存即可运行。",
     "summaryStatus": "ai"
   },
   {
@@ -57,12 +90,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:here are the top ai agents that can live in your text messages",
+    "aiSummary": "媒体盘点可嵌入短信的AI智能体，涵盖通用助手、家庭、旅行及办公场景。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "媒体盘点可嵌入短信的AI智能体，涵盖通用助手、家庭、旅行及办公场景。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Nvidia researchers argue huge AI context windows are a dead end",
@@ -73,13 +106,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:nvidia researchers argue huge ai context windows are a dead end",
+    "aiSummary": "英伟达研究人员认为超大上下文窗口是死胡同，提出用周期摘要和关键词检索替代全量上下",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "英伟达"
-    ],
-    "aiSummary": "英伟达研究人员认为超大上下文窗口是死胡同，提出用周期摘要和关键词检索替代全量上下",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
@@ -90,12 +123,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:silicon valley s growing obsession with ai doomsday is turning parts of the tech",
+    "aiSummary": "佛蒙特州Maple佛教寺院欲成硅谷精神权威并训练AI“神”，引发科技界末日崇拜担",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "应用落地"
-    ],
-    "aiSummary": "佛蒙特州Maple佛教寺院欲成硅谷精神权威并训练AI“神”，引发科技界末日崇拜担",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -110,8 +143,8 @@
     "tags": [
       "行业动态"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "aiSummary": "演员授权AI面部给微短剧公司，中国已流行，专家担忧好莱坞效仿。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Can Anthropic afford to put safety first?",
@@ -122,32 +155,32 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:can anthropic afford to put safety first",
+    "aiSummary": "Anthropic（Claude 研发方）上周四登陆纳斯达克上市，融资规模巨大。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "安全对齐",
       "Claude",
       "IPO"
-    ],
-    "aiSummary": "Anthropic（Claude 研发方）上周四登陆纳斯达克上市，融资规模巨大。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Lean verification of the Riemann Hypothesis",
     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "published": "2026-11-21T14:36:45Z",
-    "points": 658,
-    "comments": 530,
+    "points": 944,
+    "comments": 807,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50589618",
+    "aiSummary": "研究团队尝试用 Lean 形式化语言验证黎曼假设，推动数学证明可被机器核验。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "研究团队尝试用 Lean 形式化语言验证黎曼假设，推动数学证明可被机器核验。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -158,12 +191,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:chess com s next move is a new hub for classic games from mahjong to sudoku",
+    "aiSummary": "Chess.com拓展业务，新增麻将、数独、围棋等10款经典棋类游戏。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Chess.com拓展业务，新增麻将、数独、围棋等10款经典棋类游戏。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
@@ -174,14 +207,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai shares new prompting tips for gpt 6 2 astra and sol to fix brief answers ",
+    "aiSummary": "OpenAI发布GPT-6.2新提示模板，修复回答过短和多余提问等问题。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "GPT",
       "编程"
-    ],
-    "aiSummary": "OpenAI发布GPT-6.2新提示模板，修复回答过短和多余提问等问题。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
@@ -327,18 +360,18 @@
     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
     "link": "https://news.ycombinator.com/item?id=50583761",
     "published": "2026-11-20T23:18:32Z",
-    "points": 546,
-    "comments": 611,
+    "points": 667,
+    "comments": 765,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50583761",
+    "aiSummary": "美国15年经验者失业两年，在Hacker News发帖求助职业建议。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "美国15年经验者失业两年，在Hacker News发帖求助职业建议。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -410,8 +443,8 @@
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1324,
-    "comments": 273,
+    "points": 1400,
+    "comments": 286,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -673,17 +706,34 @@
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "published": "2026-11-20T13:29:59Z",
-    "points": 483,
-    "comments": 843,
+    "points": 509,
+    "comments": 890,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50574383",
+    "aiSummary": "纳斯达克因AI板块抛售抹去2026年全部涨幅，Anthropic上市次日表现受挫",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic"
+    ]
+  },
+  {
+    "title": "If you stop writing code, you also get worse at reviewing it",
+    "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+    "published": "2026-11-20T12:41:38Z",
+    "points": 384,
+    "comments": 180,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50573886",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "纳斯达克因AI板块抛售抹去2026年全部涨幅，Anthropic上市次日表现受挫",
+    "aiSummary": "停止写代码会让人评审代码的能力也变差。",
     "summaryStatus": "ai"
   },
   {
@@ -724,8 +774,8 @@
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 666,
-    "comments": 351,
+    "points": 670,
+    "comments": 357,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -757,8 +807,8 @@
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 569,
-    "comments": 333,
+    "points": 573,
+    "comments": 336,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -846,15 +896,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:llm gemini 0 38 1",
+    "aiSummary": "llm-gemini 0.38.1 修复插件，支持 Gemini 4 Hydro",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Gemini",
       "LLM",
       "推理模型"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "llm-gemini 0.38.1 修复插件，支持 Gemini 4 Hydro"
+    ]
   },
   {
     "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -1195,7 +1244,7 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 566,
+    "points": 569,
     "comments": 273,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1213,7 +1262,7 @@
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
     "points": 1139,
-    "comments": 2318,
+    "comments": 2320,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1444,7 +1493,7 @@
     "title": "Gemini 4 Neon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
     "published": "2026-11-18T21:34:07Z",
-    "points": 1058,
+    "points": 1059,
     "comments": 775,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1592,7 +1641,7 @@
     "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
     "published": "2026-11-18T15:49:34Z",
     "points": 499,
-    "comments": 262,
+    "comments": 264,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1758,7 +1807,7 @@
     "title": "AI is killing All About Berlin",
     "link": "https://nicolasbouliane.com/blog/death-by-ai",
     "published": "2026-11-18T06:47:26Z",
-    "points": 815,
+    "points": 816,
     "comments": 713,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1893,7 +1942,7 @@
     "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
     "link": "https://github.com/microsoft/onnxruntime",
     "published": "2026-11-17T23:18:49Z",
-    "points": 468,
+    "points": 469,
     "comments": 108,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1954,57 +2003,6 @@
     "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ]
-  },
-  {
-    "title": "MAI Code 2 and Code 2 Flash",
-    "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "published": "2026-11-17T18:25:13Z",
-    "points": 422,
-    "comments": 171,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50535885",
-    "aiSummary": "MAI Code 2与Code 2 Flash版本发布。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "GPT‑6.2 Astra and Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "published": "2026-11-17T17:46:43Z",
-    "points": 1347,
-    "comments": 863,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50535230",
-    "aiSummary": "GPT-6.2发布Astra和Sol新版本。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPT"
-    ]
-  },
-  {
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "published": "2026-11-17T17:45:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:introducing gpt 6 2 astra and sol",
-    "aiSummary": "OpenAI发布GPT-6.2 Astra与Sol，提升专业输出、编码及效率，降",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPT",
-      "编程"
     ]
   }
 ]
