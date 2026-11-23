@@ -1,5 +1,55 @@
 [
   {
+    "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+    "link": "https://sspai.com/post/118705",
+    "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。 查看全文",
+    "published": "2026-11-23T06:00:53.000Z",
+    "source": "少数派",
+    "sourceId": "sspai",
+    "lang": "zh",
+    "id": "sspai:新手问号 用智能插座为旧款 apple 设备设置 充电上限",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "智能插座为旧款苹果设备实现充电上限功能，延长电池寿命",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "published": "2026-11-23T01:25:53.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:how notable capital gic and baillie gifford bet big on anthropic before its ipo",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic",
+      "IPO"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "知名资本、GIC与Baillie Gifford分享为何在Anthropic I"
+  },
+  {
+    "title": "We haven’t seen the last of the major tech outages",
+    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The Americ",
+    "published": "2026-11-22T22:48:02.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:we haven t seen the last of the major tech outages",
+    "category": "政策监管",
+    "tags": [
+      "禁令"
+    ],
+    "aiSummary": "美国近期接连爆发FAA停飞、Outlook及摩根大通故障，预计未来还会有更多重大",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
     "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
@@ -12,8 +62,58 @@
     "tags": [
       "OpenAI"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "aiSummary": "OpenAI首席科学家称限制AI发展需先统一衡量速度的标准。",
+    "summaryStatus": "lazy"
+  },
+  {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "published": "2026-11-22T21:01:16Z",
+    "points": 428,
+    "comments": 174,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50603845",
+    "category": "大模型",
+    "tags": [
+      "Qwen"
+    ],
+    "aiSummary": "新手指南介绍如何用Inkling、Qwen和Unsloth在本地部署AI模型。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Select Styling Specimens",
+    "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+    "summary": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of t",
+    "published": "2026-11-22T19:45:06.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:select styling specimens",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "aiSummary": "开发者用Claude Fable 5.2制作页面，展示HTML下拉框的各种样式方",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "published": "2026-11-22T19:10:34Z",
+    "points": 453,
+    "comments": 231,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50602843",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "GTA 6发布虚构的Vice City与Leonida地区鸟类野外指南",
+    "summaryStatus": "ai"
   },
   {
     "title": "Why data centers are at the center of the Big Tech backlash",
@@ -24,12 +124,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:why data centers are at the center of the big tech backlash",
+    "aiSummary": "记者Paris Marx新书《Hyperscale》剖析数据中心为何成为大众抵制",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "记者Paris Marx新书《Hyperscale》剖析数据中心为何成为大众抵制",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -40,12 +140,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:binding of isaac developer removes ai music from repentance plus",
+    "aiSummary": "《以撒的结合》开发商因玩家抵制，从DLC中移除AI生成音乐。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "开发者"
-    ],
-    "aiSummary": "《以撒的结合》开发商因玩家抵制，从DLC中移除AI生成音乐。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
@@ -171,8 +271,8 @@
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
     "published": "2026-11-22T08:57:34Z",
-    "points": 791,
-    "comments": 815,
+    "points": 951,
+    "comments": 944,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -225,12 +325,12 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:perplexity and intelligence",
+    "aiSummary": "困惑度指标可衡量AI模型进步，助开发者建立统一的新兴能力评估方法。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "开发者"
-    ],
-    "aiSummary": "困惑度指标可衡量AI模型进步，助开发者建立统一的新兴能力评估方法。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Muru",
@@ -301,8 +401,8 @@
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "published": "2026-11-21T18:02:19Z",
-    "points": 568,
-    "comments": 135,
+    "points": 588,
+    "comments": 138,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -402,8 +502,8 @@
     "title": "Lean verification of the Riemann Hypothesis",
     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "published": "2026-11-21T14:36:45Z",
-    "points": 1200,
-    "comments": 999,
+    "points": 1221,
+    "comments": 1022,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -622,8 +722,8 @@
     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
     "link": "https://news.ycombinator.com/item?id=50583761",
     "published": "2026-11-20T23:18:32Z",
-    "points": 718,
-    "comments": 817,
+    "points": 735,
+    "comments": 829,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -639,8 +739,8 @@
     "title": "Getting the mind to steer the body to steer you",
     "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "published": "2026-11-20T22:11:05Z",
-    "points": 394,
-    "comments": 157,
+    "points": 406,
+    "comments": 165,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -704,8 +804,8 @@
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1449,
-    "comments": 292,
+    "points": 1464,
+    "comments": 293,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -902,8 +1002,8 @@
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
     "published": "2026-11-20T13:29:59Z",
-    "points": 525,
-    "comments": 919,
+    "points": 530,
+    "comments": 922,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -919,8 +1019,8 @@
     "title": "If you stop writing code, you also get worse at reviewing it",
     "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
     "published": "2026-11-20T12:41:38Z",
-    "points": 396,
-    "comments": 181,
+    "points": 397,
+    "comments": 182,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -954,8 +1054,8 @@
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
-    "points": 676,
-    "comments": 362,
+    "points": 679,
+    "comments": 363,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -987,8 +1087,8 @@
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 577,
-    "comments": 346,
+    "points": 580,
+    "comments": 347,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1154,22 +1254,6 @@
     ]
   },
   {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of",
-    "published": "2026-11-19T22:31:41.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:apple is hiring engineers to build its own ai agent",
-    "aiSummary": "苹果招聘工程师打造自家AI代理，可跨应用操作、写代码及调用服务。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
-    ]
-  },
-  {
     "title": "Meta’s new Muse Charm device may cost $300",
     "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
     "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -1324,7 +1408,7 @@
     "title": "Claude solves two open problems in the physics of black holes",
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "published": "2026-11-19T17:30:44Z",
-    "points": 574,
+    "points": 577,
     "comments": 274,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1341,8 +1425,8 @@
     "title": "Anthropic’s Nasdaq debut",
     "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "published": "2026-11-19T17:02:40Z",
-    "points": 1140,
-    "comments": 2331,
+    "points": 1141,
+    "comments": 2336,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1371,27 +1455,11 @@
     ]
   },
   {
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "published": "2026-11-19T17:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:former alibaba exec s everful raises 48 5m to connect retailers with chinese fac",
-    "aiSummary": "前阿里高管创立的Everful融资4850万美元，扩展工厂直采平台连接零售商与中",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "应用落地"
-    ]
-  },
-  {
     "title": "Fuck Your AI Safeguards",
     "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
     "published": "2026-11-19T16:30:18Z",
-    "points": 616,
-    "comments": 249,
+    "points": 617,
+    "comments": 250,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1423,18 +1491,18 @@
     "title": "Someone reported java4shell bug in September 2026",
     "link": "https://github.com/openjdk/jdk/pull/32781",
     "published": "2026-11-19T11:47:03Z",
-    "points": 461,
-    "comments": 136,
+    "points": 462,
+    "comments": 138,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50558906",
+    "aiSummary": "2026年9月有人报告Java4Shell漏洞。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "2026年9月有人报告Java4Shell漏洞。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -1686,8 +1754,8 @@
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
     "published": "2026-11-18T15:49:34Z",
-    "points": 499,
-    "comments": 264,
+    "points": 500,
+    "comments": 265,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1933,72 +2001,6 @@
       "OpenAI",
       "芯片",
       "GPT"
-    ]
-  },
-  {
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "published": "2026-11-18T00:00:00.000Z",
-    "source": "OpenAI News",
-    "sourceId": "openai",
-    "lang": "en",
-    "id": "openai:le groupe figaro and openai partner to bring le figaro journalism to chatgpt",
-    "aiSummary": "费加罗集团与OpenAI合作，将费加罗报内容以摘要和摘录形式接入ChatGPT。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ]
-  },
-  {
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "link": "https://huggingface.co/blog/moe-expert-streaming",
-    "summary": "",
-    "published": "2026-11-18T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:180b parameters 32gb of ram pushing moe inference to the limit with transformers",
-    "aiSummary": "1800亿参数MoE模型仅用32GB内存完成推理，突破Transformer推理",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "推理"
-    ]
-  },
-  {
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "link": "https://huggingface.co/blog/rumble-2-flash",
-    "summary": "",
-    "published": "2026-11-18T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:rumble 2 flash an open 0 5b speech model for 40 languages",
-    "aiSummary": "Rumble发布开源0.5B语音模型Rumble-2-Flash，支持40多种语",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-    "link": "https://github.com/microsoft/onnxruntime",
-    "published": "2026-11-17T23:18:49Z",
-    "points": 469,
-    "comments": 108,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50539610",
-    "aiSummary": "微软的ONNX Runtime",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "GitHub"
     ]
   }
 ]
