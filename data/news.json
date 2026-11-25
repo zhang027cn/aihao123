@@ -1,5 +1,355 @@
 [
   {
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a",
+    "published": "2026-11-25T14:12:33.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:amazon is reportedly in talks to end muse ai shopping block",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "亚马逊据报正与Meta洽谈，拟解除对Muse AI购物助手的封禁，允许其在亚马逊"
+  },
+  {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "published": "2026-11-25T14:10:18.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:amazon and meta reportedly in talks to lift blockade on ai agent muse",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "亚马逊与Meta据称正谈判解除对AI智能体Muse的封锁。"
+  },
+  {
+    "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed",
+    "published": "2026-11-25T13:23:36.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:ai agents now control part of deepmind s compute for gemini experiments but recu",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent",
+      "研究"
+    ],
+    "aiSummary": "Google Deepmind 已用 AI 智能体自主运行 Gemini 模型实",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+    "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+    "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company struct",
+    "published": "2026-11-25T13:14:27.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:anthropic study shows the hardest part of adopting ai at work has little to do w",
+    "category": "应用落地",
+    "tags": [
+      "Anthropic",
+      "商业",
+      "研究"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "Anthropic 研究发现企业 AI 落地难点不在学工具，近五分之一项目因审批"
+  },
+  {
+    "title": "The Download: AI swamping open records, and firefighting for permafrost",
+    "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have rai",
+    "published": "2026-11-25T13:10:00.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:the download ai swamping open records and firefighting for permafrost",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "AI 让美国开放记录系统承压，并推高公共记录投资热度。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+    "link": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+    "summary": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US public that ",
+    "published": "2026-11-25T13:07:44.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:back to back cyber incidents at us financial investigators and spy agencies foll",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "空响应（第 6 次）"
+  },
+  {
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "published": "2026-11-25T13:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:the questions jensen huang and nvidia will still have to answer about megaspeed",
+    "category": "芯片算力",
+    "tags": [
+      "英伟达",
+      "芯片"
+    ],
+    "aiSummary": "黄仁勋与芯片走私者恋情仍面临国会及董事会质询",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last se",
+    "published": "2026-11-25T13:00:00.000Z",
+    "source": "The Verge AI",
+    "sourceId": "verge-ai",
+    "lang": "en",
+    "id": "verge-ai:has vibe coding made open source the new normal for synths",
+    "category": "智能体",
+    "tags": [
+      "编程",
+      "开源",
+      "Agent"
+    ],
+    "aiSummary": "氛围编程工具颠覆音乐合成器行业，迫使厂商应对开源化趋势",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "AI may soon change what it means to be a theoretical physicist",
+    "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+    "published": "2026-11-25T12:00:28.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:ai may soon change what it means to be a theoretical physicist",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "前沿AI已能解决顶尖物理学家需一整天才能完成的问题，或将重塑理论物理学的意义。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+    "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+    "summary": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder .",
+    "published": "2026-11-25T11:51:49.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:prismml shrinks a 54 gb language model to 5 9 gb by reducing every weight to jus",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "空响应（第 6 次）"
+  },
+  {
+    "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+    "link": "https://www.qbitai.com/2026/11/512565.html",
+    "summary": "揭秘General Looped Model",
+    "published": "2026-11-25T11:07:14.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:9400万参数硬刚50亿 权重显存直降98 loop架构被这家中国团队玩明白了",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "中国团队用Loop架构以9400万参数媲美50亿模型，权重显存降低98%。"
+  },
+  {
+    "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+    "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+    "summary": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these emulators were often",
+    "published": "2026-11-25T10:47:51.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:mit team discovers that unrealistic training data makes ai climate predictions m",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ],
+    "aiSummary": "MIT团队发现用极端不切实际的训练数据可提升AI气候模型鲁棒",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "summary": "",
+    "published": "2026-11-25T10:22:09.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:an indic voice agent with cuga",
+    "category": "智能体",
+    "tags": [
+      "Agent",
+      "语音"
+    ],
+    "aiSummary": "一款基于CUGA技术的印度语系语音智能体正式发布",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "AI is straining America’s open records systems",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
+    "published": "2026-11-25T10:00:00.000Z",
+    "source": "MIT Tech Review",
+    "sourceId": "techreview",
+    "lang": "en",
+    "id": "techreview:ai is straining america s open records systems",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "AI正在给美国开放记录系统带来压力，佛蒙特州小镇书记独自处理全部政务即为缩影。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Anthropic还藏着2个最强模型…",
+    "link": "https://www.qbitai.com/2026/11/512538.html",
+    "summary": "Fable5.2已经很旧了。",
+    "published": "2026-11-25T08:23:24.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:anthropic还藏着2个最强模型",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic"
+    ],
+    "aiSummary": "Anthropic被曝仍藏着两款最强模型，Fable5.2已被视为过时。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+    "link": "https://www.qbitai.com/2026/11/512532.html",
+    "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+    "published": "2026-11-25T08:18:54.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:完整议程 第二十一届中国idc产业年度大典 idcc2026",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "第二十一届中国IDC产业年度大典暨全球数字基础设施科技展即将举办。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+    "link": "https://www.qbitai.com/2026/11/512515.html",
+    "summary": "OpenAI这下要有俩Tibo了",
+    "published": "2026-11-25T07:46:52.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:a社tibo被曝加盟openai 上市前离职三人组异地团圆",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "aiSummary": "Anthropic的Tibo被曝加盟OpenAI，上市前离职三人组异地重聚。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+    "link": "https://sspai.com/post/119310",
+    "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+    "published": "2026-11-25T06:59:16.000Z",
+    "source": "少数派",
+    "sourceId": "sspai",
+    "lang": "zh",
+    "id": "sspai:app 1 yab 开源 ai 友好的双内核浏览器 给舍不得 arc 的你",
+    "category": "开源",
+    "tags": [
+      "开源"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "This operation was aborted",
+    "aiSummary": "开源浏览器 Yab 继承 Arc 交互设计，以双内核架构为 AI 打开新入口。"
+  },
+  {
+    "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+    "link": "https://www.qbitai.com/2026/11/512498.html",
+    "summary": "复杂场景三维建模成本降至10美元以内",
+    "published": "2026-11-25T06:49:27.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:华人计算机视觉泰斗二次创业 离开苹果下场 专注下一代空间与物理ai",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "空响应（第 6 次）"
+  },
+  {
+    "title": "Claude Opus 5.6灰测效果来了",
+    "link": "https://www.qbitai.com/2026/11/512478.html",
+    "summary": "整体效率大约是此前Opus版本的2到3倍。",
+    "published": "2026-11-25T02:43:07.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:claude opus 5 6灰测效果来了",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "aiSummary": "Claude Opus 5.6灰测显示，整体效率约为此前Opus版本的2到3倍。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "published": "2026-11-25T01:19:26Z",
+    "points": 793,
+    "comments": 445,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50637220",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "研究者证明矩阵乘法复杂度为Θ(n^2.25)，是算法理论的重要突破。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
@@ -8,13 +358,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:yale s sonnenfeld nvidia is a detriment to us industrial might not a champion",
+    "aiSummary": "耶鲁学者警告黄仁勋重返英伟达CEO恐成重大失误，董事或面临诉讼个人责任。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达",
       "诉讼"
-    ],
-    "aiSummary": "耶鲁学者警告黄仁勋重返英伟达CEO恐成重大失误，董事或面临诉讼个人责任。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Three LLM inflection points in twelve months",
@@ -25,15 +375,15 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:three llm inflection points in twelve months",
+    "aiSummary": "演讲者在AI工程师峰会上指出，过去十二个月LLM与编程智能体经历三次能力拐点。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "LLM",
       "编程",
       "Agent",
       "视频"
-    ],
-    "aiSummary": "演讲者在AI工程师峰会上指出，过去十二个月LLM与编程智能体经历三次能力拐点。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
@@ -44,12 +394,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:jensen huang still thinks a succession plan creates unnecessary hierarchy",
+    "aiSummary": "黄仁勋仍认为继任计划制造不必要的层级，尽管公司刚经历创始人缺席的考验。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "黄仁勋仍认为继任计划制造不必要的层级，尽管公司刚经历创始人缺席的考验。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
@@ -60,13 +410,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:in all hands meeting jensen huang thanks white house and says he s in therapy",
+    "aiSummary": "黄仁勋在全员会议上向员工道歉，感谢白宫并透露自己正在接受心理治疗，珍惜再次领导公",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "黄仁勋在全员会议上向员工道歉，感谢白宫并透露自己正在接受心理治疗，珍惜再次领导公"
+    ]
   },
   {
     "title": "Even the best AI agents struggle with everyday life",
@@ -77,13 +426,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:even the best ai agents struggle with everyday life",
+    "aiSummary": "新基准显示，即便最先进的AI模型也难以可靠安全地完成日常任务。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent",
       "基准"
-    ],
-    "aiSummary": "新基准显示，即便最先进的AI模型也难以可靠安全地完成日常任务。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
@@ -94,12 +443,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:walmart teams up with meta to bring black friday deals to ai agent muse",
+    "aiSummary": "沃尔玛携手Meta，通过AI助手Muse提供黑五购物优惠。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "沃尔玛携手Meta，通过AI助手Muse提供黑五购物优惠。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
@@ -110,12 +459,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:maple raises 5 3m to build ai products that protect your data even from itself",
+    "aiSummary": "Maple融资530万美元，打造加密AI产品，连公司自身都无法访问用户私密数据。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "应用落地"
-    ],
-    "aiSummary": "Maple融资530万美元，打造加密AI产品，连公司自身都无法访问用户私密数据。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
@@ -126,14 +475,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:anthropic turns claude artifacts into standalone desktop apps for macos and wind",
+    "aiSummary": "Anthropic允许用户将Claude Artifacts一键安装为Mac和W",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "Claude"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "Anthropic允许用户将Claude Artifacts一键安装为Mac和W"
+    ]
   },
   {
     "title": "What's going on with the Riemann hypothesis?",
@@ -144,12 +492,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:what s going on with the riemann hypothesis",
+    "aiSummary": "新AI辅助证明黎曼猜想看似可靠，但意义尚不明确。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "新AI辅助证明黎曼猜想看似可靠，但意义尚不明确。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -160,12 +508,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:jensen huang reportedly tells nvidia staff it s not true trump got him rehired",
+    "aiSummary": "黄仁勋回归后首次全员会上向员工道歉，并否认特朗普助其复职的说法。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "黄仁勋回归后首次全员会上向员工道歉，并否认特朗普助其复职的说法。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
@@ -176,15 +524,15 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:anthropic tops 700 million monthly mcp sdk downloads and expands the protocol fo",
+    "aiSummary": "Anthropic的MCP SDK月下载超7亿次，并扩展协议以支持更自主的AI智",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "MCP",
       "自主",
       "Agent"
-    ],
-    "aiSummary": "Anthropic的MCP SDK月下载超7亿次，并扩展协议以支持更自主的AI智",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
@@ -195,12 +543,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:amazon drone crashes on garage after delivering shampoo draws faa probe",
+    "aiSummary": "亚马逊无人机配送后坠毁",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "亚马逊无人机配送后坠毁",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
@@ -217,8 +565,8 @@
       "IPO",
       "估值"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "aiSummary": "Anthropic上市后股价跌破发行价，或给AI初创企业估值带来压力。",
+    "summaryStatus": "ai"
   },
   {
     "title": "David Fincher is being dragged for suspected use of AI in his latest film",
@@ -245,12 +593,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:uk warns ai driven cyberattacks are exposing years of weak security",
+    "aiSummary": "英国网络机构警告AI黑客工具正利用基础安全漏洞，凸显安全建设的重要性。",
     "category": "政策监管",
+    "summaryStatus": "ai",
     "tags": [
       "安全"
-    ],
-    "aiSummary": "英国网络机构警告AI黑客工具正利用基础安全漏洞，凸显安全建设的重要性。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
@@ -261,13 +609,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:novartis ceo says ai will shave four years off drug development not cure all dis",
+    "aiSummary": "诺华CEO称AI能将新药研发缩短四年，但不会治愈所有疾病。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "诺华CEO称AI能将新药研发缩短四年，但不会治愈所有疾病。"
+    ]
   },
   {
     "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
@@ -278,14 +625,13 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai o1 co creator noam brown urges promising students to drop out as ai enter",
+    "aiSummary": "OpenAI o1联创Noam Brown呼吁优秀学生退学，称AI正以极快速",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "研究"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "OpenAI o1联创Noam Brown呼吁优秀学生退学，称AI正以极快速"
+    ]
   },
   {
     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
@@ -296,12 +642,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:tidal announces ban on ai generated music 27 million tracks will be deleted",
+    "aiSummary": "Tidal宣布禁止AI生成音乐，将删除2700万首曲目，占其曲库6.3%。",
     "category": "政策监管",
+    "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ],
-    "aiSummary": "Tidal宣布禁止AI生成音乐，将删除2700万首曲目，占其曲库6.3%。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Tidal will start banning AI-generated music next month",
@@ -312,12 +658,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:tidal will start banning ai generated music next month",
+    "aiSummary": "Tidal将于12月9日起全面封禁AI生成音乐",
     "category": "政策监管",
+    "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ],
-    "aiSummary": "Tidal将于12月9日起全面封禁AI生成音乐",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -328,12 +674,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:meta brings its muse ai assistant directly into instagram dms",
+    "aiSummary": "Meta将Muse AI助手集成到Instagram私信中，用户无需切换应用即可",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent"
-    ],
-    "aiSummary": "Meta将Muse AI助手集成到Instagram私信中，用户无需切换应用即可",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "GPT 6.2 Astra Solves a Historical Mystery",
@@ -344,14 +690,14 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:gpt 6 2 astra solves a historical mystery",
+    "aiSummary": "历史教授用GPT 6.2 Astra极少提示即自主破解匿名作品作者之谜",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "GPT",
       "自主",
       "研究"
-    ],
-    "aiSummary": "历史教授用GPT 6.2 Astra极少提示即自主破解匿名作品作者之谜",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
@@ -362,12 +708,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:tidal to ban and remove millions of ai generated tracks as ai slop inundates mus",
+    "aiSummary": "Tidal将下架数百万全AI生成歌曲，但仍接受AI辅助创作的音乐。",
     "category": "政策监管",
+    "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ],
-    "aiSummary": "Tidal将下架数百万全AI生成歌曲，但仍接受AI辅助创作的音乐。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -382,8 +728,9 @@
     "tags": [
       "行业动态"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "研究人员基于Isaac Lab和Newton构建仿真到现实的微鸭机器人避障工作流"
   },
   {
     "title": "Jensen Huang deepfakes are the hot new AI slop",
@@ -399,8 +746,8 @@
       "英伟达",
       "视频"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "aiSummary": "英伟达CEO黄仁勋的AI深度伪造视频在社交媒体疯传，成为新的AI垃圾内容热点。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
@@ -427,12 +774,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:the new york times warns photographers not to update photoshop over ai features",
+    "aiSummary": "纽约时报提醒自由摄影师勿升级新版Photoshop，因其AI功能可能未经用户察觉",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "纽约时报提醒自由摄影师勿升级新版Photoshop，因其AI功能可能未经用户察觉",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Pinterest will now let parents limit the AI-generated content their teens see",
@@ -443,12 +790,12 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:pinterest will now let parents limit the ai generated content their teens see",
+    "aiSummary": "Pinterest推出家长控制功能，可限制青少年接触AI生成内容，应对AI内容泛",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "Pinterest推出家长控制功能，可限制青少年接触AI生成内容，应对AI内容泛",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -459,13 +806,13 @@
     "sourceId": "google-ai",
     "lang": "en",
     "id": "google-ai:how gemini is changing the game for golden state s organization and fans",
+    "aiSummary": "谷歌Gemini与金州勇士合作，赋能球迷体验与商业运营。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Gemini",
       "商业"
-    ],
-    "aiSummary": "谷歌Gemini与金州勇士合作，赋能球迷体验与商业运营。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
@@ -482,26 +829,9 @@
       "英伟达",
       "芯片"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
-  },
-  {
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
-    "published": "2026-11-24T15:15:16.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:raising the stakes for enterprise networks with ai modernization",
-    "category": "智能体",
-    "tags": [
-      "企业",
-      "Agentic",
-      "Agent"
-    ],
-    "aiSummary": "企业网络因AI大规模部署及智能体任务激增而承压",
-    "summaryStatus": "ai"
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "亚马逊斥资75亿美元收购Decart，旨在提升Trainium芯片效率以追赶英伟"
   },
   {
     "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -512,12 +842,12 @@
     "sourceId": "ars-ai",
     "lang": "en",
     "id": "ars-ai:how trump and silicon valley forced nvidia to take jensen huang back",
+    "aiSummary": "黄仁勋盟友拉拢特朗普与万斯施压英伟达董事会，促使其复职。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ],
-    "aiSummary": "黄仁勋盟友拉拢特朗普与万斯施压英伟达董事会，促使其复职。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
@@ -528,31 +858,30 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:anthropic researcher stands by his ai assisted riemann proof but owns up to stup",
+    "aiSummary": "Anthropic研究员承认其AI辅助广义黎",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "研究"
-    ],
-    "aiSummary": "Anthropic研究员承认其AI辅助广义黎",
-    "summaryStatus": "ai"
+    ]
   },
   {
-    "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-    "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-    "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is erodi",
-    "published": "2026-11-24T14:02:31.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
+    "title": "GTA 6 Running on Windows",
+    "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
+    "published": "2026-11-24T13:19:31Z",
+    "points": 455,
+    "comments": 515,
+    "source": "Hacker News",
+    "sourceId": "hn",
     "lang": "en",
-    "id": "the-decoder:dozens of insiders say openai and anthropic s unreleased models have outgrown th",
-    "category": "大模型",
+    "id": "hn:50627783",
+    "category": "行业动态",
     "tags": [
-      "Anthropic",
-      "OpenAI",
-      "安全对齐"
+      "行业动态"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "aiSummary": "GTA 6将在Windows平台运行。",
+    "summaryStatus": "ai"
   },
   {
     "title": "The Download: AI’s gas power boom and a consciousness reality check",
@@ -563,12 +892,12 @@
     "sourceId": "techreview",
     "lang": "en",
     "id": "techreview:the download ai s gas power boom and a consciousness reality check",
+    "aiSummary": "AI数据中心电力需求激增，推动其自建天然气发电厂以解决供电难题。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "AI数据中心电力需求激增，推动其自建天然气发电厂以解决供电难题。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -584,45 +913,27 @@
       "GPT",
       "推理模型"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "GPT-6模型借助推理与代码设计蛋白质结构序列，实验显示对五个靶点"
   },
   {
     "title": "LLM agents work for their parent companies, not for you",
     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
     "published": "2026-11-24T12:40:15Z",
-    "points": 938,
-    "comments": 392,
+    "points": 984,
+    "comments": 404,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50627340",
+    "aiSummary": "文章指出大模型智能体实际服务于其母公司利益而非用户自身需求。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Agent",
       "LLM"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "文章指出大模型智能体实际服务于其母公司利益而非用户自身需求。"
-  },
-  {
-    "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
-    "link": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
-    "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for computer science to",
-    "published": "2026-11-24T12:30:49.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:german researchers call for computer science to reinvent itself as computer and ",
-    "category": "研究论文",
-    "tags": [
-      "研究",
-      "安全对齐",
-      "论文"
-    ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    ]
   },
   {
     "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -641,24 +952,6 @@
     "summaryError": "空响应（第 6 次）"
   },
   {
-    "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-    "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-    "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first",
-    "published": "2026-11-24T11:26:23.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic s claude ship lets ai agents review fix and approve pull requests on t",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
-  },
-  {
     "title": "Searching for distant planets with Astra",
     "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
@@ -667,22 +960,22 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:searching for distant planets with astra",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
     "aiSummary": "两位业余天文爱好者借助Codex和Astra在NASA公开数据中发现潜在系外行星",
-    "summaryStatus": "ai"
+    "category": "行业动态",
+    "summaryStatus": "ai",
+    "tags": [
+      "行业动态"
+    ]
   },
   {
-    "title": "Google Cloud 出海峰会报名开启",
-    "link": "https://www.qbitai.com/2026/11/512370.html",
-    "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-    "published": "2026-11-24T06:52:29.000Z",
+    "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+    "link": "https://www.qbitai.com/2026/11/512454.html",
+    "summary": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+    "published": "2026-11-24T10:30:42.000Z",
     "source": "量子位",
     "sourceId": "qbitai",
     "lang": "zh",
-    "id": "qbitai:google cloud 出海峰会报名开启",
+    "id": "qbitai:高德发布世界模型abot world 0 5 支持构建音画同步 可实时重塑的ai物理世界",
     "category": "行业动态",
     "tags": [
       "行业动态"
@@ -691,68 +984,52 @@
     "summaryError": "空响应（第 6 次）"
   },
   {
-    "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-    "link": "https://www.qbitai.com/2026/11/512362.html",
-    "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-    "published": "2026-11-24T06:35:06.000Z",
+    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+    "link": "https://www.qbitai.com/2026/11/512451.html",
+    "summary": "蚂蚁刚刚发布医疗健康模型全家桶",
+    "published": "2026-11-24T10:15:57.000Z",
     "source": "量子位",
     "sourceId": "qbitai",
     "lang": "zh",
-    "id": "qbitai:业界首提 端侧超节点 让端侧ai组队计算 ai效率暴涨270 不用换芯片或模型",
-    "category": "芯片算力",
-    "tags": [
-      "芯片",
-      "落地"
-    ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
-  },
-  {
-    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-    "link": "https://www.qbitai.com/2026/11/512354.html",
-    "summary": "",
-    "published": "2026-11-24T06:22:28.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:文心 5 5 flash preview正式开源 采用 apache 2 0 协议",
+    "id": "qbitai:蚂蚁开源医疗健康预测模型 根据睡眠数据可预测未来六年150种疾病风险",
     "category": "开源",
     "tags": [
       "开源"
     ],
-    "aiSummary": "百度文心 5.5 Flash Preview 开源，采用 Apache",
-    "summaryStatus": "ai"
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "蚂蚁开源医疗健康预测模型，可通过睡眠数据预测未来六年150种疾病风险"
   },
   {
-    "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-    "link": "https://www.qbitai.com/2026/11/512348.html",
-    "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
-    "published": "2026-11-24T06:15:38.000Z",
+    "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+    "link": "https://www.qbitai.com/2026/11/512423.html",
+    "summary": "纯代码手搓了一个MV！",
+    "published": "2026-11-24T09:21:55.000Z",
     "source": "量子位",
     "sourceId": "qbitai",
     "lang": "zh",
-    "id": "qbitai:八年研发 首搭方程豹钛9 全球首个折叠方向盘量产上车",
+    "id": "qbitai:智谱刚刚发了glm 5 4 全新架构的那种 网友直呼 超过预期",
     "category": "行业动态",
     "tags": [
       "行业动态"
     ],
-    "aiSummary": "方程豹钛9于11月19日上市，售价27.99万元起，首搭全球首个量产折叠方向盘。",
+    "aiSummary": "智谱发布采用全新架构的GLM-",
     "summaryStatus": "ai"
   },
   {
-    "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-    "link": "https://www.qbitai.com/2026/11/512343.html",
-    "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-    "published": "2026-11-24T06:12:16.000Z",
+    "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+    "link": "https://www.qbitai.com/2026/11/512411.html",
+    "summary": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
+    "published": "2026-11-24T08:44:32.000Z",
     "source": "量子位",
     "sourceId": "qbitai",
     "lang": "zh",
-    "id": "qbitai:巴新总理见证 仰望u8交付巴布亚新几内亚市场",
+    "id": "qbitai:最新议程与嘉宾阵容公布 2027中国aiot产业年会 11月27日深圳见",
     "category": "行业动态",
     "tags": [
       "行业动态"
     ],
-    "aiSummary": "APEC会议期间，比亚迪仰望U8在巴新总理见证下正式交付巴布亚新几内亚市场。",
+    "aiSummary": "2027中国AIoT产业年会将于11月27日在深圳举行，议程与嘉宾阵容已公布。",
     "summaryStatus": "ai"
   },
   {
@@ -769,8 +1046,9 @@
       "数据集",
       "Agent"
     ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "datasette-charts 0.2a0 集成 Datasette Agen"
   },
   {
     "title": "datasette-agent 0.7a1",
@@ -781,93 +1059,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette agent 0 7a1",
+    "aiSummary": "Datasette Agent 0.7a1 优化侧栏页面跳转",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "数据集",
       "Agent"
-    ],
-    "aiSummary": "Datasette Agent 0.7a1 优化侧栏页面跳转",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-    "link": "https://www.qbitai.com/2026/11/512329.html",
-    "summary": "12.9 北京，来MEET2027现场",
-    "published": "2026-11-24T03:33:48.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:报名从速 来meet2027 听ai前沿实践者交出 判断",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "12月9日北京举办MEET2027，听AI前沿实践者分享判断。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-    "link": "https://www.qbitai.com/2026/11/512330.html",
-    "summary": "中国AI数据平台加速崛起",
-    "published": "2026-11-24T03:30:46.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:蚂蚁oceanbase发布湖库一体ai数据平台oceanlake 核心引擎向全球开源",
-    "category": "开源",
-    "tags": [
-      "开源"
-    ],
-    "aiSummary": "蚂蚁OceanBase发布湖库一体AI平台OceanLake，核心引擎全球开源。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-    "link": "https://www.qbitai.com/2026/11/512305.html",
-    "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-    "published": "2026-11-24T03:21:12.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:释放ai与出海强预期 近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-    "category": "智能体",
-    "tags": [
-      "智能体"
-    ],
-    "aiSummary": "亿邦年会与产业智能体大会合体举行，近1500人聚焦AI与出海。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-    "link": "https://www.qbitai.com/2026/11/512297.html",
-    "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-    "published": "2026-11-24T02:36:08.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:得agent开发者 得天下 70 技术大咖共探ai技术演进与生态变革 2026奇点智能技术大会圆满收官",
-    "category": "智能体",
-    "tags": [
-      "Agent"
-    ],
-    "aiSummary": "2026奇点智能技术大会在京举办，70余位专家共探AI技术演进与生态变革。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "具身行业，终于等来了自己的通用智能时刻",
-    "link": "https://www.qbitai.com/2026/11/512264.html",
-    "summary": "行业苦等多年的预训练通用智能，终于有了答案",
-    "published": "2026-11-24T01:51:56.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:具身行业 终于等来了自己的通用智能时刻",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "具身行业迎来通用智能时刻，预训练通用智能终有答案。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "How Intentful uses dots to make more time for growth",
@@ -894,13 +1092,13 @@
     "sourceId": "openai",
     "lang": "en",
     "id": "openai:how ifood scales coding agents across 15 000 repositories",
+    "aiSummary": "iFood 将编程智能体扩展至 1.5 万个代码仓库。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "编程",
       "Agent"
-    ],
-    "aiSummary": "iFood 将编程智能体扩展至 1.5 万个代码仓库。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -1103,54 +1301,20 @@
     ]
   },
   {
-    "title": "AI data centers throw another wrench into chaotic UN climate talks",
-    "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-    "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close",
-    "published": "2026-11-23T21:09:37.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:ai data centers throw another wrench into chaotic un climate talks",
-    "aiSummary": "AI数据中心耗电激增，给联合国气候谈判带来新挑战。",
-    "category": "芯片算力",
-    "summaryStatus": "ai",
-    "tags": [
-      "数据中心"
-    ]
-  },
-  {
     "title": "GPUI is getting its own repository",
     "link": "https://github.com/zed-industries/gpui",
     "published": "2026-11-23T20:52:54Z",
-    "points": 381,
-    "comments": 139,
+    "points": 384,
+    "comments": 140,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50619103",
-    "category": "芯片算力",
-    "tags": [
-      "GPU"
-    ],
     "aiSummary": "GPUI 将拥有独立代码仓库，便于单独维护和迭代。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-    "link": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-    "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more con",
-    "published": "2026-11-23T20:39:18.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:openai updates chatgpt to handle complex everyday questions web searches and ima",
-    "aiSummary": "OpenAI推出新默认模型GPT-6.2 Sol，图像理解与复杂指令处理能力大幅",
-    "category": "大模型",
+    "category": "芯片算力",
     "summaryStatus": "ai",
     "tags": [
-      "OpenAI",
-      "图像",
-      "GPT"
+      "GPU"
     ]
   },
   {
@@ -1170,44 +1334,11 @@
     ]
   },
   {
-    "title": "Claude AI can review pull requests and ship fixes on its own now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t",
-    "published": "2026-11-23T20:00:00.000Z",
-    "source": "The Verge AI",
-    "sourceId": "verge-ai",
-    "lang": "en",
-    "id": "verge-ai:claude ai can review pull requests and ship fixes on its own now",
-    "aiSummary": "Anthropic发布Claude Ship，",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Claude",
-      "Anthropic"
-    ]
-  },
-  {
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "published": "2026-11-23T19:14:46.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:google search s ai mode can now tap into drive and wallet for more personalized ",
-    "aiSummary": "谷歌搜索AI模式接入Drive与Wallet，实现更个性化回答。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Gemini"
-    ]
-  },
-  {
     "title": "Apple removed my open-source app from EU App Stores after 9 years",
     "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
     "published": "2026-11-23T18:48:10Z",
-    "points": 615,
-    "comments": 169,
+    "points": 624,
+    "comments": 174,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1218,40 +1349,6 @@
     "tags": [
       "开源"
     ]
-  },
-  {
-    "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
-    "link": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
-    "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among othe",
-    "published": "2026-11-23T18:47:53.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:anthropic s appetite for compute is pushing xai toward a rent over build strateg",
-    "aiSummary": "Anthropic月付31亿美元租用xAI算力，推动其转向出租而非自建策略。",
-    "category": "政策监管",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "禁令",
-      "IPO"
-    ]
-  },
-  {
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-    "published": "2026-11-23T18:12:22.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:jensen huang scheduled to testify next week in senate following reinstatement as",
-    "category": "芯片算力",
-    "tags": [
-      "英伟达"
-    ],
-    "summaryStatus": "fallback",
-    "summaryError": "空响应（第 6 次）"
   },
   {
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -1369,43 +1466,11 @@
     ]
   },
   {
-    "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-    "link": "https://sspai.com/post/119023",
-    "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ... 查看全文",
-    "published": "2026-11-23T07:12:24.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:养鱼更省心 造景更自由 米家智能鱼缸 2 pro 体验",
-    "aiSummary": "小米推出米家智能鱼缸2 Pro，主打一体化设计与智能养鱼，降低入门用户养鱼门槛。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
-    "link": "https://sspai.com/post/118705",
-    "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。 查看全文",
-    "published": "2026-11-23T06:00:53.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:新手问号 用智能插座为旧款 apple 设备设置 充电上限",
-    "aiSummary": "智能插座为旧款苹果设备实现充电上限功能，延长电池寿命",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
     "link": "https://github.com/AFK-surf/xnulinux",
     "published": "2026-11-23T03:49:24Z",
-    "points": 621,
-    "comments": 265,
+    "points": 625,
+    "comments": 266,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1456,8 +1521,8 @@
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
     "published": "2026-11-22T21:01:16Z",
-    "points": 772,
-    "comments": 313,
+    "points": 773,
+    "comments": 315,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1489,7 +1554,7 @@
     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
     "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
     "published": "2026-11-22T19:10:34Z",
-    "points": 640,
+    "points": 643,
     "comments": 375,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1506,8 +1571,8 @@
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
     "published": "2026-11-22T08:57:34Z",
-    "points": 1038,
-    "comments": 1006,
+    "points": 1042,
+    "comments": 1008,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1556,7 +1621,7 @@
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "published": "2026-11-21T18:02:19Z",
     "points": 598,
-    "comments": 140,
+    "comments": 141,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1573,7 +1638,7 @@
     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "published": "2026-11-21T14:36:45Z",
     "points": 1246,
-    "comments": 1056,
+    "comments": 1058,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1608,8 +1673,8 @@
     "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
     "link": "https://news.ycombinator.com/item?id=50583761",
     "published": "2026-11-20T23:18:32Z",
-    "points": 752,
-    "comments": 857,
+    "points": 753,
+    "comments": 861,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1625,7 +1690,7 @@
     "title": "Getting the mind to steer the body to steer you",
     "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "published": "2026-11-20T22:11:05Z",
-    "points": 414,
+    "points": 415,
     "comments": 177,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1690,7 +1755,7 @@
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
     "published": "2026-11-20T20:12:19Z",
-    "points": 1483,
+    "points": 1485,
     "comments": 297,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1774,7 +1839,7 @@
     "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
     "published": "2026-11-20T12:41:38Z",
     "points": 404,
-    "comments": 186,
+    "comments": 187,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1791,7 +1856,7 @@
     "link": "https://architectlabs.com/blog/frostbite",
     "published": "2026-11-20T10:01:41Z",
     "points": 686,
-    "comments": 369,
+    "comments": 370,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1823,7 +1888,7 @@
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
     "link": "https://signal.org/blog/protecting-your-privacy/",
     "published": "2026-11-20T09:42:16Z",
-    "points": 583,
+    "points": 584,
     "comments": 350,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1881,12 +1946,12 @@
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50569226",
+    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "OpenSSL的EVP_EncodeBlock函数存在缓冲区溢出漏洞，CVSS评",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -1936,71 +2001,6 @@
     "summaryStatus": "ai",
     "tags": [
       "端侧"
-    ]
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "summary": "",
-    "published": "2026-11-20T00:00:00.000Z",
-    "source": "Hugging Face Blog",
-    "sourceId": "hf-blog",
-    "lang": "en",
-    "id": "hf-blog:introducing harness adapters adapt your favorite model to your harness to improv",
-    "aiSummary": "推出harness适配器，可将模型适配到harness以提升性能与成本效益。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "link": "https://git-aarvin.github.io/mei/",
-    "published": "2026-11-19T23:35:35Z",
-    "points": 376,
-    "comments": 249,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50568130",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "aiSummary": "谷歌Gemini 4 Neon登顶Models Engineering Inde",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "PostgreSQL 19 Released",
-    "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-    "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth",
-    "published": "2026-11-19T20:43:57.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:postgresql 19 released",
-    "aiSummary": "PostgreSQL 19发布，因处理AI报告漏洞推迟两月。",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "开源"
-    ]
-  },
-  {
-    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-    "published": "2026-11-19T20:19:28.000Z",
-    "source": "Ars Technica AI",
-    "sourceId": "ars-ai",
-    "lang": "en",
-    "id": "ars-ai:traumatized teens sue school cops after doritos bag triggers ai gun alert",
-    "aiSummary": "青少年因薯片触发AI枪支警报起诉学校，称99%警报为误报。",
-    "category": "政策监管",
-    "summaryStatus": "ai",
-    "tags": [
-      "诉讼"
     ]
   }
 ]
