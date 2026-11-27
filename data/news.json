@@ -1,5 +1,216 @@
 [
   {
+    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+    "link": "https://www.qbitai.com/2026/11/513346.html",
+    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+    "published": "2026-11-27T11:18:24.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:全国首批首家 商汤大装置获token工厂智算能力最高评级",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "商汤大装置Token工厂获中国信通院智算能力最高评级，为全国首批首家。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+    "link": "https://www.qbitai.com/2026/11/513320.html",
+    "summary": "淡泊名利，实至名归🎉",
+    "published": "2026-11-27T07:39:18.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:韦东奕再获大奖 攻克近140年数学难题 获两位院士共同提名",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "韦东奕攻克近140年数学难题，获两位院士提名大奖。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+    "link": "https://www.qbitai.com/2026/11/513305.html",
+    "summary": "网页App双端亮出聊天账单",
+    "published": "2026-11-27T07:29:10.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:deepseek app突然更新账单 网友 要收费了",
+    "category": "大模型",
+    "tags": [
+      "DeepSeek"
+    ],
+    "aiSummary": "DeepSeek APP更新账单功能，网友猜测或将收费。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+    "link": "https://www.qbitai.com/2026/11/513227.html",
+    "summary": "地图能随时修，记忆能跨任务用",
+    "published": "2026-11-27T07:01:20.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:刚刚 首个带跨任务空间记忆的原生基模开源 机器人端侧就能跑",
+    "category": "开源",
+    "tags": [
+      "机器人",
+      "开源"
+    ],
+    "aiSummary": "首个带跨任务空间记忆的原生基模开源，机器人端侧可跑，地图可修、记忆跨任务用。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+    "link": "https://www.qbitai.com/2026/11/513194.html",
+    "summary": "企业需要有用的 AI",
+    "published": "2026-11-27T04:05:56.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:钛动科技 腾讯云达成战略合作 用ai打开企业全球增长新空间",
+    "category": "应用落地",
+    "tags": [
+      "应用落地"
+    ],
+    "aiSummary": "钛动科技与腾讯云战略合作，用AI打开企业全球增长新空间。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+    "link": "https://www.qbitai.com/2026/11/513211.html",
+    "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+    "published": "2026-11-27T04:05:18.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:蚂蚁灵波发布lingbot map 2 0 模型自己修正 空间记忆 把地图画更准",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "蚂蚁灵波发布LingBot-Map 2.0，模型可自我修正空间记忆，提升地图绘制",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+    "link": "https://www.qbitai.com/2026/11/513163.html",
+    "summary": "Quickwit查询总耗时降31%，最高降87%",
+    "published": "2026-11-27T03:53:49.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:20个ai agents组队 4天狂跑350次实验 超越clickbench最佳公开成绩",
+    "category": "智能体",
+    "tags": [
+      "Agent"
+    ],
+    "aiSummary": "20个AI智能体组队，4天350次实验，超越ClickBench纪录，查询耗时降",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+    "link": "https://www.qbitai.com/2026/11/513155.html",
+    "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+    "published": "2026-11-27T03:45:19.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:腾讯混元发布 hy3d 3 6 高模表面更整洁 结构更清晰 刻画更细腻",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "腾讯混元发布Hy3D 3.6，3D生成竞争从“能看”转向“能用”。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+    "link": "https://www.qbitai.com/2026/11/513125.html",
+    "summary": "",
+    "published": "2026-11-27T03:33:11.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:具身公司抱团回应 通用大模型跨维打击 没那么简单",
+    "category": "大模型",
+    "tags": [
+      "大模型"
+    ],
+    "aiSummary": "具身公司抱团回应：通用大模型跨维打击没那么简单",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+    "link": "https://www.qbitai.com/2026/11/513101.html",
+    "summary": "",
+    "published": "2026-11-27T03:23:25.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:百亿具身独角兽破壁 玩家集体涌向它的牌桌",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "具身智能独角兽估值破百亿，玩家集体涌入赛道。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Hard Drive pricing has gotten bad",
+    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "published": "2026-11-27T01:13:49Z",
+    "points": 426,
+    "comments": 369,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50661646",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "硬盘价格近来持续恶化，行情不容乐观。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "summary": "",
+    "published": "2026-11-27T00:00:00.000Z",
+    "source": "Hugging Face Blog",
+    "sourceId": "hf-blog",
+    "lang": "en",
+    "id": "hf-blog:taking trainium3 to the track generating videos with ltx 2 5",
+    "category": "行业动态",
+    "tags": [
+      "视频"
+    ],
+    "aiSummary": "亚马逊Trainium3芯片跑LTX-2.5模型，实现视频生成。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "AI made self-hosting fun again",
+    "link": "https://janlukas.blog/posts/ai-self-hosting",
+    "published": "2026-11-26T21:47:45Z",
+    "points": 847,
+    "comments": 414,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50660180",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "AI让自托管重新变得有趣。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
@@ -8,13 +219,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:nvidia hits pause on chip shipments to southeast asia",
+    "aiSummary": "英伟达暂停向东南亚四国发货，配合美国收紧对华AI芯片限制。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "英伟达",
       "芯片"
-    ],
-    "aiSummary": "英伟达暂停向东南亚四国发货，配合美国收紧对华AI芯片限制。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
@@ -25,12 +236,29 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:former openai researcher says the riemann proof matters less than the fact that ",
+    "aiSummary": "前OpenAI研究员称，AI能产出黎曼证明比证明本身更重要，影响深远。",
     "category": "研究论文",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "OpenAI"
+    ]
+  },
+  {
+    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+    "link": "https://github.com/antonpictures/youtube-punisher",
+    "published": "2026-11-26T17:36:47Z",
+    "points": 451,
+    "comments": 535,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50657530",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
     ],
-    "aiSummary": "前OpenAI研究员称，AI能产出黎曼证明比证明本身更重要，影响深远。",
+    "aiSummary": "YouTube Ad Punisher可在广告播放时自动重载页面，绕过广告。",
     "summaryStatus": "ai"
   },
   {
@@ -42,14 +270,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:gpt 6 2 astra users now hit limits 40 faster after openai patched a pricing erro",
+    "aiSummary": "OpenAI修复GPT-6.2定价错误致限额消耗加快40%，致歉并补偿重置及免费",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "GPT",
       "商业"
-    ],
-    "aiSummary": "OpenAI修复GPT-6.2定价错误致限额消耗加快40%，致歉并补偿重置及免费",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -60,13 +288,13 @@
     "sourceId": "techcrunch-ai",
     "lang": "en",
     "id": "techcrunch-ai:grand theft auto vi proves why efficiency isn t a virtue",
+    "aiSummary": "GTA VI与Anthropic同日亮相，证明效率并非美德。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "视频"
-    ],
-    "aiSummary": "GTA VI与Anthropic同日亮相，证明效率并非美德。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
@@ -77,14 +305,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:after openai and anthropic shut the door on their data a chinese ai developer is",
+    "aiSummary": "中国AI公司Z.AI和月之暗面因OpenAI和Anthropic关闭数据，推迟旗",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "Anthropic",
       "开发者",
       "OpenAI"
-    ],
-    "aiSummary": "中国AI公司Z.AI和月之暗面因OpenAI和Anthropic关闭数据，推迟旗",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Quoting Jack Despain Zhou",
@@ -95,29 +323,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:quoting jack despain zhou",
+    "aiSummary": "AI导致内容同质化，人们频繁听到看到雷同的AI生成内容。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "Claude",
       "视频"
-    ],
-    "aiSummary": "AI导致内容同质化，人们频繁听到看到雷同的AI生成内容。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-    "link": "https://www.qbitai.com/2026/11/513021.html",
-    "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-    "published": "2026-11-26T13:56:01.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:381个ai直播冲刺证明p np 把github干崩了",
-    "category": "开源",
-    "tags": [
-      "GitHub"
-    ],
-    "aiSummary": "381个AI直播冲刺证明P=NP，超万次会话验证2400余条引理，致GitHub",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
@@ -128,12 +340,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:fcc clears spacex to deploy up to 1 million starmind satellites for orbital ai d",
+    "aiSummary": "FCC批准SpaceX部署百万颗Starmind卫星，建轨道AI数据中心，202",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心"
-    ],
-    "aiSummary": "FCC批准SpaceX部署百万颗Starmind卫星，建轨道AI数据中心，202",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -150,22 +362,6 @@
     "tags": [
       "行业动态"
     ]
-  },
-  {
-    "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-    "link": "https://www.qbitai.com/2026/11/512981.html",
-    "summary": "还得是科班尖子生",
-    "published": "2026-11-26T12:39:08.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:ai 3d界的 x光 来了 一图直出巴洛克雕塑 3d打印开箱即用",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "AI新工具一图生成巴洛克雕塑3D模型，可直接用于3D打印。",
-    "summaryStatus": "ai"
   },
   {
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
@@ -221,33 +417,17 @@
     "title": "Intel One Mono font (2023)",
     "link": "https://github.com/intel/intel-one-mono",
     "published": "2026-11-26T10:11:01Z",
-    "points": 451,
-    "comments": 235,
+    "points": 542,
+    "comments": 261,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50653667",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
     "aiSummary": "英特尔2023年推出One Mono等宽字体。",
-    "summaryStatus": "ai"
-  },
-  {
-    "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
-    "link": "https://www.qbitai.com/2026/11/512972.html",
-    "summary": "全栈方案破解工业机器人连续作业难题",
-    "published": "2026-11-26T10:07:55.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:90 秒自动换装补能 具微科技 潘多拉 支撑机器人无人化值守",
-    "aiSummary": "具微科技潘多拉实现机器人90秒自动换装",
     "category": "行业动态",
     "summaryStatus": "ai",
     "tags": [
-      "机器人"
+      "行业动态"
     ]
   },
   {
@@ -285,38 +465,6 @@
     ]
   },
   {
-    "title": "极客公园创新大会 2027 全议程公布！",
-    "link": "https://www.qbitai.com/2026/11/512952.html",
-    "summary": "今天，IF 2027 全议程揭晓。",
-    "published": "2026-11-26T08:19:20.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:极客公园创新大会 2027 全议程公布",
-    "aiSummary": "极客公园公布IF 2027创新大会全议程。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-    "link": "https://www.qbitai.com/2026/11/512942.html",
-    "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-    "published": "2026-11-26T07:36:04.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:报名最后2天 ai浪潮之中 来认识创造未来的人",
-    "aiSummary": "WAIC携手第六届海聚英才全球创新创业峰会，12",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
     "link": "https://sspai.com/post/119563",
     "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
@@ -330,22 +478,6 @@
     "summaryStatus": "ai",
     "tags": [
       "GPT"
-    ]
-  },
-  {
-    "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-    "link": "https://www.qbitai.com/2026/11/512916.html",
-    "summary": "30秒一镜到底，可自动编排镜头",
-    "published": "2026-11-26T06:41:23.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:顶尖商用级ai视频每秒只要5毛 中国开源新势力拿下全球第一",
-    "aiSummary": "中国开源AI视频模型以每秒5毛的成本实现30秒一镜到底及自动编排镜头，商用级性能",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "开源"
     ]
   },
   {
@@ -373,12 +505,12 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:the new york times warns photographers not to update photoshop over ai features",
+    "aiSummary": "纽约时报警告摄影师暂勿更新Photoshop，因AI功能引发隐私担忧。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "纽约时报警告摄影师暂勿更新Photoshop，因AI功能引发隐私担忧。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -400,35 +532,18 @@
     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
     "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
     "published": "2026-11-26T03:36:58Z",
-    "points": 461,
-    "comments": 259,
+    "points": 495,
+    "comments": 269,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50651117",
+    "aiSummary": "OpenAI限制GPT-6.2用量，Astra和Sol更快触顶，分别快40%和2",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "OpenAI限制GPT-6.2用量，Astra和Sol更快触顶，分别快40%和2"
-  },
-  {
-    "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-    "link": "https://www.qbitai.com/2026/11/512897.html",
-    "summary": "李斌坦言：不做AI变革可能活不下去",
-    "published": "2026-11-26T03:23:35.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:任少卿带着世界模型3 0来了 蔚来智驾训练提效5倍 座舱也用上强化学习",
-    "aiSummary": "任少卿发布世界模型3.0，蔚来智驾训练提效5倍，座舱引入强化学习。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -448,54 +563,6 @@
     ]
   },
   {
-    "title": "沈向洋刚讲了好多AI非共识啊",
-    "link": "https://www.qbitai.com/2026/11/512840.html",
-    "summary": "“灵巧手是人类最后的尊严”",
-    "published": "2026-11-26T03:13:16.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:沈向洋刚讲了好多ai非共识啊",
-    "aiSummary": "沈向洋分享AI非共识观点，称灵巧手是人类最后的尊严。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-    "link": "https://www.qbitai.com/2026/11/512828.html",
-    "summary": "叠满海淀最强AI Buff。",
-    "published": "2026-11-26T02:53:14.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:ai影视高地正在北影海淀一带崛起 一人制片厂 基建搭好了",
-    "aiSummary": "北影海淀一带正崛起AI影视高地，一人制片厂基础设施已搭建完成。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
-    "link": "https://www.qbitai.com/2026/11/512819.html",
-    "summary": "合着全让A➗揽了",
-    "published": "2026-11-26T00:40:37.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:刚刚 黎曼猜想证明代码暴砍了99 5 只剩7 6万行",
-    "aiSummary": "黎曼猜想证明代码被精简99.5%，仅剩7.6万行。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
     "link": "https://sspai.com/post/119560",
     "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
@@ -504,12 +571,12 @@
     "sourceId": "sspai",
     "lang": "zh",
     "id": "sspai:派早报 蔚来举办 2026 创新科技日 tidal 将拒绝 ai 音乐等",
+    "aiSummary": "阿里千问Go开放免费代打电话，Sand.ai发布视频生成模型MAGI-2。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "大模型"
-    ],
-    "aiSummary": "阿里千问Go开放免费代打电话，Sand.ai发布视频生成模型MAGI-2。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
@@ -580,8 +647,8 @@
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "link": "https://github.com/lsernau/grh-lean",
     "published": "2026-11-25T21:48:10Z",
-    "points": 545,
-    "comments": 346,
+    "points": 558,
+    "comments": 356,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -882,8 +949,8 @@
     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
     "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
     "published": "2026-11-25T13:33:07Z",
-    "points": 502,
-    "comments": 369,
+    "points": 511,
+    "comments": 372,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1015,7 +1082,7 @@
     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
     "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
     "published": "2026-11-25T03:04:37Z",
-    "points": 465,
+    "points": 466,
     "comments": 149,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1032,8 +1099,8 @@
     "title": "The matrix multiplication exponent is nine fourths [pdf]",
     "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
     "published": "2026-11-25T01:19:26Z",
-    "points": 1063,
-    "comments": 606,
+    "points": 1067,
+    "comments": 607,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1346,8 +1413,8 @@
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
     "link": "https://news.ycombinator.com/item?id=50630809",
     "published": "2026-11-24T16:45:44Z",
-    "points": 464,
-    "comments": 356,
+    "points": 469,
+    "comments": 359,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1413,8 +1480,8 @@
     "title": "GTA 6 Running on Windows",
     "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
     "published": "2026-11-24T13:19:31Z",
-    "points": 520,
-    "comments": 608,
+    "points": 522,
+    "comments": 615,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1463,8 +1530,8 @@
     "title": "LLM agents work for their parent companies, not for you",
     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
     "published": "2026-11-24T12:40:15Z",
-    "points": 1029,
-    "comments": 413,
+    "points": 1032,
+    "comments": 415,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1680,7 +1747,7 @@
     "title": "Apple removed my open-source app from EU App Stores after 9 years",
     "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
     "published": "2026-11-23T18:48:10Z",
-    "points": 633,
+    "points": 634,
     "comments": 181,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1723,38 +1790,6 @@
     "summaryStatus": "ai",
     "tags": [
       "英伟达"
-    ]
-  },
-  {
-    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-    "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-    "summary": "Could the scientific method be emergent?",
-    "published": "2026-11-23T14:11:17.000Z",
-    "source": "Import AI",
-    "sourceId": "importai",
-    "lang": "en",
-    "id": "importai:import ai 482 huawei kernel benchmarks airborne drone detection and a national l",
-    "aiSummary": "Import AI 482期聚焦华为内核基准、无人机检测及AI科学基准测试。",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "基准"
-    ]
-  },
-  {
-    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponenti",
-    "published": "2026-11-23T13:10:00.000Z",
-    "source": "MIT Tech Review",
-    "sourceId": "techreview",
-    "lang": "en",
-    "id": "techreview:the download ai s judgment problem and carbon removal s crop threat",
-    "aiSummary": "AI评估机构METR发布新报告，更新了AI领域最被误解的图表，引发对AI能力评估",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "估值"
     ]
   },
   {
@@ -1813,17 +1848,17 @@
     "link": "https://github.com/AFK-surf/xnulinux",
     "published": "2026-11-23T03:49:24Z",
     "points": 629,
-    "comments": 267,
+    "comments": 268,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50607261",
+    "aiSummary": "XNU Linux 项目成功在 Linux 上运行完整的 macOS 图形用户界",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "XNU Linux 项目成功在 Linux 上运行完整的 macOS 图形用户界",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "datasette-charts 0.1a0",
@@ -1864,7 +1899,7 @@
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
     "published": "2026-11-22T21:01:16Z",
-    "points": 780,
+    "points": 781,
     "comments": 319,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1903,18 +1938,18 @@
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50602843",
+    "aiSummary": "GTA 6发布虚构的Vice City与Leonida地区鸟类野外指南",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "GTA 6发布虚构的Vice City与Leonida地区鸟类野外指南",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
     "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
     "published": "2026-11-22T16:44:48Z",
-    "points": 464,
+    "points": 467,
     "comments": 133,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1959,38 +1994,5 @@
     "tags": [
       "开发者"
     ]
-  },
-  {
-    "title": "Muru",
-    "link": "https://simonwillison.net/2026/Nov/21/muru/",
-    "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
-    "published": "2026-11-21T23:56:28.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:muru",
-    "aiSummary": "Graham Dumpleton推出AI辅助Rust服务器Muru，旨在为ASG",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "应用落地"
-    ]
-  },
-  {
-    "title": "Inkling-2-Mini in 5.4 GB Memory",
-    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "published": "2026-11-21T18:02:19Z",
-    "points": 599,
-    "comments": 141,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50591853",
-    "category": "行业动态",
-    "tags": [
-      "行业动态"
-    ],
-    "aiSummary": "Inkling-2-Mini模型仅需5.4GB内存即可运行。",
-    "summaryStatus": "ai"
   }
 ]
