@@ -1,21 +1,105 @@
 [
   {
-    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
-    "link": "https://www.qbitai.com/2026/11/513428.html",
-    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
-    "published": "2026-11-28T05:54:46.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:亏贼 卡帕西用claude搓出 美国版 文明 网友直接玩成全球接力赛",
+    "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+    "link": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+    "summary": "Terence Tao outlines his vision of \"Big Math\" on the Hard Fork podcast. Instead of solo work, human-AI teams would systematically map thousands of problems. He also calls AI proofs from major tech companies \"toxic waste,\" saying the models solve problems but can't explain their results. Tao hopes fo",
+    "published": "2026-11-28T14:45:01.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:terence tao sees ai ushering in big math but calls major tech firms proofs toxic",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
+    "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+    "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+    "published": "2026-11-28T14:00:00.000Z",
+    "source": "TechCrunch AI",
+    "sourceId": "techcrunch-ai",
+    "lang": "en",
+    "id": "techcrunch-ai:sakana ai s ceo says its homegrown models are about more than japan s national s",
+    "category": "行业动态",
+    "tags": [
+      "安全"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
+    "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+    "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+    "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR criticized Anthropic for cutting \"most informative\" evidence before publication. The episode raises broader questions about the ",
+    "published": "2026-11-28T13:42:00.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:uk parliament demands unredacted metr safety report after anthropic redacts most",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic",
+      "安全对齐"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
+    "title": "Farewell",
+    "link": "https://github.com/p-e-w/heretic/issues/601",
+    "published": "2026-11-28T11:42:26Z",
+    "points": 725,
+    "comments": 310,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50676672",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
+    "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+    "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+    "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent of errors, and more ",
+    "published": "2026-11-28T11:12:30.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:google deepmind s humanity s first exam shows top ai models still fail simple ev",
     "category": "大模型",
     "tags": [
-      "Claude",
-      "大模型"
+      "OpenAI",
+      "GPT"
     ],
-    "summaryStatus": "ai",
-    "summaryError": "空响应（第 6 次）",
-    "aiSummary": "卡帕西用Claude打造美国版《文明》，网友玩成全球接力赛。"
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
+    "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+    "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+    "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for general-purpose robo",
+    "published": "2026-11-28T10:48:18.000Z",
+    "source": "The Decoder",
+    "sourceId": "the-decoder",
+    "lang": "en",
+    "id": "the-decoder:robotics startup embo raises 110 million in seed funding to build world model ai",
+    "category": "研究论文",
+    "tags": [
+      "融资",
+      "机器人",
+      "研究",
+      "视频"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
   },
   {
     "title": "datasette-charts 0.4a0",
@@ -26,13 +110,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette charts 0 4a0",
+    "aiSummary": "datasette-charts 0.4a0发布，新增插件钩子供其他插件定义图表",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "数据集",
       "Claude"
-    ],
-    "aiSummary": "datasette-charts 0.4a0发布，新增插件钩子供其他插件定义图表",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
@@ -141,38 +225,6 @@
     ]
   },
   {
-    "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
-    "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
-    "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder .",
-    "published": "2026-11-27T14:57:25.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:sap plans to cut at least 10 000 jobs as it pivots to ai",
-    "aiSummary": "SAP计划裁员至少1万人，以推进AI战略重组。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-    "link": "https://www.qbitai.com/2026/11/513352.html",
-    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-    "published": "2026-11-27T14:07:33.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:人形机器人开发者集合 众擎开放大小脑 10亿产业级生态支持计划也来了",
-    "aiSummary": "众擎开放人形机器人大小脑，推出10亿产业级生态支持计划。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "机器人"
-    ]
-  },
-  {
     "title": "Android’s DIY widgets are a bit of vibe-coding fun",
     "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
     "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
@@ -189,27 +241,11 @@
     ]
   },
   {
-    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
-    "link": "https://www.qbitai.com/2026/11/513346.html",
-    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
-    "published": "2026-11-27T11:18:24.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:全国首批首家 商汤大装置获token工厂智算能力最高评级",
-    "aiSummary": "商汤大装置Token工厂获中国信通院智算能力最高评级，为全国首批首家。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Claude sabotaging ML research tasks?",
     "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
     "published": "2026-11-27T08:28:08Z",
-    "points": 676,
-    "comments": 305,
+    "points": 755,
+    "comments": 328,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -223,60 +259,11 @@
     ]
   },
   {
-    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
-    "link": "https://www.qbitai.com/2026/11/513320.html",
-    "summary": "淡泊名利，实至名归🎉",
-    "published": "2026-11-27T07:39:18.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:韦东奕再获大奖 攻克近140年数学难题 获两位院士共同提名",
-    "aiSummary": "韦东奕攻克近140年数学难题，获两位院士提名大奖。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
-    "link": "https://www.qbitai.com/2026/11/513305.html",
-    "summary": "网页App双端亮出聊天账单",
-    "published": "2026-11-27T07:29:10.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:deepseek app突然更新账单 网友 要收费了",
-    "aiSummary": "DeepSeek APP更新账单功能，网友猜测或将收费。",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "DeepSeek"
-    ]
-  },
-  {
-    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
-    "link": "https://www.qbitai.com/2026/11/513227.html",
-    "summary": "地图能随时修，记忆能跨任务用",
-    "published": "2026-11-27T07:01:20.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:刚刚 首个带跨任务空间记忆的原生基模开源 机器人端侧就能跑",
-    "aiSummary": "首个带跨任务空间记忆的原生基模开源，机器人端侧可跑，地图可修、记忆跨任务用。",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "机器人",
-      "开源"
-    ]
-  },
-  {
     "title": "Group chat where your AI talks behind your back",
     "link": "https://construct22.com/",
     "published": "2026-11-27T06:44:34Z",
-    "points": 701,
-    "comments": 288,
+    "points": 724,
+    "comments": 291,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -289,75 +276,11 @@
     ]
   },
   {
-    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-    "link": "https://www.qbitai.com/2026/11/513194.html",
-    "summary": "企业需要有用的 AI",
-    "published": "2026-11-27T04:05:56.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:钛动科技 腾讯云达成战略合作 用ai打开企业全球增长新空间",
-    "aiSummary": "钛动科技与腾讯云战略合作，用AI打开企业全球增长新空间。",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "应用落地"
-    ]
-  },
-  {
-    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
-    "link": "https://www.qbitai.com/2026/11/513211.html",
-    "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
-    "published": "2026-11-27T04:05:18.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:蚂蚁灵波发布lingbot map 2 0 模型自己修正 空间记忆 把地图画更准",
-    "aiSummary": "蚂蚁灵波发布LingBot-Map 2.0，模型可自我修正空间记忆，提升地图绘制",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
-    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-    "link": "https://www.qbitai.com/2026/11/513163.html",
-    "summary": "Quickwit查询总耗时降31%，最高降87%",
-    "published": "2026-11-27T03:53:49.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:20个ai agents组队 4天狂跑350次实验 超越clickbench最佳公开成绩",
-    "aiSummary": "20个AI智能体组队，4天350次实验，超越ClickBench纪录，查询耗时降",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
-    ]
-  },
-  {
-    "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
-    "link": "https://www.qbitai.com/2026/11/513155.html",
-    "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
-    "published": "2026-11-27T03:45:19.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:腾讯混元发布 hy3d 3 6 高模表面更整洁 结构更清晰 刻画更细腻",
-    "aiSummary": "腾讯混元发布Hy3D 3.6，3D生成竞争从“能看”转向“能用”。",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
-    ]
-  },
-  {
     "title": "Hard Drive pricing has gotten bad",
     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
     "published": "2026-11-27T01:13:49Z",
-    "points": 562,
-    "comments": 480,
+    "points": 572,
+    "comments": 488,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -378,13 +301,13 @@
     "sourceId": "simonwillison",
     "lang": "en",
     "id": "simonwillison:datasette mcp 0 4",
+    "aiSummary": "datasette-mcp 0.4发布，修复与Datasette 1.0a44的",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "数据集",
       "MCP"
-    ],
-    "aiSummary": "datasette-mcp 0.4发布，修复与Datasette 1.0a44的",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -406,8 +329,8 @@
     "title": "AI made self-hosting fun again",
     "link": "https://janlukas.blog/posts/ai-self-hosting",
     "published": "2026-11-26T21:47:45Z",
-    "points": 1115,
-    "comments": 515,
+    "points": 1134,
+    "comments": 527,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -423,8 +346,8 @@
     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
     "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
     "published": "2026-11-26T21:08:05Z",
-    "points": 509,
-    "comments": 130,
+    "points": 515,
+    "comments": 134,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -454,56 +377,21 @@
     ]
   },
   {
-    "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
-    "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-    "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sittin",
-    "published": "2026-11-26T19:31:46.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:former openai researcher says the riemann proof matters less than the fact that ",
-    "aiSummary": "前OpenAI研究员称，AI能产出黎曼证明比证明本身更重要，影响深远。",
-    "category": "研究论文",
-    "summaryStatus": "ai",
-    "tags": [
-      "研究",
-      "OpenAI"
-    ]
-  },
-  {
-    "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-    "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-    "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and Work",
-    "published": "2026-11-26T17:28:56.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:gpt 6 2 astra users now hit limits 40 faster after openai patched a pricing erro",
-    "aiSummary": "OpenAI修复GPT-6.2定价错误致限额消耗加快40%，致歉并补偿重置及免费",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "商业"
-    ]
-  },
-  {
-    "title": "AMD-specific fork of llama.cpp",
-    "link": "https://devnull.land/amd-specific-llama-cpp",
-    "published": "2026-11-26T17:11:29Z",
-    "points": 442,
-    "comments": 108,
+    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+    "link": "https://github.com/antonpictures/youtube-punisher",
+    "published": "2026-11-26T17:36:47Z",
+    "points": 543,
+    "comments": 685,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
-    "id": "hn:50657265",
-    "aiSummary": "AMD发布llama.cpp专用分支，优化其硬件性能。",
-    "category": "开源",
-    "summaryStatus": "ai",
+    "id": "hn:50657530",
+    "category": "行业动态",
     "tags": [
-      "Llama"
-    ]
+      "行业动态"
+    ],
+    "aiSummary": "YouTube Ad Punisher可在广告播放时自动重载页面，绕过广告。",
+    "summaryStatus": "ai"
   },
   {
     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -520,24 +408,6 @@
     "tags": [
       "Anthropic",
       "视频"
-    ]
-  },
-  {
-    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-    "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-    "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder .",
-    "published": "2026-11-26T15:45:08.000Z",
-    "source": "The Decoder",
-    "sourceId": "the-decoder",
-    "lang": "en",
-    "id": "the-decoder:after openai and anthropic shut the door on their data a chinese ai developer is",
-    "aiSummary": "中国AI公司Z.AI和月之暗面因OpenAI和Anthropic关闭数据，推迟旗",
-    "category": "应用落地",
-    "summaryStatus": "ai",
-    "tags": [
-      "Anthropic",
-      "开发者",
-      "OpenAI"
     ]
   },
   {
@@ -594,7 +464,7 @@
     "title": "Intel One Mono font (2023)",
     "link": "https://github.com/intel/intel-one-mono",
     "published": "2026-11-26T10:11:01Z",
-    "points": 587,
+    "points": 590,
     "comments": 271,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -621,24 +491,6 @@
     "summaryStatus": "ai",
     "tags": [
       "禁令"
-    ]
-  },
-  {
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "published": "2026-11-26T09:44:23Z",
-    "points": 420,
-    "comments": 333,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50653477",
-    "aiSummary": "谷歌推MCP服务器供AI代理使用，但Gmail版无法发邮件。",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent",
-      "MCP"
     ]
   },
   {
@@ -727,8 +579,8 @@
     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
     "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
     "published": "2026-11-26T03:36:58Z",
-    "points": 510,
-    "comments": 275,
+    "points": 511,
+    "comments": 276,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -842,8 +694,8 @@
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "link": "https://github.com/lsernau/grh-lean",
     "published": "2026-11-25T21:48:10Z",
-    "points": 564,
-    "comments": 364,
+    "points": 567,
+    "comments": 369,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1039,6 +891,23 @@
     ]
   },
   {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "published": "2026-11-25T15:16:53Z",
+    "points": 496,
+    "comments": 316,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50643158",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "summaryStatus": "fallback",
+    "summaryError": "fetch failed"
+  },
+  {
     "title": "Amazon is reportedly in talks to end Muse AI shopping block",
     "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
     "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a",
@@ -1069,6 +938,23 @@
     "tags": [
       "Agent"
     ]
+  },
+  {
+    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "published": "2026-11-25T13:33:07Z",
+    "points": 512,
+    "comments": 375,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50642086",
+    "category": "开源",
+    "tags": [
+      "论文"
+    ],
+    "aiSummary": "谷歌发布Cogentic论文，聚焦整数分解与离散对数等密码学难题。",
+    "summaryStatus": "ai"
   },
   {
     "title": "The Download: AI swamping open records, and firefighting for permafrost",
@@ -1191,8 +1077,8 @@
     "title": "The matrix multiplication exponent is nine fourths [pdf]",
     "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
     "published": "2026-11-25T01:19:26Z",
-    "points": 1068,
-    "comments": 609,
+    "points": 1070,
+    "comments": 613,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1468,44 +1354,10 @@
     ]
   },
   {
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-    "published": "2026-11-24T17:00:00.000Z",
-    "source": "TechCrunch AI",
-    "sourceId": "techcrunch-ai",
-    "lang": "en",
-    "id": "techcrunch-ai:meta brings its muse ai assistant directly into instagram dms",
-    "aiSummary": "Meta将Muse AI助手集成到Instagram私信中，用户无需切换应用即可",
-    "category": "智能体",
-    "summaryStatus": "ai",
-    "tags": [
-      "Agent"
-    ]
-  },
-  {
-    "title": "GPT 6.2 Astra Solves a Historical Mystery",
-    "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-    "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Be",
-    "published": "2026-11-24T16:53:59.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:gpt 6 2 astra solves a historical mystery",
-    "aiSummary": "历史教授用GPT 6.2 Astra极少提示即自主破解匿名作品作者之谜",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "GPT",
-      "自主",
-      "研究"
-    ]
-  },
-  {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
     "link": "https://news.ycombinator.com/item?id=50630809",
     "published": "2026-11-24T16:45:44Z",
-    "points": 476,
+    "points": 477,
     "comments": 362,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1556,7 +1408,7 @@
     "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
     "published": "2026-11-24T13:19:31Z",
     "points": 527,
-    "comments": 622,
+    "comments": 626,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1605,7 +1457,7 @@
     "title": "LLM agents work for their parent companies, not for you",
     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
     "published": "2026-11-24T12:40:15Z",
-    "points": 1032,
+    "points": 1033,
     "comments": 415,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1799,7 +1651,7 @@
       "图像"
     ],
     "summaryStatus": "fallback",
-    "summaryError": "HTTP 400: {\"error\":{\"message\":\"Inappropriate input/output rejected for security "
+    "summaryError": "fetch failed"
   },
   {
     "title": "OpenAI and Cisco introduce Shirudo",
@@ -1868,22 +1720,6 @@
     ]
   },
   {
-    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-    "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-    "summary": "Could the scientific method be emergent?",
-    "published": "2026-11-23T14:11:17.000Z",
-    "source": "Import AI",
-    "sourceId": "importai",
-    "lang": "en",
-    "id": "importai:import ai 482 huawei kernel benchmarks airborne drone detection and a national l",
-    "category": "研究论文",
-    "tags": [
-      "基准"
-    ],
-    "aiSummary": "Import AI 482期聚焦华为内核基准、无人机检测及AI科学基准测试。",
-    "summaryStatus": "ai"
-  },
-  {
     "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
     "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
     "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
@@ -1932,23 +1768,6 @@
     "tags": [
       "Agent",
       "GPT"
-    ]
-  },
-  {
-    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-    "link": "https://github.com/AFK-surf/xnulinux",
-    "published": "2026-11-23T03:49:24Z",
-    "points": 629,
-    "comments": 268,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50607261",
-    "aiSummary": "XNU Linux 项目成功在 Linux 上运行完整的 macOS 图形用户界",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   },
   {
@@ -2002,5 +1821,188 @@
     "tags": [
       "Qwen"
     ]
+  },
+  {
+    "title": "Select Styling Specimens",
+    "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+    "summary": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of t",
+    "published": "2026-11-22T19:45:06.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:select styling specimens",
+    "category": "大模型",
+    "tags": [
+      "Claude"
+    ],
+    "aiSummary": "开发者用Claude Fable 5.2制作页面，展示HTML下拉框的各种样式方",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "published": "2026-11-22T19:10:34Z",
+    "points": 649,
+    "comments": 380,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50602843",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "GTA 6发布虚构的Vice City与Leonida地区鸟类野外指南",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "published": "2026-11-22T16:44:48Z",
+    "points": 468,
+    "comments": 135,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50601280",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "aiSummary": "GPT-6.2 Astra 成为首个在代码高尔夫纪录上超越谷歌员工成绩的模型。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "published": "2026-11-22T08:57:34Z",
+    "points": 1043,
+    "comments": 1013,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50597612",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic"
+    ],
+    "aiSummary": "2028年Anthropic电力87%来自天然气，11%来自煤炭。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "published": "2026-11-22T00:00:00.000Z",
+    "source": "OpenAI News",
+    "sourceId": "openai",
+    "lang": "en",
+    "id": "openai:perplexity and intelligence",
+    "category": "应用落地",
+    "tags": [
+      "开发者"
+    ],
+    "aiSummary": "困惑度指标可衡量AI模型进步，助开发者建立统一的新兴能力评估方法。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Muru",
+    "link": "https://simonwillison.net/2026/Nov/21/muru/",
+    "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an",
+    "published": "2026-11-21T23:56:28.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:muru",
+    "category": "应用落地",
+    "tags": [
+      "应用落地"
+    ],
+    "aiSummary": "Graham Dumpleton推出AI辅助Rust服务器Muru，旨在为ASG",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "published": "2026-11-21T18:02:19Z",
+    "points": 599,
+    "comments": 141,
+    "source": "Hacker News",
+    "sourceId": "hn",
+    "lang": "en",
+    "id": "hn:50591853",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "Inkling-2-Mini模型仅需5.4GB内存即可运行。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+    "link": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+    "summary": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
+    "published": "2026-11-21T08:41:43.000Z",
+    "source": "Last Week in AI",
+    "sourceId": "lastweekinai",
+    "lang": "en",
+    "id": "lastweekinai:last week in ai 348 ipo correction new gpts and geminis nvidia s fate",
+    "category": "大模型",
+    "tags": [
+      "英伟达",
+      "IPO",
+      "Gemini",
+      "GPT"
+    ],
+    "aiSummary": "Anthropic 810亿美元IPO，AI股回调，黄仁勋辞任英伟达，中美同意军",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "summary": "Google search is making it even easier to access AI tools on the search page.",
+    "published": "2026-11-20T21:58:29.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:google rolls out new search homepage with ai chat history and no search button",
+    "category": "行业动态",
+    "tags": [
+      "行业动态"
+    ],
+    "aiSummary": "谷歌新搜索首页整合AI聊天历史，移除搜索按钮，更易访问AI工具。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+    "published": "2026-11-20T21:47:10.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:meta reconsiders 2030 net zero goal amid record emissions from ai data centers",
+    "category": "芯片算力",
+    "tags": [
+      "数据中心"
+    ],
+    "aiSummary": "Meta因AI数据中心排放创纪录，重新评估2030年净零目标。",
+    "summaryStatus": "ai"
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "published": "2026-11-20T20:59:08.000Z",
+    "source": "Ars Technica AI",
+    "sourceId": "ars-ai",
+    "lang": "en",
+    "id": "ars-ai:researcher plants 2m canaries into the ai supply chain a privacy disaster surfac",
+    "category": "研究论文",
+    "tags": [
+      "研究"
+    ],
+    "aiSummary": "研究员植入200万追踪标记，证明AI数据隐私会泄露。",
+    "summaryStatus": "ai"
   }
 ]
