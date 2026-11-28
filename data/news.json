@@ -1,5 +1,40 @@
 [
   {
+    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "link": "https://www.qbitai.com/2026/11/513428.html",
+    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "published": "2026-11-28T05:54:46.000Z",
+    "source": "量子位",
+    "sourceId": "qbitai",
+    "lang": "zh",
+    "id": "qbitai:亏贼 卡帕西用claude搓出 美国版 文明 网友直接玩成全球接力赛",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "大模型"
+    ],
+    "summaryStatus": "ai",
+    "summaryError": "空响应（第 6 次）",
+    "aiSummary": "卡帕西用Claude打造美国版《文明》，网友玩成全球接力赛。"
+  },
+  {
+    "title": "datasette-charts 0.4a0",
+    "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of fricti",
+    "published": "2026-11-27T23:57:17.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:datasette charts 0 4a0",
+    "category": "大模型",
+    "tags": [
+      "数据集",
+      "Claude"
+    ],
+    "aiSummary": "datasette-charts 0.4a0发布，新增插件钩子供其他插件定义图表",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
     "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
     "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to comp",
@@ -8,14 +43,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai countersues apple over trade secret theft and alleged coercion of shared ",
+    "aiSummary": "OpenAI反诉苹果，指控窃取商业机密并胁迫供应商。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "诉讼",
       "GPT"
-    ],
-    "aiSummary": "OpenAI反诉苹果，指控窃取商业机密并胁迫供应商。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
@@ -26,15 +61,15 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:banned nvidia blackwell chips turn up in a shanghai data center linked to alice ",
+    "aiSummary": "英伟达被禁Blackwell芯片现身上海数据中心，与Alice Huang有关。",
     "category": "芯片算力",
+    "summaryStatus": "ai",
     "tags": [
       "数据中心",
       "英伟达",
       "芯片",
       "禁令"
-    ],
-    "aiSummary": "英伟达被禁Blackwell芯片现身上海数据中心，与Alice Huang有关。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
@@ -45,12 +80,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:three studies from meta and ami labs back yann lecun s bet on jepa world models ",
+    "aiSummary": "Meta与AMI Labs三项研究支持LeCun的JEPA世界",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "机器人"
-    ],
-    "aiSummary": "Meta与AMI Labs三项研究支持LeCun的JEPA世界",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
@@ -61,12 +96,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:hackers breached the us air force s flagship cloud one platform report says",
+    "aiSummary": "黑客入侵美国空军旗舰云平台Cloud One，引发安全担忧。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "黑客入侵美国空军旗舰云平台Cloud One，引发安全担忧。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
@@ -77,15 +112,15 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:openai is building athena data platform to cut down on ai agent guesswork",
+    "aiSummary": "OpenAI 正建“Athena”数据平台，为智能体提供标准化指标定义，减少猜测",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "OpenAI",
       "Agent",
       "商业",
       "GPT"
-    ],
-    "aiSummary": "OpenAI 正建“Athena”数据平台，为智能体提供标准化指标定义，减少猜测",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
@@ -96,14 +131,14 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:rockstar s ai dilemma can gta 6 s staggered release model survive coding agents",
+    "aiSummary": "AI编码代理加速GTA 6逆向工程，冲击其分阶段发售模式。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "编程",
       "Agent",
       "Claude"
-    ],
-    "aiSummary": "AI编码代理加速GTA 6逆向工程，冲击其分阶段发售模式。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
@@ -114,12 +149,12 @@
     "sourceId": "the-decoder",
     "lang": "en",
     "id": "the-decoder:sap plans to cut at least 10 000 jobs as it pivots to ai",
+    "aiSummary": "SAP计划裁员至少1万人，以推进AI战略重组。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "SAP计划裁员至少1万人，以推进AI战略重组。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
@@ -130,12 +165,12 @@
     "sourceId": "qbitai",
     "lang": "zh",
     "id": "qbitai:人形机器人开发者集合 众擎开放大小脑 10亿产业级生态支持计划也来了",
+    "aiSummary": "众擎开放人形机器人大小脑，推出10亿产业级生态支持计划。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "机器人"
-    ],
-    "aiSummary": "众擎开放人形机器人大小脑，推出10亿产业级生态支持计划。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Android’s DIY widgets are a bit of vibe-coding fun",
@@ -146,12 +181,12 @@
     "sourceId": "verge-ai",
     "lang": "en",
     "id": "verge-ai:android s diy widgets are a bit of vibe coding fun",
+    "aiSummary": "安卓DIY小部件带来趣味编码体验，可实时提醒公交到站。",
     "category": "应用落地",
+    "summaryStatus": "ai",
     "tags": [
       "编程"
-    ],
-    "aiSummary": "安卓DIY小部件带来趣味编码体验，可实时提醒公交到站。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
@@ -173,19 +208,19 @@
     "title": "Claude sabotaging ML research tasks?",
     "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
     "published": "2026-11-27T08:28:08Z",
-    "points": 553,
-    "comments": 278,
+    "points": 676,
+    "comments": 305,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50664325",
+    "aiSummary": "Claude被指破坏机器学习研究任务，引发关注。",
     "category": "大模型",
+    "summaryStatus": "ai",
     "tags": [
       "研究",
       "Claude"
-    ],
-    "aiSummary": "Claude被指破坏机器学习研究任务，引发关注。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
@@ -240,18 +275,18 @@
     "title": "Group chat where your AI talks behind your back",
     "link": "https://construct22.com/",
     "published": "2026-11-27T06:44:34Z",
-    "points": 681,
-    "comments": 282,
+    "points": 701,
+    "comments": 288,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50663595",
+    "aiSummary": "AI在群聊中可私下交流，引发隐私担忧。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "AI在群聊中可私下交流，引发隐私担忧。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
@@ -318,27 +353,11 @@
     ]
   },
   {
-    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-    "link": "https://www.qbitai.com/2026/11/513125.html",
-    "summary": "",
-    "published": "2026-11-27T03:33:11.000Z",
-    "source": "量子位",
-    "sourceId": "qbitai",
-    "lang": "zh",
-    "id": "qbitai:具身公司抱团回应 通用大模型跨维打击 没那么简单",
-    "aiSummary": "具身公司抱团回应：通用大模型跨维打击没那么简单",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "大模型"
-    ]
-  },
-  {
     "title": "Hard Drive pricing has gotten bad",
     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
     "published": "2026-11-27T01:13:49Z",
-    "points": 548,
-    "comments": 465,
+    "points": 562,
+    "comments": 480,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -349,6 +368,23 @@
     "tags": [
       "行业动态"
     ]
+  },
+  {
+    "title": "datasette-mcp 0.4",
+    "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+    "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+    "published": "2026-11-27T00:26:17.000Z",
+    "source": "Simon Willison",
+    "sourceId": "simonwillison",
+    "lang": "en",
+    "id": "simonwillison:datasette mcp 0 4",
+    "category": "智能体",
+    "tags": [
+      "数据集",
+      "MCP"
+    ],
+    "aiSummary": "datasette-mcp 0.4发布，修复与Datasette 1.0a44的",
+    "summaryStatus": "ai"
   },
   {
     "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -370,8 +406,8 @@
     "title": "AI made self-hosting fun again",
     "link": "https://janlukas.blog/posts/ai-self-hosting",
     "published": "2026-11-26T21:47:45Z",
-    "points": 1095,
-    "comments": 502,
+    "points": 1115,
+    "comments": 515,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -387,18 +423,18 @@
     "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
     "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
     "published": "2026-11-26T21:08:05Z",
-    "points": 504,
-    "comments": 129,
+    "points": 509,
+    "comments": 130,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50659841",
+    "aiSummary": "巴基斯坦建筑师卡米尔·汗·穆姆塔兹国内受赞，国外却鲜为人知。",
     "category": "行业动态",
+    "summaryStatus": "ai",
     "tags": [
       "行业动态"
-    ],
-    "aiSummary": "巴基斯坦建筑师卡米尔·汗·穆姆塔兹国内受赞，国外却鲜为人知。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -456,18 +492,18 @@
     "title": "AMD-specific fork of llama.cpp",
     "link": "https://devnull.land/amd-specific-llama-cpp",
     "published": "2026-11-26T17:11:29Z",
-    "points": 438,
-    "comments": 105,
+    "points": 442,
+    "comments": 108,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50657265",
+    "aiSummary": "AMD发布llama.cpp专用分支，优化其硬件性能。",
     "category": "开源",
+    "summaryStatus": "ai",
     "tags": [
       "Llama"
-    ],
-    "aiSummary": "AMD发布llama.cpp专用分支，优化其硬件性能。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -558,8 +594,8 @@
     "title": "Intel One Mono font (2023)",
     "link": "https://github.com/intel/intel-one-mono",
     "published": "2026-11-26T10:11:01Z",
-    "points": 585,
-    "comments": 270,
+    "points": 587,
+    "comments": 271,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -592,18 +628,18 @@
     "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
     "published": "2026-11-26T09:44:23Z",
     "points": 420,
-    "comments": 330,
+    "comments": 333,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
     "id": "hn:50653477",
+    "aiSummary": "谷歌推MCP服务器供AI代理使用，但Gmail版无法发邮件。",
     "category": "智能体",
+    "summaryStatus": "ai",
     "tags": [
       "Agent",
       "MCP"
-    ],
-    "aiSummary": "谷歌推MCP服务器供AI代理使用，但Gmail版无法发邮件。",
-    "summaryStatus": "ai"
+    ]
   },
   {
     "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
@@ -691,8 +727,8 @@
     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
     "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
     "published": "2026-11-26T03:36:58Z",
-    "points": 507,
-    "comments": 274,
+    "points": 510,
+    "comments": 275,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -806,8 +842,8 @@
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "link": "https://github.com/lsernau/grh-lean",
     "published": "2026-11-25T21:48:10Z",
-    "points": 561,
-    "comments": 360,
+    "points": 564,
+    "comments": 364,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1135,26 +1171,10 @@
     ]
   },
   {
-    "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-    "link": "https://sspai.com/post/119310",
-    "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
-    "published": "2026-11-25T06:59:16.000Z",
-    "source": "少数派",
-    "sourceId": "sspai",
-    "lang": "zh",
-    "id": "sspai:app 1 yab 开源 ai 友好的双内核浏览器 给舍不得 arc 的你",
-    "aiSummary": "开源浏览器 Yab 继承 Arc 交互设计，以双内核架构为 AI 打开新入口。",
-    "category": "开源",
-    "summaryStatus": "ai",
-    "tags": [
-      "开源"
-    ]
-  },
-  {
     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
     "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
     "published": "2026-11-25T03:04:37Z",
-    "points": 466,
+    "points": 467,
     "comments": 149,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1171,7 +1191,7 @@
     "title": "The matrix multiplication exponent is nine fourths [pdf]",
     "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
     "published": "2026-11-25T01:19:26Z",
-    "points": 1067,
+    "points": 1068,
     "comments": 609,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1485,8 +1505,8 @@
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
     "link": "https://news.ycombinator.com/item?id=50630809",
     "published": "2026-11-24T16:45:44Z",
-    "points": 474,
-    "comments": 361,
+    "points": 476,
+    "comments": 362,
     "source": "Hacker News",
     "sourceId": "hn",
     "lang": "en",
@@ -1535,7 +1555,7 @@
     "title": "GTA 6 Running on Windows",
     "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
     "published": "2026-11-24T13:19:31Z",
-    "points": 526,
+    "points": 527,
     "comments": 622,
     "source": "Hacker News",
     "sourceId": "hn",
@@ -1848,6 +1868,22 @@
     ]
   },
   {
+    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+    "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+    "summary": "Could the scientific method be emergent?",
+    "published": "2026-11-23T14:11:17.000Z",
+    "source": "Import AI",
+    "sourceId": "importai",
+    "lang": "en",
+    "id": "importai:import ai 482 huawei kernel benchmarks airborne drone detection and a national l",
+    "category": "研究论文",
+    "tags": [
+      "基准"
+    ],
+    "aiSummary": "Import AI 482期聚焦华为内核基准、无人机检测及AI科学基准测试。",
+    "summaryStatus": "ai"
+  },
+  {
     "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
     "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
     "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
@@ -1965,39 +2001,6 @@
     "summaryStatus": "ai",
     "tags": [
       "Qwen"
-    ]
-  },
-  {
-    "title": "Select Styling Specimens",
-    "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
-    "summary": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of t",
-    "published": "2026-11-22T19:45:06.000Z",
-    "source": "Simon Willison",
-    "sourceId": "simonwillison",
-    "lang": "en",
-    "id": "simonwillison:select styling specimens",
-    "aiSummary": "开发者用Claude Fable 5.2制作页面，展示HTML下拉框的各种样式方",
-    "category": "大模型",
-    "summaryStatus": "ai",
-    "tags": [
-      "Claude"
-    ]
-  },
-  {
-    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "published": "2026-11-22T19:10:34Z",
-    "points": 649,
-    "comments": 380,
-    "source": "Hacker News",
-    "sourceId": "hn",
-    "lang": "en",
-    "id": "hn:50602843",
-    "aiSummary": "GTA 6发布虚构的Vice City与Leonida地区鸟类野外指南",
-    "category": "行业动态",
-    "summaryStatus": "ai",
-    "tags": [
-      "行业动态"
     ]
   }
 ]
